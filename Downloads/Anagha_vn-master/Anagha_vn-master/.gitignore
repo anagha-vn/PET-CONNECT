@@ -1,0 +1,21 @@
+# Python & Flask artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+env/
+
+# Data & Database files
+*.db
+*.sqlite3
+data/sent_emails/
+
+# Logs & Temporary files
+*.log
+.DS_Store
+.vscode/
+.idea/
+.pytest_cache/

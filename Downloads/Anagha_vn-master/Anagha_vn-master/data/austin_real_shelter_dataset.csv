@@ -1,0 +1,999 @@
+source_portal,id,species,breed,color,sex,size,age_months,intake_date,outcome_date,intake_type,intake_condition,outcome_type,outcome_subtype,length_of_stay_days,is_high_risk,intake_season
+Austin Animal Center,A929523,Cat,Domestic Shorthair,Black/White,Unknown,Standard,72,2025-05-01T13:06:00.000,2025-05-05T07:22:00,Stray,Medical,Transfer,Partner,3.76,0,Spring Peak
+Austin Animal Center,A929377,Cat,Domestic Shorthair,Orange Tabby,Unknown,Standard,24,2025-04-29T13:36:00.000,2025-05-05T07:21:00,Stray,Normal,Transfer,Partner,5.74,0,Spring Peak
+Austin Animal Center,A929559,Cat,Domestic Shorthair,Gray Tabby/White,Intact Male,Standard,1,2025-05-01T21:00:00.000,2025-05-05T00:00:00,Stray,Injured,Transfer,Partner,3.12,0,Spring Peak
+Austin Animal Center,A848454,Cat,Domestic Shorthair Mix,Orange Tabby,Spayed Female,Standard,84,2021-12-20T17:35:00.000,2025-05-04T18:53:00,Owner Surrender,Normal,Adoption,,1231.05,1,Winter Standard
+Austin Animal Center,A929205,Dog,Australian Cattle Dog,White/Black,Intact Male,Standard,4,2025-04-26T12:37:00.000,2025-05-04T18:46:00,Abandoned,Normal,Adoption,,8.26,0,Spring Peak
+Austin Animal Center,A925997,Cat,Domestic Shorthair,Orange Tabby,Intact Male,Standard,1,2025-03-03T18:53:00.000,2025-05-04T18:39:00,Stray,Neonatal,Adoption,Foster,61.99,1,Spring Peak
+Austin Animal Center,A464421,Cat,Siamese Mix,Lynx Point,Spayed Female,Standard,156,2020-11-10T15:29:00.000,2025-05-04T18:23:00,Owner Surrender,Normal,Adoption,Foster,1636.12,1,Fall Moderate
+Austin Animal Center,A928232,Dog,Mastiff,Brown/Black,Intact Male,Standard,24,2025-04-10T10:38:00.000,2025-05-04T18:08:00,Stray,Unknown,Adoption,,24.31,0,Spring Peak
+Austin Animal Center,A926142,Dog,Labrador Retriever Mix,Red,Intact Male,Standard,7,2025-03-06T11:35:00.000,2025-05-04T18:03:00,Owner Surrender,Normal,Adoption,,59.27,1,Spring Peak
+Austin Animal Center,A917477,Dog,Mastiff/Pit Bull,Brown Brindle,Intact Male,Standard,12,2024-11-06T17:55:00.000,2025-05-04T17:53:00,Stray,Normal,Adoption,,179.0,1,Fall Moderate
+Austin Animal Center,A785878,Dog,Australian Cattle Dog/Labrador Retriever,Red Tick/White,Intact Male,Standard,24,2018-12-11T17:51:00.000,2025-05-04T17:24:00,Stray,Normal,Adoption,Foster,2335.98,1,Winter Standard
+Austin Animal Center,A929710,Cat,American Shorthair,White/Black,Neutered Male,Standard,120,2025-05-04T13:15:00.000,2025-05-04T17:13:03,Stray,Sick,Euthanasia,Suffering,0.17,0,Spring Peak
+Austin Animal Center,A927303,Cat,Domestic Shorthair,Tortie,Intact Female,Standard,12,2025-03-25T11:25:00.000,2025-05-04T17:13:00,Owner Surrender,Normal,Adoption,,40.24,1,Spring Peak
+Austin Animal Center,A912968,Dog,Greyhound,Fawn,Spayed Female,Standard,7,2024-09-09T09:38:00.000,2025-05-04T16:58:00,Stray,Injured,Adoption,Foster,237.31,1,Fall Moderate
+Austin Animal Center,A928474,Cat,Domestic Shorthair,Torbie,Spayed Female,Standard,12,2025-04-14T13:42:00.000,2025-05-04T16:11:00,Public Assist,Normal,Adoption,,20.1,0,Spring Peak
+Austin Animal Center,A921762,Dog,Pit Bull,White,Spayed Female,Standard,24,2025-04-09T12:57:00.000,2025-05-04T16:04:00,Stray,Normal,Transfer,Partner,25.13,0,Spring Peak
+Austin Animal Center,A927485,Dog,Anatol Shepherd Mix,Brown Brindle/White,Intact Male,Standard,2,2025-03-28T11:40:00.000,2025-05-04T15:44:00,Stray,Normal,Adoption,,37.17,1,Spring Peak
+Austin Animal Center,A924278,Dog,German Shepherd Mix,Black/Brown,Intact Male,Standard,24,2025-02-09T15:56:00.000,2025-05-04T15:42:00,Stray,Sick,Adoption,,83.99,1,Winter Standard
+Austin Animal Center,A621834,Dog,Jack Russell Terrier Mix,White/Gray,Spayed Female,Standard,180,2025-04-24T11:36:00.000,2025-05-04T14:18:00,Stray,Medical,Adoption,,10.11,0,Spring Peak
+Austin Animal Center,A928536,Cat,Domestic Shorthair,Black,Intact Male,Standard,1,2025-04-15T12:30:00.000,2025-05-04T13:08:00,Stray,Sick,Adoption,Foster,19.03,0,Spring Peak
+Austin Animal Center,A926375,Cat,Domestic Shorthair,Black/White,Intact Male,Standard,1,2025-03-10T12:38:00.000,2025-05-04T13:03:00,Stray,Neonatal,Adoption,Foster,55.02,1,Spring Peak
+Austin Animal Center,A929174,Dog,Border Collie,White/Black,Spayed Female,Standard,12,2025-04-25T17:27:00.000,2025-05-04T13:01:00,Stray,Normal,Adoption,,8.82,0,Spring Peak
+Austin Animal Center,A927435,Dog,Siberian Husky,Black/Brown,Intact Male,Standard,1,2025-03-27T11:47:00.000,2025-05-04T12:49:00,Stray,Normal,Adoption,,38.04,1,Spring Peak
+Austin Animal Center,A926373,Cat,Domestic Shorthair,Black,Intact Female,Standard,1,2025-03-10T12:38:00.000,2025-05-04T12:48:00,Stray,Neonatal,Adoption,Foster,55.01,1,Spring Peak
+Austin Animal Center,A926374,Cat,Domestic Shorthair,Black,Intact Female,Standard,1,2025-03-10T12:38:00.000,2025-05-04T12:46:00,Stray,Neonatal,Adoption,Foster,55.01,1,Spring Peak
+Austin Animal Center,A923417,Rabbit,Rabbit Sh,White/Brown,Intact Male,Standard,12,2025-02-03T13:56:00.000,2025-05-04T12:39:00,Stray,Normal,Adoption,Foster,89.95,1,Winter Standard
+Austin Animal Center,A929023,Cat,Domestic Shorthair,Brown Tabby/White,Neutered Male,Standard,36,2025-04-23T13:56:00.000,2025-05-04T12:29:00,Owner Surrender,Normal,Adoption,,10.94,0,Spring Peak
+Austin Animal Center,A927578,Dog,German Shepherd/Labrador Retriever,Brown/Black,Intact Male,Standard,24,2025-03-30T11:31:00.000,2025-05-04T12:16:00,Owner Surrender,Normal,Adoption,,35.03,1,Spring Peak
+Austin Animal Center,A929541,Cat,Domestic Longhair,Blue/White,Intact Female,Standard,1,2025-05-01T16:06:00.000,2025-05-04T10:34:00,Stray,Medical,Euthanasia,Suffering,2.77,0,Spring Peak
+Austin Animal Center,A928986,Dog,German Shepherd,Black/Brown,Intact Male,Standard,12,2025-04-23T09:20:00.000,2025-05-03T19:20:00,Stray,Normal,Adoption,,10.42,0,Spring Peak
+Austin Animal Center,A928789,Dog,Pit Bull,Red/White,Intact Male,Standard,24,2025-04-19T10:15:00.000,2025-05-03T18:41:00,Public Assist,Normal,Adoption,,14.35,0,Spring Peak
+Austin Animal Center,A929503,Small Animal,Mouse,White/Black,Intact Male,Standard,1,2025-05-01T11:32:00.000,2025-05-03T18:33:00,Owner Surrender,Normal,Adoption,,2.29,0,Spring Peak
+Austin Animal Center,A929504,Small Animal,Mouse,White/Black,Intact Male,Standard,1,2025-05-01T11:32:00.000,2025-05-03T18:33:00,Owner Surrender,Normal,Adoption,,2.29,0,Spring Peak
+Austin Animal Center,A929143,Cat,Domestic Shorthair,Brown Tabby,Intact Female,Standard,7,2025-04-25T12:32:00.000,2025-05-03T17:46:00,Stray,Normal,Adoption,,8.22,0,Spring Peak
+Austin Animal Center,A929266,Cat,Domestic Shorthair,Blue,Intact Female,Standard,24,2025-04-27T16:43:00.000,2025-05-03T17:32:00,Stray,Normal,Adoption,,6.03,0,Spring Peak
+Austin Animal Center,A928476,Cat,Domestic Shorthair,Cream Tabby,Intact Male,Standard,5,2025-04-14T13:21:00.000,2025-05-03T17:02:00,Stray,Normal,Adoption,,19.15,0,Spring Peak
+Austin Animal Center,A929153,Cat,Domestic Longhair,Calico,Spayed Female,Standard,24,2025-04-25T13:27:00.000,2025-05-03T16:49:00,Stray,Normal,Adoption,,8.14,0,Spring Peak
+Austin Animal Center,A929560,Dog,Chihuahua Shorthair,Brown/White,Intact Male,Standard,72,2025-05-01T23:06:00.000,2025-05-03T16:26:00,Stray,Injured,Return to Owner,,1.72,0,Spring Peak
+Austin Animal Center,A927840,Cat,Domestic Longhair,Orange,Intact Male,Standard,1,2025-04-02T16:38:00.000,2025-05-03T15:44:00,Stray,Normal,Adoption,Foster,30.96,1,Spring Peak
+Austin Animal Center,A927841,Cat,Domestic Longhair,Buff,Intact Male,Standard,1,2025-04-02T16:38:00.000,2025-05-03T15:44:00,Stray,Normal,Adoption,Foster,30.96,1,Spring Peak
+Austin Animal Center,A929293,Dog,Dachshund,Tricolor,Intact Female,Standard,2,2025-04-28T11:56:00.000,2025-05-03T14:07:00,Stray,Normal,Transfer,Partner,5.09,0,Spring Peak
+Austin Animal Center,A929095,Cat,Domestic Shorthair,Blue Tabby,Neutered Male,Standard,36,2025-04-24T16:26:00.000,2025-05-03T14:04:00,Owner Surrender,Normal,Adoption,,8.9,0,Spring Peak
+Austin Animal Center,A928328,Dog,Labrador Retriever/Affenpinscher,Black/White,Intact Male,Standard,36,2025-04-15T15:35:00.000,2025-05-03T14:04:00,Stray,Normal,Adoption,Foster,17.94,0,Spring Peak
+Austin Animal Center,A929171,Cat,Domestic Shorthair,Cream Tabby/White,Spayed Female,Standard,36,2025-04-25T16:20:00.000,2025-05-03T13:53:00,Owner Surrender,Normal,Adoption,,7.9,0,Spring Peak
+Austin Animal Center,A929141,Dog,Great Pyrenees,White,Intact Female,Standard,12,2025-04-25T12:34:00.000,2025-05-03T13:30:00,Stray,Normal,Transfer,Partner,8.04,0,Spring Peak
+Austin Animal Center,A928772,Dog,German Shepherd,Brown,Intact Male,Standard,84,2025-04-18T18:32:00.000,2025-05-03T13:29:00,Stray,Injured,Transfer,Partner,14.79,0,Spring Peak
+Austin Animal Center,A929602,Cat,Domestic Shorthair,Black,Unknown,Standard,12,2025-05-02T12:22:00.000,2025-05-03T13:19:00,Stray,Normal,Transfer,Partner,1.04,0,Spring Peak
+Austin Animal Center,A929532,Cat,Domestic Shorthair,Calico,Spayed Female,Standard,36,2025-05-01T14:02:00.000,2025-05-03T13:18:00,Owner Surrender,Normal,Transfer,Partner,1.97,0,Spring Peak
+Austin Animal Center,A928241,Dog,Labrador Retriever/German Shepherd,Black/Brown,Intact Male,Standard,1,2025-04-11T11:18:00.000,2025-05-03T12:59:00,Stray,Normal,Adoption,,22.07,0,Spring Peak
+Austin Animal Center,A891961,Cat,Domestic Shorthair,Black/White,Intact Female,Standard,1,2023-10-30T14:55:00.000,2025-05-03T12:52:00,Stray,Normal,Adoption,,550.91,1,Fall Moderate
+Austin Animal Center,A929103,Cat,Domestic Shorthair,Blue Tabby,Intact Female,Standard,12,2025-04-24T23:26:00.000,2025-05-03T12:20:00,Stray,Normal,Adoption,,8.54,0,Spring Peak
+Austin Animal Center,A929372,Dog,Chihuahua Shorthair,Gray/Tan,Intact Female,Standard,96,2025-04-29T13:05:00.000,2025-05-03T11:52:00,Stray,Normal,Transfer,Partner,3.95,0,Spring Peak
+Austin Animal Center,A929631,Dog,Chihuahua Shorthair/Dachshund,Tan,Spayed Female,Standard,192,2025-05-02T20:27:00.000,2025-05-03T11:27:00,Stray,Injured,Euthanasia,At Vet,0.62,0,Spring Peak
+Austin Animal Center,A929376,Dog,French Bulldog,Black Brindle/Brown,Intact Male,Standard,36,2025-04-29T13:33:00.000,2025-05-03T11:12:00,Stray,Normal,Transfer,Partner,3.9,0,Spring Peak
+Austin Animal Center,A929242,Dog,Australian Kelpie Mix,Black/Brown,Intact Female,Standard,24,2025-04-27T10:06:00.000,2025-05-03T07:38:00,Stray,Injured,Transfer,Partner,5.9,0,Spring Peak
+Austin Animal Center,A914734,Dog,Pit Bull,Tan/White,Intact Female,Standard,6,2024-10-05T21:03:00.000,2025-05-03T07:37:00,Stray,Injured,Transfer,Partner,209.44,1,Fall Moderate
+Austin Animal Center,A929599,Cat,Domestic Shorthair,Brown Tabby,Unknown,Standard,1,2025-05-02T12:22:00.000,2025-05-02T18:44:00,Stray,Neonatal,Transfer,Partner,0.27,0,Spring Peak
+Austin Animal Center,A929598,Cat,Domestic Shorthair,Brown Tabby,Unknown,Standard,1,2025-05-02T12:22:00.000,2025-05-02T18:43:00,Stray,Neonatal,Transfer,Partner,0.26,0,Spring Peak
+Austin Animal Center,A929600,Cat,Domestic Shorthair,Brown Tabby,Unknown,Standard,1,2025-05-02T12:22:00.000,2025-05-02T18:43:00,Stray,Neonatal,Transfer,Partner,0.26,0,Spring Peak
+Austin Animal Center,A929597,Cat,Domestic Shorthair,Brown Tabby,Intact Female,Standard,12,2025-05-02T12:22:00.000,2025-05-02T18:42:00,Stray,Normal,Transfer,Partner,0.26,0,Spring Peak
+Austin Animal Center,A901944,Dog,Great Pyrenees Mix,Tan/White,Intact Male,Standard,1,2024-04-10T15:58:00.000,2025-05-02T18:04:00,Stray,Normal,Adoption,,387.09,1,Spring Peak
+Austin Animal Center,A929204,Dog,Australian Cattle Dog,White/Brown,Intact Male,Standard,4,2025-04-26T12:37:00.000,2025-05-02T17:56:00,Abandoned,Normal,Adoption,,6.22,0,Spring Peak
+Austin Animal Center,A927632,Dog,Bull Terrier,White/Black,Spayed Female,Standard,3,2025-03-31T11:46:00.000,2025-05-02T17:35:00,Stray,Normal,Adoption,,32.24,1,Spring Peak
+Austin Animal Center,A929596,Cat,Domestic Shorthair,Black,Intact Male,Standard,1,2025-05-02T12:21:00.000,2025-05-02T17:00:00,Stray,Neonatal,Transfer,Partner,0.19,0,Spring Peak
+Austin Animal Center,A926588,Dog,Great Pyrenees,White/Tan,Intact Male,Standard,4,2025-03-13T10:57:00.000,2025-05-02T16:56:00,Owner Surrender,Normal,Adoption,,50.25,1,Spring Peak
+Austin Animal Center,A929443,Cat,Domestic Shorthair,Blue Tabby,Intact Female,Standard,24,2025-04-30T11:18:00.000,2025-05-02T16:12:00,Owner Surrender,Normal,Adoption,,2.2,0,Spring Peak
+Austin Animal Center,A927918,Dog,Anatol Shepherd/Labrador Retriever,Brown/Tricolor,Intact Male,Standard,7,2025-04-03T17:50:00.000,2025-05-02T16:05:00,Owner Surrender,Normal,Adoption,,28.93,0,Spring Peak
+Austin Animal Center,A928130,Cat,Domestic Shorthair,Brown Tabby/White,Intact Female,Standard,24,2025-04-08T13:34:00.000,2025-05-02T15:45:00,Stray,Normal,Adoption,,24.09,0,Spring Peak
+Austin Animal Center,A929290,Rabbit,Rabbit Sh,White/Brown,Intact Male,Standard,12,2025-04-28T12:13:00.000,2025-05-02T15:26:00,Stray,Normal,Adoption,,4.13,0,Spring Peak
+Austin Animal Center,A927992,Dog,Dogo Argentino,White,Intact Male,Standard,24,2025-04-05T12:49:00.000,2025-05-02T14:34:00,Stray,Normal,Adoption,,27.07,0,Spring Peak
+Austin Animal Center,A920570,Cat,Domestic Shorthair,Black/White,Spayed Female,Standard,84,2024-12-31T12:07:00.000,2025-05-02T13:58:00,Stray,Med Urgent,Euthanasia,Suffering,122.08,1,Winter Standard
+Austin Animal Center,A895580,Dog,Pit Bull,Brown Brindle/White,Intact Male,Standard,24,2024-01-01T10:24:00.000,2025-05-02T12:53:00,Stray,Injured,Adoption,Foster,487.1,1,Winter Standard
+Austin Animal Center,A865000,Cat,Domestic Shorthair,Black,Intact Male,Standard,24,2022-09-03T14:11:00.000,2025-05-02T12:38:00,Stray,Injured,Adoption,,971.94,1,Fall Moderate
+Austin Animal Center,A929563,Dog,Chihuahua Shorthair Mix,White/Brown,Intact Female,Standard,36,2025-05-02T05:38:00.000,2025-05-02T12:26:00,Public Assist,Normal,Return to Owner,,0.28,0,Spring Peak
+Austin Animal Center,A893294,Dog,Pit Bull Mix,Red/White,Intact Female,Standard,36,2023-11-18T17:02:00.000,2025-05-02T12:11:00,Stray,Injured,Adoption,Foster,530.8,1,Fall Moderate
+Austin Animal Center,A929063,Cat,Domestic Shorthair,White/Orange Tabby,Neutered Male,Standard,24,2025-04-24T13:11:00.000,2025-05-02T12:08:00,Stray,Normal,Adoption,,7.96,0,Spring Peak
+Austin Animal Center,A929371,Cat,Domestic Shorthair,Brown Tabby,Unknown,Standard,24,2025-04-29T13:06:00.000,2025-05-02T11:59:00,Stray,Normal,Died,In Kennel,2.95,0,Spring Peak
+Austin Animal Center,A929571,Dog,Staffordshire,White/Tan,Intact Male,Standard,24,2025-05-02T08:20:00.000,2025-05-02T11:22:00,Stray,Normal,Return to Owner,,0.13,0,Spring Peak
+Austin Animal Center,A929570,Dog,Staffordshire,Blue/White,Intact Female,Standard,24,2025-05-02T08:20:00.000,2025-05-02T11:21:00,Stray,Normal,Return to Owner,,0.13,0,Spring Peak
+Austin Animal Center,A925167,Dog,Chihuahua Shorthair Mix,Brown/White,Neutered Male,Standard,4,2025-05-01T07:26:00.000,2025-05-01T19:06:00,Stray,Injured,Euthanasia,Suffering,0.49,0,Spring Peak
+Austin Animal Center,A928272,Dog,Pit Bull Mix,Brown,Intact Male,Standard,24,2025-04-10T17:36:00.000,2025-05-01T19:02:00,Stray,Normal,Adoption,,21.06,0,Spring Peak
+Austin Animal Center,A929431,Cat,Domestic Shorthair,White,Intact Male,Standard,96,2025-04-29T19:20:00.000,2025-05-01T17:59:00,Stray,Normal,Return to Owner,,1.94,0,Spring Peak
+Austin Animal Center,A923555,Dog,Labrador Retriever,Yellow,Intact Male,Standard,36,2025-02-05T12:23:00.000,2025-05-01T17:55:00,Abandoned,Normal,Adoption,,85.23,1,Winter Standard
+Austin Animal Center,A929524,Cat,Domestic Shorthair,Black/White,Unknown,Standard,1,2025-05-01T13:35:00.000,2025-05-01T17:53:45,Stray,Sick,Euthanasia,Suffering,0.18,0,Spring Peak
+Austin Animal Center,A928463,Dog,Siberian Husky,Black/White,Neutered Male,Standard,24,2025-04-14T11:50:00.000,2025-05-01T17:39:00,Stray,Normal,Adoption,,17.24,0,Spring Peak
+Austin Animal Center,A926862,Dog,German Shepherd Mix,Black/Brown,Intact Female,Standard,1,2025-04-09T13:01:00.000,2025-05-01T16:54:00,Stray,Normal,Adoption,,22.16,0,Spring Peak
+Austin Animal Center,A924489,Cat,Domestic Shorthair,White/Brown Tabby,Neutered Male,Standard,24,2025-02-11T12:43:00.000,2025-05-01T16:42:00,Owner Surrender,Normal,Adoption,,79.17,1,Winter Standard
+Austin Animal Center,A929148,Cat,Domestic Shorthair,White/Orange Tabby,Intact Female,Standard,12,2025-04-25T13:19:00.000,2025-05-01T16:41:00,Stray,Normal,Transfer,Partner,6.14,0,Spring Peak
+Austin Animal Center,A929219,Dog,Cairn Terrier Mix,White/Black,Intact Female,Standard,12,2025-04-26T13:26:00.000,2025-05-01T16:26:00,Stray,Normal,Adoption,,5.12,0,Spring Peak
+Austin Animal Center,A928985,Cat,Domestic Shorthair,Orange Tabby/White,Neutered Male,Standard,48,2025-04-23T07:17:00.000,2025-05-01T14:56:00,Owner Surrender,Injured,Transfer,Partner,8.32,0,Spring Peak
+Austin Animal Center,A925555,Cat,Domestic Shorthair,Brown Tabby,Intact Female,Standard,1,2025-02-26T09:10:00.000,2025-05-01T14:21:00,Stray,Normal,Adoption,Foster,64.22,1,Winter Standard
+Austin Animal Center,A920204,Dog,Blue Lacy,Blue,Intact Male,Standard,48,2025-01-22T13:58:00.000,2025-05-01T14:17:00,Stray,Normal,Adoption,,99.01,1,Winter Standard
+Austin Animal Center,A929513,Wildlife,Bat,Brown,Unknown,Standard,12,2025-05-01T12:55:00.000,2025-05-01T14:07:13,Wildlife,Unknown,Euthanasia,Rabies Risk,0.1,0,Spring Peak
+Austin Animal Center,A927936,Cat,Domestic Shorthair,White/Blue,Neutered Male,Standard,24,2025-04-04T09:58:00.000,2025-05-01T14:00:00,Stray,Normal,Adoption,,27.17,0,Spring Peak
+Austin Animal Center,A929303,Cat,Domestic Shorthair,Brown Tabby,Unknown,Standard,24,2025-04-28T12:35:00.000,2025-05-01T12:51:00,Stray,Normal,Return to Owner,,3.01,0,Spring Peak
+Austin Animal Center,A929409,Cat,Domestic Shorthair,Black/White,Intact Female,Standard,1,2025-04-29T15:37:00.000,2025-05-01T12:41:00,Owner Surrender,Normal,Transfer,Partner,1.88,0,Spring Peak
+Austin Animal Center,A929410,Cat,Domestic Shorthair,Orange Tabby/White,Intact Male,Standard,1,2025-04-29T15:37:00.000,2025-05-01T12:41:00,Owner Surrender,Normal,Transfer,Partner,1.88,0,Spring Peak
+Austin Animal Center,A929411,Cat,Domestic Shorthair,Calico,Intact Female,Standard,1,2025-04-29T15:37:00.000,2025-05-01T12:41:00,Owner Surrender,Normal,Transfer,Partner,1.88,0,Spring Peak
+Austin Animal Center,A929406,Cat,Domestic Shorthair,Tortie,Intact Female,Standard,1,2025-04-29T15:37:00.000,2025-05-01T12:40:00,Owner Surrender,Normal,Transfer,Partner,1.88,0,Spring Peak
+Austin Animal Center,A929407,Cat,Domestic Shorthair,Black,Intact Male,Standard,1,2025-04-29T15:37:00.000,2025-05-01T12:40:00,Owner Surrender,Normal,Transfer,Partner,1.88,0,Spring Peak
+Austin Animal Center,A929408,Cat,Domestic Shorthair,Black/White,Intact Male,Standard,1,2025-04-29T15:37:00.000,2025-05-01T12:40:00,Owner Surrender,Normal,Transfer,Partner,1.88,0,Spring Peak
+Austin Animal Center,A928352,Cat,Domestic Shorthair,Blue/White,Intact Female,Standard,1,2025-04-12T08:08:00.000,2025-05-01T12:37:00,Stray,Neonatal,Transfer,Partner,19.19,0,Spring Peak
+Austin Animal Center,A928353,Cat,Domestic Shorthair,Tortie,Intact Female,Standard,1,2025-04-12T08:08:00.000,2025-05-01T12:37:00,Stray,Neonatal,Transfer,Partner,19.19,0,Spring Peak
+Austin Animal Center,A928354,Cat,Domestic Shorthair,Brown Tabby/White,Intact Female,Standard,1,2025-04-12T08:08:00.000,2025-05-01T12:37:00,Stray,Neonatal,Transfer,Partner,19.19,0,Spring Peak
+Austin Animal Center,A928355,Cat,Domestic Shorthair,Brown Tabby,Intact Female,Standard,12,2025-04-12T08:08:00.000,2025-05-01T12:37:00,Stray,Neonatal,Transfer,Partner,19.19,0,Spring Peak
+Austin Animal Center,A929287,Cat,Domestic Shorthair,Brown Tabby/White,Intact Male,Standard,1,2025-04-28T11:47:00.000,2025-05-01T12:37:00,Stray,Injured,Transfer,Partner,3.03,0,Spring Peak
+Austin Animal Center,A928724,Cat,Domestic Shorthair,Torbie,Spayed Female,Standard,24,2025-04-18T11:19:00.000,2025-05-01T12:30:00,Stray,Normal,Return to Owner,,13.05,0,Spring Peak
+Austin Animal Center,A928993,Dog,Border Collie,White/Brown,Spayed Female,Standard,12,2025-04-23T10:18:00.000,2025-05-01T12:13:00,Public Assist,Normal,Return to Owner,,8.08,0,Spring Peak
+Austin Animal Center,A929491,Cat,Domestic Shorthair,Calico,Intact Female,Standard,24,2025-05-01T10:08:00.000,2025-05-01T10:43:23,Stray,Injured,Euthanasia,Suffering,0.1,0,Spring Peak
+Austin Animal Center,A891129,Dog,Pug,Tan/Black,Intact Male,Standard,36,2025-04-22T12:52:00.000,2025-05-01T10:36:00,Stray,Normal,Return to Owner,,8.91,0,Spring Peak
+Austin Animal Center,A928500,Wildlife,Raccoon,Gray/White,Unknown,Standard,24,2025-04-15T08:31:00.000,2025-05-01T09:25:00,Wildlife,Sick,Euthanasia,Rabies Risk,16.04,0,Spring Peak
+Austin Animal Center,A928751,Dog,German Shepherd,Tricolor,Intact Female,Standard,48,2025-04-24T15:55:00.000,2025-05-01T08:37:00,Public Assist,Normal,Return to Owner,,6.7,0,Spring Peak
+Austin Animal Center,A929412,Bird,Dove,Brown/White,Unknown,Standard,24,2025-04-29T16:10:00.000,2025-05-01T08:05:00,Wildlife,Injured,Euthanasia,Suffering,1.66,0,Spring Peak
+Austin Animal Center,A929318,Cat,Domestic Shorthair,Black,Intact Female,Standard,168,2025-04-28T14:30:00.000,2025-05-01T08:02:00,Owner Surrender,Sick,Euthanasia,Suffering,2.73,0,Spring Peak
+Austin Animal Center,A929264,Cat,Domestic Shorthair,Brown Tabby,Intact Male,Standard,1,2025-04-27T14:49:00.000,2025-05-01T08:01:00,Stray,Medical,Euthanasia,Suffering,3.72,0,Spring Peak
+Austin Animal Center,A929262,Cat,Domestic Shorthair,Tortie,Intact Female,Standard,24,2025-04-27T13:33:00.000,2025-05-01T07:59:00,Stray,Medical,Euthanasia,Medical,3.77,0,Spring Peak
+Austin Animal Center,A929299,Cat,Domestic Shorthair,Cream Tabby,Unknown,Standard,24,2025-04-28T12:38:00.000,2025-05-01T00:00:00-05:00,Stray,Normal,Transfer,Snr,2.47,0,Spring Peak
+Austin Animal Center,A929128,Cat,Domestic Shorthair,Brown Tabby/White,Unknown,Standard,12,2025-04-25T10:20:00.000,2025-05-01T00:00:00-05:00,Stray,Normal,Transfer,Snr,5.57,0,Spring Peak
+Austin Animal Center,A929379,Cat,Domestic Shorthair,Calico/Orange,Unknown,Standard,24,2025-04-29T14:04:00.000,2025-05-01T00:00:00-05:00,Stray,Normal,Transfer,Snr,1.41,0,Spring Peak
+Austin Animal Center,A929370,Cat,Domestic Shorthair,Orange Tabby,Unknown,Standard,24,2025-04-29T13:06:00.000,2025-05-01T00:00:00-05:00,Stray,Normal,Transfer,Snr,1.45,0,Spring Peak
+Austin Animal Center,A927109,Dog,Border Collie Mix,Black/White,Intact Male,Standard,12,2025-03-22T11:49:00.000,2025-04-30T17:31:00,Stray,Injured,Adoption,,39.24,1,Spring Peak
+Austin Animal Center,A929167,Cat,Domestic Shorthair,Orange Tabby,Intact Male,Standard,12,2025-04-25T15:19:00.000,2025-04-30T17:25:17,Stray,Normal,Euthanasia,Rabies Risk,5.09,0,Spring Peak
+Austin Animal Center,A929414,Cat,Domestic Longhair,Torbie,Intact Female,Standard,1,2025-04-29T16:48:00.000,2025-04-30T16:42:24,Stray,Injured,Euthanasia,Suffering,1.0,0,Spring Peak
+Austin Animal Center,A925558,Cat,Domestic Shorthair,Black,Intact Female,Standard,1,2025-02-26T09:10:00.000,2025-04-30T16:21:00,Stray,Normal,Adoption,Foster,63.3,1,Winter Standard
+Austin Animal Center,A925557,Cat,Domestic Shorthair,Brown Tabby,Intact Male,Standard,1,2025-02-26T09:10:00.000,2025-04-30T16:20:00,Stray,Normal,Adoption,Foster,63.3,1,Winter Standard
+Austin Animal Center,A923848,Dog,Labrador Retriever Mix,Yellow Brindle,Intact Male,Standard,8,2025-02-07T13:37:00.000,2025-04-30T16:13:00,Stray,Sick,Adoption,Foster,82.11,1,Winter Standard
+Austin Animal Center,A925995,Cat,Domestic Shorthair,Orange Tabby,Intact Male,Standard,1,2025-03-03T18:53:00.000,2025-04-30T16:00:00,Stray,Neonatal,Adoption,Foster,57.88,1,Spring Peak
+Austin Animal Center,A927308,Dog,Cardigan Welsh Corgi,Black/Brown,Intact Female,Standard,60,2025-03-25T12:39:00.000,2025-04-30T14:58:00,Stray,Normal,Adoption,Foster,36.1,1,Spring Peak
+Austin Animal Center,A929375,Cat,Domestic Shorthair,Brown Tabby,Intact Female,Standard,12,2025-04-29T12:55:00.000,2025-04-30T14:28:00,Stray,Normal,Transfer,Partner,1.06,0,Spring Peak
+Austin Animal Center,A929284,Dog,Chihuahua Shorthair,Black/White,Spayed Female,Standard,108,2025-04-28T13:51:00.000,2025-04-30T13:45:00,Public Assist,Normal,Return to Owner,Field,2.0,0,Spring Peak
+Austin Animal Center,A929099,Dog,Shih Tzu Mix,Gray,Intact Female,Standard,156,2025-04-24T15:44:00.000,2025-04-30T13:40:00,Stray,Medical,Transfer,Partner,5.91,0,Spring Peak
+Austin Animal Center,A929208,Dog,American Bulldog Mix,Black Brindle/White,Intact Female,Standard,36,2025-04-26T12:19:00.000,2025-04-30T13:11:00,Stray,Normal,Transfer,Partner,4.04,0,Spring Peak
+Austin Animal Center,A928299,Dog,Chihuahua Shorthair/Dachshund,Brown,Intact Female,Standard,84,2025-04-24T11:55:00.000,2025-04-30T12:28:00,Stray,Normal,Transfer,Partner,6.02,0,Spring Peak
+Austin Animal Center,A929341,Rabbit,Rabbit Lh,Brown/Brown,Intact Male,Standard,12,2025-04-28T21:46:00.000,2025-04-30T11:09:00,Stray,Medical,Transfer,Partner,1.56,0,Spring Peak
+Austin Animal Center,A929163,Cat,Domestic Shorthair,Brown Tabby,Intact Male,Standard,36,2025-04-25T14:09:00.000,2025-04-30T10:35:00,Owner Surrender,Normal,Adoption,,4.85,0,Spring Peak
+Austin Animal Center,A929150,Cat,Domestic Shorthair,Black/Calico,Intact Female,Standard,3,2025-04-25T13:19:00.000,2025-04-30T10:34:00,Stray,Normal,Adoption,,4.89,0,Spring Peak
+Austin Animal Center,A928420,Cat,Domestic Shorthair,Tortie/White,Intact Female,Standard,4,2025-04-13T11:37:00.000,2025-04-30T10:33:00,Stray,Normal,Adoption,,16.96,0,Spring Peak
+Austin Animal Center,A929152,Cat,Domestic Shorthair,Orange Tabby/White,Intact Male,Standard,3,2025-04-25T13:19:00.000,2025-04-30T10:32:00,Stray,Normal,Adoption,,4.88,0,Spring Peak
+Austin Animal Center,A929342,Cat,Domestic Shorthair,White/White,Intact Female,Standard,12,2025-04-28T22:26:00.000,2025-04-30T03:40:00,Stray,Normal,Return to Owner,,1.22,0,Spring Peak
+Austin Animal Center,A928616,Dog,Pit Bull/Mastiff,Tan/White,Neutered Male,Standard,12,2025-04-16T16:15:00.000,2025-04-29T19:04:00,Stray,Injured,Adoption,,13.12,0,Spring Peak
+Austin Animal Center,A928093,Dog,Chihuahua Shorthair Mix,Tricolor,Intact Male,Standard,4,2025-04-07T15:34:00.000,2025-04-29T19:04:00,Stray,Normal,Adoption,,22.15,0,Spring Peak
+Austin Animal Center,A928343,Dog,Anatol Shepherd Mix,Tan/Black,Intact Female,Standard,24,2025-04-11T19:18:00.000,2025-04-29T18:57:00,Public Assist,Sick,Adoption,,17.99,0,Spring Peak
+Austin Animal Center,A927498,Dog,American Bulldog Mix,Black/White,Spayed Female,Standard,72,2025-03-28T13:15:00.000,2025-04-29T18:42:00,Owner Surrender,Injured,Transfer,Partner,32.23,1,Spring Peak
+Austin Animal Center,A917804,Dog,Australian Cattle Dog Mix,White/Black,Intact Male,Standard,24,2024-11-12T13:54:00.000,2025-04-29T18:18:00,Stray,Normal,Adoption,,168.18,1,Fall Moderate
+Austin Animal Center,A928326,Cat,Domestic Medium Hair,Brown Tabby/White,Intact Male,Standard,12,2025-04-11T13:19:00.000,2025-04-29T18:11:00,Stray,Normal,Adoption,,18.2,0,Spring Peak
+Austin Animal Center,A929361,Cat,Domestic Shorthair,Brown Tabby,Intact Male,Standard,1,2025-04-29T11:06:00.000,2025-04-29T18:06:00,Stray,Neonatal,Transfer,Partner,0.29,0,Spring Peak
+Austin Animal Center,A929348,Cat,Domestic Shorthair,Brown Tabby/White,Intact Male,Standard,1,2025-04-29T07:01:00.000,2025-04-29T18:05:00,Stray,Neonatal,Transfer,Partner,0.46,0,Spring Peak
+Austin Animal Center,A929360,Cat,Domestic Shorthair,Brown Tabby,Intact Female,Standard,1,2025-04-29T11:06:00.000,2025-04-29T18:05:00,Stray,Neonatal,Transfer,Partner,0.29,0,Spring Peak
+Austin Animal Center,A786209,Dog,Chihuahua Shorthair Mix,Brown,Intact Male,Standard,12,2018-12-19T12:30:00.000,2025-04-29T17:07:00,Stray,Normal,Return to Owner,,2323.19,1,Winter Standard
+Austin Animal Center,A929154,Cat,Domestic Shorthair,White/Calico,Intact Female,Standard,3,2025-04-25T13:19:00.000,2025-04-29T16:57:00,Stray,Normal,Adoption,,4.15,0,Spring Peak
+Austin Animal Center,A928315,Cat,Domestic Medium Hair,Cream Tabby,Intact Female,Standard,7,2025-04-11T11:36:00.000,2025-04-29T16:45:00,Stray,Normal,Adoption,,18.21,0,Spring Peak
+Austin Animal Center,A929151,Cat,Domestic Shorthair,Gray/Calico,Intact Female,Standard,3,2025-04-25T13:19:00.000,2025-04-29T16:28:00,Stray,Normal,Adoption,,4.13,0,Spring Peak
+Austin Animal Center,A928219,Dog,Dachshund Mix,Black/Tan,Intact Female,Standard,60,2025-04-09T18:49:00.000,2025-04-29T15:34:00,Public Assist,Normal,Return to Owner,,19.86,0,Spring Peak
+Austin Animal Center,A925993,Cat,Domestic Shorthair,Brown Tabby,Intact Male,Standard,1,2025-03-03T18:53:00.000,2025-04-29T14:38:00,Stray,Neonatal,Adoption,Foster,56.82,1,Spring Peak
+Austin Animal Center,A925996,Cat,Domestic Shorthair,Orange Tabby,Intact Male,Standard,1,2025-03-03T18:53:00.000,2025-04-29T14:34:00,Stray,Neonatal,Adoption,Foster,56.82,1,Spring Peak
+Austin Animal Center,A928645,Small Animal,Guinea Pig,Tricolor/Orange,Intact Male,Standard,36,2025-04-17T11:06:00.000,2025-04-29T14:33:00,Owner Surrender,Normal,Transfer,Partner,12.14,0,Spring Peak
+Austin Animal Center,A928643,Small Animal,Guinea Pig,Tricolor/White,Intact Male,Standard,36,2025-04-17T11:06:00.000,2025-04-29T14:32:00,Owner Surrender,Normal,Transfer,Partner,12.14,0,Spring Peak
+Austin Animal Center,A928646,Small Animal,Guinea Pig,Tricolor/Tan,Intact Male,Standard,36,2025-04-17T11:06:00.000,2025-04-29T14:30:00,Owner Surrender,Normal,Transfer,Partner,12.14,0,Spring Peak
+Austin Animal Center,A925994,Cat,Domestic Shorthair,Brown Tabby,Intact Male,Standard,1,2025-03-03T18:53:00.000,2025-04-29T14:29:00,Stray,Neonatal,Adoption,Foster,56.82,1,Spring Peak
+Austin Animal Center,A926662,Dog,German Shepherd,Black,Intact Male,Standard,48,2025-04-23T16:53:00.000,2025-04-29T14:26:00,Public Assist,Normal,Return to Owner,,5.9,0,Spring Peak
+Austin Animal Center,A919656,Dog,Belgian Malinois,Brown/Black,Intact Male,Standard,72,2024-12-12T19:27:00.000,2025-04-29T13:30:00,Stray,Injured,Adoption,,137.75,1,Winter Standard
+Austin Animal Center,A928881,Cat,Domestic Shorthair,Torbie,Spayed Female,Standard,84,2025-04-21T13:05:00.000,2025-04-29T13:21:00,Stray,Normal,Died,In Kennel,8.01,0,Spring Peak
+Austin Animal Center,A929323,Wildlife,Raccoon,Gray/Black,Unknown,Standard,24,2025-04-28T15:30:00.000,2025-04-29T13:10:00,Wildlife,Injured,Disposal,Rabies Risk,0.9,0,Spring Peak
+Austin Animal Center,A929035,Dog,Labrador Retriever,Black,Unknown,Standard,24,2025-04-24T01:18:00.000,2025-04-29T13:10:00,Stray,Injured,Euthanasia,At Vet,5.49,0,Spring Peak
+Austin Animal Center,A929124,Cat,Domestic Shorthair,Orange,Unknown,Standard,12,2025-04-25T10:47:00.000,2025-04-29T12:47:00,Stray,Sick,Euthanasia,Suffering,4.08,0,Spring Peak
+Austin Animal Center,A929225,Wildlife,Squirrel,Brown,Unknown,Standard,24,2025-04-26T17:03:00.000,2025-04-29T12:44:00,Wildlife,Injured,Euthanasia,Suffering,2.82,0,Spring Peak
+Austin Animal Center,A929133,Cat,Domestic Shorthair,Brown Tabby/White,Intact Female,Standard,12,2025-04-25T12:23:00.000,2025-04-29T12:36:00,Stray,Sick,Euthanasia,Suffering,4.01,0,Spring Peak
+Austin Animal Center,A929277,Cat,Domestic Shorthair,Brown Tabby/White,Intact Male,Standard,1,2025-04-28T07:25:00.000,2025-04-29T11:52:00,Stray,Sick,Transfer,Partner,1.19,0,Spring Peak
+Austin Animal Center,A929278,Cat,Domestic Shorthair,Blue Tabby/White,Intact Male,Standard,1,2025-04-28T07:25:00.000,2025-04-29T11:52:00,Stray,Sick,Transfer,Partner,1.19,0,Spring Peak
+Austin Animal Center,A929268,Cat,Domestic Shorthair,Black/White,Intact Male,Standard,1,2025-04-28T07:25:00.000,2025-04-29T11:52:00,Stray,Sick,Transfer,Partner,1.19,0,Spring Peak
+Austin Animal Center,A928715,Dog,Rottweiler/Labrador Retriever,Black,Intact Male,Standard,24,2025-04-18T10:51:00.000,2025-04-29T10:36:00,Stray,Normal,Adoption,,10.99,0,Spring Peak
+Austin Animal Center,A928607,Cat,Domestic Shorthair,Brown Tabby/White,Neutered Male,Standard,24,2025-04-16T11:44:00.000,2025-04-29T08:17:00,Stray,Normal,Transfer,Snr,12.86,0,Spring Peak
+Austin Animal Center,A929220,Cat,Domestic Shorthair,Orange Tabby/White,Intact Male,Standard,12,2025-04-26T14:07:00.000,2025-04-29T08:15:00,Stray,Normal,Transfer,Snr,2.76,0,Spring Peak
+Austin Animal Center,A929172,Cat,Domestic Shorthair,Brown Tabby,Unknown,Standard,12,2025-04-25T13:59:00.000,2025-04-29T08:14:00,Stray,Normal,Transfer,Snr,3.76,0,Spring Peak
+Austin Animal Center,A929339,Cat,Domestic Shorthair,Brown Tabby,Intact Female,Standard,1,2025-04-28T17:51:00.000,2025-04-28T18:52:00,Stray,Normal,Transfer,Partner,0.1,0,Spring Peak
+Austin Animal Center,A928320,Cat,Domestic Shorthair,Torbie/White,Spayed Female,Standard,24,2025-04-11T12:07:00.000,2025-04-28T18:51:00,Owner Surrender,Normal,Adoption,,17.28,0,Spring Peak
+Austin Animal Center,A929164,Cat,Domestic Shorthair,Black/White,Unknown,Standard,48,2025-04-25T14:23:00.000,2025-04-28T18:33:00,Stray,Normal,Transfer,Snr,3.17,0,Spring Peak
+Austin Animal Center,A929129,Cat,Domestic Shorthair,Orange Tabby,Unknown,Standard,12,2025-04-25T10:20:00.000,2025-04-28T18:32:00,Stray,Normal,Transfer,Snr,3.34,0,Spring Peak
+Austin Animal Center,A929076,Cat,Domestic Shorthair,Orange Tabby,Unknown,Standard,12,2025-04-24T15:07:00.000,2025-04-28T18:32:00,Stray,Injured,Transfer,Snr,4.14,0,Spring Peak
+Austin Animal Center,A929239,Dog,Australian Shepherd/Siberian Husky,Brown/White,Intact Female,Standard,12,2025-04-27T08:33:00.000,2025-04-28T18:22:46,Stray,Sick,Transfer,Partner,1.41,0,Spring Peak
+Austin Animal Center,A928951,Cat,Domestic Shorthair,Cream Tabby,Intact Male,Standard,1,2025-04-22T12:44:00.000,2025-04-28T18:02:00,Stray,Normal,Adoption,,6.22,0,Spring Peak
+Austin Animal Center,A928940,Cat,Domestic Shorthair,Black,Intact Male,Standard,12,2025-04-22T11:32:00.000,2025-04-28T17:54:00,Stray,Normal,Adoption,,6.27,0,Spring Peak
+Austin Animal Center,A926797,Dog,Pit Bull,Fawn,Intact Female,Standard,24,2025-03-17T11:29:00.000,2025-04-28T17:52:00,Stray,Injured,Adoption,,42.27,1,Spring Peak
+Austin Animal Center,A928870,Dog,Pit Bull Mix,Brown/White,Intact Male,Standard,24,2025-04-21T12:28:00.000,2025-04-28T17:51:00,Stray,Normal,Return to Owner,,7.22,0,Spring Peak
+Austin Animal Center,A927436,Dog,Siberian Husky,Black/Brown,Intact Female,Standard,1,2025-03-27T11:47:00.000,2025-04-28T17:45:00,Stray,Normal,Adoption,,32.25,1,Spring Peak
+Austin Animal Center,A928872,Dog,Pit Bull Mix,Brown Brindle/White,Intact Female,Standard,5,2025-04-21T12:28:00.000,2025-04-28T17:39:00,Stray,Normal,Return to Owner,,7.22,0,Spring Peak
+Austin Animal Center,A924825,Dog,Rhod Ridgeback,Brown,Neutered Male,Standard,60,2025-02-15T14:22:00.000,2025-04-28T17:37:00,Owner Surrender,Normal,Adoption,,72.14,1,Winter Standard
+Austin Animal Center,A928896,Cat,Domestic Shorthair,Blue Tabby/White,Intact Male,Standard,2,2025-04-21T13:24:00.000,2025-04-28T17:28:00,Stray,Normal,Adoption,,7.17,0,Spring Peak
+Austin Animal Center,A929319,Dog,Rottweiler Mix,Black/Tan,Intact Male,Standard,12,2025-04-28T14:43:00.000,2025-04-28T17:18:00,Stray,Normal,Return to Owner,,0.11,0,Spring Peak
+Austin Animal Center,A927441,Dog,Siberian Husky,Gray,Intact Male,Standard,1,2025-03-27T11:47:00.000,2025-04-28T17:13:00,Stray,Normal,Adoption,,32.23,1,Spring Peak
+Austin Animal Center,A928649,Dog,German Shepherd/Chow Chow,Black/Cream,Neutered Male,Standard,12,2025-04-17T13:13:00.000,2025-04-28T17:00:00,Stray,Normal,Adoption,,11.16,0,Spring Peak
+Austin Animal Center,A925721,Cat,Domestic Shorthair,Orange Tabby,Intact Male,Standard,6,2025-02-28T11:30:00.000,2025-04-28T16:48:00,Stray,Normal,Adoption,,59.22,1,Winter Standard
+Austin Animal Center,A772693,Cat,Domestic Medium Hair Mix,Orange Tabby,Intact Male,Standard,1,2018-05-22T16:23:00.000,2025-04-28T16:38:00,Stray,Normal,Return to Owner,,2533.01,1,Spring Peak
+Austin Animal Center,A928941,Cat,Domestic Shorthair,Black,Intact Male,Standard,12,2025-04-22T11:32:00.000,2025-04-28T16:31:00,Stray,Normal,Adoption,,6.21,0,Spring Peak
+Austin Animal Center,A927440,Dog,Siberian Husky,Gray/White,Intact Male,Standard,1,2025-03-27T11:47:00.000,2025-04-28T16:31:00,Stray,Normal,Adoption,,32.2,1,Spring Peak
+Austin Animal Center,A925620,Cat,Domestic Shorthair,Torbie/White,Intact Female,Standard,36,2025-02-26T18:43:00.000,2025-04-28T16:24:00,Abandoned,Normal,Adoption,Foster,60.9,1,Winter Standard
+Austin Animal Center,A928895,Cat,Domestic Shorthair,Blue/White,Intact Male,Standard,2,2025-04-21T13:24:00.000,2025-04-28T16:23:00,Stray,Normal,Adoption,,7.12,0,Spring Peak
+Austin Animal Center,A928894,Cat,Domestic Shorthair,Black/White,Intact Male,Standard,2,2025-04-21T13:24:00.000,2025-04-28T16:15:00,Stray,Normal,Adoption,,7.12,0,Spring Peak
+Austin Animal Center,A928914,Cat,Domestic Medium Hair,Cream Tabby/White,Intact Male,Standard,24,2025-04-21T16:32:00.000,2025-04-28T16:00:00,Stray,Normal,Adoption,,6.98,0,Spring Peak
+Austin Animal Center,A929065,Dog,Great Dane Mix,Black/White,Intact Female,Standard,2,2025-04-24T14:40:00.000,2025-04-28T14:40:00,Owner Surrender,Parvo,Transfer,Partner,4.0,0,Spring Peak
+Austin Animal Center,A929066,Dog,Great Dane Mix,Black/White,Intact Female,Standard,2,2025-04-24T14:40:00.000,2025-04-28T14:40:00,Owner Surrender,Parvo,Transfer,Partner,4.0,0,Spring Peak
+Austin Animal Center,A929314,Cat,Domestic Shorthair,Tortie,Intact Female,Standard,1,2025-04-28T14:01:00.000,2025-04-28T14:29:00,Stray,Normal,Transfer,Partner,0.1,0,Spring Peak
+Austin Animal Center,A929315,Cat,Domestic Shorthair,Blue Tabby,Intact Female,Standard,1,2025-04-28T14:01:00.000,2025-04-28T14:29:00,Stray,Normal,Transfer,Partner,0.1,0,Spring Peak
+Austin Animal Center,A929077,Dog,Chihuahua Shorthair,Brown/White,Intact Female,Standard,12,2025-04-24T14:51:00.000,2025-04-28T13:39:00,Stray,Normal,Transfer,Partner,3.95,0,Spring Peak
+Austin Animal Center,A929263,Wildlife,Skunk,White/Black,Unknown,Standard,12,2025-04-27T14:27:00.000,2025-04-28T13:10:00,Wildlife,Injured,Euthanasia,Rabies Risk,0.95,0,Spring Peak
+Austin Animal Center,A929245,Wildlife,Skunk,Black/White,Unknown,Standard,24,2025-04-27T11:12:00.000,2025-04-28T13:08:00,Wildlife,Injured,Euthanasia,Rabies Risk,1.08,0,Spring Peak
+Austin Animal Center,A918999,Dog,Chihuahua Shorthair,Red/White,Intact Female,Standard,96,2024-12-01T17:59:00.000,2025-04-28T13:00:00,Stray,Medical,Adoption,Foster,147.79,1,Winter Standard
+Austin Animal Center,A929285,Wildlife,Bat,Red/Brown,Unknown,Standard,12,2025-04-28T11:26:00.000,2025-04-28T12:48:28,Wildlife,Normal,Euthanasia,Rabies Risk,0.1,0,Spring Peak
+Austin Animal Center,A929276,Dog,Miniature Poodle,Gray,Intact Male,Standard,12,2025-04-28T07:07:00.000,2025-04-28T12:37:04,Stray,Injured,Transfer,Partner,0.23,0,Spring Peak
+Austin Animal Center,A929243,Dog,Belgian Malinois,Brown Brindle/White,Spayed Female,Standard,36,2025-04-27T10:28:00.000,2025-04-28T11:24:00,Public Assist,Normal,Return to Owner,,1.04,0,Spring Peak
+Austin Animal Center,A929039,Cat,Domestic Shorthair,Green,Unknown,Standard,1,2025-04-24T08:07:00.000,2025-04-28T08:14:00,Stray,Normal,Died,At Vet,4.0,0,Spring Peak
+Austin Animal Center,A929064,Cat,Domestic Shorthair,Calico/White,Spayed Female,Standard,12,2025-04-24T13:20:00.000,2025-04-28T08:13:00,Stray,Sick,Euthanasia,Suffering,3.79,0,Spring Peak
+Austin Animal Center,A929165,Cat,Domestic Longhair,Brown Tabby/White,Unknown,Standard,48,2025-04-25T14:23:00.000,2025-04-28T00:00:00,Stray,Normal,Transfer,Snr,2.4,0,Spring Peak
+Austin Animal Center,A926413,Dog,Labrador Retriever Mix,Yellow/Cream,Intact Male,Standard,12,2025-03-10T16:50:00.000,2025-04-27T18:55:00,Stray,Injured,Adoption,Foster,48.09,1,Spring Peak
+Austin Animal Center,A917294,Dog,Border Collie Mix,White/Black,Neutered Male,Standard,24,2025-03-12T11:15:00.000,2025-04-27T18:30:00,Stray,Normal,Adoption,,46.3,1,Spring Peak
+Austin Animal Center,A927291,Dog,German Shepherd Mix,Brown,Intact Female,Standard,24,2025-03-26T13:50:00.000,2025-04-27T18:20:00,Stray,Injured,Adoption,,32.19,1,Spring Peak
+Austin Animal Center,A928531,Cat,Domestic Shorthair,Silver Tabby,Intact Male,Standard,2,2025-04-15T19:07:00.000,2025-04-27T17:48:00,Stray,Normal,Adoption,,11.95,0,Spring Peak
+Austin Animal Center,A929020,Cat,Domestic Shorthair,Black/White,Intact Male,Standard,36,2025-04-23T13:56:00.000,2025-04-27T17:23:00,Owner Surrender,Normal,Adoption,,4.14,0,Spring Peak
+Austin Animal Center,A923430,Dog,Labrador Retriever Mix,Tan,Spayed Female,Standard,9,2025-04-03T17:50:00.000,2025-04-27T17:19:00,Owner Surrender,Normal,Adoption,,23.98,0,Spring Peak
+Austin Animal Center,A923553,Dog,Otterhound Mix,Black/Brown,Intact Male,Standard,36,2025-02-04T14:15:00.000,2025-04-27T17:19:00,Stray,Normal,Euthanasia,Rabies Risk,82.13,1,Winter Standard
+Austin Animal Center,A928235,Other,Tarantula,Brown,Unknown,Standard,24,2025-04-10T10:46:00.000,2025-04-27T17:12:00,Public Assist,Normal,Adoption,,17.27,0,Spring Peak
+Austin Animal Center,A928236,Other,Tarantula,Brown,Unknown,Standard,12,2025-04-10T10:46:00.000,2025-04-27T17:11:00,Public Assist,Normal,Adoption,,17.27,0,Spring Peak
+Austin Animal Center,A929260,Cat,Domestic Shorthair,Orange Tabby/White,Intact Male,Standard,1,2025-04-27T12:46:00.000,2025-04-27T16:59:00,Stray,Neonatal,Transfer,Partner,0.18,0,Spring Peak
+Austin Animal Center,A929256,Cat,Domestic Shorthair,Orange Tabby/White,Intact Male,Standard,1,2025-04-27T12:46:00.000,2025-04-27T16:58:00,Stray,Neonatal,Transfer,Partner,0.17,0,Spring Peak
+Austin Animal Center,A929257,Cat,Domestic Shorthair,Orange Tabby/White,Intact Male,Standard,1,2025-04-27T12:46:00.000,2025-04-27T16:58:00,Stray,Neonatal,Transfer,Partner,0.17,0,Spring Peak
+Austin Animal Center,A929258,Cat,Domestic Shorthair,Orange Tabby/White,Intact Female,Standard,1,2025-04-27T12:46:00.000,2025-04-27T16:58:00,Stray,Neonatal,Transfer,Partner,0.17,0,Spring Peak
+Austin Animal Center,A929259,Cat,Domestic Shorthair,Orange Tabby/White,Intact Male,Standard,1,2025-04-27T12:46:00.000,2025-04-27T16:58:00,Stray,Neonatal,Transfer,Partner,0.17,0,Spring Peak
+Austin Animal Center,A928239,Dog,Labrador Retriever/German Shepherd,Tan/White,Intact Male,Standard,1,2025-04-11T11:18:00.000,2025-04-27T16:26:00,Stray,Normal,Adoption,,16.21,0,Spring Peak
+Austin Animal Center,A922170,Dog,Pit Bull Mix,Brown Brindle/White,Intact Female,Standard,1,2025-01-25T12:09:00.000,2025-04-27T16:20:00,Owner Surrender,Normal,Adoption,,92.17,1,Winter Standard
+Austin Animal Center,A923031,Dog,Siberian Husky Mix,Black/White,Spayed Female,Standard,6,2025-04-10T10:45:00.000,2025-04-27T16:17:00,Owner Surrender,Normal,Adoption,,17.23,0,Spring Peak
+Austin Animal Center,A914192,Cat,Domestic Shorthair,Blue/White,Intact Male,Standard,4,2024-09-27T10:44:00.000,2025-04-27T15:58:00,Stray,Normal,Adoption,,212.22,1,Fall Moderate
+Austin Animal Center,A925662,Dog,Australian Shepherd,White/Black,Intact Male,Standard,24,2025-02-27T12:43:00.000,2025-04-27T15:29:00,Stray,Normal,Adoption,,59.12,1,Winter Standard
+Austin Animal Center,A926689,Dog,Australian Cattle Dog,White/Black,Intact Female,Standard,4,2025-03-14T18:30:00.000,2025-04-27T15:19:00,Stray,Normal,Adoption,,43.87,1,Spring Peak
+Austin Animal Center,A920576,Dog,Labrador Retriever Mix,Black,Intact Male,Standard,12,2024-12-31T12:06:00.000,2025-04-27T15:18:00,Owner Surrender,Normal,Adoption,,117.13,1,Winter Standard
+Austin Animal Center,A928943,Cat,Domestic Longhair,Brown Tabby,Neutered Male,Standard,12,2025-04-22T12:26:00.000,2025-04-27T14:46:00,Owner Surrender,Normal,Adoption,,5.1,0,Spring Peak
+Austin Animal Center,A929252,Dog,Pit Bull Mix,Black,Spayed Female,Standard,60,2025-04-27T12:21:00.000,2025-04-27T14:04:00,Stray,Aged,Return to Owner,,0.1,0,Spring Peak
+Austin Animal Center,A928726,Dog,Siberian Husky Mix,Brown/Tan,Intact Female,Standard,24,2025-04-18T12:05:00.000,2025-04-27T14:03:00,Stray,Normal,Adoption,,9.08,0,Spring Peak
+Austin Animal Center,A927821,Dog,Great Pyrenees,White,Intact Male,Standard,24,2025-04-18T09:23:00.000,2025-04-27T13:57:00,Public Assist,Injured,Return to Owner,,9.19,0,Spring Peak
+Austin Animal Center,A928954,Dog,Wirehaired Pointing Griffon,Chocolate/White,Intact Male,Standard,5,2025-04-22T13:23:00.000,2025-04-27T13:51:00,Owner Surrender,Normal,Adoption,,5.02,0,Spring Peak
+Austin Animal Center,A927548,Dog,Doberman Pinsch,Brown,Intact Female,Standard,2,2025-03-29T17:22:00.000,2025-04-27T13:49:00,Stray,Normal,Adoption,,28.85,0,Spring Peak
+Austin Animal Center,A916523,Dog,Golden Retriever Mix,Brown,Spayed Female,Standard,84,2024-11-06T13:12:00.000,2025-04-27T13:08:00,Stray,Normal,Adoption,Foster,172.0,1,Fall Moderate
+Austin Animal Center,A927112,Cat,Domestic Shorthair,Torbie,Intact Female,Standard,24,2025-03-22T12:00:00.000,2025-04-27T12:52:00,Stray,Injured,Adoption,,36.04,1,Spring Peak
+Austin Animal Center,A922150,Dog,American Bulldog Mix,Black/White,Intact Male,Standard,1,2025-01-25T07:36:00.000,2025-04-27T12:47:00,Stray,Normal,Adoption,,92.22,1,Winter Standard
+Austin Animal Center,A925723,Dog,Siberian Husky/Australian Kelpie,Black/Tan,Intact Female,Standard,11,2025-02-28T11:33:00.000,2025-04-27T12:07:00,Owner Surrender,Normal,Adoption,,58.02,1,Winter Standard
+Austin Animal Center,A927874,Cat,Domestic Shorthair,Black/White,Intact Male,Standard,72,2025-04-03T09:22:00.000,2025-04-27T11:46:00,Stray,Injured,Return to Owner,,24.1,0,Spring Peak
+Austin Animal Center,A929147,Cat,Domestic Shorthair,Tortie,Spayed Female,Standard,12,2025-04-25T13:12:00.000,2025-04-27T11:20:00,Owner Surrender,Normal,Rto-Adopt,,1.92,0,Spring Peak
+Austin Animal Center,A929231,Wildlife,Raccoon,Black,Unknown,Standard,24,2025-04-26T20:10:00.000,2025-04-27T10:16:00,Wildlife,Injured,Transfer,Partner,0.59,0,Spring Peak
+Austin Animal Center,A929068,Dog,Great Dane Mix,Black/White,Intact Male,Standard,2,2025-04-24T14:40:00.000,2025-04-27T09:24:13,Owner Surrender,Parvo,Transfer,Partner,2.78,0,Spring Peak
+Austin Animal Center,A929067,Dog,Great Dane/Pit Bull,Black/White,Intact Female,Standard,2,2025-04-24T14:40:00.000,2025-04-27T09:23:58,Owner Surrender,Parvo,Transfer,Partner,2.78,0,Spring Peak
+Austin Animal Center,A928992,Dog,Catahoula Mix,Black Brindle/White,Intact Male,Standard,3,2025-04-23T10:54:00.000,2025-04-27T09:22:00,Stray,Injured,Euthanasia,Suffering,3.94,0,Spring Peak
+Austin Animal Center,A929000,Cat,Domestic Shorthair,Black/White,Intact Male,Standard,72,2025-04-23T11:48:00.000,2025-04-27T09:21:00,Stray,Injured,Euthanasia,Suffering,3.9,0,Spring Peak
+Austin Animal Center,A928902,Cat,Domestic Shorthair,Brown Tabby/White,Intact Male,Standard,1,2025-04-21T15:01:00.000,2025-04-27T09:19:00,Stray,Med Attn,Euthanasia,Suffering,5.76,0,Spring Peak
+Austin Animal Center,A928952,Cat,Domestic Shorthair,Blue,Intact Male,Standard,12,2025-04-22T13:44:00.000,2025-04-27T09:19:00,Stray,Normal,Euthanasia,Suffering,4.82,0,Spring Peak
+Austin Animal Center,A928851,Cat,Domestic Shorthair,Orange,Intact Male,Standard,60,2025-04-21T10:12:00.000,2025-04-27T09:18:00,Stray,Injured,Euthanasia,Suffering,5.96,0,Spring Peak
+Austin Animal Center,A918780,Dog,Feist Mix,Tan/White,Intact Female,Standard,36,2024-11-26T16:15:00.000,2025-04-26T19:37:00,Public Assist,Normal,Return to Owner,,151.14,1,Fall Moderate
+Austin Animal Center,A929091,Cat,Domestic Shorthair,Black,Neutered Male,Standard,7,2025-04-24T15:53:00.000,2025-04-26T19:05:00,Owner Surrender,Normal,Adoption,,2.13,0,Spring Peak
+Austin Animal Center,A928247,Dog,Australian Cattle Dog,Brown/White,Intact Female,Standard,24,2025-04-10T11:10:00.000,2025-04-26T18:56:00,Owner Surrender,Normal,Transfer,Partner,16.32,0,Spring Peak
+Austin Animal Center,A921625,Dog,Toy Fox Terrier Mix,White/Black,Intact Male,Standard,48,2025-01-18T07:52:00.000,2025-04-26T18:42:00,Stray,Injured,Adoption,Foster,98.45,1,Winter Standard
+Austin Animal Center,A927569,Dog,Golden Retriever,White,Intact Female,Standard,12,2025-03-30T10:02:00.000,2025-04-26T18:41:00,Stray,Normal,Adoption,,27.36,0,Spring Peak
+Austin Animal Center,A925472,Dog,Pit Bull,White/Brown,Neutered Male,Standard,12,2025-03-18T15:32:00.000,2025-04-26T18:27:00,Stray,Normal,Adoption,,39.12,1,Spring Peak
+Austin Animal Center,A928728,Cat,Domestic Shorthair,Brown Tabby/White,Intact Female,Standard,9,2025-04-18T12:02:00.000,2025-04-26T18:14:00,Stray,Normal,Adoption,,8.26,0,Spring Peak
+Austin Animal Center,A929118,Wildlife,Bat,Brown/Gray,Unknown,Standard,24,2025-04-25T10:00:00.000,2025-04-26T18:06:00,Wildlife,Normal,Euthanasia,Rabies Risk,1.34,0,Spring Peak
+Austin Animal Center,A929071,Wildlife,Bat,Brown/Gray,Unknown,Standard,24,2025-04-24T13:50:00.000,2025-04-26T18:05:00,Wildlife,Normal,Euthanasia,Rabies Risk,2.18,0,Spring Peak
+Austin Animal Center,A929013,Wildlife,Bat,Brown,Unknown,Standard,24,2025-04-23T13:41:00.000,2025-04-26T17:59:00,Wildlife,Unknown,Euthanasia,Rabies Risk,3.18,0,Spring Peak
+Austin Animal Center,A928790,Cat,Domestic Shorthair,Calico,Intact Female,Standard,24,2025-04-19T11:02:00.000,2025-04-26T17:23:00,Stray,Sick,Adoption,,7.26,0,Spring Peak
+Austin Animal Center,A921202,Dog,Pit Bull,Brown Brindle,Spayed Female,Standard,36,2025-02-27T18:35:00.000,2025-04-26T17:22:00,Public Assist,Normal,Euthanasia,Court/Investigation,57.95,1,Winter Standard
+Austin Animal Center,A929193,Cat,Domestic Shorthair,Cream Tabby,Intact Female,Standard,36,2025-04-26T10:05:00.000,2025-04-26T16:40:00,Stray,Sick,Return to Owner,,0.27,0,Spring Peak
+Austin Animal Center,A920153,Cat,Domestic Shorthair,Tortie,Intact Female,Standard,2,2024-12-22T11:25:00.000,2025-04-26T16:28:00,Stray,Injured,Adoption,,125.21,1,Winter Standard
+Austin Animal Center,A928899,Cat,Domestic Shorthair,Brown Tabby,Intact Female,Standard,24,2025-04-21T14:19:00.000,2025-04-26T15:30:00,Stray,Normal,Adoption,,5.05,0,Spring Peak
+Austin Animal Center,A928524,Cat,Domestic Shorthair,Brown Tabby,Intact Male,Standard,2,2025-04-15T19:07:00.000,2025-04-26T14:51:00,Stray,Normal,Adoption,,10.82,0,Spring Peak
+Austin Animal Center,A928206,Dog,German Shepherd Mix,Black/Brown,Intact Female,Standard,2,2025-04-09T13:01:00.000,2025-04-26T14:33:00,Stray,Normal,Adoption,,17.06,0,Spring Peak
+Austin Animal Center,A927142,Dog,Siberian Husky Mix,Black/White,Spayed Female,Standard,24,2025-03-22T21:02:00.000,2025-04-26T14:33:00,Stray,Normal,Transfer,Partner,34.73,1,Spring Peak
+Austin Animal Center,A928974,Cat,Domestic Shorthair,Tortie,Spayed Female,Standard,48,2025-04-22T18:12:00.000,2025-04-26T14:09:00,Owner Surrender,Normal,Adoption,,3.83,0,Spring Peak
+Austin Animal Center,A925451,Dog,Pit Bull,Blue/White,Intact Male,Standard,24,2025-02-24T14:32:00.000,2025-04-26T14:01:00,Stray,Normal,Adoption,,60.98,1,Winter Standard
+Austin Animal Center,A925752,Dog,Siberian Husky,Black/White,Neutered Male,Standard,24,2025-03-12T11:56:00.000,2025-04-26T13:49:00,Stray,Normal,Return to Owner,,45.08,1,Spring Peak
+Austin Animal Center,A928634,Cat,Domestic Shorthair,Blue Tabby,Intact Male,Standard,24,2025-04-17T08:06:00.000,2025-04-26T12:45:00,Stray,Injured,Adoption,,9.19,0,Spring Peak
+Austin Animal Center,A921589,Dog,Labrador Retriever Mix,Black/White,Intact Female,Standard,1,2025-01-17T14:11:00.000,2025-04-26T12:35:00,Stray,Normal,Adoption,Foster,98.93,1,Winter Standard
+Austin Animal Center,A875715,Dog,Pit Bull/Siberian Husky,Tan/White,Intact Male,Standard,24,2023-03-03T14:51:00.000,2025-04-26T12:23:00,Stray,Normal,Return to Owner,,784.9,1,Spring Peak
+Austin Animal Center,A928529,Cat,Domestic Shorthair,Brown Tabby,Intact Male,Standard,2,2025-04-15T19:07:00.000,2025-04-26T10:30:00,Stray,Normal,Adoption,,10.64,0,Spring Peak
+Austin Animal Center,A927970,Dog,Pit Bull Mix,Brown Brindle,Intact Male,Standard,24,2025-04-04T15:06:00.000,2025-04-25T19:18:00,Public Assist,Normal,Transfer,Partner,21.18,0,Spring Peak
+Austin Animal Center,A929170,Cat,Domestic Shorthair,Blue Tabby,Unknown,Standard,1,2025-04-25T15:45:00.000,2025-04-25T18:52:00,Stray,Neonatal,Transfer,Partner,0.13,0,Spring Peak
+Austin Animal Center,A929168,Cat,Domestic Shorthair,White,Unknown,Standard,1,2025-04-25T15:45:00.000,2025-04-25T18:51:00,Stray,Neonatal,Transfer,Partner,0.13,0,Spring Peak
+Austin Animal Center,A929169,Cat,Domestic Shorthair,White,Unknown,Standard,1,2025-04-25T15:45:00.000,2025-04-25T18:51:00,Stray,Neonatal,Transfer,Partner,0.13,0,Spring Peak
+Austin Animal Center,A928740,Cat,Domestic Shorthair,Black,Intact Male,Standard,2,2025-04-18T12:42:00.000,2025-04-25T18:41:00,Stray,Normal,Adoption,,7.25,0,Spring Peak
+Austin Animal Center,A928893,Cat,Domestic Shorthair,Black/White,Intact Female,Standard,2,2025-04-21T13:24:00.000,2025-04-25T18:30:00,Stray,Normal,Adoption,,4.21,0,Spring Peak
+Austin Animal Center,A928475,Cat,Domestic Shorthair,Blue Tabby,Intact Male,Standard,5,2025-04-14T13:21:00.000,2025-04-25T17:53:00,Stray,Normal,Adoption,,11.19,0,Spring Peak
+Austin Animal Center,A928248,Dog,Australian Cattle Dog,Brown/White,Intact Female,Standard,24,2025-04-10T11:10:00.000,2025-04-25T17:04:00,Owner Surrender,Normal,Adoption,,15.25,0,Spring Peak
+Austin Animal Center,A929166,Cat,Domestic Shorthair,Brown Tabby,Intact Female,Standard,12,2025-04-25T14:53:00.000,2025-04-25T17:00:00,Stray,Normal,Transfer,Partner,0.1,0,Spring Peak
+Austin Animal Center,A928873,Cat,Domestic Shorthair,Blue,Intact Male,Standard,2,2025-04-21T12:23:00.000,2025-04-25T16:08:00,Stray,Normal,Adoption,,4.16,0,Spring Peak
+Austin Animal Center,A802760,Dog,Dachshund,Tan/White,Neutered Male,Standard,132,2025-04-01T17:14:00.000,2025-04-25T14:33:00,Stray,Normal,Adoption,Foster,23.89,0,Spring Peak
+Austin Animal Center,A929144,Cat,Domestic Shorthair,Gray Tabby,Unknown,Standard,1,2025-04-25T13:01:00.000,2025-04-25T14:26:00,Stray,Neonatal,Transfer,Partner,0.1,0,Spring Peak
+Austin Animal Center,A929145,Cat,Domestic Shorthair,Gray Tabby,Unknown,Standard,1,2025-04-25T13:01:00.000,2025-04-25T14:26:00,Stray,Neonatal,Transfer,Partner,0.1,0,Spring Peak
+Austin Animal Center,A929146,Cat,Domestic Shorthair,Gray Tabby,Unknown,Standard,1,2025-04-25T13:01:00.000,2025-04-25T14:25:00,Stray,Neonatal,Transfer,Partner,0.1,0,Spring Peak
+Austin Animal Center,A926542,Dog,Labrador Retriever Mix,Black/White,Spayed Female,Standard,24,2025-03-12T14:05:00.000,2025-04-25T12:30:00,Owner Surrender,Normal,Adoption,,43.93,1,Spring Peak
+Austin Animal Center,A909580,Dog,Black Mouth Cur Mix,Tan/White,Intact Female,Standard,2,2024-08-15T13:34:00.000,2025-04-25T11:29:00,Stray,Normal,Adoption,Foster,252.91,1,Summer High
+Austin Animal Center,A928605,Cat,Siamese,Blue Point,Spayed Female,Standard,180,2025-04-16T11:47:00.000,2025-04-25T11:24:00,Stray,Injured,Euthanasia,Medical,8.98,0,Spring Peak
+Austin Animal Center,A929116,Wildlife,Bat,Brown/Brown,Unknown,Standard,24,2025-04-25T09:35:00.000,2025-04-25T10:12:36,Wildlife,Normal,Euthanasia,Rabies Risk,0.1,0,Spring Peak
+Austin Animal Center,A928641,Dog,Dachshund/Bulldog,White/Black,Intact Male,Standard,1,2025-04-17T10:39:00.000,2025-04-24T19:09:00,Public Assist,Normal,Adoption,,7.35,0,Spring Peak
+Austin Animal Center,A928871,Dog,Pit Bull Mix,Brown Brindle/White,Intact Female,Standard,12,2025-04-21T12:28:00.000,2025-04-24T18:44:00,Stray,Normal,Return to Owner,,3.26,0,Spring Peak
+Austin Animal Center,A928528,Cat,Domestic Shorthair,Orange Tabby,Intact Female,Standard,2,2025-04-15T19:07:00.000,2025-04-24T18:29:00,Stray,Normal,Adoption,,8.97,0,Spring Peak
+Austin Animal Center,A928123,Dog,Chihuahua Shorthair,Tan/White,Intact Female,Standard,24,2025-04-08T12:18:00.000,2025-04-24T18:18:00,Stray,Normal,Adoption,,16.25,0,Spring Peak
+Austin Animal Center,A925564,Dog,Labrador Retriever Mix,Cream/White,Intact Male,Standard,12,2025-02-26T12:10:00.000,2025-04-24T17:55:00,Stray,Normal,Adoption,,57.24,1,Winter Standard
+Austin Animal Center,A928715,Dog,Rottweiler/Labrador Retriever,Black,Intact Male,Standard,24,2025-04-18T10:51:00.000,2025-04-24T17:46:00,Stray,Normal,Adoption,,6.29,0,Spring Peak
+Austin Animal Center,A927989,Dog,Rat Terrier Mix,Black/White,Intact Female,Standard,12,2025-04-05T11:06:00.000,2025-04-24T17:05:00,Owner Surrender,Normal,Adoption,,19.25,0,Spring Peak
+Austin Animal Center,A929083,Cat,Domestic Shorthair,Brown Tabby,Unknown,Standard,1,2025-04-24T15:16:00.000,2025-04-24T16:11:00,Stray,Neonatal,Transfer,Partner,0.1,0,Spring Peak
+Austin Animal Center,A929081,Cat,Domestic Shorthair,White,Unknown,Standard,1,2025-04-24T15:16:00.000,2025-04-24T16:10:00,Stray,Neonatal,Transfer,Partner,0.1,0,Spring Peak
+Austin Animal Center,A929082,Cat,Domestic Shorthair,Brown Tabby,Unknown,Standard,1,2025-04-24T15:16:00.000,2025-04-24T16:10:00,Stray,Neonatal,Transfer,Partner,0.1,0,Spring Peak
+Austin Animal Center,A929080,Cat,Domestic Shorthair,Orange Tabby,Unknown,Standard,1,2025-04-24T15:16:00.000,2025-04-24T16:09:00,Stray,Neonatal,Transfer,Partner,0.1,0,Spring Peak
+Austin Animal Center,A929057,Cat,Domestic Longhair,Black,Intact Female,Standard,12,2025-04-24T12:13:00.000,2025-04-24T16:07:56,Stray,Normal,Transfer,Partner,0.16,0,Spring Peak
+Austin Animal Center,A929059,Cat,Domestic Shorthair,Brown Tabby,Intact Male,Standard,1,2025-04-24T12:47:00.000,2025-04-24T15:59:41,Stray,Neonatal,Transfer,Partner,0.13,0,Spring Peak
+Austin Animal Center,A928539,Dog,Cairn Terrier Mix,Tan,Intact Female,Standard,5,2025-04-15T12:55:00.000,2025-04-24T15:51:00,Stray,Injured,Transfer,Partner,9.12,0,Spring Peak
+Austin Animal Center,A928552,Dog,Chihuahua Shorthair Mix,Brown/Tan,Neutered Male,Standard,60,2025-04-15T14:06:00.000,2025-04-24T14:38:00,Stray,Normal,Transfer,Partner,9.02,0,Spring Peak
+Austin Animal Center,A928518,Dog,Dachshund/Chihuahua Shorthair,Brown/Black,Intact Male,Standard,24,2025-04-15T11:52:00.000,2025-04-24T14:38:00,Stray,Normal,Transfer,Partner,9.12,0,Spring Peak
+Austin Animal Center,A927618,Dog,Chihuahua Shorthair Mix,White/Brown,Neutered Male,Standard,24,2025-03-31T11:08:00.000,2025-04-24T14:36:00,Stray,Normal,Transfer,Partner,24.14,0,Spring Peak
+Austin Animal Center,A928736,Cat,Domestic Longhair,Black,Spayed Female,Standard,144,2025-04-18T12:58:00.000,2025-04-24T14:02:00,Public Assist,Normal,Transfer,Partner,6.04,0,Spring Peak
+Austin Animal Center,A928741,Cat,Domestic Shorthair,Black Tabby/Gray,Neutered Male,Standard,144,2025-04-18T12:58:00.000,2025-04-24T14:01:00,Public Assist,Normal,Transfer,Partner,6.04,0,Spring Peak
+Austin Animal Center,A928372,Dog,Boxer Mix,Brown/Black,Intact Female,Standard,1,2025-04-12T11:34:00.000,2025-04-24T13:57:00,Stray,Normal,Adoption,,12.1,0,Spring Peak
+Austin Animal Center,A928229,Dog,Pit Bull,Black/Brown,Intact Female,Standard,3,2025-04-10T09:15:00.000,2025-04-24T13:33:00,Stray,Normal,Adoption,,14.18,0,Spring Peak
+Austin Animal Center,A928288,Dog,Great Pyrenees,White,Intact Male,Standard,48,2025-04-10T17:46:00.000,2025-04-24T12:34:00,Abandoned,Normal,Adoption,,13.78,0,Spring Peak
+Austin Animal Center,A919721,Cat,Domestic Shorthair,Black,Neutered Male,Standard,2,2024-12-14T08:43:00.000,2025-04-24T12:10:00,Stray,Sick,Adoption,,131.14,1,Winter Standard
+Austin Animal Center,A929007,Dog,Cairn Terrier Mix,Cream,Neutered Male,Standard,84,2025-04-23T12:09:00.000,2025-04-24T11:54:00,Stray,Normal,Return to Owner,,0.99,0,Spring Peak
+Austin Animal Center,A928850,Wildlife,Bat,Brown,Unknown,Standard,24,2025-04-21T09:54:00.000,2025-04-24T11:17:00,Public Assist,Normal,Euthanasia,Rabies Risk,3.06,0,Spring Peak
+Austin Animal Center,A928958,Cat,Domestic Shorthair,Orange Tabby/White,Unknown,Standard,12,2025-04-22T14:06:00.000,2025-04-24T00:00:00-05:00,Stray,Normal,Transfer,Snr,1.41,0,Spring Peak
+Austin Animal Center,A928860,Cat,Domestic Shorthair,Orange,Intact Male,Standard,24,2025-04-21T10:21:00.000,2025-04-24T00:00:00-05:00,Stray,Normal,Transfer,Snr,2.57,0,Spring Peak
+Austin Animal Center,A927659,Cat,Domestic Shorthair,Black,Intact Male,Standard,1,2025-03-31T14:14:00.000,2025-04-23T18:04:00,Stray,Normal,Adoption,Foster,23.16,0,Spring Peak
+Austin Animal Center,A927917,Dog,Jack Russell Terrier Mix,White/Tan,Intact Male,Standard,24,2025-04-08T13:30:00.000,2025-04-23T17:57:00,Stray,Normal,Adoption,Foster,15.19,0,Spring Peak
+Austin Animal Center,A927041,Cat,Domestic Shorthair,White/Black,Intact Female,Standard,7,2025-03-20T14:17:00.000,2025-04-23T17:52:00,Stray,Injured,Adoption,Foster,34.15,1,Spring Peak
+Austin Animal Center,A928568,Dog,Pit Bull/Bullmastiff,Brown Brindle,Neutered Male,Standard,156,2025-04-16T11:59:00.000,2025-04-23T16:25:00,Stray,Sick,Euthanasia,Suffering,7.18,0,Spring Peak
+Austin Animal Center,A925699,Dog,Pit Bull,Tan/White,Intact Male,Standard,24,2025-02-27T19:01:00.000,2025-04-23T16:19:00,Stray,Injured,Rto-Adopt,,54.89,1,Winter Standard
+Austin Animal Center,A929026,Cat,Domestic Shorthair,Black,Intact Male,Standard,1,2025-04-23T15:29:00.000,2025-04-23T15:31:00,Stray,Neonatal,Transfer,Partner,0.1,0,Spring Peak
+Austin Animal Center,A923885,Cat,Domestic Shorthair,Black/White,Intact Female,Standard,24,2025-02-07T10:52:00.000,2025-04-23T15:21:00,Stray,Normal,Adoption,Foster,75.19,1,Winter Standard
+Austin Animal Center,A927658,Cat,Domestic Shorthair,Brown Tabby,Intact Male,Standard,1,2025-03-31T14:14:00.000,2025-04-23T14:47:00,Stray,Normal,Adoption,Foster,23.02,0,Spring Peak
+Austin Animal Center,A926954,Dog,Pit Bull Mix,White/Brown,Intact Male,Standard,72,2025-03-19T12:19:00.000,2025-04-23T13:59:00,Stray,Injured,Euthanasia,Court/Investigation,35.07,1,Spring Peak
+Austin Animal Center,A918606,Dog,Rottweiler,Black,Intact Male,Standard,12,2025-04-03T12:33:00.000,2025-04-23T13:58:00,Public Assist,Normal,Euthanasia,Court/Investigation,20.06,0,Spring Peak
+Austin Animal Center,A928863,Cat,Domestic Shorthair,Brown Tabby,Intact Male,Standard,24,2025-04-21T11:31:00.000,2025-04-23T13:49:00,Owner Surrender,Normal,Transfer,Partner,2.1,0,Spring Peak
+Austin Animal Center,A929006,Cat,Domestic Shorthair,Orange Tabby,Unknown,Standard,12,2025-04-23T12:37:00.000,2025-04-23T13:25:00,Owner Surrender,Med Urgent,Return to Owner,,0.1,0,Spring Peak
+Austin Animal Center,A927389,Cat,Domestic Shorthair,Tortie,Intact Female,Standard,1,2025-03-26T14:15:00.000,2025-04-23T12:53:00,Stray,Normal,Adoption,Foster,27.94,0,Spring Peak
+Austin Animal Center,A928950,Cat,Domestic Shorthair,Orange Tabby,Unknown,Standard,12,2025-04-22T12:47:00.000,2025-04-23T12:12:51,Stray,Normal,Transfer,Partner,0.98,0,Spring Peak
+Austin Animal Center,A928854,Wildlife,Bat,Red,Unknown,Standard,24,2025-04-21T10:12:00.000,2025-04-23T11:25:00,Wildlife,Normal,Euthanasia,Rabies Risk,2.05,0,Spring Peak
+Austin Animal Center,A928915,Wildlife,Bat,Brown/Black,Unknown,Standard,24,2025-04-21T16:51:00.000,2025-04-23T11:22:00,Wildlife,Normal,Euthanasia,Rabies Risk,1.77,0,Spring Peak
+Austin Animal Center,A928509,Cat,Domestic Medium Hair,Black,Spayed Female,Standard,12,2025-04-15T11:14:00.000,2025-04-23T09:58:00,Stray,Sick,Euthanasia,Suffering,7.95,0,Spring Peak
+Austin Animal Center,A927158,Dog,Pit Bull,Tan,Intact Male,Standard,24,2025-03-23T12:34:00.000,2025-04-23T08:47:00,Stray,Injured,Disposal,,30.84,1,Spring Peak
+Austin Animal Center,A928120,Cat,Domestic Shorthair,Black,Intact Male,Standard,24,2025-04-08T11:48:00.000,2025-04-23T07:45:00,Stray,Normal,Transfer,Snr,14.83,0,Spring Peak
+Austin Animal Center,A928188,Dog,Pit Bull,Blue/Brown Brindle,Intact Male,Standard,12,2025-04-09T13:53:00.000,2025-04-22T19:08:00,Stray,Normal,Return to Owner,,13.22,0,Spring Peak
+Austin Animal Center,A928197,Dog,Cane Corso,Brown Brindle,Intact Male,Standard,12,2025-04-09T13:53:00.000,2025-04-22T19:08:00,Stray,Normal,Return to Owner,,13.22,0,Spring Peak
+Austin Animal Center,A928862,Dog,Chihuahua Shorthair,White,Spayed Female,Standard,156,2025-04-21T11:28:00.000,2025-04-22T19:04:00,Stray,Normal,Return to Owner,,1.32,0,Spring Peak
+Austin Animal Center,A928521,Cat,Domestic Shorthair,Cream Tabby,Intact Female,Standard,2,2025-04-15T19:07:00.000,2025-04-22T19:00:00,Stray,Normal,Adoption,,7.0,0,Spring Peak
+Austin Animal Center,A905997,Dog,Belgian Malinois,Black/Brown,Intact Male,Standard,24,2024-05-28T17:05:00.000,2025-04-22T19:00:00,Stray,Normal,Transfer,Partner,329.08,1,Spring Peak
+Austin Animal Center,A823266,Dog,Yorkshire Terrier,Tan/Blue,Intact Female,Standard,60,2020-09-19T12:12:00.000,2025-04-22T18:47:00,Public Assist,Normal,Return to Owner,,1676.27,1,Fall Moderate
+Austin Animal Center,A917391,Dog,Labrador Retriever Mix,Brown/White,Intact Male,Standard,12,2024-11-06T10:29:00.000,2025-04-22T18:19:00,Stray,Normal,Adoption,,167.33,1,Fall Moderate
+Austin Animal Center,A928733,Cat,Domestic Shorthair,Calico,Intact Female,Standard,1,2025-04-18T12:02:00.000,2025-04-22T17:57:00,Stray,Normal,Adoption,,4.25,0,Spring Peak
+Austin Animal Center,A928734,Cat,Domestic Shorthair,Torbie,Intact Female,Standard,1,2025-04-18T12:02:00.000,2025-04-22T17:57:00,Stray,Normal,Adoption,,4.25,0,Spring Peak
+Austin Animal Center,A928865,Cat,Domestic Shorthair,Brown Tabby,Neutered Male,Standard,6,2025-04-21T11:33:00.000,2025-04-22T17:53:00,Stray,Normal,Return to Owner,,1.26,0,Spring Peak
+Austin Animal Center,A928934,Dog,Labrador Retriever Mix,White/Black,Intact Female,Standard,2,2025-04-22T10:52:00.000,2025-04-22T16:52:00,Stray,Normal,Transfer,Partner,0.25,0,Spring Peak
+Austin Animal Center,A925427,Cat,Domestic Shorthair,Brown Tabby,Intact Female,Standard,12,2025-02-24T13:05:00.000,2025-04-22T16:21:00,Stray,Normal,Return to Owner,,57.14,1,Winter Standard
+Austin Animal Center,A921579,Cat,Domestic Shorthair,Calico/White,Intact Female,Standard,1,2025-01-17T12:54:00.000,2025-04-22T16:17:00,Owner Surrender,Neonatal,Adoption,,95.14,1,Winter Standard
+Austin Animal Center,A921577,Cat,Domestic Shorthair,Orange Tabby/White,Intact Male,Standard,1,2025-01-17T12:54:00.000,2025-04-22T16:16:00,Owner Surrender,Neonatal,Adoption,,95.14,1,Winter Standard
+Austin Animal Center,A928719,Dog,Dachshund Longhair/Border Collie,Black/White,Intact Female,Standard,1,2025-04-18T10:58:00.000,2025-04-22T15:59:00,Stray,Normal,Adoption,,4.21,0,Spring Peak
+Austin Animal Center,A924491,Dog,Carolina Dog,Brown/White,Spayed Female,Standard,60,2025-02-11T13:14:00.000,2025-04-22T15:37:00,Owner Surrender,Normal,Adoption,Foster,70.1,1,Winter Standard
+Austin Animal Center,A928901,Dog,Great Pyrenees/Australian Kelpie,Black/Cream,Intact Male,Standard,132,2025-04-21T14:28:00.000,2025-04-22T15:30:00,Stray,Injured,Return to Owner,,1.04,0,Spring Peak
+Austin Animal Center,A927657,Cat,Domestic Shorthair,Brown Tabby,Intact Female,Standard,1,2025-03-31T14:14:00.000,2025-04-22T15:05:00,Stray,Normal,Adoption,Foster,22.04,0,Spring Peak
+Austin Animal Center,A927390,Cat,Domestic Shorthair,Brown Tabby/White,Intact Female,Standard,1,2025-03-26T14:15:00.000,2025-04-22T13:17:00,Stray,Normal,Adoption,Foster,26.96,0,Spring Peak
+Austin Animal Center,A927391,Cat,Domestic Shorthair,Brown Tabby/White,Intact Male,Standard,1,2025-03-26T14:15:00.000,2025-04-22T13:16:00,Stray,Normal,Adoption,Foster,26.96,0,Spring Peak
+Austin Animal Center,A927696,Dog,Blue Lacy Mix,Blue/White,Intact Male,Standard,1,2025-03-31T20:21:00.000,2025-04-22T12:58:00,Stray,Normal,Adoption,Foster,21.69,0,Spring Peak
+Austin Animal Center,A928228,Dog,Pit Bull,Black/Brown,Intact Female,Standard,5,2025-04-10T09:15:00.000,2025-04-22T12:57:00,Stray,Normal,Adoption,,12.15,0,Spring Peak
+Austin Animal Center,A928251,Cat,Domestic Shorthair,Orange Tabby/White,Intact Male,Standard,1,2025-04-10T12:01:00.000,2025-04-22T12:18:00,Stray,Normal,Adoption,Foster,12.01,0,Spring Peak
+Austin Animal Center,A927800,Cat,Domestic Shorthair,Brown Tabby/White,Intact Female,Standard,1,2025-04-02T12:04:00.000,2025-04-22T12:15:00,Stray,Normal,Adoption,Foster,20.01,0,Spring Peak
+Austin Animal Center,A928505,Dog,Doberman Pinsch/Golden Retriever,Black,Neutered Male,Standard,24,2025-04-15T10:11:00.000,2025-04-22T11:59:00,Stray,Injured,Rto-Adopt,,7.08,0,Spring Peak
+Austin Animal Center,A928298,Cat,Domestic Shorthair,Orange Tabby/White,Intact Male,Standard,24,2025-04-11T07:40:00.000,2025-04-22T09:05:00,Stray,Injured,Transfer,Partner,11.06,0,Spring Peak
+Austin Animal Center,A928711,Cat,Domestic Shorthair,White/Orange,Unknown,Standard,1,2025-04-18T08:44:00.000,2025-04-22T08:08:00,Stray,Neonatal,Died,At Vet,3.98,0,Spring Peak
+Austin Animal Center,A922740,Dog,Pit Bull Mix,White/Brown,Intact Female,Standard,12,2025-01-29T16:36:00.000,2025-04-21T19:08:00,Stray,Normal,Adoption,,82.11,1,Winter Standard
+Austin Animal Center,A928667,Dog,Pit Bull Mix,Blue/White,Intact Male,Standard,96,2025-04-17T13:13:00.000,2025-04-21T18:38:00,Public Assist,Normal,Return to Owner,,4.23,0,Spring Peak
+Austin Animal Center,A928477,Cat,Domestic Shorthair,Black/White,Intact Female,Standard,12,2025-04-14T14:08:00.000,2025-04-21T18:35:00,Stray,Normal,Adoption,,7.19,0,Spring Peak
+Austin Animal Center,A927141,Dog,Labrador Retriever Mix,Black/White,Intact Male,Standard,24,2025-03-22T21:02:00.000,2025-04-21T18:23:00,Stray,Normal,Return to Owner,,29.89,0,Spring Peak
+Austin Animal Center,A928527,Cat,Domestic Shorthair,Orange Tabby,Intact Female,Standard,2,2025-04-15T19:07:00.000,2025-04-21T18:21:00,Stray,Normal,Adoption,,5.97,0,Spring Peak
+Austin Animal Center,A914999,Dog,Boston Terrier Mix,Black/White,Intact Female,Standard,12,2024-10-10T12:10:00.000,2025-04-21T18:12:00,Public Assist,Normal,Adoption,,193.25,1,Fall Moderate
+Austin Animal Center,A928713,Dog,Catahoula,Tricolor,Intact Male,Standard,24,2025-04-18T10:28:00.000,2025-04-21T18:02:00,Stray,Normal,Return to Owner,,3.32,0,Spring Peak
+Austin Animal Center,A924095,Dog,Boston Terrier Mix,Black/White,Intact Male,Standard,12,2025-02-07T18:50:00.000,2025-04-21T17:46:00,Stray,Medical,Adoption,,72.96,1,Winter Standard
+Austin Animal Center,A928558,Cat,Domestic Shorthair,Blue,Intact Male,Standard,12,2025-04-15T14:13:00.000,2025-04-21T17:14:00,Stray,Normal,Adoption,,6.13,0,Spring Peak
+Austin Animal Center,A928857,Dog,Pit Bull,White/Black,Intact Male,Standard,1,2025-04-21T11:10:00.000,2025-04-21T17:14:00,Owner Surrender,Injured,Transfer,Partner,0.25,0,Spring Peak
+Austin Animal Center,A928526,Cat,Domestic Shorthair,Cream Tabby,Intact Male,Standard,2,2025-04-15T19:07:00.000,2025-04-21T16:32:00,Stray,Normal,Adoption,,5.89,0,Spring Peak
+Austin Animal Center,A928864,Cat,Domestic Shorthair,Orange Tabby,Unknown,Standard,24,2025-04-21T11:46:00.000,2025-04-21T16:28:00,Stray,Injured,Euthanasia,Suffering,0.2,0,Spring Peak
+Austin Animal Center,A928523,Cat,Domestic Medium Hair,Orange Tabby,Intact Male,Standard,2,2025-04-15T19:07:00.000,2025-04-21T16:26:00,Stray,Normal,Adoption,,5.89,0,Spring Peak
+Austin Animal Center,A928519,Cat,Domestic Medium Hair,Brown Tabby,Intact Male,Standard,2,2025-04-15T19:07:00.000,2025-04-21T16:19:00,Stray,Normal,Adoption,,5.88,0,Spring Peak
+Austin Animal Center,A928521,Cat,Domestic Shorthair,Cream Tabby,Intact Female,Standard,2,2025-04-15T19:07:00.000,2025-04-21T16:18:00,Stray,Normal,Adoption,,5.88,0,Spring Peak
+Austin Animal Center,A928524,Cat,Domestic Shorthair,Brown Tabby,Intact Male,Standard,2,2025-04-15T19:07:00.000,2025-04-21T16:18:00,Stray,Normal,Adoption,,5.88,0,Spring Peak
+Austin Animal Center,A928377,Dog,Boxer Mix,Brown/White,Intact Male,Standard,1,2025-04-12T11:34:00.000,2025-04-21T16:05:00,Stray,Normal,Adoption,,9.19,0,Spring Peak
+Austin Animal Center,A927672,Cat,Domestic Shorthair,Orange Tabby,Intact Male,Standard,24,2025-03-31T15:11:00.000,2025-04-21T16:01:00,Stray,Normal,Adoption,,21.03,0,Spring Peak
+Austin Animal Center,A928742,Cat,Domestic Shorthair,Brown Tabby,Intact Male,Standard,1,2025-04-18T12:54:00.000,2025-04-21T15:51:00,Stray,Injured,Transfer,Partner,3.12,0,Spring Peak
+Austin Animal Center,A844359,Cat,Domestic Shorthair,Black/White,Neutered Male,Standard,36,2021-10-15T12:13:00.000,2025-04-21T15:46:00,Owner Surrender,Injured,Euthanasia,Suffering,1284.15,1,Fall Moderate
+Austin Animal Center,A928374,Dog,Boxer Mix,Brown,Intact Female,Standard,1,2025-04-12T11:34:00.000,2025-04-21T15:13:00,Stray,Normal,Adoption,,9.15,0,Spring Peak
+Austin Animal Center,A928373,Dog,Boxer Mix,Brown/White,Intact Female,Standard,1,2025-04-12T11:34:00.000,2025-04-21T15:02:00,Stray,Normal,Adoption,,9.14,0,Spring Peak
+Austin Animal Center,A928486,Dog,Collie Smooth/Pit Bull,White/Blue,Intact Male,Standard,9,2025-04-14T15:40:00.000,2025-04-21T14:43:00,Stray,Normal,Adoption,,6.96,0,Spring Peak
+Austin Animal Center,A901343,Dog,Pit Bull Mix,Brown Brindle,Neutered Male,Standard,48,2025-04-18T10:24:00.000,2025-04-21T14:20:00,Abandoned,Normal,Return to Owner,,3.16,0,Spring Peak
+Austin Animal Center,A928478,Cat,Domestic Shorthair,Orange Tabby,Intact Male,Standard,48,2025-04-14T14:08:00.000,2025-04-21T14:09:00,Stray,Normal,Adoption,,7.0,0,Spring Peak
+Austin Animal Center,A922150,Dog,American Bulldog Mix,Black/White,Intact Male,Standard,1,2025-01-25T07:36:00.000,2025-04-21T14:09:00,Stray,Normal,Adoption,,86.27,1,Winter Standard
+Austin Animal Center,A927830,Dog,Rhod Ridgeback,Brown,Intact Female,Standard,24,2025-04-02T14:49:00.000,2025-04-21T13:39:00,Stray,Med Attn,Transfer,Partner,18.95,0,Spring Peak
+Austin Animal Center,A928375,Dog,Boxer Mix,Brown/White,Intact Female,Standard,1,2025-04-12T11:34:00.000,2025-04-21T13:30:00,Stray,Normal,Adoption,,9.08,0,Spring Peak
+Austin Animal Center,A928580,Dog,Bloodhound,Brown/White,Intact Male,Standard,96,2025-04-16T09:27:00.000,2025-04-21T11:11:00,Owner Surrender,Normal,Euthanasia,Suffering,5.07,0,Spring Peak
+Austin Animal Center,A928125,Dog,Chihuahua Shorthair,Tan/White,Intact Female,Standard,3,2025-04-08T12:18:00.000,2025-04-21T10:27:00,Stray,Normal,Adoption,,12.92,0,Spring Peak
+Austin Animal Center,A928530,Cat,Domestic Longhair,Tortie,Intact Female,Standard,2,2025-04-15T19:07:00.000,2025-04-21T10:21:00,Stray,Normal,Adoption,,5.63,0,Spring Peak
+Austin Animal Center,A928722,Cat,Domestic Shorthair,Gray Tabby,Unknown,Standard,48,2025-04-18T11:19:00.000,2025-04-21T07:34:00,Stray,Normal,Transfer,Snr,2.84,0,Spring Peak
+Austin Animal Center,A928739,Cat,Domestic Shorthair,Brown Tabby/White,Intact Male,Standard,12,2025-04-18T12:50:00.000,2025-04-21T07:33:00,Stray,Normal,Transfer,Snr,2.78,0,Spring Peak
+Austin Animal Center,A928717,Cat,Domestic Shorthair,Blue Point,Intact Male,Standard,24,2025-04-18T11:04:00.000,2025-04-21T07:32:00,Stray,Injured,Transfer,Snr,2.85,0,Spring Peak
+Austin Animal Center,A928601,Cat,Domestic Shorthair,Brown Tabby/White,Intact Male,Standard,24,2025-04-16T10:30:00.000,2025-04-21T07:31:00,Stray,Normal,Transfer,Snr,4.88,0,Spring Peak
+Austin Animal Center,A928619,Wildlife,Raccoon,Black/Gray,Unknown,Standard,24,2025-04-16T17:17:00.000,2025-04-20T19:38:00,Wildlife,Injured,Euthanasia,Suffering,4.1,0,Spring Peak
+Austin Animal Center,A928097,Dog,Rat Terrier Mix,Brown Brindle,Intact Male,Standard,24,2025-04-14T11:36:00.000,2025-04-20T17:36:00,Stray,Normal,Adoption,,6.25,0,Spring Peak
+Austin Animal Center,A928056,Dog,Rottweiler,Black/Tan,Intact Male,Standard,12,2025-04-07T10:08:00.000,2025-04-20T17:04:00,Stray,Normal,Adoption,,13.29,0,Spring Peak
+Austin Animal Center,A927798,Cat,Domestic Shorthair,Brown Tabby/White,Intact Female,Standard,1,2025-04-02T12:04:00.000,2025-04-20T16:58:00,Stray,Normal,Adoption,Foster,18.2,0,Spring Peak
+Austin Animal Center,A928514,Cat,Domestic Shorthair,Orange Tabby,Spayed Female,Standard,5,2025-04-15T11:46:00.000,2025-04-20T15:27:00,Stray,Normal,Adoption,,5.15,0,Spring Peak
+Austin Animal Center,A927631,Cat,Domestic Shorthair,Cream Tabby/White,Intact Male,Standard,36,2025-04-04T08:00:00.000,2025-04-20T15:16:00,Stray,Normal,Adoption,,16.3,0,Spring Peak
+Austin Animal Center,A925423,Dog,Pembroke Welsh Corgi Mix,Black/White,Intact Male,Standard,12,2025-02-24T12:17:00.000,2025-04-20T14:11:00,Stray,Normal,Adoption,,55.08,1,Winter Standard
+Austin Animal Center,A928371,Dog,Boxer Mix,Tan/White,Intact Male,Standard,1,2025-04-12T11:34:00.000,2025-04-20T14:07:00,Stray,Normal,Adoption,,8.11,0,Spring Peak
+Austin Animal Center,A927665,Cat,Domestic Shorthair,Orange Tabby/White,Intact Male,Standard,36,2025-03-31T14:14:00.000,2025-04-20T13:15:00,Stray,Normal,Adoption,,19.96,0,Spring Peak
+Austin Animal Center,A926444,Dog,Belgian Malinois,Sable/Black,Intact Male,Standard,24,2025-03-11T10:21:00.000,2025-04-20T12:20:00,Stray,Normal,Adoption,,40.08,1,Spring Peak
+Austin Animal Center,A928606,Cat,Domestic Longhair,Orange Tabby,Neutered Male,Standard,24,2025-04-16T18:11:00.000,2025-04-20T11:58:00,Owner Surrender,Normal,Adoption,,3.74,0,Spring Peak
+Austin Animal Center,A928815,Cat,Domestic Shorthair,Black Tabby,Intact Male,Standard,1,2025-04-20T07:44:00.000,2025-04-20T11:25:00,Stray,Neonatal,Transfer,Partner,0.15,0,Spring Peak
+Austin Animal Center,A928819,Wildlife,Bat,Brown,Unknown,Standard,24,2025-04-19T22:20:00.000,2025-04-20T09:47:31,Wildlife,Normal,Euthanasia,Rabies Risk,0.48,0,Spring Peak
+Austin Animal Center,A919746,Dog,Doberman Pinsch Mix,Black/Tan,Spayed Female,Standard,36,2024-12-14T16:55:00.000,2025-04-19T18:07:00,Stray,Normal,Adoption,,126.05,1,Winter Standard
+Austin Animal Center,A926590,Dog,Labrador Retriever Mix,Red,Intact Female,Standard,5,2025-03-13T11:41:00.000,2025-04-19T17:32:00,Owner Surrender,Normal,Adoption,,37.24,1,Spring Peak
+Austin Animal Center,A928441,Dog,Cairn Terrier,Tan,Neutered Male,Standard,60,2025-04-14T10:46:00.000,2025-04-19T17:06:00,Stray,Normal,Adoption,,5.26,0,Spring Peak
+Austin Animal Center,A928628,Dog,Pit Bull,White/Black,Intact Male,Standard,12,2025-04-17T08:35:00.000,2025-04-19T16:40:00,Stray,Injured,Return to Owner,,2.34,0,Spring Peak
+Austin Animal Center,A926685,Cat,Domestic Medium Hair,Black,Intact Male,Standard,2,2025-03-14T17:28:00.000,2025-04-19T16:29:00,Stray,Normal,Adoption,,35.96,1,Spring Peak
+Austin Animal Center,A927724,Bird,Chicken,Red/Black,Intact Male,Standard,12,2025-04-01T12:16:00.000,2025-04-19T16:27:00,Stray,Normal,Adoption,,18.17,0,Spring Peak
+Austin Animal Center,A922057,Dog,Pit Bull,Black/White,Intact Male,Standard,12,2025-01-24T13:31:00.000,2025-04-19T15:41:00,Stray,Normal,Adoption,,85.09,1,Winter Standard
+Austin Animal Center,A928537,Dog,Labrador Retriever Mix,White/Tan,Intact Male,Standard,48,2025-04-15T13:05:00.000,2025-04-19T15:33:00,Stray,Injured,Euthanasia,Suffering,4.1,0,Spring Peak
+Austin Animal Center,A928516,Cat,Domestic Shorthair,Tortie,Intact Female,Standard,12,2025-04-15T11:46:00.000,2025-04-19T15:33:00,Stray,Normal,Died,In Kennel,4.16,0,Spring Peak
+Austin Animal Center,A926822,Dog,Miniature Pinscher,Brown,Intact Female,Standard,24,2025-03-17T15:13:00.000,2025-04-19T15:31:00,Abandoned,Normal,Adoption,,33.01,1,Spring Peak
+Austin Animal Center,A926813,Cat,Domestic Shorthair,Black,Spayed Female,Standard,96,2025-03-17T12:44:00.000,2025-04-19T15:18:00,Owner Surrender,Normal,Adoption,Foster,33.11,1,Spring Peak
+Austin Animal Center,A924297,Dog,Chihuahua Shorthair,White/Black,Intact Male,Standard,144,2025-02-10T07:50:00.000,2025-04-19T15:16:00,Stray,Aged,Adoption,Foster,68.31,1,Winter Standard
+Austin Animal Center,A860148,Dog,Alaskan Husky Mix,Black/White,Intact Male,Standard,24,2022-06-23T13:17:00.000,2025-04-19T15:10:00,Stray,Normal,Return to Owner,,1031.08,1,Summer High
+Austin Animal Center,A921592,Dog,Labrador Retriever Mix,Black/White,Intact Female,Standard,1,2025-01-17T14:11:00.000,2025-04-19T15:04:00,Stray,Normal,Adoption,Foster,92.04,1,Winter Standard
+Austin Animal Center,A921717,Cat,Domestic Shorthair,Brown Tabby,Intact Female,Standard,6,2025-01-19T20:19:00.000,2025-04-19T14:59:00,Stray,Injured,Adoption,Foster,89.78,1,Winter Standard
+Austin Animal Center,A928254,Cat,Domestic Shorthair,Brown Tabby/White,Intact Female,Standard,1,2025-04-10T12:01:00.000,2025-04-19T14:58:00,Stray,Normal,Adoption,Foster,9.12,0,Spring Peak
+Austin Animal Center,A915435,Dog,Pit Bull,Blue,Intact Male,Standard,24,2024-10-15T14:41:00.000,2025-04-19T14:56:00,Stray,Normal,Transfer,Partner,186.01,1,Fall Moderate
+Austin Animal Center,A928802,Dog,German Shepherd,Brown/Black,Intact Female,Standard,1,2025-04-19T12:37:00.000,2025-04-19T14:54:00,Abandoned,Injured,Transfer,Partner,0.1,0,Spring Peak
+Austin Animal Center,A928803,Dog,German Shepherd,White/Black,Intact Female,Standard,1,2025-04-19T12:37:00.000,2025-04-19T14:54:00,Abandoned,Injured,Transfer,Partner,0.1,0,Spring Peak
+Austin Animal Center,A928799,Dog,German Shepherd,Brown/Black,Intact Male,Standard,1,2025-04-19T12:37:00.000,2025-04-19T14:54:00,Abandoned,Injured,Transfer,Partner,0.1,0,Spring Peak
+Austin Animal Center,A925803,Dog,Plott Hound Mix,Brown Brindle,Spayed Female,Standard,24,2025-03-01T14:08:00.000,2025-04-19T14:54:00,Public Assist,Normal,Adoption,Foster,49.03,1,Spring Peak
+Austin Animal Center,A928800,Dog,German Shepherd,Brown/Black,Intact Female,Standard,1,2025-04-19T12:37:00.000,2025-04-19T14:53:00,Abandoned,Injured,Transfer,Partner,0.1,0,Spring Peak
+Austin Animal Center,A928801,Dog,German Shepherd,Brown/Black,Intact Male,Standard,1,2025-04-19T12:37:00.000,2025-04-19T14:53:00,Abandoned,Injured,Transfer,Partner,0.1,0,Spring Peak
+Austin Animal Center,A928253,Cat,Domestic Shorthair,Orange Tabby/White,Intact Male,Standard,1,2025-04-10T12:01:00.000,2025-04-19T14:49:00,Stray,Normal,Adoption,Foster,9.12,0,Spring Peak
+Austin Animal Center,A928252,Cat,Domestic Shorthair,Orange Tabby/White,Intact Male,Standard,1,2025-04-10T12:01:00.000,2025-04-19T14:44:00,Stray,Normal,Adoption,Foster,9.11,0,Spring Peak
+Austin Animal Center,A897798,Dog,Pit Bull/Boxer,White/Black,Intact Female,Standard,84,2024-02-07T07:18:00.000,2025-04-19T14:42:00,Stray,Injured,Adoption,Foster,437.31,1,Winter Standard
+Austin Animal Center,A926593,Cat,Domestic Shorthair,Black,Intact Female,Standard,1,2025-03-13T11:32:00.000,2025-04-19T14:40:00,Stray,Medical,Adoption,Foster,37.13,1,Spring Peak
+Austin Animal Center,A926594,Cat,Domestic Longhair,Black/White,Intact Female,Standard,1,2025-03-13T11:32:00.000,2025-04-19T14:36:00,Stray,Medical,Adoption,Foster,37.13,1,Spring Peak
+Austin Animal Center,A926595,Cat,Domestic Longhair,Brown Tabby/White,Intact Male,Standard,1,2025-03-13T11:32:00.000,2025-04-19T14:33:00,Stray,Medical,Adoption,Foster,37.13,1,Spring Peak
+Austin Animal Center,A924792,Cat,Domestic Shorthair,Orange Tabby,Intact Female,Standard,1,2025-02-15T08:06:00.000,2025-04-19T14:18:00,Stray,Neonatal,Adoption,Foster,63.26,1,Winter Standard
+Austin Animal Center,A924790,Cat,Domestic Shorthair,Orange Tabby,Intact Female,Standard,1,2025-02-15T08:06:00.000,2025-04-19T14:16:00,Stray,Neonatal,Adoption,Foster,63.26,1,Winter Standard
+Austin Animal Center,A924795,Cat,Domestic Shorthair,Cream Tabby,Intact Male,Standard,1,2025-02-15T08:06:00.000,2025-04-19T14:14:00,Stray,Neonatal,Adoption,Foster,63.26,1,Winter Standard
+Austin Animal Center,A924794,Cat,Domestic Shorthair,Cream Tabby,Intact Female,Standard,1,2025-02-15T08:06:00.000,2025-04-19T14:12:00,Stray,Neonatal,Adoption,Foster,63.25,1,Winter Standard
+Austin Animal Center,A924793,Cat,Domestic Shorthair,Orange Tabby,Intact Male,Standard,1,2025-02-15T08:06:00.000,2025-04-19T14:08:00,Stray,Neonatal,Adoption,Foster,63.25,1,Winter Standard
+Austin Animal Center,A924791,Cat,Domestic Shorthair,Orange Tabby,Intact Female,Standard,1,2025-02-15T08:06:00.000,2025-04-19T14:04:00,Stray,Neonatal,Adoption,Foster,63.25,1,Winter Standard
+Austin Animal Center,A928284,Cat,Domestic Shorthair,Tortie,Intact Female,Standard,3,2025-04-10T16:11:00.000,2025-04-19T14:02:00,Stray,Normal,Euthanasia,Suffering,8.91,0,Spring Peak
+Austin Animal Center,A927216,Dog,Chihuahua Shorthair Mix,Chocolate,Intact Male,Standard,2,2025-03-28T16:53:00.000,2025-04-19T14:01:00,Stray,Normal,Adoption,,21.88,0,Spring Peak
+Austin Animal Center,A923147,Dog,Australian Shepherd,Black/White,Neutered Male,Standard,24,2025-03-18T13:07:00.000,2025-04-19T14:00:00,Stray,Normal,Adoption,Foster,32.04,1,Spring Peak
+Austin Animal Center,A834420,Dog,Bulldog/American Staffordshire Terrier,Tan,Intact Male,Standard,60,2025-04-13T10:46:00.000,2025-04-19T13:32:00,Public Assist,Normal,Transfer,Partner,6.12,0,Spring Peak
+Austin Animal Center,A927443,Cat,Domestic Shorthair,Brown Tabby,Neutered Male,Standard,60,2025-03-27T12:11:00.000,2025-04-19T13:29:00,Owner Surrender,Normal,Adoption,,23.05,0,Spring Peak
+Austin Animal Center,A838825,Cat,Domestic Shorthair,Black,Intact Female,Standard,1,2021-07-12T17:05:00.000,2025-04-19T13:04:00,Owner Surrender,Normal,Adoption,,1376.83,1,Summer High
+Austin Animal Center,A925672,Dog,Labrador Retriever,Black/White,Neutered Male,Standard,24,2025-04-03T11:00:00.000,2025-04-19T13:01:00,Stray,Normal,Adoption,,16.08,0,Spring Peak
+Austin Animal Center,A927719,Cat,Domestic Shorthair,Brown Tabby/White,Intact Male,Standard,60,2025-04-01T11:50:00.000,2025-04-19T12:19:00,Stray,Normal,Adoption,,18.02,0,Spring Peak
+Austin Animal Center,A927399,Dog,Chihuahua Shorthair/Beagle,Cream,Intact Female,Standard,12,2025-03-26T13:29:00.000,2025-04-19T11:57:00,Owner Surrender,Normal,Adoption,Foster,23.94,0,Spring Peak
+Austin Animal Center,A928560,Wildlife,Raccoon,Brown,Unknown,Standard,24,2025-04-15T15:30:00.000,2025-04-19T11:11:00,Wildlife,Injured,Euthanasia,Rabies Risk,3.82,0,Spring Peak
+Austin Animal Center,A928522,Rabbit,Rabbit Sh,White/Brown,Intact Male,Standard,12,2025-04-15T11:51:00.000,2025-04-19T11:08:00,Stray,Normal,Transfer,Partner,3.97,0,Spring Peak
+Austin Animal Center,A925502,Dog,Labrador Retriever Mix,White/Brown,Intact Female,Standard,36,2025-02-25T12:17:00.000,2025-04-19T00:00:00-05:00,Owner Surrender,Normal,Return to Owner,,52.49,1,Winter Standard
+Austin Animal Center,A928483,Dog,Pit Bull Mix,Brown Brindle,Intact Female,Standard,36,2025-04-14T15:19:00.000,2025-04-18T19:38:00,Stray,Sick,Died,In Kennel,4.18,0,Spring Peak
+Austin Animal Center,A927737,Dog,Anatol Shepherd,White/Brown,Intact Male,Standard,9,2025-04-01T13:51:00.000,2025-04-18T19:08:00,Stray,Normal,Adoption,,17.22,0,Spring Peak
+Austin Animal Center,A928376,Dog,Boxer Mix,Buff,Intact Male,Standard,1,2025-04-12T11:34:00.000,2025-04-18T18:55:00,Stray,Normal,Adoption,,6.31,0,Spring Peak
+Austin Animal Center,A928093,Dog,Chihuahua Shorthair Mix,Tricolor,Intact Male,Standard,4,2025-04-07T15:34:00.000,2025-04-18T18:50:00,Stray,Normal,Adoption,,11.14,0,Spring Peak
+Austin Animal Center,A927207,Cat,Domestic Shorthair,Brown Tabby/White,Intact Male,Standard,2,2025-03-24T11:13:00.000,2025-04-18T18:23:00,Stray,Normal,Adoption,Foster,25.3,0,Spring Peak
+Austin Animal Center,A925947,Dog,Labrador Retriever Mix,Black/White,Intact Male,Standard,1,2025-03-03T10:22:00.000,2025-04-18T18:19:00,Stray,Normal,Adoption,Foster,46.33,1,Spring Peak
+Austin Animal Center,A925946,Dog,Labrador Retriever Mix,Black/White,Intact Male,Standard,1,2025-03-03T10:22:00.000,2025-04-18T18:17:00,Stray,Normal,Adoption,Foster,46.33,1,Spring Peak
+Austin Animal Center,A927526,Dog,English Shepherd,Black/Tan,Intact Male,Standard,24,2025-03-29T10:10:00.000,2025-04-18T18:15:00,Stray,Normal,Adoption,,20.34,0,Spring Peak
+Austin Animal Center,A927093,Cat,Domestic Shorthair,Black,Neutered Male,Standard,12,2025-03-21T16:37:00.000,2025-04-18T18:13:00,Stray,Injured,Adoption,,28.07,0,Spring Peak
+Austin Animal Center,A926104,Dog,Bruss Griffon Mix,Black,Intact Female,Standard,1,2025-03-05T16:01:00.000,2025-04-18T18:09:00,Stray,Normal,Adoption,Foster,44.09,1,Spring Peak
+Austin Animal Center,A928747,Cat,Domestic Shorthair,White/Gray,Intact Male,Standard,1,2025-04-18T13:49:00.000,2025-04-18T18:07:00,Stray,Sick,Transfer,Partner,0.18,0,Spring Peak
+Austin Animal Center,A928748,Cat,Domestic Shorthair,White/Gray,Intact Female,Standard,1,2025-04-18T13:49:00.000,2025-04-18T18:07:00,Stray,Sick,Transfer,Partner,0.18,0,Spring Peak
+Austin Animal Center,A926582,Dog,Mastiff Mix,Tan,Intact Male,Standard,1,2025-03-13T11:23:00.000,2025-04-18T18:06:00,Owner Surrender,Normal,Adoption,Foster,36.28,1,Spring Peak
+Austin Animal Center,A926354,Dog,German Shepherd,Tan/Black,Intact Female,Standard,12,2025-03-10T11:09:00.000,2025-04-18T17:58:00,Owner Surrender,Normal,Adoption,,39.28,1,Spring Peak
+Austin Animal Center,A928468,Cat,Domestic Longhair,Brown Tabby/White,Neutered Male,Standard,24,2025-04-14T11:04:00.000,2025-04-18T17:05:00,Stray,Normal,Adoption,,4.25,0,Spring Peak
+Austin Animal Center,A928647,Cat,Domestic Shorthair,White/Brown Tabby,Intact Female,Standard,9,2025-04-17T11:41:00.000,2025-04-18T17:03:00,Owner Surrender,Normal,Adoption,,1.22,0,Spring Peak
+Austin Animal Center,A922607,Dog,Labrador Retriever Mix,Black/White,Intact Male,Standard,12,2025-01-28T13:31:00.000,2025-04-18T16:08:00,Public Assist,Normal,Adoption,Foster,80.11,1,Winter Standard
+Austin Animal Center,A923138,Dog,Bruss Griffon Mix,Brown/Gray,Intact Female,Standard,10,2025-03-05T16:01:00.000,2025-04-18T16:03:00,Stray,Normal,Adoption,,44.0,1,Spring Peak
+Austin Animal Center,A928267,Cat,Domestic Shorthair,Blue Tabby,Neutered Male,Standard,12,2025-04-10T13:42:00.000,2025-04-18T14:16:00,Owner Surrender,Normal,Adoption,,8.02,0,Spring Peak
+Austin Animal Center,A927655,Dog,Jack Russell Terrier/Rat Terrier,White/Black,Spayed Female,Standard,12,2025-03-31T13:49:00.000,2025-04-18T13:59:00,Owner Surrender,Normal,Adoption,,18.01,0,Spring Peak
+Austin Animal Center,A920560,Dog,American Pit Bull Terrier Mix,Brown Brindle/White,Intact Male,Standard,48,2024-12-31T10:49:00.000,2025-04-18T13:15:00,Owner Surrender,Normal,Adoption,,108.1,1,Winter Standard
+Austin Animal Center,A928600,Cat,Domestic Shorthair,Brown Tabby,Intact Male,Standard,12,2025-04-16T10:14:00.000,2025-04-18T12:56:00,Stray,Normal,Transfer,Partner,2.11,0,Spring Peak
+Austin Animal Center,A928282,Dog,Miniature Schnauzer Mix,White,Intact Male,Standard,24,2025-04-10T16:13:00.000,2025-04-18T12:35:00,Stray,Normal,Adoption,,7.85,0,Spring Peak
+Austin Animal Center,A928709,Cat,Domestic Shorthair,White/Orange,Intact Female,Standard,1,2025-04-18T08:44:00.000,2025-04-18T11:42:00,Stray,Neonatal,Transfer,Partner,0.12,0,Spring Peak
+Austin Animal Center,A928710,Cat,Domestic Shorthair,Orange Tabby/White,Intact Male,Standard,1,2025-04-18T08:44:00.000,2025-04-18T11:41:00,Stray,Neonatal,Transfer,Partner,0.12,0,Spring Peak
+Austin Animal Center,A927993,Dog,Chihuahua Shorthair/Cairn Terrier,Brown,Intact Female,Standard,12,2025-04-05T12:41:00.000,2025-04-18T11:39:00,Stray,Normal,Transfer,Partner,12.96,0,Spring Peak
+Austin Animal Center,A928703,Cat,Domestic Shorthair,Brown,Spayed Female,Standard,72,2025-04-18T00:24:00.000,2025-04-18T11:34:00,Stray,Injured,Return to Owner,,0.47,0,Spring Peak
+Austin Animal Center,A928618,Wildlife,Fox,Red,Unknown,Standard,12,2025-04-16T17:11:00.000,2025-04-18T10:38:00,Wildlife,Sick,Euthanasia,Rabies Risk,1.73,0,Spring Peak
+Austin Animal Center,A928598,Wildlife,Bat,Brown/Brown,Unknown,Standard,24,2025-04-16T10:51:00.000,2025-04-18T10:37:00,Wildlife,Sick,Disposal,Rabies Risk,1.99,0,Spring Peak
+Austin Animal Center,A928662,Wildlife,Bat,Brown,Unknown,Standard,24,2025-04-17T12:21:00.000,2025-04-18T10:34:00,Wildlife,Normal,Euthanasia,Rabies Risk,0.93,0,Spring Peak
+Austin Animal Center,A927651,Cat,Domestic Shorthair,White/Brown,Intact Female,Standard,24,2025-03-31T13:07:00.000,2025-04-18T10:34:00,Stray,Normal,Adoption,,17.89,0,Spring Peak
+Austin Animal Center,A921618,Dog,Flat Coat Retriever,Black/White,Intact Male,Standard,24,2025-01-17T20:47:00.000,2025-04-18T09:39:00,Public Assist,Normal,Transfer,Partner,90.54,1,Winter Standard
+Austin Animal Center,A928691,Dog,Unknown,White/Brown,Unknown,Standard,1,2025-04-17T16:56:00.000,2025-04-17T19:35:00,Abandoned,Neonatal,Transfer,Partner,0.11,0,Spring Peak
+Austin Animal Center,A928692,Dog,Unknown,White/Brown,Unknown,Standard,1,2025-04-17T16:56:00.000,2025-04-17T19:35:00,Abandoned,Neonatal,Transfer,Partner,0.11,0,Spring Peak
+Austin Animal Center,A928690,Dog,Unknown,White/Brown,Unknown,Standard,1,2025-04-17T16:56:00.000,2025-04-17T19:34:00,Abandoned,Neonatal,Transfer,Partner,0.11,0,Spring Peak
+Austin Animal Center,A928688,Dog,Unknown,White/Brown,Unknown,Standard,1,2025-04-17T16:56:00.000,2025-04-17T19:33:00,Abandoned,Neonatal,Transfer,Partner,0.11,0,Spring Peak
+Austin Animal Center,A928689,Dog,Unknown,White/Brown,Unknown,Standard,1,2025-04-17T16:56:00.000,2025-04-17T19:33:00,Abandoned,Neonatal,Transfer,Partner,0.11,0,Spring Peak
+Austin Animal Center,A928687,Dog,Unknown,White/Brown,Unknown,Standard,1,2025-04-17T16:56:00.000,2025-04-17T19:32:00,Abandoned,Neonatal,Transfer,Partner,0.11,0,Spring Peak
+Austin Animal Center,A928415,Dog,Labrador Retriever Mix,Black/Brown,Neutered Male,Standard,72,2025-04-13T10:26:00.000,2025-04-17T18:38:00,Abandoned,Normal,Return to Owner,,4.34,0,Spring Peak
+Austin Animal Center,A927649,Cat,Domestic Shorthair,Brown Tabby,Intact Male,Standard,24,2025-03-31T13:08:00.000,2025-04-17T18:08:00,Stray,Injured,Adoption,,17.21,0,Spring Peak
+Austin Animal Center,A928261,Cat,Domestic Shorthair,White/Gray,Intact Male,Standard,24,2025-04-10T13:01:00.000,2025-04-17T17:49:00,Stray,Normal,Adoption,,7.2,0,Spring Peak
+Austin Animal Center,A921615,Dog,Labrador Retriever Mix,Tan,Intact Male,Standard,24,2025-01-17T20:47:00.000,2025-04-17T17:15:00,Public Assist,Normal,Adoption,,89.85,1,Winter Standard
+Austin Animal Center,A921615,Dog,Labrador Retriever Mix,Tan,Intact Male,Standard,24,2025-01-17T20:47:00.000,2025-04-17T17:15:00,Public Assist,Normal,Adoption,,89.85,1,Winter Standard
+Austin Animal Center,A920452,Dog,Pit Bull,White,Intact Female,Standard,12,2024-12-28T22:32:00.000,2025-04-17T16:50:00,Stray,Normal,Adoption,,109.76,1,Winter Standard
+Austin Animal Center,A900875,Dog,Chihuahua Shorthair,Black/Tan,Intact Male,Standard,12,2024-03-25T17:14:00.000,2025-04-17T13:11:00,Stray,Normal,Adoption,,387.83,1,Spring Peak
+Austin Animal Center,A928309,Dog,Miniature Schnauzer,Brown,Intact Male,Standard,9,2025-04-11T11:03:00.000,2025-04-17T12:27:00,Stray,Normal,Adoption,,6.06,0,Spring Peak
+Austin Animal Center,A856508,Dog,Pit Bull,Tan/White,Intact Male,Standard,48,2025-04-05T11:57:00.000,2025-04-17T11:11:00,Stray,Normal,Transfer,Partner,11.97,0,Spring Peak
+Austin Animal Center,A928305,Dog,Labrador Retriever,Black/White,Intact Male,Standard,24,2025-04-11T11:16:00.000,2025-04-17T11:09:00,Stray,Injured,Transfer,Partner,6.0,0,Spring Peak
+Austin Animal Center,A927593,Dog,American Foxhound/Australian Cattle Dog,White/Black,Intact Male,Standard,60,2025-03-30T17:47:00.000,2025-04-17T11:09:00,Owner Surrender,Injured,Transfer,Partner,17.72,0,Spring Peak
+Austin Animal Center,A925126,Dog,German Shepherd,Black/Brown,Neutered Male,Standard,72,2025-02-20T14:00:00.000,2025-04-17T11:05:00,Owner Surrender,Normal,Transfer,Partner,55.88,1,Winter Standard
+Austin Animal Center,A905735,Dog,Great Dane/Labrador Retriever,Black,Spayed Female,Standard,96,2024-05-24T13:06:00.000,2025-04-17T09:44:00,Owner Surrender,Normal,Adoption,Foster,327.86,1,Spring Peak
+Austin Animal Center,A928311,Cat,Domestic Shorthair,White/Brown Tabby,Unknown,Standard,24,2025-04-11T11:12:00.000,2025-04-17T00:00:00,Stray,Normal,Transfer,Snr,5.53,0,Spring Peak
+Austin Animal Center,A928402,Wildlife,Bat,Black/Brown,Unknown,Standard,24,2025-04-12T22:36:00.000,2025-04-16T19:39:00,Wildlife,Normal,Disposal,Rabies Risk,3.88,0,Spring Peak
+Austin Animal Center,A928423,Dog,Yorkshire Terrier,Brown/Black,Intact Female,Standard,72,2025-04-13T12:35:00.000,2025-04-16T18:36:00,Stray,Injured,Return to Owner,,3.25,0,Spring Peak
+Austin Animal Center,A928369,Cat,Domestic Shorthair,Brown Tabby/White,Intact Female,Standard,5,2025-04-12T11:15:00.000,2025-04-16T18:16:00,Stray,Normal,Adoption,,4.29,0,Spring Peak
+Austin Animal Center,A926164,Cat,Domestic Shorthair,Orange Tabby/White,Neutered Male,Standard,36,2025-03-06T14:38:00.000,2025-04-16T17:22:00,Owner Surrender,Normal,Adoption,,41.11,1,Spring Peak
+Austin Animal Center,A923416,Rabbit,Rabbit Sh,White/Brown,Intact Female,Standard,12,2025-02-03T13:56:00.000,2025-04-16T16:43:00,Stray,Normal,Adoption,,72.12,1,Winter Standard
+Austin Animal Center,A928310,Dog,Miniature Schnauzer,Black,Intact Male,Standard,12,2025-04-11T11:03:00.000,2025-04-16T16:22:00,Stray,Normal,Adoption,,5.22,0,Spring Peak
+Austin Animal Center,A927320,Dog,Pit Bull Mix,White/Brown,Intact Male,Standard,72,2025-03-25T16:15:00.000,2025-04-16T16:12:00,Stray,Sick,Adoption,,22.0,0,Spring Peak
+Austin Animal Center,A927653,Cat,Siamese Mix,Lynx Point,Intact Male,Standard,1,2025-03-31T13:07:00.000,2025-04-16T16:04:00,Stray,Normal,Adoption,Foster,16.12,0,Spring Peak
+Austin Animal Center,A927652,Cat,Snowshoe Mix,Lynx Point/White,Intact Male,Standard,1,2025-03-31T13:07:00.000,2025-04-16T15:56:00,Stray,Normal,Adoption,Foster,16.12,0,Spring Peak
+Austin Animal Center,A927654,Cat,Siamese Mix,Flame Point,Intact Male,Standard,1,2025-03-31T13:07:00.000,2025-04-16T15:54:00,Stray,Normal,Adoption,Foster,16.12,0,Spring Peak
+Austin Animal Center,A716432,Dog,Australian Shepherd Mix,Blue Merle/Black,Spayed Female,Standard,108,2024-08-20T13:48:00.000,2025-04-16T15:46:00,Stray,Normal,Adoption,,239.08,1,Summer High
+Austin Animal Center,A928577,Dog,Pit Bull Mix,Tan,Intact Female,Standard,24,2025-04-16T06:43:00.000,2025-04-16T15:10:00,Stray,Injured,Return to Owner,,0.35,0,Spring Peak
+Austin Animal Center,A926472,Cat,Domestic Shorthair,Torbie,Intact Female,Standard,6,2025-03-11T13:18:00.000,2025-04-16T14:39:00,Stray,Injured,Adoption,,36.06,1,Spring Peak
+Austin Animal Center,A926646,Dog,Pit Bull Mix,Blue/White,Intact Female,Standard,2,2025-03-14T10:59:00.000,2025-04-16T14:29:00,Stray,Normal,Adoption,,33.15,1,Spring Peak
+Austin Animal Center,A928034,Dog,Australian Cattle Dog Mix,White/Tan,Intact Male,Standard,1,2025-04-06T16:22:00.000,2025-04-16T13:10:00,Stray,Med Attn,Adoption,,9.87,0,Spring Peak
+Austin Animal Center,A928512,Dog,Labrador Retriever Mix,White/Orange,Neutered Male,Standard,24,2025-04-15T11:46:00.000,2025-04-16T12:21:00,Stray,Normal,Return to Owner,,1.02,0,Spring Peak
+Austin Animal Center,A928515,Cat,Domestic Shorthair,Tortie,Intact Female,Standard,5,2025-04-15T11:46:00.000,2025-04-16T12:09:00,Stray,Normal,Transfer,Partner,1.02,0,Spring Peak
+Austin Animal Center,A928450,Cat,Domestic Shorthair,Blue Tabby,Intact Female,Standard,24,2025-04-14T11:30:00.000,2025-04-16T12:09:00,Stray,Feral,Transfer,Partner,2.03,0,Spring Peak
+Austin Animal Center,A926526,Dog,Great Pyrenees/Golden Retriever,White,Intact Female,Standard,5,2025-03-19T11:29:00.000,2025-04-16T11:07:00,Stray,Injured,Transfer,Partner,27.98,0,Spring Peak
+Austin Animal Center,A928070,Cat,Domestic Shorthair,Black,Intact Male,Standard,24,2025-04-07T10:31:00.000,2025-04-16T10:17:00,Stray,Normal,Adoption,,8.99,0,Spring Peak
+Austin Animal Center,A917988,Dog,Australian Cattle Dog,Black/Brown,Neutered Male,Standard,24,2024-11-14T14:33:00.000,2025-04-16T10:12:00,Owner Surrender,Normal,Adoption,Foster,152.82,1,Fall Moderate
+Austin Animal Center,A928482,Wildlife,Bat,Brown/Black,Unknown,Standard,24,2025-04-14T15:13:00.000,2025-04-16T10:09:00,Wildlife,Normal,Euthanasia,Rabies Risk,1.79,0,Spring Peak
+Austin Animal Center,A928487,Wildlife,Bat,Brown/Black,Unknown,Standard,24,2025-04-14T16:03:00.000,2025-04-16T10:05:00,Wildlife,Normal,Euthanasia,Rabies Risk,1.75,0,Spring Peak
+Austin Animal Center,A928569,Wildlife,Raccoon,Gray/Black,Unknown,Standard,24,2025-04-16T08:24:00.000,2025-04-16T10:01:00,Wildlife,Sick,Euthanasia,Rabies Risk,0.1,0,Spring Peak
+Austin Animal Center,A918195,Cat,Domestic Shorthair,Black/White,Intact Male,Standard,1,2024-11-18T11:16:00.000,2025-04-16T09:55:00,Stray,Normal,Adoption,Foster,148.94,1,Fall Moderate
+Austin Animal Center,A928367,Cat,Domestic Shorthair,Black,Unknown,Standard,5,2025-04-12T10:36:00.000,2025-04-16T09:01:00,Stray,Injured,Euthanasia,Suffering,3.93,0,Spring Peak
+Austin Animal Center,A928153,Dog,Chihuahua Shorthair,Black/White,Intact Female,Standard,132,2025-04-09T07:18:00.000,2025-04-16T00:00:00-05:00,Stray,Injured,Transfer,Partner,6.7,0,Spring Peak
+Austin Animal Center,A928346,Wildlife,Bat,Brown,Unknown,Standard,24,2025-04-11T21:54:00.000,2025-04-15T19:39:00,Wildlife,Injured,Euthanasia,Rabies Risk,3.91,0,Spring Peak
+Austin Animal Center,A928574,Wildlife,Squirrel Mix,Gray,Unknown,Standard,9,2025-04-15T18:50:00.000,2025-04-15T19:17:00,Wildlife,Injured,Euthanasia,Suffering,0.1,0,Spring Peak
+Austin Animal Center,A928306,Dog,Anatol Shepherd Mix,White,Intact Female,Standard,1,2025-04-11T11:45:00.000,2025-04-15T16:16:00,Stray,Normal,Adoption,,4.19,0,Spring Peak
+Austin Animal Center,A926214,Cat,Domestic Shorthair,Brown Tabby/White,Neutered Male,Standard,48,2025-03-07T14:02:00.000,2025-04-15T15:46:00,Stray,Injured,Adoption,,39.07,1,Spring Peak
+Austin Animal Center,A928548,Cat,Domestic Shorthair,Black,Unknown,Standard,1,2025-04-15T13:39:00.000,2025-04-15T15:21:00,Stray,Normal,Transfer,Partner,0.1,0,Spring Peak
+Austin Animal Center,A928550,Cat,Domestic Shorthair,Black,Unknown,Standard,1,2025-04-15T13:39:00.000,2025-04-15T15:21:00,Stray,Normal,Transfer,Partner,0.1,0,Spring Peak
+Austin Animal Center,A928546,Cat,Domestic Shorthair,Black,Unknown,Standard,1,2025-04-15T13:39:00.000,2025-04-15T15:20:00,Stray,Normal,Transfer,Partner,0.1,0,Spring Peak
+Austin Animal Center,A928547,Cat,Domestic Shorthair,Black,Unknown,Standard,1,2025-04-15T13:39:00.000,2025-04-15T15:20:00,Stray,Normal,Transfer,Partner,0.1,0,Spring Peak
+Austin Animal Center,A928395,Cat,Domestic Shorthair,Black,Intact Female,Standard,1,2025-04-12T15:39:00.000,2025-04-15T14:43:00,Stray,Normal,Transfer,Partner,2.96,0,Spring Peak
+Austin Animal Center,A928396,Cat,Domestic Shorthair,Black/White,Intact Male,Standard,1,2025-04-12T15:39:00.000,2025-04-15T14:43:00,Stray,Normal,Transfer,Partner,2.96,0,Spring Peak
+Austin Animal Center,A928397,Cat,Domestic Shorthair,Black,Intact Male,Standard,1,2025-04-12T15:39:00.000,2025-04-15T14:43:00,Stray,Normal,Transfer,Partner,2.96,0,Spring Peak
+Austin Animal Center,A928398,Cat,Domestic Shorthair,Black/White,Intact Male,Standard,1,2025-04-12T15:39:00.000,2025-04-15T14:43:00,Stray,Normal,Transfer,Partner,2.96,0,Spring Peak
+Austin Animal Center,A928392,Cat,Domestic Shorthair,Black/White,Intact Female,Standard,1,2025-04-12T15:39:00.000,2025-04-15T14:42:00,Stray,Normal,Transfer,Partner,2.96,0,Spring Peak
+Austin Animal Center,A928393,Cat,Domestic Shorthair,Black,Intact Female,Standard,1,2025-04-12T15:39:00.000,2025-04-15T14:42:00,Stray,Normal,Transfer,Partner,2.96,0,Spring Peak
+Austin Animal Center,A928394,Cat,Domestic Shorthair,Black,Intact Female,Standard,1,2025-04-12T15:39:00.000,2025-04-15T14:42:00,Stray,Normal,Transfer,Partner,2.96,0,Spring Peak
+Austin Animal Center,A928544,Bird,Muscovy,Gray/White,Unknown,Standard,24,2025-04-15T13:06:00.000,2025-04-15T14:28:00,Wildlife,Injured,Transfer,Partner,0.1,0,Spring Peak
+Austin Animal Center,A928540,Wildlife,Bat,Brown,Unknown,Standard,24,2025-04-15T12:57:00.000,2025-04-15T14:13:00,Wildlife,Medical,Euthanasia,Rabies Risk,0.1,0,Spring Peak
+Austin Animal Center,A928391,Cat,Domestic Shorthair,Blue/White,Intact Female,Standard,24,2025-04-12T15:39:00.000,2025-04-15T13:20:00,Stray,Normal,Transfer,Partner,2.9,0,Spring Peak
+Austin Animal Center,A927958,Cat,Domestic Shorthair,Orange,Intact Male,Standard,1,2025-04-04T12:30:00.000,2025-04-15T13:18:00,Stray,Normal,Transfer,Partner,11.03,0,Spring Peak
+Austin Animal Center,A927959,Cat,Domestic Shorthair,Black,Intact Male,Standard,1,2025-04-04T12:30:00.000,2025-04-15T13:18:00,Stray,Normal,Transfer,Partner,11.03,0,Spring Peak
+Austin Animal Center,A927960,Cat,Domestic Shorthair,Black/White,Intact Male,Standard,1,2025-04-04T12:30:00.000,2025-04-15T13:18:00,Stray,Normal,Transfer,Partner,11.03,0,Spring Peak
+Austin Animal Center,A927953,Cat,Domestic Shorthair,Calico,Intact Female,Standard,1,2025-04-04T12:30:00.000,2025-04-15T13:17:00,Stray,Normal,Transfer,Partner,11.03,0,Spring Peak
+Austin Animal Center,A927954,Cat,Domestic Shorthair,Black Smoke/White,Intact Male,Standard,1,2025-04-04T12:30:00.000,2025-04-15T13:17:00,Stray,Normal,Transfer,Partner,11.03,0,Spring Peak
+Austin Animal Center,A927952,Cat,Domestic Shorthair,Calico,Intact Female,Standard,12,2025-04-04T12:30:00.000,2025-04-15T13:15:00,Stray,Normal,Transfer,Partner,11.03,0,Spring Peak
+Austin Animal Center,A923619,Dog,Pit Bull Mix,Tan,Intact Female,Standard,2,2025-02-04T17:57:00.000,2025-04-15T13:12:00,Abandoned,Normal,Adoption,,69.8,1,Winter Standard
+Austin Animal Center,A926861,Dog,German Shepherd Mix,Black/Brown,Intact Female,Standard,2,2025-04-09T13:01:00.000,2025-04-15T11:43:00,Stray,Normal,Adoption,,5.95,0,Spring Peak
+Austin Animal Center,A921591,Dog,Labrador Retriever Mix,White/Tan,Intact Female,Standard,1,2025-01-17T14:11:00.000,2025-04-15T11:02:00,Stray,Normal,Adoption,Foster,87.87,1,Winter Standard
+Austin Animal Center,A928335,Cat,Domestic Shorthair,Seal Point,Intact Male,Standard,4,2025-04-11T16:03:00.000,2025-04-15T11:00:00,Owner Surrender,Normal,Adoption,,3.79,0,Spring Peak
+Austin Animal Center,A926863,Dog,German Shepherd,Black/Brown,Intact Female,Standard,2,2025-04-09T13:01:00.000,2025-04-15T10:56:00,Stray,Normal,Adoption,,5.91,0,Spring Peak
+Austin Animal Center,A858653,Dog,Pit Bull,Black/White,Intact Male,Standard,9,2022-06-01T15:43:00.000,2025-04-14T19:09:00,Stray,Normal,Adoption,,1048.14,1,Summer High
+Austin Animal Center,A928334,Cat,Domestic Shorthair,Silver Lynx Point/White,Intact Male,Standard,4,2025-04-11T16:03:00.000,2025-04-14T18:31:00,Owner Surrender,Normal,Adoption,,3.1,0,Spring Peak
+Austin Animal Center,A928216,Dog,German Wirehaired Pointer/Labrador Retriever,White/Black,Intact Female,Standard,1,2025-04-09T18:00:00.000,2025-04-14T18:21:00,Stray,Normal,Adoption,,5.01,0,Spring Peak
+Austin Animal Center,A928217,Dog,German Wirehaired Pointer/Labrador Retriever,Blue Tick/Black,Intact Male,Standard,1,2025-04-09T18:00:00.000,2025-04-14T18:21:00,Stray,Normal,Adoption,,5.01,0,Spring Peak
+Austin Animal Center,A927251,Cat,Domestic Shorthair,Blue,Intact Male,Standard,12,2025-03-24T14:27:00.000,2025-04-14T18:08:00,Stray,Normal,Adoption,,21.15,0,Spring Peak
+Austin Animal Center,A912671,Dog,German Shepherd Mix,White,Intact Male,Standard,4,2024-09-04T11:48:00.000,2025-04-14T18:06:00,Stray,Normal,Adoption,,222.26,1,Fall Moderate
+Austin Animal Center,A928333,Cat,Domestic Shorthair,Silver Lynx Point/White,Intact Male,Standard,4,2025-04-11T16:03:00.000,2025-04-14T18:02:00,Owner Surrender,Normal,Adoption,,3.08,0,Spring Peak
+Austin Animal Center,A928203,Dog,Anatol Shepherd,Fawn/Black,Intact Female,Standard,2,2025-04-09T14:06:00.000,2025-04-14T17:37:00,Stray,Normal,Adoption,,5.15,0,Spring Peak
+Austin Animal Center,A926203,Cat,Domestic Shorthair,Torbie,Intact Female,Standard,7,2025-03-07T13:02:00.000,2025-04-14T17:20:00,Stray,Normal,Adoption,,38.18,1,Spring Peak
+Austin Animal Center,A928124,Dog,Chihuahua Shorthair,Tan/White,Intact Female,Standard,3,2025-04-08T12:18:00.000,2025-04-14T16:53:00,Stray,Normal,Adoption,,6.19,0,Spring Peak
+Austin Animal Center,A926866,Dog,German Shepherd Mix,Black/Brown,Intact Female,Standard,2,2025-04-09T13:01:00.000,2025-04-14T16:28:00,Stray,Normal,Adoption,,5.14,0,Spring Peak
+Austin Animal Center,A928435,Cat,Domestic Shorthair,Calico,Spayed Female,Standard,96,2025-04-14T07:10:00.000,2025-04-14T16:07:00,Stray,Sick,Return to Owner,,0.37,0,Spring Peak
+Austin Animal Center,A926172,Dog,Pit Bull/German Shepherd,Brown/White,Intact Male,Standard,24,2025-03-07T01:32:00.000,2025-04-14T15:51:00,Stray,Normal,Adoption,,38.6,1,Spring Peak
+Austin Animal Center,A927462,Dog,Siberian Husky Mix,Black/Cream,Intact Female,Standard,9,2025-03-27T16:01:00.000,2025-04-14T15:21:00,Stray,Normal,Adoption,,17.97,0,Spring Peak
+Austin Animal Center,A928345,Wildlife,Bat,Brown,Unknown,Standard,24,2025-04-11T20:41:00.000,2025-04-14T15:06:00,Wildlife,Normal,Euthanasia,Rabies Risk,2.77,0,Spring Peak
+Austin Animal Center,A928340,Wildlife,Bat,Brown,Unknown,Standard,24,2025-04-11T18:45:00.000,2025-04-14T15:05:00,Wildlife,Injured,Euthanasia,Rabies Risk,2.85,0,Spring Peak
+Austin Animal Center,A928329,Wildlife,Bat,Black,Unknown,Standard,24,2025-04-11T14:39:00.000,2025-04-14T15:04:00,Wildlife,Normal,Euthanasia,Rabies Risk,3.02,0,Spring Peak
+Austin Animal Center,A887220,Dog,Pit Bull,Gray/White,Intact Male,Standard,36,2025-02-28T12:19:00.000,2025-04-14T13:59:00,Stray,Normal,Euthanasia,Aggressive,45.07,1,Winter Standard
+Austin Animal Center,A928323,Cat,Domestic Shorthair,Blue Tabby,Spayed Female,Standard,24,2025-04-11T12:21:00.000,2025-04-14T13:32:00,Owner Surrender,Normal,Adoption,,3.05,0,Spring Peak
+Austin Animal Center,A928266,Cat,Domestic Shorthair,Brown Tabby,Spayed Female,Standard,12,2025-04-10T13:42:00.000,2025-04-14T13:31:00,Owner Surrender,Normal,Adoption,,3.99,0,Spring Peak
+Austin Animal Center,A927587,Cat,Domestic Shorthair,Black,Intact Male,Standard,24,2025-04-06T13:36:00.000,2025-04-14T07:19:00,Stray,Normal,Transfer,Snr,7.74,0,Spring Peak
+Austin Animal Center,A927796,Cat,Domestic Shorthair,Black,Unknown,Standard,12,2025-04-02T12:07:00.000,2025-04-14T07:18:00,Stray,Normal,Transfer,Snr,11.8,0,Spring Peak
+Austin Animal Center,A926841,Dog,Pit Bull,Brown Brindle/Brown,Intact Male,Standard,7,2025-03-18T09:55:00.000,2025-04-14T00:00:00-05:00,Public Assist,Sick,Transfer,Partner,26.59,0,Spring Peak
+Austin Animal Center,A844791,Dog,Pit Bull Mix,Brown Brindle/White,Intact Male,Standard,24,2021-10-20T13:53:00.000,2025-04-14T00:00:00-05:00,Stray,Normal,Transfer,Partner,1271.42,1,Fall Moderate
+Austin Animal Center,A928221,Wildlife,Bat,Brown,Unknown,Standard,1,2025-04-09T21:11:00.000,2025-04-13T19:39:00,Wildlife,Unknown,Euthanasia,Rabies Risk,3.94,0,Spring Peak
+Austin Animal Center,A924490,Dog,Black Mouth Cur,Brown,Intact Female,Standard,2,2025-02-11T12:39:00.000,2025-04-13T18:43:00,Stray,Normal,Adoption,,61.25,1,Winter Standard
+Austin Animal Center,A925123,Cat,Domestic Shorthair,Orange Tabby/White,Intact Male,Standard,12,2025-02-20T13:09:00.000,2025-04-13T18:29:00,Stray,Normal,Adoption,Foster,52.22,1,Winter Standard
+Austin Animal Center,A923692,Cat,Domestic Shorthair,Blue Tabby,Neutered Male,Standard,7,2025-02-06T07:52:00.000,2025-04-13T18:23:00,Stray,Injured,Adoption,,66.44,1,Winter Standard
+Austin Animal Center,A922687,Dog,Great Pyrenees/Australian Shepherd,Cream/Black,Intact Male,Standard,12,2025-01-29T11:44:00.000,2025-04-13T18:06:00,Stray,Normal,Adoption,,74.27,1,Winter Standard
+Austin Animal Center,A927232,Cat,Siamese Mix,Seal Point,Intact Female,Standard,1,2025-03-24T12:35:00.000,2025-04-13T17:24:00,Owner Surrender,Normal,Adoption,Foster,20.2,0,Spring Peak
+Austin Animal Center,A911001,Dog,Pit Bull Mix,White/Blue,Intact Male,Standard,12,2024-08-08T08:06:00.000,2025-04-13T17:19:00,Stray,Injured,Adoption,,248.38,1,Summer High
+Austin Animal Center,A925948,Dog,Labrador Retriever Mix,Black/White,Intact Female,Standard,1,2025-03-03T10:22:00.000,2025-04-13T17:17:00,Stray,Normal,Adoption,Foster,41.29,1,Spring Peak
+Austin Animal Center,A924106,Dog,German Shepherd/Labrador Retriever,Tan/Buff,Intact Female,Standard,12,2025-02-08T09:54:00.000,2025-04-13T17:09:00,Owner Surrender,Neonatal,Adoption,Foster,64.3,1,Winter Standard
+Austin Animal Center,A913473,Dog,Staffordshire,White/Brown Brindle,Spayed Female,Standard,12,2024-09-17T10:01:00.000,2025-04-13T16:13:00,Stray,Normal,Adoption,,208.26,1,Fall Moderate
+Austin Animal Center,A927284,Cat,Domestic Shorthair,Orange Tabby,Intact Male,Standard,12,2025-03-25T10:37:00.000,2025-04-13T16:06:00,Stray,Normal,Adoption,,19.23,0,Spring Peak
+Austin Animal Center,A928171,Cat,Domestic Shorthair,Orange Tabby/White,Neutered Male,Standard,24,2025-04-09T10:20:00.000,2025-04-13T15:46:00,Owner Surrender,Normal,Adoption,,4.23,0,Spring Peak
+Austin Animal Center,A928172,Cat,Domestic Shorthair,Cream Tabby/White,Spayed Female,Standard,24,2025-04-09T10:20:00.000,2025-04-13T15:46:00,Owner Surrender,Normal,Adoption,,4.23,0,Spring Peak
+Austin Animal Center,A799370,Dog,Pit Bull,Brown,Unknown,Standard,12,2019-07-08T08:56:00.000,2025-04-13T14:57:00,Stray,Nursing,Return to Owner,,2106.25,1,Summer High
+Austin Animal Center,A928427,Dog,Bearded Collie,Black/White,Unknown,Standard,24,2025-04-13T13:46:00.000,2025-04-13T14:42:00,Public Assist,Normal,Relocate,,0.1,0,Spring Peak
+Austin Animal Center,A928161,Cat,Domestic Shorthair,Silver Tabby,Intact Female,Standard,12,2025-04-09T07:26:00.000,2025-04-13T13:46:00,Stray,Injured,Euthanasia,Suffering,4.26,0,Spring Peak
+Austin Animal Center,A927211,Wildlife,Squirrel,Brown,Unknown,Standard,12,2025-03-24T11:53:00.000,2025-04-13T13:44:00,Wildlife,Injured,Euthanasia,Suffering,20.08,0,Spring Peak
+Austin Animal Center,A927548,Dog,Doberman Pinsch,Brown,Intact Female,Standard,2,2025-03-29T17:22:00.000,2025-04-13T13:29:00,Stray,Normal,Adoption,,14.84,0,Spring Peak
+Austin Animal Center,A928416,Cat,Domestic Shorthair,Orange,Intact Male,Standard,1,2025-04-13T11:05:00.000,2025-04-13T13:09:00,Stray,Neonatal,Transfer,Partner,0.1,0,Spring Peak
+Austin Animal Center,A928417,Cat,Domestic Shorthair,Brown,Intact Female,Standard,1,2025-04-13T11:05:00.000,2025-04-13T13:09:00,Stray,Neonatal,Transfer,Partner,0.1,0,Spring Peak
+Austin Animal Center,A924774,Cat,Domestic Shorthair,Blue,Intact Male,Standard,9,2025-02-14T15:40:00.000,2025-04-13T12:27:00,Public Assist,Normal,Adoption,,57.87,1,Winter Standard
+Austin Animal Center,A928260,Dog,Miniature Schnauzer/Maltese,Tricolor,Neutered Male,Standard,84,2025-04-10T12:55:00.000,2025-04-13T11:59:00,Owner Surrender,Normal,Adoption,,2.96,0,Spring Peak
+Austin Animal Center,A926482,Dog,Labrador Retriever,Yellow,Intact Male,Standard,24,2025-04-04T13:06:00.000,2025-04-13T11:57:00,Stray,Normal,Adoption,,8.95,0,Spring Peak
+Austin Animal Center,A870076,Cat,Domestic Shorthair,Calico,Spayed Female,Standard,168,2022-11-30T12:52:00.000,2025-04-13T11:25:00,Owner Surrender,Normal,Adoption,Foster,864.94,1,Fall Moderate
+Austin Animal Center,A921761,Dog,English Bulldog/Pit Bull,Black/White,Neutered Male,Standard,24,2025-04-09T12:57:00.000,2025-04-13T11:19:00,Stray,Normal,Transfer,Partner,3.93,0,Spring Peak
+Austin Animal Center,A922153,Dog,American Bulldog Mix,Black Brindle,Intact Female,Standard,1,2025-01-25T07:36:00.000,2025-04-12T18:49:00,Stray,Normal,Adoption,Foster,77.47,1,Winter Standard
+Austin Animal Center,A926149,Cat,Domestic Shorthair,Silver Tabby,Intact Female,Standard,24,2025-03-06T11:53:00.000,2025-04-12T18:14:00,Stray,Normal,Adoption,,37.26,1,Spring Peak
+Austin Animal Center,A920879,Cat,Domestic Shorthair,Brown Tabby/White,Intact Male,Standard,3,2025-01-06T12:36:00.000,2025-04-12T18:11:00,Stray,Normal,Adoption,Foster,96.23,1,Winter Standard
+Austin Animal Center,A928351,Dog,Yorkshire Terrier,Brown/Black,Intact Male,Standard,132,2025-04-12T07:54:00.000,2025-04-12T17:39:00,Stray,Normal,Return to Owner,,0.41,0,Spring Peak
+Austin Animal Center,A927201,Dog,Rhod Ridgeback/Labrador Retriever,Chocolate/White,Intact Male,Standard,7,2025-03-24T11:28:00.000,2025-04-12T17:37:00,Owner Surrender,Normal,Adoption,,19.26,0,Spring Peak
+Austin Animal Center,A927569,Dog,Golden Retriever,White,Intact Female,Standard,12,2025-03-30T10:02:00.000,2025-04-12T17:10:00,Stray,Normal,Adoption,,13.3,0,Spring Peak
+Austin Animal Center,A928094,Dog,Chihuahua Shorthair Mix,Tricolor,Intact Male,Standard,4,2025-04-07T13:48:00.000,2025-04-12T14:07:00,Stray,Normal,Adoption,,5.01,0,Spring Peak
+Austin Animal Center,A927026,Dog,Jack Russell Terrier,White/Tan,Neutered Male,Standard,24,2025-04-07T15:36:00.000,2025-04-12T13:57:00,Owner Surrender,Normal,Adoption,,4.93,0,Spring Peak
+Austin Animal Center,A928378,Cat,Domestic Shorthair,White/Black,Unknown,Standard,1,2025-04-12T11:33:00.000,2025-04-12T12:39:00,Stray,Neonatal,Transfer,Partner,0.1,0,Spring Peak
+Austin Animal Center,A928379,Cat,Domestic Shorthair,Blue/White,Unknown,Standard,1,2025-04-12T11:33:00.000,2025-04-12T12:39:00,Stray,Neonatal,Transfer,Partner,0.1,0,Spring Peak
+Austin Animal Center,A928380,Cat,Domestic Shorthair,Brown Tabby/White,Unknown,Standard,1,2025-04-12T11:33:00.000,2025-04-12T12:39:00,Stray,Neonatal,Transfer,Partner,0.1,0,Spring Peak
+Austin Animal Center,A917453,Dog,Pit Bull,Tan,Neutered Male,Standard,24,2025-01-29T12:11:00.000,2025-04-12T12:37:00,Stray,Normal,Adoption,,73.02,1,Winter Standard
+Austin Animal Center,A928069,Cat,Domestic Shorthair,Orange Tabby/White,Neutered Male,Standard,24,2025-04-07T10:31:00.000,2025-04-12T12:32:00,Stray,Normal,Adoption,,5.08,0,Spring Peak
+Austin Animal Center,A928291,Dog,Alaskan Husky Mix,Black/White,Intact Male,Standard,9,2025-04-10T18:27:00.000,2025-04-12T12:27:00,Public Assist,Normal,Return to Owner,,1.75,0,Spring Peak
+Austin Animal Center,A928363,Cat,Domestic Shorthair,Orange/White,Intact Male,Standard,6,2025-04-12T10:17:00.000,2025-04-12T12:15:00,Stray,Injured,Return to Owner,,0.1,0,Spring Peak
+Austin Animal Center,A923388,Dog,Labrador Retriever/Anatol Shepherd,Tricolor,Neutered Male,Standard,36,2025-02-03T12:02:00.000,2025-04-12T11:47:00,Stray,Normal,Adoption,,67.99,1,Winter Standard
+Austin Animal Center,A928258,Dog,Miniature Schnauzer Mix,Blue/White,Spayed Female,Standard,84,2025-04-10T12:55:00.000,2025-04-12T11:43:00,Owner Surrender,Normal,Adoption,,1.95,0,Spring Peak
+Austin Animal Center,A928301,Dog,Pit Bull Mix,Red/White,Spayed Female,Standard,96,2025-04-11T10:12:00.000,2025-04-12T10:43:00,Stray,Normal,Return to Owner,,1.02,0,Spring Peak
+Austin Animal Center,A904484,Dog,Pit Bull Mix,Brown Brindle/White,Intact Male,Standard,12,2024-05-10T14:57:00.000,2025-04-12T10:34:00,Owner Surrender,Normal,Adoption,,336.82,1,Spring Peak
+Austin Animal Center,A927193,Cat,Domestic Medium Hair,Black Smoke,Spayed Female,Standard,72,2025-03-24T07:12:00.000,2025-04-12T10:22:00,Stray,Normal,Transfer,Partner,19.13,0,Spring Peak
+Austin Animal Center,A928174,Cat,Domestic Shorthair,Brown Tabby,Spayed Female,Standard,12,2025-04-09T12:12:00.000,2025-04-11T18:39:00,Owner Surrender,Normal,Adoption,,2.27,0,Spring Peak
+Austin Animal Center,A927233,Cat,Siamese Mix,Seal Point,Intact Female,Standard,1,2025-03-24T12:35:00.000,2025-04-11T18:20:00,Owner Surrender,Normal,Adoption,Foster,18.24,0,Spring Peak
+Austin Animal Center,A927234,Cat,Siamese,Blue Point,Intact Male,Standard,1,2025-03-24T12:35:00.000,2025-04-11T18:20:00,Owner Surrender,Normal,Adoption,Foster,18.24,0,Spring Peak
+Austin Animal Center,A928057,Dog,Pit Bull,Black/White,Intact Female,Standard,2,2025-04-07T10:16:00.000,2025-04-11T17:55:00,Stray,Normal,Adoption,,4.32,0,Spring Peak
+Austin Animal Center,A927637,Cat,Domestic Shorthair,Blue/White,Spayed Female,Standard,24,2025-03-31T14:12:00.000,2025-04-11T17:33:00,Stray,Normal,Adoption,,11.14,0,Spring Peak
+Austin Animal Center,A926903,Cat,Domestic Shorthair,Orange Tabby,Intact Male,Standard,3,2025-03-18T16:49:00.000,2025-04-11T16:17:00,Stray,Normal,Adoption,Foster,23.98,0,Spring Peak
+Austin Animal Center,A792147,Dog,Chihuahua Shorthair Mix,Black/Brown,Intact Male,Standard,12,2019-04-06T17:44:00.000,2025-04-11T16:05:00,Stray,Normal,Return to Owner,,2196.93,1,Spring Peak
+Austin Animal Center,A866386,Dog,Basset Hound/Border Collie,White/Black,Spayed Female,Standard,1,2022-09-29T10:25:00.000,2025-04-11T15:08:00,Stray,Normal,Return to Owner,Customer S,925.2,1,Fall Moderate
+Austin Animal Center,A925667,Dog,Pit Bull,Brown Brindle/Gray,Intact Female,Standard,24,2025-02-27T13:25:00.000,2025-04-11T15:00:00,Public Assist,Normal,Adoption,,43.07,1,Winter Standard
+Austin Animal Center,A928297,Dog,French Bulldog,Black/Black,Intact Male,Standard,24,2025-04-11T07:10:00.000,2025-04-11T14:39:00,Stray,Sick,Transfer,Partner,0.31,0,Spring Peak
+Austin Animal Center,A926608,Cat,Domestic Shorthair,Orange Tabby,Intact Male,Standard,8,2025-03-13T12:32:00.000,2025-04-11T14:34:00,Owner Surrender,Normal,Adoption,,29.08,0,Spring Peak
+Austin Animal Center,A926607,Cat,Domestic Shorthair,Orange Tabby,Intact Male,Standard,6,2025-03-13T12:32:00.000,2025-04-11T14:33:00,Owner Surrender,Normal,Adoption,,29.08,0,Spring Peak
+Austin Animal Center,A928222,Dog,Australian Shepherd,White/Black,Intact Male,Standard,36,2025-04-10T07:02:00.000,2025-04-11T14:31:55,Stray,Injured,Transfer,Partner,1.31,0,Spring Peak
+Austin Animal Center,A928302,Cat,Domestic Shorthair,Brown Tabby/White,Intact Female,Standard,1,2025-04-11T10:31:00.000,2025-04-11T14:26:00,Stray,Sick,Transfer,Partner,0.16,0,Spring Peak
+Austin Animal Center,A928226,Wildlife,Raccoon,Gray/Black,Unknown,Standard,24,2025-04-10T08:12:00.000,2025-04-11T14:21:00,Wildlife,Normal,Euthanasia,Rabies Risk,1.26,0,Spring Peak
+Austin Animal Center,A928300,Wildlife,Bat,Brown,Unknown,Standard,24,2025-04-11T12:09:00.000,2025-04-11T14:17:00,Wildlife,Normal,Euthanasia,Rabies Risk,0.1,0,Spring Peak
+Austin Animal Center,A926721,Cat,Domestic Shorthair,Black,Spayed Female,Standard,12,2025-03-15T13:45:00.000,2025-04-11T14:15:00,Stray,Normal,Adoption,,27.02,0,Spring Peak
+Austin Animal Center,A926214,Cat,Domestic Shorthair,Brown Tabby/White,Neutered Male,Standard,48,2025-03-07T14:02:00.000,2025-04-11T13:43:00,Stray,Injured,Adoption,,34.99,1,Spring Peak
+Austin Animal Center,A928136,Cat,Domestic Shorthair,Tortie,Spayed Female,Standard,6,2025-04-08T14:24:00.000,2025-04-11T13:25:00,Owner Surrender,Normal,Adoption,,2.96,0,Spring Peak
+Austin Animal Center,A926543,Dog,Labrador Retriever Mix,Brown/White,Intact Male,Standard,48,2025-03-12T14:05:00.000,2025-04-11T13:24:00,Owner Surrender,Normal,Transfer,Partner,29.97,0,Spring Peak
+Austin Animal Center,A920337,Dog,Chihuahua Longhair Mix,Tan,Intact Female,Standard,11,2024-12-27T08:20:00.000,2025-04-11T12:48:00,Stray,Injured,Adoption,Foster,105.19,1,Winter Standard
+Austin Animal Center,A927731,Cat,Domestic Medium Hair,Black,Intact Male,Standard,12,2025-04-01T13:26:00.000,2025-04-11T12:41:00,Stray,Normal,Adoption,,9.97,0,Spring Peak
+Austin Animal Center,A920604,Cat,Domestic Shorthair,Brown Tabby/White,Intact Male,Standard,10,2024-12-31T19:10:00.000,2025-04-11T11:55:00,Stray,Med Attn,Adoption,Foster,100.7,1,Winter Standard
+Austin Animal Center,A925945,Dog,Labrador Retriever Mix,Black/White,Intact Male,Standard,1,2025-03-03T10:22:00.000,2025-04-11T11:49:00,Stray,Normal,Adoption,Foster,39.06,1,Spring Peak
+Austin Animal Center,A927231,Cat,Domestic Shorthair,Black,Intact Male,Standard,1,2025-03-24T12:35:00.000,2025-04-11T11:43:00,Owner Surrender,Normal,Adoption,Foster,17.96,0,Spring Peak
+Austin Animal Center,A925951,Dog,Labrador Retriever Mix,Black/White,Intact Female,Standard,1,2025-03-03T10:22:00.000,2025-04-11T11:37:00,Stray,Normal,Adoption,Foster,39.05,1,Spring Peak
+Austin Animal Center,A927230,Cat,Domestic Shorthair,Black,Intact Female,Standard,1,2025-03-24T12:35:00.000,2025-04-11T11:32:00,Owner Surrender,Normal,Adoption,Foster,17.96,0,Spring Peak
+Austin Animal Center,A919244,Cat,Domestic Shorthair,Brown Tabby,Spayed Female,Standard,72,2024-12-05T11:00:00.000,2025-04-11T11:26:00,Owner Surrender,Normal,Adoption,Foster,127.02,1,Winter Standard
+Austin Animal Center,A928154,Bird,Vulture,Black,Unknown,Standard,12,2025-04-08T18:14:00.000,2025-04-11T09:57:00,Wildlife,Injured,Euthanasia,Suffering,2.65,0,Spring Peak
+Austin Animal Center,A928076,Cat,Domestic Shorthair,Brown Tabby/White,Intact Female,Standard,24,2025-04-07T13:15:00.000,2025-04-11T08:43:00,Stray,Sick,Died,Emergency,3.81,0,Spring Peak
+Austin Animal Center,A928184,Cat,Domestic Longhair,Torbie,Intact Female,Standard,2,2025-04-09T12:08:00.000,2025-04-10T18:34:00,Owner Surrender,Normal,Adoption,,1.27,0,Spring Peak
+Austin Animal Center,A927265,Dog,Catahoula Mix,Blue Merle,Intact Female,Standard,9,2025-03-25T06:04:00.000,2025-04-10T18:19:00,Public Assist,Normal,Adoption,,16.51,0,Spring Peak
+Austin Animal Center,A928181,Cat,Domestic Shorthair,Blue/White,Intact Female,Standard,2,2025-04-09T12:08:00.000,2025-04-10T17:47:00,Owner Surrender,Normal,Adoption,,1.24,0,Spring Peak
+Austin Animal Center,A928185,Cat,Domestic Longhair,Torbie,Intact Female,Standard,2,2025-04-09T12:08:00.000,2025-04-10T17:06:00,Owner Surrender,Normal,Adoption,,1.21,0,Spring Peak
+Austin Animal Center,A926584,Dog,Mastiff Mix,Brown Brindle/Brown,Intact Female,Standard,1,2025-03-13T11:23:00.000,2025-04-10T16:59:00,Owner Surrender,Normal,Adoption,,28.23,0,Spring Peak
+Austin Animal Center,A928183,Cat,Domestic Longhair,Torbie,Intact Female,Standard,2,2025-04-09T12:08:00.000,2025-04-10T16:26:00,Owner Surrender,Normal,Adoption,,1.18,0,Spring Peak
+Austin Animal Center,A927205,Cat,Domestic Shorthair,Blue,Intact Male,Standard,2,2025-03-24T11:13:00.000,2025-04-10T16:19:00,Stray,Normal,Adoption,Foster,17.21,0,Spring Peak
+Austin Animal Center,A927208,Cat,Domestic Shorthair,Blue Tabby/White,Intact Female,Standard,2,2025-03-24T11:13:00.000,2025-04-10T16:18:00,Stray,Normal,Adoption,Foster,17.21,0,Spring Peak
+Austin Animal Center,A923725,Dog,American Pit Bull Terrier,White/Black,Intact Male,Standard,24,2025-02-07T19:27:00.000,2025-04-10T15:56:00,Stray,Normal,Euthanasia,Suffering,61.85,1,Winter Standard
+Austin Animal Center,A927801,Dog,Weimaraner,Silver,Neutered Male,Standard,24,2025-04-02T12:48:00.000,2025-04-10T15:53:00,Public Assist,Normal,Transfer,Partner,8.13,0,Spring Peak
+Austin Animal Center,A927617,Dog,German Shepherd Mix,Brown,Intact Male,Standard,2,2025-03-31T10:38:00.000,2025-04-10T14:45:00,Stray,Normal,Adoption,,10.17,0,Spring Peak
+Austin Animal Center,A925662,Dog,Australian Shepherd,White/Black,Intact Male,Standard,24,2025-02-27T12:43:00.000,2025-04-10T13:51:00,Stray,Normal,Adoption,,42.05,1,Winter Standard
+Austin Animal Center,A927236,Small Animal,Guinea Pig,Tan/White,Intact Female,Standard,48,2025-03-24T12:55:00.000,2025-04-10T12:33:00,Owner Surrender,Normal,Transfer,Partner,16.98,0,Spring Peak
+Austin Animal Center,A927237,Small Animal,Guinea Pig,Tricolor,Intact Female,Standard,48,2025-03-24T12:55:00.000,2025-04-10T12:33:00,Owner Surrender,Normal,Transfer,Partner,16.98,0,Spring Peak
+Austin Animal Center,A927238,Small Animal,Guinea Pig,Black/White,Intact Female,Standard,48,2025-03-24T12:55:00.000,2025-04-10T12:33:00,Owner Surrender,Normal,Transfer,Partner,16.98,0,Spring Peak
+Austin Animal Center,A879237,Dog,Chihuahua Shorthair,White/White,Intact Female,Standard,36,2023-04-23T16:22:00.000,2025-04-10T12:10:00,Public Assist,Normal,Return to Owner,,717.83,1,Spring Peak
+Austin Animal Center,A847571,Dog,Chihuahua Shorthair,Tan,Intact Male,Standard,12,2021-12-04T12:55:00.000,2025-04-10T12:10:00,Stray,Normal,Return to Owner,,1222.97,1,Winter Standard
+Austin Animal Center,A928219,Dog,Dachshund Mix,Black/Tan,Intact Female,Standard,60,2025-04-09T18:49:00.000,2025-04-10T11:19:00,Public Assist,Normal,Return to Owner,,0.69,0,Spring Peak
+Austin Animal Center,A924999,Cat,Domestic Shorthair,Black/White,Neutered Male,Standard,8,2025-02-18T12:04:00.000,2025-04-10T11:11:00,Stray,Normal,Return to Owner,,50.96,1,Winter Standard
+Austin Animal Center,A914511,Dog,Plott Hound/Catahoula,Tan/Brown Brindle,Intact Female,Standard,5,2024-10-09T10:55:00.000,2025-04-10T10:44:00,Stray,Normal,Adoption,,182.99,1,Fall Moderate
+Austin Animal Center,A928134,Cat,Domestic Shorthair,Orange Tabby,Unknown,Standard,24,2025-04-08T13:33:00.000,2025-04-10T09:52:00,Stray,Normal,Transfer,Snr,1.85,0,Spring Peak
+Austin Animal Center,A928137,Cat,Domestic Shorthair,Calico Point/White,Unknown,Standard,12,2025-04-08T12:37:00.000,2025-04-10T09:51:00,Stray,Normal,Transfer,Snr,1.88,0,Spring Peak
+Austin Animal Center,A928121,Cat,Domestic Medium Hair,Black,Unknown,Standard,24,2025-04-08T11:00:00.000,2025-04-10T09:51:00,Stray,Sick,Transfer,Snr,1.95,0,Spring Peak
+Austin Animal Center,A927996,Cat,Domestic Shorthair,Gray Tabby,Spayed Female,Standard,96,2025-04-05T14:31:00.000,2025-04-10T09:44:00,Stray,Injured,Euthanasia,Suffering,4.8,0,Spring Peak
+Austin Animal Center,A921576,Cat,Domestic Shorthair,Black/White,Intact Female,Standard,24,2025-01-17T12:54:00.000,2025-04-10T00:00:00-05:00,Owner Surrender,Sick,Adoption,,82.46,1,Winter Standard
+Austin Animal Center,A924894,Dog,Finnish Spitz,Brown,Intact Male,Standard,24,2025-02-16T14:29:00.000,2025-04-09T19:12:00,Stray,Normal,Euthanasia,Court/Investigation,52.2,1,Winter Standard
+Austin Animal Center,A927946,Dog,Black Mouth Cur,Red,Intact Female,Standard,3,2025-04-04T11:33:00.000,2025-04-09T18:50:00,Stray,Normal,Adoption,,5.3,0,Spring Peak
+Austin Animal Center,A927951,Cat,Domestic Shorthair,Orange Tabby,Intact Female,Standard,12,2025-04-04T12:35:00.000,2025-04-09T18:15:00,Stray,Normal,Adoption,,5.24,0,Spring Peak
+Austin Animal Center,A746366,Cat,Domestic Shorthair Mix,White/Brown Tabby,Intact Male,Standard,1,2017-04-01T13:20:00.000,2025-04-09T18:15:00,Stray,Normal,Adoption,,2930.2,1,Spring Peak
+Austin Animal Center,A926860,Cat,Domestic Shorthair,White/Brown,Intact Male,Standard,1,2025-03-18T12:27:00.000,2025-04-09T17:21:00,Stray,Normal,Adoption,,22.2,0,Spring Peak
+Austin Animal Center,A926586,Dog,Mastiff Mix,Brown Brindle,Intact Male,Standard,1,2025-03-13T11:23:00.000,2025-04-09T16:30:00,Owner Surrender,Normal,Adoption,,27.21,0,Spring Peak
+Austin Animal Center,A925520,Dog,Doberman Pinsch Mix,Black/Tan,Intact Female,Standard,1,2025-02-25T12:47:00.000,2025-04-09T14:50:00,Owner Surrender,Normal,Transfer,Partner,43.09,1,Winter Standard
+Austin Animal Center,A925521,Dog,Doberman Pinsch Mix,Black/Tan,Intact Female,Standard,1,2025-02-25T12:47:00.000,2025-04-09T14:50:00,Owner Surrender,Normal,Transfer,Partner,43.09,1,Winter Standard
+Austin Animal Center,A927703,Dog,Siberian Husky,White/Gray,Intact Female,Standard,84,2025-04-01T09:15:00.000,2025-04-09T14:38:00,Stray,Normal,Euthanasia,Suffering,8.22,0,Spring Peak
+Austin Animal Center,A927939,Dog,Mastiff,White/Black,Intact Female,Standard,1,2025-04-04T10:34:00.000,2025-04-09T13:00:00,Public Assist,Normal,Return to Owner,,5.1,0,Spring Peak
+Austin Animal Center,A927942,Dog,Miniature Poodle,White,Intact Male,Standard,24,2025-04-04T11:02:00.000,2025-04-09T12:20:00,Stray,Normal,Adoption,,5.05,0,Spring Peak
+Austin Animal Center,A926070,Dog,Pit Bull Mix,Blue,Neutered Male,Standard,12,2025-03-05T10:01:00.000,2025-04-09T12:17:00,Stray,Normal,Adoption,,35.09,1,Spring Peak
+Austin Animal Center,A928127,Wildlife,Bat,Brown,Unknown,Standard,12,2025-04-08T12:27:00.000,2025-04-09T11:30:00,Wildlife,Normal,Euthanasia,Rabies Risk,0.96,0,Spring Peak
+Austin Animal Center,A928109,Wildlife,Bat,Black/Gray,Unknown,Standard,24,2025-04-08T11:11:00.000,2025-04-09T11:29:00,Wildlife,Normal,Euthanasia,Rabies Risk,1.01,0,Spring Peak
+Austin Animal Center,A928118,Wildlife,Raccoon,Black,Unknown,Standard,24,2025-04-08T11:44:00.000,2025-04-09T11:23:00,Wildlife,Sick,Euthanasia,Rabies Risk,0.99,0,Spring Peak
+Austin Animal Center,A928040,Dog,Pit Bull Mix,Blue/Brown,Intact Male,Standard,48,2025-04-06T17:41:00.000,2025-04-09T11:22:00,Public Assist,Normal,Euthanasia,At Vet,2.74,0,Spring Peak
+Austin Animal Center,A927707,Cat,Domestic Shorthair,Blue,Neutered Male,Standard,84,2025-04-01T10:34:00.000,2025-04-09T10:25:00,Stray,Normal,Euthanasia,Suffering,7.99,0,Spring Peak
+Austin Animal Center,A927384,Rabbit,Rabbit Sh,White/Black,Intact Male,Standard,5,2025-03-26T12:53:00.000,2025-04-09T07:59:00,Stray,Sick,Adoption,Foster,13.8,0,Spring Peak
+Austin Animal Center,A927974,Cat,Domestic Shorthair,Black,Neutered Male,Standard,60,2025-04-07T11:07:00.000,2025-04-09T02:00:00,Stray,Normal,Return to Owner,,1.62,0,Spring Peak
+Austin Animal Center,A927818,Cat,Domestic Longhair,Black/White,Intact Male,Standard,24,2025-04-02T13:42:00.000,2025-04-08T18:58:00,Stray,Normal,Adoption,,6.22,0,Spring Peak
+Austin Animal Center,A926144,Dog,Labrador Retriever Mix,Gold/Brown,Intact Male,Standard,7,2025-03-06T11:35:00.000,2025-04-08T18:41:00,Owner Surrender,Normal,Adoption,,33.3,1,Spring Peak
+Austin Animal Center,A927602,Dog,Golden Retriever/Labrador Retriever,Tan/White,Intact Male,Standard,3,2025-03-30T17:47:00.000,2025-04-08T18:27:00,Owner Surrender,Injured,Adoption,,9.03,0,Spring Peak
+Austin Animal Center,A911123,Dog,Australian Cattle Dog Mix,Brown,Spayed Female,Standard,132,2024-08-09T23:11:00.000,2025-04-08T18:19:00,Stray,Normal,Return to Owner,,241.8,1,Summer High
+Austin Animal Center,A927598,Dog,Labrador Retriever Mix,Black/White,Intact Female,Standard,3,2025-03-30T17:47:00.000,2025-04-08T17:51:00,Owner Surrender,Injured,Adoption,,9.0,0,Spring Peak
+Austin Animal Center,A921923,Cat,Domestic Shorthair,Black,Intact Female,Standard,12,2025-01-23T11:55:00.000,2025-04-08T17:41:00,Owner Surrender,Normal,Adoption,,75.24,1,Winter Standard
+Austin Animal Center,A928028,Dog,Labrador Retriever Mix,Black,Intact Male,Standard,2,2025-04-06T12:44:00.000,2025-04-08T17:27:31,Stray,Normal,Transfer,Partner,2.2,0,Spring Peak
+Austin Animal Center,A927892,Dog,Miniature Pinscher/Chihuahua Shorthair,Black/Brown,Intact Male,Standard,12,2025-04-03T13:01:00.000,2025-04-08T17:25:00,Stray,Sick,Adoption,,5.18,0,Spring Peak
+Austin Animal Center,A927975,Cat,Domestic Medium Hair,Orange Tabby,Intact Male,Standard,2,2025-04-04T18:26:00.000,2025-04-08T17:13:00,Stray,Normal,Adoption,,3.95,0,Spring Peak
+Austin Animal Center,A927589,Dog,Pbgv Mix,Brown/White,Intact Female,Standard,4,2025-03-31T11:13:00.000,2025-04-08T16:57:00,Stray,Normal,Adoption,,8.24,0,Spring Peak
+Austin Animal Center,A927660,Dog,Australian Cattle Dog Mix,Tricolor,Intact Female,Standard,96,2025-03-31T13:53:00.000,2025-04-08T16:49:00,Owner Surrender,Normal,Adoption,,8.12,0,Spring Peak
+Austin Animal Center,A928074,Cat,Domestic Shorthair,Black,Intact Female,Standard,24,2025-04-07T12:39:00.000,2025-04-08T16:47:00,Stray,Normal,Transfer,Partner,1.17,0,Spring Peak
+Austin Animal Center,A928075,Cat,Domestic Shorthair,White/Calico,Intact Female,Standard,24,2025-04-07T12:39:00.000,2025-04-08T16:46:00,Stray,Normal,Transfer,Partner,1.17,0,Spring Peak
+Austin Animal Center,A813615,Cat,Domestic Shorthair,Black,Intact Female,Standard,48,2025-03-21T09:55:00.000,2025-04-08T16:32:00,Stray,Normal,Adoption,,18.28,0,Spring Peak
+Austin Animal Center,A927732,Cat,Domestic Shorthair,Black,Intact Male,Standard,12,2025-04-01T13:26:00.000,2025-04-08T16:09:00,Stray,Normal,Adoption,,7.11,0,Spring Peak
+Austin Animal Center,A927529,Cat,Domestic Longhair,Orange Tabby,Neutered Male,Standard,60,2025-03-29T11:23:00.000,2025-04-08T16:04:00,Stray,Normal,Adoption,,10.2,0,Spring Peak
+Austin Animal Center,A926528,Dog,Staffordshire,Tan/White,Intact Male,Standard,12,2025-03-12T12:23:00.000,2025-04-08T15:20:00,Owner Surrender,Normal,Adoption,,27.12,0,Spring Peak
+Austin Animal Center,A673675,Dog,Chihuahua Shorthair Mix,Brown/White,Neutered Male,Standard,156,2025-04-01T12:07:00.000,2025-04-08T13:59:00,Stray,Normal,Adoption,,7.08,0,Spring Peak
+Austin Animal Center,A928099,Dog,Labrador Retriever/Pit Bull,Blue/White,Spayed Female,Standard,120,2025-04-07T19:20:00.000,2025-04-08T13:51:00,Stray,Normal,Return to Owner,,0.77,0,Spring Peak
+Austin Animal Center,A927177,Dog,Dalmatian/English Springer Spaniel,White/Black,Intact Male,Standard,24,2025-03-23T16:25:00.000,2025-04-08T13:17:00,Stray,Normal,Adoption,,15.87,0,Spring Peak
+Austin Animal Center,A927547,Dog,Doberman Pinsch,Tricolor/Black,Intact Female,Standard,2,2025-03-29T17:22:00.000,2025-04-08T13:15:00,Stray,Normal,Adoption,,9.83,0,Spring Peak
+Austin Animal Center,A927568,Dog,Chihuahua Shorthair Mix,Black/Tan,Intact Male,Standard,24,2025-03-30T10:04:00.000,2025-04-08T13:14:00,Stray,Normal,Transfer,Partner,9.13,0,Spring Peak
+Austin Animal Center,A927147,Dog,Siberian Husky Mix,Black/White,Intact Male,Standard,12,2025-03-23T08:38:00.000,2025-04-08T13:13:00,Public Assist,Injured,Transfer,Partner,16.19,0,Spring Peak
+Austin Animal Center,A927470,Dog,French Bulldog/Pit Bull,Blue/White,Intact Female,Standard,12,2025-03-28T00:44:00.000,2025-04-08T13:05:00,Public Assist,Normal,Adoption,,11.51,0,Spring Peak
+Austin Animal Center,A925949,Dog,Labrador Retriever Mix,Black/White,Intact Female,Standard,1,2025-03-03T10:22:00.000,2025-04-08T12:47:00,Stray,Normal,Adoption,Foster,36.1,1,Spring Peak
+Austin Animal Center,A928104,Dog,Anatol Shepherd Mix,Tan/Black,Intact Female,Standard,12,2025-04-08T09:09:00.000,2025-04-08T12:43:00,Stray,Injured,Return to Owner,,0.15,0,Spring Peak
+Austin Animal Center,A921596,Dog,Labrador Retriever Mix,Black,Intact Female,Standard,1,2025-01-17T14:11:00.000,2025-04-08T12:42:00,Stray,Normal,Adoption,Foster,80.94,1,Winter Standard
+Austin Animal Center,A923433,Cat,Domestic Shorthair,Cream Tabby,Intact Male,Standard,24,2025-02-03T15:05:00.000,2025-04-08T12:40:00,Stray,Normal,Adoption,Foster,63.9,1,Winter Standard
+Austin Animal Center,A927702,Cat,Domestic Shorthair,White,Intact Male,Standard,24,2025-04-01T08:41:00.000,2025-04-08T12:39:00,Stray,Normal,Euthanasia,Suffering,7.17,0,Spring Peak
+Austin Animal Center,A926610,Dog,Pit Bull,Brown,Intact Male,Standard,36,2025-04-03T16:40:00.000,2025-04-08T12:28:00,Public Assist,Normal,Return to Owner,,4.83,0,Spring Peak
+Austin Animal Center,A923101,Dog,Great Pyrenees Mix,White/Black,Intact Female,Standard,4,2025-01-31T18:37:00.000,2025-04-08T11:57:00,Stray,Injured,Adoption,Foster,66.72,1,Winter Standard
+Austin Animal Center,A927810,Cat,Domestic Shorthair,Blue Tabby,Intact Male,Standard,24,2025-04-02T13:15:00.000,2025-04-08T11:31:00,Stray,Injured,Transfer,Partner,5.93,0,Spring Peak
+Austin Animal Center,A891685,Dog,Beagle/Labrador Retriever,Tricolor,Intact Female,Standard,24,2023-10-26T14:01:00.000,2025-04-08T10:23:00,Stray,Normal,Return to Owner,,529.85,1,Fall Moderate
+Austin Animal Center,A927704,Dog,Pug,Black,Intact Female,Standard,12,2025-04-01T09:15:00.000,2025-04-08T00:00:00-05:00,Stray,Normal,Transfer,Partner,6.61,0,Spring Peak
+Austin Animal Center,A820722,Dog,Pit Bull Mix,Fawn/White,Spayed Female,Standard,12,2021-10-28T11:54:00.000,2025-04-07T18:43:00,Stray,Normal,Unknown,,1257.28,1,Fall Moderate
+Austin Animal Center,A927647,Dog,Siberian Husky,White,Intact Male,Standard,2,2025-03-31T12:22:00.000,2025-04-07T18:39:00,Stray,Normal,Adoption,,7.26,0,Spring Peak
+Austin Animal Center,A927781,Cat,Domestic Shorthair,Orange Tabby/White,Intact Male,Standard,12,2025-04-02T11:26:00.000,2025-04-07T18:02:00,Stray,Normal,Adoption,,5.28,0,Spring Peak
+Austin Animal Center,A927824,Cat,Domestic Shorthair,Orange Tabby/White,Intact Male,Standard,12,2025-04-02T14:14:00.000,2025-04-07T17:46:00,Stray,Normal,Adoption,,5.15,0,Spring Peak
+Austin Animal Center,A926704,Dog,Labrador Retriever/Pit Bull,Black/White,Intact Male,Standard,24,2025-03-15T09:37:00.000,2025-04-07T17:35:00,Public Assist,Normal,Adoption,,23.33,0,Spring Peak
+Austin Animal Center,A927803,Cat,Domestic Shorthair,Orange Tabby,Intact Female,Standard,2,2025-04-02T12:38:00.000,2025-04-07T17:20:00,Stray,Normal,Adoption,,5.2,0,Spring Peak
+Austin Animal Center,A927898,Cat,Domestic Shorthair,Cream Tabby,Intact Male,Standard,2,2025-04-03T12:19:00.000,2025-04-07T17:06:00,Owner Surrender,Normal,Adoption,,4.2,0,Spring Peak
+Austin Animal Center,A927899,Cat,Domestic Shorthair,Orange,Intact Male,Standard,2,2025-04-03T12:19:00.000,2025-04-07T17:06:00,Owner Surrender,Normal,Adoption,,4.2,0,Spring Peak
+Austin Animal Center,A927787,Cat,Domestic Shorthair,Tortie,Intact Female,Standard,2,2025-04-02T11:26:00.000,2025-04-07T16:47:00,Stray,Normal,Adoption,,5.22,0,Spring Peak
+Austin Animal Center,A928083,Dog,Great Pyrenees Mix,White,Intact Female,Standard,5,2025-04-07T14:18:00.000,2025-04-07T16:45:00,Owner Surrender,Sick,Transfer,Partner,0.1,0,Spring Peak
+Austin Animal Center,A928084,Dog,Great Pyrenees Mix,White,Intact Female,Standard,5,2025-04-07T14:18:00.000,2025-04-07T16:45:00,Owner Surrender,Sick,Transfer,Partner,0.1,0,Spring Peak
+Austin Animal Center,A927783,Cat,Domestic Shorthair,Orange Tabby,Intact Male,Standard,1,2025-04-02T11:26:00.000,2025-04-07T16:36:00,Stray,Normal,Adoption,,5.22,0,Spring Peak
+Austin Animal Center,A927784,Cat,Domestic Shorthair,Brown Tabby,Intact Female,Standard,1,2025-04-02T11:26:00.000,2025-04-07T16:36:00,Stray,Normal,Adoption,,5.22,0,Spring Peak
+Austin Animal Center,A927804,Cat,Domestic Shorthair,Cream Tabby/White,Intact Male,Standard,2,2025-04-02T12:38:00.000,2025-04-07T16:27:00,Stray,Normal,Adoption,,5.16,0,Spring Peak
+Austin Animal Center,A925519,Dog,Doberman Pinsch Mix,Black/Tan,Intact Female,Standard,1,2025-02-25T12:47:00.000,2025-04-07T16:18:00,Owner Surrender,Normal,Adoption,,41.15,1,Winter Standard
+Austin Animal Center,A878491,Dog,Standard Schnauzer,Black/White,Intact Male,Standard,48,2025-04-04T12:20:00.000,2025-04-07T16:13:00,Stray,Normal,Return to Owner,,3.16,0,Spring Peak
+Austin Animal Center,A926161,Dog,Doberman Pinsch,Black/Brown,Intact Male,Standard,36,2025-03-06T13:58:00.000,2025-04-07T16:09:00,Stray,Sick,Adoption,,32.09,1,Spring Peak
+Austin Animal Center,A927507,Cat,Domestic Shorthair,Black/White,Intact Female,Standard,12,2025-03-28T15:26:00.000,2025-04-07T14:42:00,Owner Surrender,Normal,Adoption,,9.97,0,Spring Peak
+Austin Animal Center,A925154,Dog,Pit Bull,Brown/White,Intact Male,Standard,4,2025-02-21T07:30:00.000,2025-04-07T14:20:00,Stray,Normal,Adoption,,45.28,1,Winter Standard
+Austin Animal Center,A927721,Cat,Domestic Shorthair,Gray/White,Neutered Male,Standard,84,2025-04-01T11:57:00.000,2025-04-07T13:18:00,Owner Surrender,Normal,Transfer,Partner,6.06,0,Spring Peak
+Austin Animal Center,A928024,Dog,Whippet Mix,Brown Merle/White,Neutered Male,Standard,72,2025-04-06T10:16:00.000,2025-04-07T11:41:00,Public Assist,Normal,Return to Owner,,1.06,0,Spring Peak
+Austin Animal Center,A926469,Cat,Domestic Shorthair,Brown Tabby/White,Intact Female,Standard,1,2025-03-11T12:55:00.000,2025-04-07T11:34:00,Stray,Neonatal,Transfer,Partner,26.94,0,Spring Peak
+Austin Animal Center,A927770,Cat,Domestic Shorthair,Cream/White,Intact Male,Standard,1,2025-04-02T10:15:00.000,2025-04-07T08:05:00,Stray,Neonatal,Died,In Kennel,4.91,0,Spring Peak
+Austin Animal Center,A926465,Cat,Domestic Medium Hair,Brown Tabby,Intact Male,Standard,1,2025-03-31T12:55:00.000,2025-04-07T08:04:00,Stray,Neonatal,Died,In Foster,6.8,0,Spring Peak
+Austin Animal Center,A927749,Cat,Domestic Shorthair,Black,Unknown,Standard,12,2025-04-01T16:36:00.000,2025-04-07T06:19:00,Stray,Sick,Transfer,Snr,5.57,0,Spring Peak
+Austin Animal Center,A927750,Cat,Domestic Shorthair,Calico/Orange,Intact Female,Standard,7,2025-04-01T16:36:00.000,2025-04-07T06:19:00,Stray,Sick,Transfer,Snr,5.57,0,Spring Peak
+Austin Animal Center,A911811,Cat,Domestic Shorthair,Black,Intact Male,Standard,1,2024-08-21T12:41:00.000,2025-04-06T19:06:00,Stray,Normal,Adoption,,228.27,1,Summer High
+Austin Animal Center,A911808,Cat,Domestic Shorthair,Blue,Intact Male,Standard,1,2024-08-21T12:41:00.000,2025-04-06T19:06:00,Stray,Normal,Adoption,,228.27,1,Summer High
+Austin Animal Center,A927217,Dog,Chihuahua Shorthair Mix,Chocolate,Intact Male,Standard,2,2025-03-28T16:54:00.000,2025-04-06T17:09:00,Stray,Normal,Adoption,,9.01,0,Spring Peak
+Austin Animal Center,A927947,Cat,Domestic Shorthair,Orange/White,Neutered Male,Standard,108,2025-04-04T11:24:00.000,2025-04-06T16:43:00,Owner Surrender,Normal,Adoption,,2.22,0,Spring Peak
+Austin Animal Center,A925813,Cat,Domestic Shorthair,Orange Tabby,Intact Male,Standard,1,2025-03-01T14:24:00.000,2025-04-06T15:22:00,Stray,Normal,Died,In Foster,36.04,1,Spring Peak
+Austin Animal Center,A927889,Dog,American Bulldog/American Pit Bull Terrier,Blue/White,Intact Female,Standard,36,2025-04-03T12:06:00.000,2025-04-06T15:22:00,Stray,Medical,Transfer,Partner,3.14,0,Spring Peak
+Austin Animal Center,A925867,Dog,Labrador Retriever Mix,Tan,Intact Male,Standard,1,2025-03-02T12:43:00.000,2025-04-06T15:12:00,Stray,Normal,Adoption,Foster,35.1,1,Spring Peak
+Austin Animal Center,A926297,Cat,Domestic Shorthair,Black/White,Intact Male,Standard,24,2025-03-08T16:53:00.000,2025-04-06T15:07:00,Stray,Normal,Adoption,,28.93,0,Spring Peak
+Austin Animal Center,A926947,Cat,Domestic Shorthair,Black/White,Intact Female,Standard,96,2025-03-19T11:12:00.000,2025-04-06T14:04:00,Owner Surrender,Normal,Adoption,,18.12,0,Spring Peak
+Austin Animal Center,A902394,Dog,Pit Bull,Tan/White,Intact Female,Standard,36,2024-04-16T15:05:00.000,2025-04-06T14:02:00,Stray,Normal,Adoption,Foster,354.96,1,Spring Peak
+Austin Animal Center,A926432,Dog,Labrador Retriever Mix,Brown,Intact Male,Standard,12,2025-03-10T22:17:00.000,2025-04-06T13:43:00,Abandoned,Normal,Adoption,,26.64,0,Spring Peak
+Austin Animal Center,A926681,Cat,Domestic Shorthair,Brown Tabby,Intact Male,Standard,3,2025-03-14T16:44:00.000,2025-04-06T13:26:00,Stray,Sick,Adoption,,22.86,0,Spring Peak
+Austin Animal Center,A927661,Cat,Domestic Shorthair,Torbie,Spayed Female,Standard,36,2025-03-31T14:03:00.000,2025-04-06T13:12:00,Owner Surrender,Normal,Adoption,,5.96,0,Spring Peak
+Austin Animal Center,A927962,Cat,Domestic Shorthair,Orange Tabby,Unknown,Standard,9,2025-04-04T12:07:00.000,2025-04-06T12:52:00,Stray,Normal,Return to Owner,,2.03,0,Spring Peak
+Austin Animal Center,A927650,Cat,Domestic Shorthair,Torbie,Spayed Female,Standard,36,2025-03-31T13:11:00.000,2025-04-06T12:04:00,Owner Surrender,Normal,Adoption,,5.95,0,Spring Peak
+Austin Animal Center,A926480,Cat,Domestic Shorthair,Brown Tabby,Intact Male,Standard,7,2025-03-11T14:15:00.000,2025-04-06T11:56:00,Stray,Normal,Adoption,,25.9,0,Spring Peak
+Austin Animal Center,A927401,Dog,American Bulldog/Australian Cattle Dog,White/Brown,Intact Male,Standard,24,2025-03-26T16:52:00.000,2025-04-06T11:54:00,Public Assist,Normal,Return to Owner,,10.79,0,Spring Peak
+Austin Animal Center,A927988,Wildlife,Bat,Brown,Unknown,Standard,24,2025-04-05T11:35:00.000,2025-04-06T08:42:00,Wildlife,Normal,Euthanasia,Rabies Risk,0.88,0,Spring Peak
+Austin Animal Center,A925692,Dog,Australian Cattle Dog Mix,Red Tick/White,Intact Male,Standard,12,2025-03-05T15:37:00.000,2025-04-05T18:24:00,Stray,Normal,Adoption,,31.12,1,Spring Peak
+Austin Animal Center,A927545,Cat,Domestic Shorthair,Blue Tabby,Intact Male,Standard,36,2025-03-29T15:17:00.000,2025-04-05T17:54:00,Owner Surrender,Normal,Adoption,,7.11,0,Spring Peak
+Austin Animal Center,A926686,Cat,Domestic Shorthair,Brown Tabby,Intact Male,Standard,2,2025-03-14T17:28:00.000,2025-04-05T17:07:00,Stray,Normal,Adoption,,21.99,0,Spring Peak
+Austin Animal Center,A927549,Dog,Doberman Pinsch,Brown,Intact Male,Standard,2,2025-03-29T17:22:00.000,2025-04-05T16:25:00,Stray,Normal,Adoption,,6.96,0,Spring Peak
+Austin Animal Center,A925517,Dog,Doberman Pinsch Mix,Black/Tan,Intact Male,Standard,1,2025-02-25T12:47:00.000,2025-04-05T16:18:00,Owner Surrender,Normal,Transfer,Partner,39.15,1,Winter Standard
+Austin Animal Center,A925518,Dog,Doberman Pinsch Mix,Black/Tan,Intact Female,Standard,1,2025-02-25T12:47:00.000,2025-04-05T16:18:00,Owner Surrender,Normal,Transfer,Partner,39.15,1,Winter Standard
+Austin Animal Center,A925516,Dog,Doberman Pinsch Mix,Black/Tan,Intact Male,Standard,1,2025-02-25T12:47:00.000,2025-04-05T16:17:00,Owner Surrender,Normal,Transfer,Partner,39.15,1,Winter Standard
+Austin Animal Center,A922793,Dog,Labrador Retriever/Boston Terrier,Black/White,Intact Female,Standard,2,2025-01-30T12:52:00.000,2025-04-05T16:17:00,Owner Surrender,Normal,Transfer,Partner,65.14,1,Winter Standard
+Austin Animal Center,A927371,Cat,Domestic Shorthair,Brown Tabby/White,Intact Male,Standard,4,2025-03-26T11:54:00.000,2025-04-05T16:17:00,Stray,Medical,Transfer,Partner,10.18,0,Spring Peak
+Austin Animal Center,A926826,Cat,Domestic Shorthair,Orange Tabby/White,Intact Male,Standard,12,2025-03-17T13:12:00.000,2025-04-05T16:17:00,Abandoned,Normal,Transfer,Partner,19.13,0,Spring Peak
+Austin Animal Center,A921263,Dog,Rottweiler,Black/Brown,Intact Female,Standard,24,2025-03-05T10:50:00.000,2025-04-05T16:13:00,Owner Surrender,Normal,Adoption,,31.22,1,Spring Peak
+Austin Animal Center,A927490,Cat,Domestic Shorthair,Brown Tabby/White,Intact Female,Standard,24,2025-03-28T11:53:00.000,2025-04-05T15:51:00,Stray,Normal,Adoption,,8.17,0,Spring Peak
+Austin Animal Center,A926289,Dog,Belgian Malinois,Brown/Black,Intact Female,Standard,2,2025-03-08T14:44:00.000,2025-04-05T14:23:00,Owner Surrender,Normal,Adoption,,27.99,0,Spring Peak
+Austin Animal Center,A925816,Cat,Domestic Shorthair,Orange Tabby,Intact Male,Standard,1,2025-03-01T14:24:00.000,2025-04-05T12:24:00,Stray,Normal,Adoption,Foster,34.92,1,Spring Peak
+Austin Animal Center,A925814,Cat,Domestic Shorthair,Orange Tabby,Intact Male,Standard,1,2025-03-01T14:24:00.000,2025-04-05T12:19:00,Stray,Normal,Adoption,Foster,34.91,1,Spring Peak
+Austin Animal Center,A925811,Cat,Domestic Shorthair,Orange Tabby,Intact Male,Standard,1,2025-03-01T14:24:00.000,2025-04-05T12:10:00,Stray,Normal,Adoption,Foster,34.91,1,Spring Peak
+Austin Animal Center,A927489,Cat,Domestic Shorthair,Black/White,Intact Female,Standard,24,2025-03-28T11:53:00.000,2025-04-05T12:06:00,Stray,Normal,Adoption,,8.01,0,Spring Peak
+Austin Animal Center,A925817,Cat,Domestic Shorthair,Torbie,Intact Female,Standard,1,2025-03-01T14:24:00.000,2025-04-05T11:58:00,Stray,Normal,Adoption,Foster,34.9,1,Spring Peak
+Austin Animal Center,A927646,Dog,Pit Bull Mix,Black/White,Intact Female,Standard,3,2025-03-31T12:56:00.000,2025-04-05T11:54:00,Stray,Normal,Transfer,Partner,4.96,0,Spring Peak
+Austin Animal Center,A925815,Cat,Domestic Shorthair,Orange Tabby,Intact Male,Standard,1,2025-03-01T14:24:00.000,2025-04-05T11:48:00,Stray,Normal,Adoption,Foster,34.89,1,Spring Peak
+Austin Animal Center,A927535,Dog,Border Terrier,Tan,Intact Male,Standard,12,2025-03-31T11:57:00.000,2025-04-05T11:47:00,Stray,Normal,Adoption,,4.99,0,Spring Peak
+Austin Animal Center,A926512,Dog,Pit Bull,White/Brown Brindle,Intact Female,Standard,12,2025-03-25T13:22:00.000,2025-04-05T11:41:00,Stray,Normal,Adoption,Foster,10.93,0,Spring Peak
+Austin Animal Center,A923432,Dog,Blue Lacy/Australian Cattle Dog,Black/White,Intact Male,Standard,1,2025-02-03T14:38:00.000,2025-04-05T11:37:00,Stray,Normal,Adoption,Foster,60.87,1,Winter Standard
+Austin Animal Center,A922823,Cat,Domestic Shorthair,Blue/White,Spayed Female,Standard,24,2025-02-05T14:34:00.000,2025-04-05T11:33:00,Stray,Normal,Adoption,Foster,58.87,1,Winter Standard
+Austin Animal Center,A895580,Dog,Pit Bull,Brown Brindle/White,Intact Male,Standard,24,2024-01-01T10:24:00.000,2025-04-05T11:24:00,Stray,Injured,Adoption,Foster,460.04,1,Winter Standard
+Austin Animal Center,A920796,Dog,Anatol Shepherd,Tan/White,Intact Female,Standard,24,2025-01-04T13:59:00.000,2025-04-05T10:58:00,Stray,Normal,Adoption,,90.87,1,Winter Standard
+Austin Animal Center,A914975,Dog,Labrador Retriever Mix,Black/Tan,Intact Female,Standard,3,2024-10-09T21:10:00.000,2025-04-05T09:06:00,Stray,Injured,Adoption,Foster,177.5,1,Fall Moderate
+Austin Animal Center,A927734,Cat,Domestic Shorthair,Orange Tabby,Intact Female,Standard,24,2025-04-01T13:29:00.000,2025-04-05T08:47:00,Stray,Injured,Euthanasia,Suffering,3.8,0,Spring Peak
+Austin Animal Center,A927834,Cat,Domestic Shorthair,Blue,Spayed Female,Standard,12,2025-04-02T15:00:00.000,2025-04-05T05:30:00,Stray,Normal,Return to Owner,,2.6,0,Spring Peak
+Austin Animal Center,A927961,Dog,Pit Bull,Black/White,Spayed Female,Standard,24,2025-04-04T13:11:00.000,2025-04-04T19:01:00,Stray,Normal,Return to Owner,,0.24,0,Spring Peak
+Austin Animal Center,A927630,Dog,Miniature Poodle Mix,White,Intact Male,Standard,7,2025-03-31T11:45:00.000,2025-04-04T18:47:00,Stray,Injured,Adoption,,4.29,0,Spring Peak
+Austin Animal Center,A927680,Dog,Labrador Retriever Mix,Black/White,Intact Male,Standard,9,2025-03-31T16:11:00.000,2025-04-04T18:34:00,Stray,Normal,Adoption,,4.1,0,Spring Peak
+Austin Animal Center,A927873,Cat,Domestic Longhair,Black/White,Spayed Female,Standard,108,2025-04-03T09:20:00.000,2025-04-04T17:38:00,Stray,Sick,Return to Owner,,1.35,0,Spring Peak
+Austin Animal Center,A926525,Cat,Domestic Shorthair,Tortie,Intact Female,Standard,24,2025-03-12T11:19:00.000,2025-04-04T17:16:00,Stray,Normal,Adoption,,23.25,0,Spring Peak
+Austin Animal Center,A927710,Dog,Chihuahua Longhair,Black,Intact Female,Standard,84,2025-04-01T11:25:00.000,2025-04-04T16:57:00,Owner Surrender,Normal,Transfer,Partner,3.23,0,Spring Peak
+Austin Animal Center,A927462,Dog,Siberian Husky Mix,Black/Cream,Intact Female,Standard,9,2025-03-27T16:01:00.000,2025-04-04T16:04:00,Stray,Normal,Unknown,,8.0,0,Spring Peak
+Austin Animal Center,A927900,Cat,Domestic Shorthair,Black/White,Intact Male,Standard,60,2025-04-03T12:52:00.000,2025-04-04T16:02:00,Stray,Normal,Return to Owner,,1.13,0,Spring Peak
+Austin Animal Center,A927895,Cat,Domestic Shorthair,Brown Tabby,Intact Male,Standard,1,2025-04-03T12:56:00.000,2025-04-04T15:13:00,Owner Surrender,Normal,Transfer,Partner,1.1,0,Spring Peak
+Austin Animal Center,A927786,Cat,Domestic Shorthair,Torbie,Intact Female,Standard,1,2025-04-02T11:26:00.000,2025-04-04T15:12:00,Stray,Normal,Transfer,Partner,2.16,0,Spring Peak
+Austin Animal Center,A927893,Cat,Domestic Shorthair,Brown Tabby,Intact Female,Standard,1,2025-04-03T12:56:00.000,2025-04-04T15:12:00,Owner Surrender,Normal,Transfer,Partner,1.09,0,Spring Peak
+Austin Animal Center,A927896,Cat,Domestic Shorthair,Gray,Intact Female,Standard,1,2025-04-03T12:19:00.000,2025-04-04T15:12:00,Owner Surrender,Normal,Transfer,Partner,1.12,0,Spring Peak
+Austin Animal Center,A927336,Dog,Chihuahua Shorthair/Dachshund,Tan,Intact Male,Standard,11,2025-03-25T18:45:00.000,2025-04-04T14:23:00,Stray,Normal,Adoption,,9.82,0,Spring Peak
+Austin Animal Center,A927020,Cat,Domestic Shorthair,Black,Intact Female,Standard,12,2025-03-20T11:02:00.000,2025-04-04T12:52:00,Stray,Normal,Adoption,,15.08,0,Spring Peak
+Austin Animal Center,A926139,Dog,Mastiff Mix,Brown Brindle/White,Intact Female,Standard,2,2025-03-06T11:35:00.000,2025-04-04T12:49:00,Owner Surrender,Normal,Adoption,,29.05,0,Spring Peak
+Austin Animal Center,A927633,Dog,Golden Retriever,Tan,Intact Female,Standard,12,2025-03-31T11:39:00.000,2025-04-04T11:11:00,Stray,Normal,Transfer,Partner,3.98,0,Spring Peak
+Austin Animal Center,A927505,Cat,Domestic Shorthair,Orange Tabby/White,Neutered Male,Standard,36,2025-03-28T15:26:00.000,2025-04-04T10:23:00,Owner Surrender,Normal,Adoption,,6.79,0,Spring Peak
+Austin Animal Center,A927888,Bird,Vulture,Black,Unknown,Standard,24,2025-04-03T12:09:00.000,2025-04-04T08:41:00,Wildlife,Injured,Disposal,,0.86,0,Spring Peak
+Austin Animal Center,A927697,Cat,Domestic Shorthair Mix,Blue/White,Unknown,Standard,1,2025-03-31T20:58:00.000,2025-04-04T08:40:00,Stray,Neonatal,Disposal,,3.49,0,Spring Peak
+Austin Animal Center,A925681,Dog,Cairn Terrier Mix,Black/White,Intact Female,Standard,24,2025-02-27T14:16:00.000,2025-04-03T19:07:00,Stray,Normal,Adoption,,35.2,1,Winter Standard
+Austin Animal Center,A927843,Dog,Lhasa Apso,Tan,Intact Female,Standard,36,2025-04-02T16:53:00.000,2025-04-03T19:04:00,Stray,Normal,Return to Owner,,1.09,0,Spring Peak
+Austin Animal Center,A927844,Dog,Lhasa Apso,White/Black,Intact Male,Standard,4,2025-04-02T16:53:00.000,2025-04-03T19:04:00,Stray,Normal,Return to Owner,,1.09,0,Spring Peak
+Austin Animal Center,A926565,Cat,Domestic Shorthair Mix,Black,Intact Female,Standard,7,2025-03-12T20:45:00.000,2025-04-03T19:02:00,Stray,Normal,Adoption,,21.93,0,Spring Peak
+Austin Animal Center,A926811,Cat,Domestic Shorthair,Orange Tabby/White,Intact Female,Standard,7,2025-03-17T12:49:00.000,2025-04-03T18:55:00,Stray,Normal,Adoption,,17.25,0,Spring Peak
+Austin Animal Center,A904689,Dog,Labrador Retriever/Alaskan Husky,Black/White,Intact Female,Standard,1,2024-05-13T11:13:00.000,2025-04-03T18:47:00,Stray,Normal,Adoption,,325.32,1,Spring Peak
+Austin Animal Center,A926253,Dog,Great Dane/Labrador Retriever,Black,Intact Female,Standard,24,2025-03-08T10:17:00.000,2025-04-03T18:46:00,Stray,Normal,Adoption,,26.35,0,Spring Peak
+Austin Animal Center,A927575,Cat,Domestic Shorthair,Black/White,Intact Female,Standard,132,2025-03-30T12:22:00.000,2025-04-03T18:36:38,Stray,Normal,Euthanasia,Suffering,4.26,0,Spring Peak
+Austin Animal Center,A927879,Dog,Pit Bull,Brown/White,Intact Male,Standard,2,2025-04-03T11:21:00.000,2025-04-03T18:03:00,Stray,Sick,Transfer,Partner,0.28,0,Spring Peak
+Austin Animal Center,A927881,Dog,Pit Bull,Brown/White,Intact Female,Standard,2,2025-04-03T11:21:00.000,2025-04-03T18:03:00,Stray,Sick,Transfer,Partner,0.28,0,Spring Peak
+Austin Animal Center,A927882,Dog,Pit Bull,Brown/Black,Intact Female,Standard,2,2025-04-03T11:21:00.000,2025-04-03T18:03:00,Stray,Sick,Transfer,Partner,0.28,0,Spring Peak
+Austin Animal Center,A922377,Wildlife,Bat,Brown/Black,Unknown,Standard,24,2025-01-27T12:05:00.000,2025-04-03T17:21:00,Wildlife,Normal,Euthanasia,Rabies Risk,66.22,1,Winter Standard
+Austin Animal Center,A927189,Wildlife,Bat,Brown,Unknown,Standard,24,2025-03-23T23:01:00.000,2025-04-03T17:20:00,Euthanasia Request,Normal,Euthanasia,Rabies Risk,10.76,0,Spring Peak
+Austin Animal Center,A927850,Rabbit,Rabbit Sh/Californian,White/Black,Unknown,Standard,5,2025-04-02T18:13:00.000,2025-04-03T17:19:58,Stray,Injured,Transfer,Partner,0.96,0,Spring Peak
+Austin Animal Center,A927607,Wildlife,Raccoon,Black/Gray,Unknown,Standard,24,2025-03-30T19:50:00.000,2025-04-03T17:19:00,Wildlife,Medical,Disposal,Rabies Risk,3.9,0,Spring Peak
+Austin Animal Center,A924918,Cat,Domestic Medium Hair,Tortie,Intact Female,Standard,1,2025-02-16T17:02:00.000,2025-04-03T16:40:00,Stray,Normal,Adoption,Foster,45.98,1,Winter Standard
+Austin Animal Center,A926216,Cat,Domestic Shorthair,Brown Tabby/White,Neutered Male,Standard,3,2025-03-07T13:45:00.000,2025-04-03T16:33:00,Stray,Normal,Adoption,,27.12,0,Spring Peak
+Austin Animal Center,A927492,Cat,Domestic Shorthair,Blue/White,Intact Male,Standard,12,2025-03-28T12:31:00.000,2025-04-03T16:31:00,Stray,Normal,Adoption,,6.17,0,Spring Peak
+Austin Animal Center,A927601,Dog,Golden Retriever/Labrador Retriever,Tan/White,Intact Male,Standard,3,2025-03-30T17:47:00.000,2025-04-03T16:15:00,Owner Surrender,Injured,Adoption,,3.94,0,Spring Peak
+Austin Animal Center,A927901,Cat,Domestic Shorthair,Orange Tabby,Intact Male,Standard,1,2025-04-03T13:16:00.000,2025-04-03T16:11:00,Stray,Neonatal,Transfer,Partner,0.12,0,Spring Peak
+Austin Animal Center,A927902,Cat,Domestic Shorthair,Orange Tabby,Intact Male,Standard,1,2025-04-03T13:16:00.000,2025-04-03T16:11:00,Stray,Neonatal,Transfer,Partner,0.12,0,Spring Peak
+Austin Animal Center,A927903,Cat,Domestic Shorthair,Blue Tabby,Intact Female,Standard,1,2025-04-03T13:16:00.000,2025-04-03T16:11:00,Stray,Neonatal,Transfer,Partner,0.12,0,Spring Peak
+Austin Animal Center,A927904,Cat,Domestic Shorthair,Brown Tabby,Intact Male,Standard,1,2025-04-03T13:16:00.000,2025-04-03T16:11:00,Stray,Neonatal,Transfer,Partner,0.12,0,Spring Peak
+Austin Animal Center,A927905,Cat,Domestic Shorthair,Brown Tabby,Intact Male,Standard,1,2025-04-03T13:16:00.000,2025-04-03T16:10:00,Stray,Neonatal,Transfer,Partner,0.12,0,Spring Peak
+Austin Animal Center,A927906,Cat,Domestic Shorthair,Brown Tabby/White,Intact Male,Standard,1,2025-04-03T13:16:00.000,2025-04-03T16:10:00,Stray,Neonatal,Transfer,Partner,0.12,0,Spring Peak
+Austin Animal Center,A927259,Dog,Pit Bull,Blue/White,Intact Female,Standard,36,2025-03-24T17:11:00.000,2025-04-03T15:41:00,Stray,Normal,Rto-Adopt,,9.94,0,Spring Peak
+Austin Animal Center,A927150,Cat,Domestic Shorthair,Blue Tabby,Intact Male,Standard,24,2025-03-23T11:24:00.000,2025-04-03T15:13:00,Stray,Normal,Adoption,,11.16,0,Spring Peak
+Austin Animal Center,A926428,Dog,Labrador Retriever,Tan/White,Intact Female,Standard,1,2025-03-10T17:31:00.000,2025-04-03T15:04:00,Stray,Normal,Adoption,Foster,23.9,0,Spring Peak
+Austin Animal Center,A927596,Dog,Treeing Tennesse Brindle/Pit Bull,Brown Brindle/White,Intact Female,Standard,60,2025-03-30T17:47:00.000,2025-04-03T14:41:00,Owner Surrender,Injured,Transfer,Partner,3.87,0,Spring Peak
+Austin Animal Center,A921580,Cat,Domestic Shorthair,Black/White,Intact Male,Standard,1,2025-01-17T12:54:00.000,2025-04-03T13:48:00,Owner Surrender,Neonatal,Adoption,,76.04,1,Winter Standard
+Austin Animal Center,A927823,Dog,French Bulldog,Tan,Intact Female,Standard,24,2025-04-02T14:09:00.000,2025-04-03T13:12:00,Stray,Sick,Return to Owner,,0.96,0,Spring Peak
+Austin Animal Center,A843166,Dog,Plott Hound Mix,Brown Brindle/White,Neutered Male,Standard,6,2021-09-27T17:10:00.000,2025-04-03T12:46:00,Owner Surrender,Normal,Adoption,Foster,1283.82,1,Fall Moderate
+Austin Animal Center,A926860,Cat,Domestic Shorthair,White/Brown,Intact Male,Standard,1,2025-03-18T12:27:00.000,2025-04-03T12:33:00,Stray,Normal,Adoption,Foster,16.0,0,Spring Peak
+Austin Animal Center,A909017,Dog,Redbone Hound Mix,Brown,Intact Male,Standard,4,2024-07-09T10:39:00.000,2025-04-03T12:30:00,Abandoned,Normal,Euthanasia,Aggressive,268.08,1,Summer High
+Austin Animal Center,A921544,Dog,Blue Lacy/Doberman Pinsch,Black/Tan,Intact Male,Standard,24,2025-01-17T12:24:00.000,2025-04-03T12:21:00,Stray,Normal,Adoption,,76.0,1,Winter Standard
+Austin Animal Center,A864782,Dog,Chihuahua Shorthair Mix,Tan,Intact Male,Standard,36,2025-04-01T17:01:00.000,2025-04-03T12:05:00,Public Assist,Normal,Return to Owner,,1.79,0,Spring Peak
+Austin Animal Center,A927845,Cat,Domestic Shorthair,Brown Tabby,Intact Male,Standard,1,2025-04-02T16:32:00.000,2025-04-03T11:55:00,Stray,Normal,Transfer,Partner,0.81,0,Spring Peak
+Austin Animal Center,A927846,Cat,Domestic Shorthair,Black Tabby/White,Intact Female,Standard,1,2025-04-02T16:32:00.000,2025-04-03T11:55:00,Stray,Normal,Transfer,Partner,0.81,0,Spring Peak
+Austin Animal Center,A927847,Cat,Domestic Shorthair,Gray Tabby/White,Intact Female,Standard,1,2025-04-02T16:32:00.000,2025-04-03T11:55:00,Stray,Normal,Transfer,Partner,0.81,0,Spring Peak
+Austin Animal Center,A927842,Cat,Domestic Shorthair,Black/White,Intact Female,Standard,6,2025-04-02T16:32:00.000,2025-04-03T11:54:00,Stray,Normal,Transfer,Partner,0.81,0,Spring Peak
+Austin Animal Center,A927712,Cat,Domestic Shorthair,Brown Tabby,Intact Female,Standard,36,2025-04-01T11:23:00.000,2025-04-03T11:54:00,Stray,Normal,Transfer,Partner,2.02,0,Spring Peak
+Austin Animal Center,A927715,Cat,Domestic Shorthair,Brown Tabby,Unknown,Standard,1,2025-04-01T11:23:00.000,2025-04-03T11:54:00,Stray,Normal,Transfer,Partner,2.02,0,Spring Peak
+Austin Animal Center,A927716,Cat,Domestic Shorthair,Black/White,Unknown,Standard,1,2025-04-01T11:23:00.000,2025-04-03T11:54:00,Stray,Normal,Transfer,Partner,2.02,0,Spring Peak
+Austin Animal Center,A927717,Cat,Domestic Shorthair,Black/White,Unknown,Standard,1,2025-04-01T11:23:00.000,2025-04-03T11:54:00,Stray,Normal,Transfer,Partner,2.02,0,Spring Peak
+Austin Animal Center,A927718,Cat,Domestic Shorthair,White/Black,Unknown,Standard,1,2025-04-01T11:23:00.000,2025-04-03T11:54:00,Stray,Normal,Transfer,Partner,2.02,0,Spring Peak
+Austin Animal Center,A927820,Cat,Domestic Shorthair,White/Black,Intact Female,Standard,12,2025-04-02T13:42:00.000,2025-04-03T11:17:00,Stray,Normal,Transfer,Partner,0.9,0,Spring Peak
+Austin Animal Center,A927822,Cat,Domestic Shorthair,Calico,Intact Female,Standard,12,2025-04-02T13:42:00.000,2025-04-03T11:16:00,Stray,Normal,Transfer,Partner,0.9,0,Spring Peak
+Austin Animal Center,A927872,Wildlife,Raccoon,Black/Gray,Unknown,Standard,24,2025-04-03T10:30:00.000,2025-04-03T11:09:00,Wildlife,Sick,Disposal,Rabies Risk,0.1,0,Spring Peak
+Austin Animal Center,A927499,Cat,Siamese,White/Brown,Unknown,Standard,24,2025-03-28T13:51:00.000,2025-04-03T10:47:00,Stray,Injured,Euthanasia,Medical,5.87,0,Spring Peak
+Austin Animal Center,A927496,Cat,Domestic Shorthair,Gray,Unknown,Standard,24,2025-03-28T13:53:00.000,2025-04-03T10:45:00,Stray,Injured,Euthanasia,Suffering,5.87,0,Spring Peak
+Austin Animal Center,A927475,Cat,Domestic Shorthair,Orange Tabby/White,Intact Male,Standard,24,2025-03-28T08:53:00.000,2025-04-03T00:00:00,Stray,Injured,Transfer,Snr,5.63,0,Spring Peak
+Austin Animal Center,A927486,Dog,German Shepherd,Black/Tan,Intact Male,Standard,1,2025-03-28T11:43:00.000,2025-04-02T18:56:00,Stray,Normal,Adoption,,5.3,0,Spring Peak
+Austin Animal Center,A924568,Dog,Pit Bull,Brown Brindle/White,Intact Female,Standard,2,2025-02-12T12:32:00.000,2025-04-02T18:20:00,Stray,Normal,Adoption,,49.24,1,Winter Standard
+Austin Animal Center,A927483,Cat,Russian Blue,Blue,Intact Male,Standard,12,2025-03-28T11:07:00.000,2025-04-02T17:56:00,Stray,Normal,Adoption,,5.28,0,Spring Peak
+Austin Animal Center,A927550,Dog,Doberman Pinsch,Tricolor/Black,Intact Male,Standard,2,2025-03-29T17:22:00.000,2025-04-02T17:44:00,Stray,Normal,Adoption,,4.02,0,Spring Peak
+Austin Animal Center,A927667,Cat,Domestic Medium Hair,Calico,Intact Female,Standard,24,2025-03-31T14:18:00.000,2025-04-02T17:26:00,Owner Surrender,Normal,Adoption,,2.13,0,Spring Peak
+Austin Animal Center,A927513,Dog,Chihuahua Shorthair/Dachshund,Tan/White,Intact Female,Standard,36,2025-03-28T16:37:00.000,2025-04-02T17:17:00,Stray,Normal,Adoption,,5.03,0,Spring Peak
+Austin Animal Center,A927555,Cat,Domestic Shorthair,Gray Tabby/White,Intact Male,Standard,36,2025-03-29T18:20:00.000,2025-04-02T17:08:00,Stray,Normal,Adoption,,3.95,0,Spring Peak
+Austin Animal Center,A925081,Dog,Belgian Malinois Mix,Brown/Black,Intact Male,Standard,2,2025-02-19T16:35:00.000,2025-04-02T16:40:00,Stray,Medical,Adoption,,42.0,1,Winter Standard
+Austin Animal Center,A921578,Cat,Domestic Shorthair,Calico/White,Intact Female,Standard,1,2025-01-17T12:54:00.000,2025-04-02T16:36:00,Owner Surrender,Neonatal,Adoption,,75.15,1,Winter Standard
+Austin Animal Center,A926427,Dog,Labrador Retriever,Tan,Intact Male,Standard,1,2025-03-10T17:31:00.000,2025-04-02T16:27:00,Stray,Normal,Adoption,Foster,22.96,0,Spring Peak
+Austin Animal Center,A926141,Dog,Mastiff Mix,Brown Brindle/White,Intact Female,Standard,2,2025-03-06T11:35:00.000,2025-04-02T15:19:00,Owner Surrender,Normal,Adoption,,27.16,0,Spring Peak
+Austin Animal Center,A927503,Cat,Domestic Shorthair,Gray Tabby/Black,Neutered Male,Standard,48,2025-03-28T14:38:00.000,2025-04-02T14:15:00,Stray,Injured,Return to Owner,,4.98,0,Spring Peak
+Austin Animal Center,A927809,Wildlife,Bat,Silver/Brown,Unknown,Standard,24,2025-04-02T13:05:00.000,2025-04-02T14:14:00,Wildlife,Injured,Transfer,Partner,0.1,0,Spring Peak
+Austin Animal Center,A844791,Dog,Pit Bull Mix,Brown Brindle/White,Intact Male,Standard,24,2021-10-20T13:53:00.000,2025-04-02T13:58:00,Stray,Normal,Return to Owner,,1260.0,1,Fall Moderate
+Austin Animal Center,A927517,Dog,Border Collie Mix,Black,Intact Female,Standard,72,2025-03-28T21:16:00.000,2025-04-02T13:42:00,Stray,Injured,Transfer,Partner,4.68,0,Spring Peak
+Austin Animal Center,A927417,Dog,Miniature Schnauzer/Miniature Poodle,White/Tan,Neutered Male,Standard,144,2025-03-27T07:20:00.000,2025-04-02T13:42:00,Stray,Injured,Transfer,Partner,6.27,0,Spring Peak
+Austin Animal Center,A927356,Dog,Chihuahua Shorthair,White/Blue,Intact Male,Standard,108,2025-03-26T07:45:00.000,2025-04-02T13:42:00,Stray,Injured,Transfer,Partner,7.25,0,Spring Peak
+Austin Animal Center,A927778,Cat,Domestic Shorthair,Gray Tabby/White,Intact Male,Standard,1,2025-04-02T11:25:00.000,2025-04-02T13:18:00,Stray,Neonatal,Transfer,Partner,0.1,0,Spring Peak
+Austin Animal Center,A927779,Cat,Domestic Shorthair,Gray Tabby/White,Intact Male,Standard,1,2025-04-02T11:25:00.000,2025-04-02T13:18:00,Stray,Neonatal,Transfer,Partner,0.1,0,Spring Peak
+Austin Animal Center,A927780,Cat,Domestic Shorthair,Gray,Intact Male,Standard,1,2025-04-02T11:25:00.000,2025-04-02T13:18:00,Stray,Neonatal,Transfer,Partner,0.1,0,Spring Peak
+Austin Animal Center,A927776,Cat,Domestic Shorthair,Brown Tabby/White,Intact Male,Standard,1,2025-04-02T11:25:00.000,2025-04-02T13:17:00,Stray,Neonatal,Transfer,Partner,0.1,0,Spring Peak
+Austin Animal Center,A907912,Dog,Labrador Retriever Mix,Black,Intact Female,Standard,60,2024-06-22T14:59:00.000,2025-04-02T12:58:00,Stray,Normal,Return to Owner,,283.92,1,Summer High
+Austin Animal Center,A911750,Dog,Boxer/Labrador Retriever,Tan/White,Intact Female,Standard,24,2024-08-20T15:03:00.000,2025-04-02T12:09:00,Public Assist,Normal,Adoption,Foster,224.88,1,Summer High
+Austin Animal Center,A912138,Dog,Labrador Retriever,Black,Intact Male,Standard,12,2024-09-12T14:27:00.000,2025-04-02T11:54:00,Stray,Normal,Adoption,Foster,201.89,1,Fall Moderate
+Austin Animal Center,A927442,Cat,Domestic Shorthair,Black,Intact Male,Standard,4,2025-03-27T11:51:00.000,2025-04-02T11:35:00,Stray,Normal,Adoption,,5.99,0,Spring Peak
+Austin Animal Center,A796842,Cat,Domestic Shorthair,Orange Tabby,Neutered Male,Standard,24,2019-06-06T00:39:00.000,2025-04-02T11:30:00,Stray,Injured,Adoption,,2127.45,1,Summer High
+Austin Animal Center,A927767,Cat,Domestic Shorthair,Cream/White,Intact Female,Standard,1,2025-04-02T10:15:00.000,2025-04-02T11:17:00,Stray,Neonatal,Transfer,Partner,0.1,0,Spring Peak
+Austin Animal Center,A927768,Cat,Domestic Shorthair,Cream/White,Intact Female,Standard,1,2025-04-02T10:15:00.000,2025-04-02T11:17:00,Stray,Neonatal,Transfer,Partner,0.1,0,Spring Peak
+Austin Animal Center,A927769,Cat,Domestic Shorthair,Cream/White,Intact Male,Standard,1,2025-04-02T10:15:00.000,2025-04-02T11:17:00,Stray,Neonatal,Transfer,Partner,0.1,0,Spring Peak
+Austin Animal Center,A927678,Cat,Domestic Shorthair,Black,Intact Female,Standard,12,2025-03-31T16:01:00.000,2025-04-02T11:11:00,Stray,Normal,Transfer,Partner,1.8,0,Spring Peak
+Austin Animal Center,A927683,Cat,Domestic Shorthair,Orange Tabby,Unknown,Standard,48,2025-03-31T16:14:00.000,2025-04-02T11:10:00,Owner Surrender,Normal,Transfer,Partner,1.79,0,Spring Peak
+Austin Animal Center,A927708,Cat,Domestic Shorthair,Tortie,Intact Female,Standard,12,2025-04-01T11:00:00.000,2025-04-02T11:10:00,Stray,Normal,Transfer,Partner,1.01,0,Spring Peak
+Austin Animal Center,A926585,Dog,Mastiff Mix,Chocolate/Brown Brindle,Intact Female,Standard,1,2025-03-13T11:23:00.000,2025-04-02T10:45:00,Owner Surrender,Normal,Adoption,Foster,19.97,0,Spring Peak
+Austin Animal Center,A926425,Dog,Labrador Retriever,Tan/White,Intact Female,Standard,1,2025-03-10T17:31:00.000,2025-04-02T10:09:00,Stray,Normal,Adoption,Foster,22.69,0,Spring Peak
+Austin Animal Center,A927293,Cat,Domestic Shorthair,Black,Intact Male,Standard,12,2025-03-25T11:25:00.000,2025-04-01T19:07:00,Owner Surrender,Normal,Adoption,,7.32,0,Spring Peak
+Austin Animal Center,A922687,Dog,Great Pyrenees/Australian Shepherd,Cream/Black,Intact Male,Standard,12,2025-01-29T11:44:00.000,2025-04-01T18:57:00,Stray,Normal,Adoption,,62.3,1,Winter Standard
+Austin Animal Center,A927485,Dog,Anatol Shepherd Mix,Brown Brindle/White,Intact Male,Standard,2,2025-03-28T11:40:00.000,2025-04-01T18:47:00,Stray,Normal,Adoption,,4.3,0,Spring Peak
+Austin Animal Center,A926948,Cat,Domestic Shorthair,Orange Tabby/White,Intact Male,Standard,36,2025-03-19T11:44:00.000,2025-04-01T18:36:00,Stray,Sick,Adoption,,13.29,0,Spring Peak
+Austin Animal Center,A927544,Cat,Domestic Shorthair,Orange Tabby,Intact Male,Standard,12,2025-03-29T15:17:00.000,2025-04-01T18:21:00,Owner Surrender,Normal,Adoption,,3.13,0,Spring Peak
+Austin Animal Center,A862258,Dog,Labrador Retriever/Pit Bull,Black/White,Intact Female,Standard,24,2022-07-23T11:50:00.000,2025-04-01T18:18:00,Public Assist,Normal,Rto-Adopt,,983.27,1,Summer High
+Austin Animal Center,A927279,Dog,Pit Bull Mix,Black/White,Intact Female,Standard,24,2025-03-25T10:51:00.000,2025-04-01T17:30:00,Stray,Normal,Rto-Adopt,,7.28,0,Spring Peak
+Austin Animal Center,A926957,Dog,Pit Bull Mix,Brown/Brown,Intact Male,Standard,4,2025-03-19T12:19:00.000,2025-04-01T17:25:00,Stray,Injured,Adoption,,13.21,0,Spring Peak
+Austin Animal Center,A908690,Dog,Pit Bull Mix,Black/White,Intact Female,Standard,12,2024-07-04T10:50:00.000,2025-04-01T17:25:00,Stray,Normal,Adoption,Foster,271.27,1,Summer High
+Austin Animal Center,A927506,Cat,Domestic Shorthair,Brown Tabby/White,Intact Female,Standard,7,2025-03-28T15:26:00.000,2025-04-01T17:13:00,Owner Surrender,Normal,Adoption,,4.07,0,Spring Peak
+Austin Animal Center,A927433,Cat,Domestic Shorthair,Brown Tabby,Intact Female,Standard,4,2025-03-27T11:44:00.000,2025-04-01T16:19:00,Stray,Normal,Adoption,,5.19,0,Spring Peak
+Austin Animal Center,A927315,Rabbit,Rabbit Sh,Gray/White,Intact Female,Standard,8,2025-03-25T14:39:00.000,2025-04-01T15:36:00,Owner Surrender,Normal,Adoption,,7.04,0,Spring Peak
+Austin Animal Center,A927316,Rabbit,Rabbit Sh,Black/White,Intact Female,Standard,8,2025-03-25T14:39:00.000,2025-04-01T15:34:00,Owner Surrender,Normal,Adoption,,7.04,0,Spring Peak
+Austin Animal Center,A918028,Cat,Domestic Shorthair,Brown Tabby,Neutered Male,Standard,11,2024-11-15T11:01:00.000,2025-04-01T13:23:00,Owner Surrender,Normal,Adoption,Foster,137.1,1,Fall Moderate
+Austin Animal Center,A918025,Cat,Domestic Shorthair,Brown Tabby,Neutered Male,Standard,11,2024-11-15T11:01:00.000,2025-04-01T13:18:00,Owner Surrender,Normal,Adoption,Foster,137.1,1,Fall Moderate
+Austin Animal Center,A926429,Dog,Labrador Retriever,Tan,Intact Female,Standard,1,2025-03-10T17:31:00.000,2025-04-01T13:09:00,Stray,Normal,Adoption,Foster,21.82,0,Spring Peak
+Austin Animal Center,A927671,Dog,Bulldog,Brown/White,Intact Male,Standard,24,2025-03-31T15:16:00.000,2025-04-01T13:08:00,Stray,Injured,Return to Owner,,0.91,0,Spring Peak
+Austin Animal Center,A926424,Dog,Labrador Retriever,Gray/White,Intact Male,Standard,1,2025-03-10T17:31:00.000,2025-04-01T13:03:00,Stray,Normal,Adoption,Foster,21.81,0,Spring Peak
+Austin Animal Center,A926010,Dog,Australian Shepherd/Alaskan Husky,Blue Merle,Intact Female,Standard,12,2025-03-13T13:16:00.000,2025-04-01T12:56:00,Stray,Normal,Adoption,Foster,18.99,0,Spring Peak
+Austin Animal Center,A927478,Dog,Standard Poodle/Labrador Retriever,White,Intact Female,Standard,9,2025-03-28T10:42:00.000,2025-04-01T12:56:00,Stray,Normal,Transfer,Partner,4.09,0,Spring Peak
+Austin Animal Center,A927479,Dog,Standard Poodle/Labrador Retriever,Black,Intact Male,Standard,9,2025-03-28T10:43:00.000,2025-04-01T12:56:00,Stray,Normal,Transfer,Partner,4.09,0,Spring Peak
+Austin Animal Center,A923435,Dog,Blue Lacy/Australian Cattle Dog,Blue Tick/White,Intact Female,Standard,1,2025-02-03T14:38:00.000,2025-04-01T12:47:00,Stray,Normal,Adoption,Foster,56.92,1,Winter Standard
+Austin Animal Center,A919152,Dog,German Shepherd,Black,Intact Male,Standard,24,2024-12-05T15:46:00.000,2025-04-01T12:44:00,Stray,Normal,Adoption,Foster,116.87,1,Winter Standard
+Austin Animal Center,A911792,Cat,Domestic Shorthair,Calico,Intact Female,Standard,12,2024-08-21T11:54:00.000,2025-04-01T12:36:00,Stray,Normal,Adoption,Foster,223.03,1,Summer High
+Austin Animal Center,A926426,Dog,Labrador Retriever,Tan/Black,Intact Female,Standard,1,2025-03-10T17:31:00.000,2025-04-01T12:34:00,Stray,Normal,Adoption,Foster,21.79,0,Spring Peak
+Austin Animal Center,A927698,Cat,Domestic Shorthair Mix,Black Tabby/White,Intact Male,Standard,1,2025-03-31T20:58:00.000,2025-04-01T12:23:00,Stray,Neonatal,Transfer,Partner,0.64,0,Spring Peak
+Austin Animal Center,A927699,Cat,Domestic Shorthair Mix,Brown Tabby,Intact Male,Standard,1,2025-03-31T20:58:00.000,2025-04-01T12:23:00,Stray,Neonatal,Transfer,Partner,0.64,0,Spring Peak
+Austin Animal Center,A919920,Dog,Anatol Shepherd/Chow Chow,Brown/Black,Intact Male,Standard,24,2025-01-09T11:06:00.000,2025-04-01T12:04:00,Stray,Normal,Adoption,,82.04,1,Winter Standard
+Austin Animal Center,A927592,Dog,Australian Cattle Dog Mix,Blue/Gray,Intact Female,Standard,36,2025-03-30T17:08:00.000,2025-04-01T11:40:00,Public Assist,Normal,Return to Owner,,1.77,0,Spring Peak
+Austin Animal Center,A927540,Dog,Shih Tzu,White/Black,Intact Male,Standard,36,2025-03-29T14:12:00.000,2025-04-01T11:14:00,Stray,Normal,Transfer,Partner,2.88,0,Spring Peak
+Austin Animal Center,A927629,Wildlife,Bat,Black,Unknown,Standard,12,2025-03-31T11:38:00.000,2025-04-01T10:40:00,Wildlife,Normal,Euthanasia,Rabies Risk,0.96,0,Spring Peak
+Austin Animal Center,A927536,Cat,Domestic Shorthair,Gray,Intact Male,Standard,24,2025-03-29T12:43:00.000,2025-04-01T08:38:00,Stray,Normal,Transfer,Snr,2.83,0,Spring Peak
+Austin Animal Center,A927502,Dog,Siberian Husky Mix,Black/White,Intact Male,Standard,24,2025-03-28T14:37:00.000,2025-04-01T08:04:00,Stray,Injured,Euthanasia,Suffering,3.73,0,Spring Peak
+Austin Animal Center,A927121,Cat,Domestic Shorthair,Tortie,Spayed Female,Standard,48,2025-03-22T12:41:00.000,2025-04-01T00:00:00,Stray,Injured,Return to Owner,,9.47,0,Spring Peak
+Austin Animal Center,A927471,Dog,Black Mouth Cur/Alaskan Husky,Tricolor,Intact Female,Standard,36,2025-03-28T07:21:00.000,2025-03-31T19:45:00,Stray,Injured,Return to Owner,,3.52,0,Spring Peak
+Austin Animal Center,A880464,Dog,German Shepherd,Black/Tan,Intact Male,Standard,72,2024-12-27T10:17:00.000,2025-03-31T18:56:00,Stray,Sick,Adoption,,94.36,1,Winter Standard
+Austin Animal Center,A927534,Dog,Labrador Retriever Mix,White/Black,Intact Male,Standard,1,2025-03-29T11:27:00.000,2025-03-31T18:42:08,Owner Surrender,Normal,Transfer,Partner,2.3,0,Spring Peak
+Austin Animal Center,A927533,Dog,Labrador Retriever Mix,White/Black,Intact Male,Standard,1,2025-03-29T11:27:00.000,2025-03-31T18:40:57,Owner Surrender,Normal,Transfer,Partner,2.3,0,Spring Peak
+Austin Animal Center,A927532,Dog,Labrador Retriever Mix,White/Black,Intact Female,Standard,1,2025-03-29T11:27:00.000,2025-03-31T18:40:21,Owner Surrender,Normal,Transfer,Partner,2.3,0,Spring Peak
+Austin Animal Center,A927530,Dog,Labrador Retriever Mix,Yellow,Intact Male,Standard,1,2025-03-29T11:27:00.000,2025-03-31T18:39:29,Owner Surrender,Normal,Transfer,Partner,2.3,0,Spring Peak
+Austin Animal Center,A927531,Dog,Labrador Retriever Mix,White/Brown,Intact Female,Standard,1,2025-03-29T11:27:00.000,2025-03-31T18:38:48,Owner Surrender,Normal,Transfer,Partner,2.3,0,Spring Peak
+Austin Animal Center,A927339,Dog,Pug Mix,Tan,Intact Male,Standard,24,2025-03-25T18:35:00.000,2025-03-31T18:27:00,Stray,Normal,Adoption,,5.99,0,Spring Peak
+Austin Animal Center,A927274,Dog,German Shepherd,Black/Tan,Intact Male,Standard,12,2025-03-25T11:32:00.000,2025-03-31T18:04:00,Owner Surrender,Normal,Adoption,,6.27,0,Spring Peak
+Austin Animal Center,A872606,Dog,Pit Bull,White/Brown,Intact Female,Standard,60,2025-03-25T14:14:00.000,2025-03-31T17:59:00,Stray,Normal,Adoption,,6.16,0,Spring Peak
+Austin Animal Center,A926887,Dog,Siberian Husky/German Shepherd,White,Intact Male,Standard,12,2025-03-20T14:10:00.000,2025-03-31T17:50:00,Stray,Normal,Adoption,,11.15,0,Spring Peak
+Austin Animal Center,A927426,Cat,Domestic Medium Hair,Orange Tabby/White,Intact Female,Standard,4,2025-03-27T10:53:00.000,2025-03-31T17:37:00,Stray,Normal,Adoption,,4.28,0,Spring Peak
+Austin Animal Center,A922145,Dog,American Bulldog Mix,Black/White,Intact Female,Standard,1,2025-01-25T07:36:00.000,2025-03-31T17:31:00,Stray,Normal,Adoption,,65.41,1,Winter Standard
+Austin Animal Center,A927322,Dog,Mastiff Mix,Black,Intact Male,Standard,9,2025-03-25T17:21:00.000,2025-03-31T17:26:00,Stray,Normal,Adoption,,6.0,0,Spring Peak
+Austin Animal Center,A925576,Cat,Domestic Shorthair,Black,Neutered Male,Standard,120,2025-02-26T12:11:00.000,2025-03-31T17:23:00,Owner Surrender,Normal,Adoption,,33.22,1,Winter Standard
+Austin Animal Center,A927288,Cat,Domestic Shorthair,Cream,Intact Male,Standard,12,2025-03-25T11:28:00.000,2025-03-31T17:03:00,Stray,Normal,Adoption,,6.23,0,Spring Peak
+Austin Animal Center,A927299,Dog,Labrador Retriever Mix,Black/White,Intact Male,Standard,1,2025-03-25T11:49:00.000,2025-03-31T16:47:00,Stray,Normal,Adoption,,6.21,0,Spring Peak
+Austin Animal Center,A927458,Cat,Domestic Shorthair,Torbie/White,Spayed Female,Standard,24,2025-03-27T15:46:00.000,2025-03-31T16:34:00,Stray,Injured,Return to Owner,,4.03,0,Spring Peak
+Austin Animal Center,A927367,Cat,Domestic Shorthair,White/Black,Intact Male,Standard,2,2025-03-26T11:33:00.000,2025-03-31T16:33:00,Stray,Normal,Adoption,,5.21,0,Spring Peak
+Austin Animal Center,A927301,Dog,Labrador Retriever Mix,Black,Intact Female,Standard,1,2025-03-25T11:49:00.000,2025-03-31T16:28:00,Stray,Normal,Adoption,,6.19,0,Spring Peak
+Austin Animal Center,A926145,Dog,Labrador Retriever Mix,Tan/White,Intact Male,Standard,7,2025-03-06T11:35:00.000,2025-03-31T16:11:00,Owner Surrender,Normal,Adoption,,25.19,0,Spring Peak
+Austin Animal Center,A926856,Cat,Domestic Shorthair,Black/White,Intact Male,Standard,12,2025-03-18T11:23:00.000,2025-03-31T16:05:00,Stray,Normal,Adoption,,13.2,0,Spring Peak
+Austin Animal Center,A853123,Dog,Pit Bull Mix,Brown/White,Intact Male,Standard,24,2022-03-13T16:29:00.000,2025-03-31T16:05:00,Stray,Normal,Return to Owner,,1113.98,1,Spring Peak
+Austin Animal Center,A924382,Dog,Chihuahua Shorthair Mix,Tan,Neutered Male,Standard,4,2025-02-22T12:38:00.000,2025-03-31T15:37:00,Owner Surrender,Normal,Adoption,,37.12,1,Winter Standard
+Austin Animal Center,A927135,Dog,Yorkshire Terrier Mix,Black/Tan,Intact Male,Standard,24,2025-03-22T15:53:00.000,2025-03-31T14:14:00,Stray,Medical,Adoption,,8.93,0,Spring Peak
+Austin Animal Center,A926875,Reptile,Lizard,Yellow/Black,Unknown,Standard,12,2025-03-18T14:27:00.000,2025-03-31T11:48:00,Public Assist,Unknown,Transfer,Partner,12.89,0,Spring Peak
+Austin Animal Center,A926876,Reptile,Lizard,Yellow/Black,Unknown,Standard,12,2025-03-18T14:27:00.000,2025-03-31T11:48:00,Public Assist,Unknown,Transfer,Partner,12.89,0,Spring Peak
+Austin Animal Center,A926877,Reptile,Lizard,Yellow/Black,Unknown,Standard,12,2025-03-18T14:27:00.000,2025-03-31T11:47:00,Public Assist,Unknown,Transfer,Partner,12.89,0,Spring Peak
+Austin Animal Center,A927420,Wildlife,Bat,Brown,Unknown,Standard,12,2025-03-27T09:04:00.000,2025-03-31T11:35:00,Wildlife,Unknown,Euthanasia,Suffering,4.1,0,Spring Peak
+Austin Animal Center,A927606,Wildlife,Bat,Brown,Unknown,Standard,12,2025-03-30T18:37:00.000,2025-03-31T10:24:00,Wildlife,Normal,Euthanasia,Rabies Risk,0.66,0,Spring Peak
+Austin Animal Center,A927565,Wildlife,Bat,Brown,Unknown,Standard,24,2025-03-30T09:58:00.000,2025-03-31T10:18:00,Wildlife,Sick,Euthanasia,Rabies Risk,1.01,0,Spring Peak
+Austin Animal Center,A927579,Wildlife,Bat,Brown,Unknown,Standard,12,2025-03-30T12:40:00.000,2025-03-31T10:17:00,Wildlife,Sick,Euthanasia,Rabies Risk,0.9,0,Spring Peak
+Austin Animal Center,A927364,Cat,Domestic Shorthair,Black,Unknown,Standard,8,2025-03-26T11:11:00.000,2025-03-31T08:05:00,Stray,Normal,Transfer,Snr,4.87,0,Spring Peak
+Austin Animal Center,A927203,Cat,Domestic Shorthair,Brown Tabby/White,Intact Male,Standard,12,2025-03-24T10:48:00.000,2025-03-31T08:05:00,Stray,Normal,Transfer,Snr,6.89,0,Spring Peak
+Austin Animal Center,A927432,Cat,Domestic Medium Hair,Brown Tabby,Intact Male,Standard,60,2025-03-27T11:29:00.000,2025-03-31T08:04:00,Stray,Normal,Transfer,Snr,3.86,0,Spring Peak
+Austin Animal Center,A927365,Cat,Domestic Shorthair,Black,Unknown,Standard,12,2025-03-26T11:11:00.000,2025-03-31T08:03:00,Stray,Normal,Transfer,Snr,4.87,0,Spring Peak
+Austin Animal Center,A927202,Cat,Domestic Shorthair,Brown Tabby,Intact Male,Standard,12,2025-03-24T10:48:00.000,2025-03-31T08:03:00,Stray,Normal,Transfer,Snr,6.89,0,Spring Peak

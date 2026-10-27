@@ -1,0 +1,1001 @@
+source_portal,id,species,breed,color,sex,size,age_months,intake_date,outcome_date,intake_type,intake_condition,outcome_type,outcome_subtype,length_of_stay_days,is_high_risk,intake_season
+Sonoma County Shelter,A422697,Dog,Siberian Husky,Black/White,Male,Medium,24,2023-12-04T00:00:00.000,2024-01-08T00:00:00.000,Stray,Unknown,Euthanize,Aggressive,35.0,1,Winter Standard
+Sonoma County Shelter,A422443,Dog,Pit Bull,Gray,Female,Medium,24,2023-11-28T00:00:00.000,2024-01-08T00:00:00.000,Stray,Unknown,Euthanize,Beh Severe,41.0,1,Fall Moderate
+Sonoma County Shelter,A422038,Dog,Germ Shepherd,Tan/Black,Female,Medium,24,2023-11-11T00:00:00.000,2024-01-08T00:00:00.000,Stray,Unknown,Euthanize,Aggressive,58.0,1,Fall Moderate
+Sonoma County Shelter,A390201,Dog,Siberian Husky,Gray/White,Neutered,Medium,24,2019-08-06T00:00:00.000,2019-08-20T00:00:00.000,Stray,Healthy,Adoption,Scas Web,14.0,0,Summer High
+Sonoma County Shelter,A423685,Dog,Germ Shepherd,Fawn,Spayed,Medium,24,2024-01-05T00:00:00.000,2024-01-08T00:00:00.000,Stray,Unknown,Return To Owner,,3.0,0,Winter Standard
+Sonoma County Shelter,A425655,Dog,Shih Tzu,White,Female,Medium,24,2024-04-04T00:00:00.000,2024-04-05T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Call,1.0,0,Spring Peak
+Sonoma County Shelter,A299415,Dog,Dachshund Lh,Red,Neutered,Medium,24,2024-03-24T00:00:00.000,2024-04-05T00:00:00.000,Confiscate,Unknown,Return To Owner,Medical,12.0,0,Spring Peak
+Sonoma County Shelter,A319820,Cat,Domestic Sh,Gray Tabby,Unknown,Medium,24,2015-04-04T00:00:00.000,2015-04-04T00:00:00.000,Stray,Healthy,Transfer,Hssc,0.1,0,Spring Peak
+Sonoma County Shelter,A299416,Dog,Dachshund Lh,Brown/Red,Spayed,Medium,24,2024-03-24T00:00:00.000,2024-04-05T00:00:00.000,Confiscate,Unknown,Return To Owner,Medical,12.0,0,Spring Peak
+Sonoma County Shelter,A423033,Dog,Parson Russ Ter/Chihuahua Sh,Cream,Spayed,Medium,24,2023-12-12T00:00:00.000,2024-01-06T00:00:00.000,Owner Surrender,Unknown,Adoption,Scas Web,25.0,0,Winter Standard
+Sonoma County Shelter,A421310,Cat,Domestic Sh,Brn Tabby,Neutered,Small,24,2023-12-30T00:00:00.000,2024-01-09T00:00:00.000,Owner Surrender,Healthy,Adoption,Walkin,10.0,0,Winter Standard
+Sonoma County Shelter,A324184,Dog,Schnauzer Min,Black/Gray,Spayed,Medium,24,2024-01-07T00:00:00.000,2024-01-09T00:00:00.000,Confiscate,Unknown,Return To Owner,Over The Counter_Notice,2.0,0,Winter Standard
+Sonoma County Shelter,A419574,Dog,Pit Bull,Fawn/White,Neutered,Medium,24,2023-08-17T00:00:00.000,2023-12-08T00:00:00.000,Stray,Treatable/Manageable,Adoption,Volunteer,113.0,1,Summer High
+Sonoma County Shelter,A424987,Dog,Doberman Pinsch,Black/Tan,Female,Medium,24,2024-03-06T00:00:00.000,2024-03-19T00:00:00.000,Confiscate,Unknown,Return To Owner,Over The Counter_Arrest,13.0,0,Spring Peak
+Sonoma County Shelter,A423448,Cat,Domestic Sh,Brn Tabby,Spayed,Medium,24,2023-12-19T00:00:00.000,2024-01-09T00:00:00.000,Stray,Healthy,Adoption,Finder,21.0,0,Winter Standard
+Sonoma County Shelter,A423717,Dog,Siberian Husky,Black/White,Male,Medium,24,2024-01-08T00:00:00.000,2024-01-09T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Web,1.0,0,Winter Standard
+Sonoma County Shelter,A423699,Dog,Schnauzer Min/Welsh Terrier,Black/Gray,Spayed,Medium,24,2024-01-06T00:00:00.000,2024-01-09T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Mchip,3.0,0,Winter Standard
+Sonoma County Shelter,A424284,Rabbit,Rabbit Sh,Black/Brown,Female,Medium,24,2024-02-07T00:00:00.000,2024-04-06T00:00:00.000,Stray,Unknown,Transfer,Rp Shelter,59.0,1,Winter Standard
+Sonoma County Shelter,A422004,Dog,Germ Shepherd/Mix,White/Black,Spayed,Medium,24,2023-11-09T00:00:00.000,2024-01-09T00:00:00.000,Stray,Healthy,Adoption,Scas Web,61.0,1,Fall Moderate
+Sonoma County Shelter,A422186,Cat,Domestic Sh,Black,Male,Medium,24,2023-11-16T00:00:00.000,2023-12-20T00:00:00.000,Stray,Unknown,Transfer,Hssc,34.0,1,Fall Moderate
+Sonoma County Shelter,A410926,Dog,Aust Cattle Dog,Gray/Brown,Neutered,Medium,24,2022-04-11T00:00:00.000,2022-08-09T00:00:00.000,Quarantine,Unknown,Return To Owner,Over The Counter_Prvs,120.0,1,Spring Peak
+Sonoma County Shelter,A419923,Dog,Siberian Husky,White,Male,Medium,24,2024-03-27T00:00:00.000,2024-04-06T00:00:00.000,Quarantine,Unknown,Return To Owner,Over The Counter_Notice,10.0,0,Spring Peak
+Sonoma County Shelter,A419441,Cat,Domestic Sh,Gray Tabby,Spayed,Medium,24,2023-08-03T00:00:00.000,2023-08-08T00:00:00.000,Quarantine,Untreatable,Disposal,Fra,5.0,0,Summer High
+Sonoma County Shelter,A390883,Dog,Welsh Corgi Car/Mix,Brown/White,Male,Medium,24,2019-08-24T00:00:00.000,2019-09-04T00:00:00.000,Stray,Healthy,Transfer,Hssc,11.0,0,Summer High
+Sonoma County Shelter,A423714,Dog,Chihuahua Sh,Brown/Black,Female,Medium,24,2024-01-08T00:00:00.000,2024-01-09T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Web,1.0,0,Winter Standard
+Sonoma County Shelter,A420760,Dog,French Bulldog,Blue Merle/White,Male,Medium,24,2023-10-06T00:00:00.000,2023-10-06T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Prvs,0.1,0,Fall Moderate
+Sonoma County Shelter,A405084,Dog,Patterdale Terr/Bull Terr Min,Black/Tan,Neutered,Medium,24,2021-05-30T00:00:00.000,2021-05-31T00:00:00.000,Stray,Unknown,Return To Owner,Fld_Mchip,1.0,0,Spring Peak
+Sonoma County Shelter,A416031,Dog,Shetld Sheepdog/Mix,Gray/White,Neutered,Medium,24,2023-03-07T00:00:00.000,2023-03-23T00:00:00.000,Stray,Healthy,Adoption,Scas Web,16.0,0,Spring Peak
+Sonoma County Shelter,A427728,Dog,Germ Shepherd/Mix,Tan,Male,Medium,24,2024-07-12T00:00:00.000,2024-07-12T00:00:00.000,Stray,Unknown,Return To Owner,,0.1,0,Summer High
+Sonoma County Shelter,A423722,Dog,Pit Bull/Bullmastiff,Black/Blue Merle,Male,Medium,24,2024-01-09T00:00:00.000,2024-01-09T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Call,0.1,0,Winter Standard
+Sonoma County Shelter,A311005,Cat,Domestic Sh,Black,Neutered,Small,24,2014-09-02T00:00:00.000,2014-09-26T00:00:00.000,Owner Surrender,Healthy,Adoption,Debbie Btq,24.0,0,Fall Moderate
+Sonoma County Shelter,A424619,Dog,Fox Terr Smooth/Mix,White/Black,Spayed,Medium,24,2024-02-18T00:00:00.000,2024-04-06T00:00:00.000,Stray,Unknown,Adoption,Walkin,48.0,1,Winter Standard
+Sonoma County Shelter,A392039,Dog,Chihuahua Lh,White/Brown,Female,Medium,24,2019-10-04T00:00:00.000,2019-10-18T00:00:00.000,Stray,Unknown,Transfer,Hssc,14.0,0,Fall Moderate
+Sonoma County Shelter,A337894,Cat,Domestic Lh,Calico,Spayed,Medium,24,2016-06-02T00:00:00.000,2016-07-23T00:00:00.000,Stray,Treatable/Rehab,Adoption,Walkin,51.0,1,Summer High
+Sonoma County Shelter,A426615,Cat,Domestic Sh,Gray/White,Neutered,Small,24,2024-05-22T00:00:00.000,2024-07-12T00:00:00.000,Stray,Healthy,Adoption,Walkin,51.0,1,Spring Peak
+Sonoma County Shelter,A427369,Cat,Domestic Sh,Brn Tabby,Female,Medium,24,2024-06-26T00:00:00.000,2024-07-12T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Call,16.0,0,Summer High
+Sonoma County Shelter,A431538,Dog,Belg Malinois,Black,Male,Medium,24,2025-02-22T00:00:00.000,2025-02-22T00:00:00.000,Stray,Unknown,Return To Owner,Fld_Mchip,0.1,0,Winter Standard
+Sonoma County Shelter,A415147,Dog,Germ Shepherd/Mix,Black/White,Male,Medium,24,2023-01-25T00:00:00.000,2023-02-04T00:00:00.000,Confiscate,Unknown,Return To Owner,Over The Counter_Arrest,10.0,0,Winter Standard
+Sonoma County Shelter,A426838,Cat,Domestic Sh,Brn Tabby,Neutered,Medium,24,2024-05-30T00:00:00.000,2024-07-12T00:00:00.000,Stray,Healthy,Adoption,Walkin,43.0,1,Spring Peak
+Sonoma County Shelter,A427691,Dog,Germ Shepherd/Mix,Brown/White,Female,Medium,24,2024-07-11T00:00:00.000,2024-07-12T00:00:00.000,Stray,Unknown,Return To Owner,Fld_Mchip,1.0,0,Summer High
+Sonoma County Shelter,A427704,Cat,Domestic Sh,Black,Neutered,Medium,24,2024-07-12T00:00:00.000,2024-07-12T00:00:00.000,Stray,Untreatable,Euthanize,Ill Severe,0.1,0,Summer High
+Sonoma County Shelter,A339430,Cat,Domestic Sh,Black,Neutered,Small,24,2016-07-09T00:00:00.000,2016-07-23T00:00:00.000,Owner Surrender,Healthy,Adoption,Walkin,14.0,0,Summer High
+Sonoma County Shelter,A416471,Dog,Siberian Husky,Black/White,Neutered,Medium,24,2023-04-01T00:00:00.000,2024-01-10T00:00:00.000,Stray,Healthy,Adoption,Scas Web,284.0,1,Spring Peak
+Sonoma County Shelter,A378799,Dog,Maltese,White,Neutered,Medium,24,2023-08-04T00:00:00.000,2023-08-04T00:00:00.000,Stray,Healthy,Return To Owner,Over The Counter_Notice,0.1,0,Summer High
+Sonoma County Shelter,A422102,Cat,Domestic Sh,Flame Pt,Spayed,Medium,24,2023-11-13T00:00:00.000,2024-01-10T00:00:00.000,Stray,Unknown,Adoption,Walkin,58.0,1,Fall Moderate
+Sonoma County Shelter,A428476,Bird,Chicken,Black,Unknown,Medium,24,2024-08-16T00:00:00.000,2024-09-23T00:00:00.000,Stray,Unknown,Transfer,Westfarm,38.0,1,Summer High
+Sonoma County Shelter,A360813,Dog,Catahoula/Mix,Brn Merle/Black,Spayed,Medium,24,2024-01-04T00:00:00.000,2024-01-10T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Notice,6.0,0,Winter Standard
+Sonoma County Shelter,A423732,Wildlife,Bat,Brown,Unknown,Medium,24,2024-01-10T00:00:00.000,2024-01-10T00:00:00.000,Quarantine,Unknown,Euthanize,Fra,0.1,0,Winter Standard
+Sonoma County Shelter,A422994,Dog,Pomeranian,Black,Neutered,Medium,24,2023-12-09T00:00:00.000,2024-01-03T00:00:00.000,Stray,Unknown,Adoption,Walkin,25.0,0,Winter Standard
+Sonoma County Shelter,A429021,Dog,Labrador Retr/Mix,White,Male,Medium,24,2024-09-14T00:00:00.000,2024-11-01T00:00:00.000,Stray,Unknown,Transfer,Gg Lab Res,48.0,1,Fall Moderate
+Sonoma County Shelter,A428262,Cat,Domestic Sh,Black/White,Neutered,Medium,24,2024-08-08T00:00:00.000,2024-11-01T00:00:00.000,Stray,Healthy,Adoption,Walkin,85.0,1,Summer High
+Sonoma County Shelter,A429433,Dog,Great Pyrenees,White,Male,Medium,24,2024-10-19T00:00:00.000,2024-11-01T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Notice,13.0,0,Fall Moderate
+Sonoma County Shelter,A421128,Bird,Pigeon,White/Brown,Unknown,Medium,24,2023-10-11T00:00:00.000,2024-01-10T00:00:00.000,Confiscate,Unknown,Adoption,Walkin,91.0,1,Fall Moderate
+Sonoma County Shelter,A425116,Cat,Domestic Mh,Black/White,Neutered,Medium,24,2024-03-11T00:00:00.000,2024-04-08T00:00:00.000,Stray,Unknown,Euthanize,Con Severe,28.0,0,Spring Peak
+Sonoma County Shelter,A382673,Dog,Siberian Husky/Mix,Black/Tan,Spayed,Medium,24,2024-01-09T00:00:00.000,2024-01-10T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Mchip,1.0,0,Winter Standard
+Sonoma County Shelter,A423720,Dog,French Bulldog,Black/Tan,Female,Medium,24,2024-01-09T00:00:00.000,,Stray,Unknown,Unknown,,0.1,0,Winter Standard
+Sonoma County Shelter,A425413,Dog,Beagle/Eng Cocker Span,Black/White,Female,Medium,24,2024-03-21T00:00:00.000,2024-04-08T00:00:00.000,Stray,Healthy,Euthanize,Aggressive,18.0,0,Spring Peak
+Sonoma County Shelter,A425187,Dog,Pit Bull/Mix,Bl Brindle,Female,Medium,24,2024-03-13T00:00:00.000,2024-04-08T00:00:00.000,Stray,Unknown,Euthanize,Aggressive,26.0,0,Spring Peak
+Sonoma County Shelter,A425508,Dog,Labrador Retr/Mix,Tan/White,Female,Medium,24,2024-03-26T00:00:00.000,2024-04-08T00:00:00.000,Stray,Unknown,Euthanize,Ill Severe,13.0,0,Spring Peak
+Sonoma County Shelter,A425192,Dog,Germ Shepherd,Tricolor,Spayed,Medium,24,2024-03-13T00:00:00.000,2024-04-08T00:00:00.000,Stray,Unknown,Euthanize,Con Severe,26.0,0,Spring Peak
+Sonoma County Shelter,A411263,Cat,Domestic Sh,Black,Unknown,Medium,24,2022-04-27T00:00:00.000,2022-04-27T00:00:00.000,Stray,Unknown,Disposal,Doa,0.1,0,Spring Peak
+Sonoma County Shelter,A428305,Bird,Chicken,Brown,Female,Medium,24,2024-08-09T00:00:00.000,2024-09-23T00:00:00.000,Confiscate,Unknown,Transfer,Westfarm,45.0,1,Summer High
+Sonoma County Shelter,A428808,Bird,Chicken,White/Black,Male,Medium,24,2024-09-04T00:00:00.000,2024-09-23T00:00:00.000,Stray,Unknown,Transfer,Westfarm,19.0,0,Fall Moderate
+Sonoma County Shelter,A426372,Cat,Domestic Sh,Brn Tabby/White,Neutered,Small,24,2024-05-11T00:00:00.000,2024-07-13T00:00:00.000,Stray,Healthy,Adoption,Walkin,63.0,1,Spring Peak
+Sonoma County Shelter,A428803,Bird,Chicken,Red/Black,Male,Medium,24,2024-09-04T00:00:00.000,2024-09-23T00:00:00.000,Stray,Unknown,Transfer,Westfarm,19.0,0,Fall Moderate
+Sonoma County Shelter,A428307,Bird,Chicken,Black,Female,Medium,24,2024-08-09T00:00:00.000,2024-09-23T00:00:00.000,Confiscate,Unknown,Transfer,Westfarm,45.0,1,Summer High
+Sonoma County Shelter,A428477,Bird,Chicken,Red/Black,Unknown,Medium,24,2024-08-16T00:00:00.000,2024-09-23T00:00:00.000,Stray,Unknown,Transfer,Westfarm,38.0,1,Summer High
+Sonoma County Shelter,A428783,Dog,Dachshund/Mix,Br Brindle,Male,Medium,24,2024-09-03T00:00:00.000,2024-09-23T00:00:00.000,Stray,Unknown,Transfer,Petslifeln,20.0,0,Fall Moderate
+Sonoma County Shelter,A428320,Bird,Chicken,White,Female,Medium,24,2024-08-09T00:00:00.000,2024-09-23T00:00:00.000,Confiscate,Unknown,Transfer,Westfarm,45.0,1,Summer High
+Sonoma County Shelter,A422237,Other,Angora-English/Mix,White,Neutered,Medium,24,2023-11-17T00:00:00.000,2024-04-09T00:00:00.000,Stray,Healthy,Adoption,Walkin,144.0,1,Fall Moderate
+Sonoma County Shelter,A372094,Dog,Cocker Span,White/Gold,Neutered,Medium,24,2020-12-15T00:00:00.000,2020-12-15T00:00:00.000,Stray,Unknown,Return To Owner,Fld_Mchip,0.1,0,Winter Standard
+Sonoma County Shelter,A425692,Dog,Shiba Inu/Basenji,Tan/White,Male,Medium,24,2024-04-06T00:00:00.000,2024-04-09T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Call,3.0,0,Spring Peak
+Sonoma County Shelter,A372094,Dog,Cocker Span,White/Gold,Neutered,Medium,24,2022-06-10T00:00:00.000,2022-06-10T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Mchip,0.1,0,Summer High
+Sonoma County Shelter,A235878,Dog,Labrador Retr/Mix,Black,Spayed,Medium,24,2015-05-06T00:00:00.000,2015-05-07T00:00:00.000,Stray,Healthy,Return To Owner,Over The Counter_Walkin,1.0,0,Spring Peak
+Sonoma County Shelter,A425680,Cat,Domestic Sh,Brown,Male,Medium,24,2024-04-05T00:00:00.000,2024-04-06T00:00:00.000,Confiscate,Unknown,Return To Owner,Over The Counter_Arrest,1.0,0,Spring Peak
+Sonoma County Shelter,A426679,Dog,Pit Bull,Tan/White,Male,Medium,24,2024-05-24T00:00:00.000,2024-05-24T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Call,0.1,0,Spring Peak
+Sonoma County Shelter,A425684,Dog,Pit Bull,Brown/White,Female,Medium,24,2024-04-05T00:00:00.000,2024-04-09T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Walkin,4.0,0,Spring Peak
+Sonoma County Shelter,A428804,Bird,Chicken,Red/Black,Male,Medium,24,2024-09-04T00:00:00.000,2024-09-23T00:00:00.000,Stray,Unknown,Transfer,Westfarm,19.0,0,Fall Moderate
+Sonoma County Shelter,A428312,Bird,Chicken,Gray,Female,Medium,24,2024-08-09T00:00:00.000,2024-09-23T00:00:00.000,Confiscate,Unknown,Transfer,Westfarm,45.0,1,Summer High
+Sonoma County Shelter,A425739,Dog,Catahoula/Pit Bull,Br Brindle/White,Neutered,Medium,24,2024-04-09T00:00:00.000,2024-07-13T00:00:00.000,Stray,Unknown,Adoption,Walkin,95.0,1,Spring Peak
+Sonoma County Shelter,A428308,Bird,Chicken,Black,Female,Medium,24,2024-08-09T00:00:00.000,2024-09-23T00:00:00.000,Confiscate,Unknown,Transfer,Westfarm,45.0,1,Summer High
+Sonoma County Shelter,A384482,Cat,Domestic Lh,Black,Spayed,Medium,24,2019-02-20T00:00:00.000,2019-02-21T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Mchip,1.0,0,Winter Standard
+Sonoma County Shelter,A429779,Dog,Pointer,White/Black,Female,Medium,24,2024-10-24T00:00:00.000,2024-11-01T00:00:00.000,Owner Surrender,Unknown,Euthanize,Aggressive,8.0,0,Fall Moderate
+Sonoma County Shelter,A276404,Dog,Chihuahua Sh,Tan/White,Neutered,Medium,24,2023-12-12T00:00:00.000,2023-12-22T00:00:00.000,Confiscate,Unknown,Return To Owner,Over The Counter_Prvs,10.0,0,Winter Standard
+Sonoma County Shelter,A422327,Cat,Domestic Mh,Black/White,Female,Medium,24,2023-11-21T00:00:00.000,2024-04-09T00:00:00.000,Confiscate,Unknown,Return To Owner,Over The Counter_Prvs,140.0,1,Fall Moderate
+Sonoma County Shelter,A422321,Dog,Border Collie,Black/White,Male,Medium,24,2023-11-21T00:00:00.000,2024-04-09T00:00:00.000,Confiscate,Unknown,Return To Owner,Over The Counter_Prvs,140.0,1,Fall Moderate
+Sonoma County Shelter,A425716,Dog,Pit Bull,Black,Male,Medium,24,2024-04-08T00:00:00.000,2024-04-09T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Call,1.0,0,Spring Peak
+Sonoma County Shelter,A422306,Dog,Border Collie,Tricolor,Male,Medium,24,2023-11-21T00:00:00.000,2024-04-09T00:00:00.000,Confiscate,Unknown,Return To Owner,Over The Counter_Prvs,140.0,1,Fall Moderate
+Sonoma County Shelter,A401655,Dog,Border Collie,Black/White,Male,Medium,24,2024-04-02T00:00:00.000,2024-04-08T00:00:00.000,Quarantine,Unknown,Transfer,,6.0,0,Spring Peak
+Sonoma County Shelter,A425651,Cat,Domestic Sh,Slvr Tabby,Female,Medium,24,2024-04-03T00:00:00.000,2024-04-09T00:00:00.000,Stray,Treatable/Manageable,Transfer,Forgotten,6.0,0,Spring Peak
+Sonoma County Shelter,A427038,Dog,Cane Corso,Gray,Male,Medium,24,2024-06-11T00:00:00.000,2024-07-14T00:00:00.000,Stray,Unknown,Euthanize,Aggressive,33.0,1,Summer High
+Sonoma County Shelter,A427648,Wildlife,Bat,Brown,Unknown,Medium,24,2024-07-10T00:00:00.000,2024-07-14T00:00:00.000,Quarantine,Unknown,Transfer,Lab Fra,4.0,0,Summer High
+Sonoma County Shelter,A422297,Dog,Border Collie,Black/White,Male,Medium,24,2023-11-21T00:00:00.000,2024-04-09T00:00:00.000,Confiscate,Unknown,Return To Owner,Over The Counter_Prvs,140.0,1,Fall Moderate
+Sonoma County Shelter,A426715,Dog,Pit Bull/Mix,Black/White,Female,Medium,24,2024-06-04T00:00:00.000,2024-07-14T00:00:00.000,Stray,Unknown,Euthanize,Beh Severe,40.0,1,Summer High
+Sonoma County Shelter,A422947,Dog,Pit Bull/Mix,Red/White,Spayed,Medium,24,2024-02-22T00:00:00.000,2024-04-09T00:00:00.000,Adoption Return,Unknown,Adoption,Referral-O,47.0,1,Winter Standard
+Sonoma County Shelter,A427206,Dog,Siberian Husky,White,Male,Medium,24,2024-06-18T00:00:00.000,2024-07-14T00:00:00.000,Stray,Unknown,Euthanize,Beh Severe,26.0,0,Summer High
+Sonoma County Shelter,A338178,Cat,Domestic Sh,Brn Tabby,Spayed,Small,24,2017-07-05T00:00:00.000,2017-07-29T00:00:00.000,Stray,Untreatable,Euthanize,Inj Severe,24.0,0,Summer High
+Sonoma County Shelter,A427650,Wildlife,Bat,Brown,Unknown,Medium,24,2024-07-10T00:00:00.000,2024-07-14T00:00:00.000,Quarantine,Unknown,Transfer,Lab Fra,4.0,0,Summer High
+Sonoma County Shelter,A423771,Dog,Chihuahua Sh,Tan,Female,Medium,24,2024-01-11T00:00:00.000,2024-01-11T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Web,0.1,0,Winter Standard
+Sonoma County Shelter,A420084,Dog,Germ Shepherd,Brown/Black,Spayed,Medium,24,2023-08-31T00:00:00.000,2023-10-02T00:00:00.000,Stray,Unknown,Euthanize,Beh Severe,32.0,1,Summer High
+Sonoma County Shelter,A338178,Cat,Domestic Sh,Brn Tabby,Spayed,Small,24,2016-06-10T00:00:00.000,2016-08-02T00:00:00.000,Stray,Healthy,Adoption,Walkin,53.0,1,Summer High
+Sonoma County Shelter,A425723,Dog,Chihuahua Sh/Mix,White/Apricot,Male,Medium,24,2024-04-08T00:00:00.000,2024-04-09T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Web,1.0,0,Spring Peak
+Sonoma County Shelter,A422320,Dog,Border Collie,Black/White,Male,Medium,24,2023-11-21T00:00:00.000,2024-04-09T00:00:00.000,Confiscate,Unknown,Return To Owner,Over The Counter_Prvs,140.0,1,Fall Moderate
+Sonoma County Shelter,A421839,Dog,Parson Russ Ter,Tan,Spayed,Medium,24,2023-11-07T00:00:00.000,2023-11-16T00:00:00.000,Confiscate,Unknown,Return To Owner,Over The Counter_Call,9.0,0,Fall Moderate
+Sonoma County Shelter,A423938,Dog,Aust Cattle Dog/Labrador Retr,Tan/White,Spayed,Medium,24,2024-01-19T00:00:00.000,2024-04-04T00:00:00.000,Owner Surrender,Healthy,Adoption,Walkin,76.0,1,Winter Standard
+Sonoma County Shelter,A310482,Dog,Pit Bull/Mix,Red/White,Neutered,Medium,24,2014-08-21T00:00:00.000,2014-09-19T00:00:00.000,Stray,Healthy,Adoption,Walkin,29.0,0,Summer High
+Sonoma County Shelter,A427674,Cat,Domestic Sh,Gray/Black,Unknown,Small,24,2024-07-11T00:00:00.000,2024-07-15T00:00:00.000,Stray,Unknown,Disposal,Doa,4.0,0,Summer High
+Sonoma County Shelter,A424295,Dog,Belg Malinois,Brown/Black,Spayed,Medium,24,2024-02-07T00:00:00.000,2024-03-14T00:00:00.000,Stray,Unknown,Adoption,Scas Web,36.0,1,Winter Standard
+Sonoma County Shelter,A397481,Dog,Pit Bull,Gray/White,Neutered,Medium,24,2020-02-01T00:00:00.000,2020-02-04T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Call,3.0,0,Winter Standard
+Sonoma County Shelter,A417999,Cat,Domestic Sh,Agouti,Unknown,Small,24,2023-06-02T00:00:00.000,2023-06-03T00:00:00.000,Stray,Treatable/Rehab,Transfer,Petluma Pp,1.0,0,Summer High
+Sonoma County Shelter,A314964,Dog,Pit Bull,Brown/White,Spayed,Medium,24,2014-12-16T00:00:00.000,2015-01-02T00:00:00.000,Owner Surrender,Healthy,Adoption,Internet,17.0,0,Winter Standard
+Sonoma County Shelter,A310603,Dog,Labrador Retr,Yellow,Neutered,Medium,24,2015-05-15T00:00:00.000,2015-05-15T00:00:00.000,Stray,Healthy,Return To Owner,Over The Counter_Notice,0.1,0,Spring Peak
+Sonoma County Shelter,A326738,Dog,Chihuahua Sh,Tan,Spayed,Medium,24,2015-10-03T00:00:00.000,2015-10-10T00:00:00.000,Adoption Return,Healthy,Adoption,Spec Event,7.0,0,Fall Moderate
+Sonoma County Shelter,A331867,Dog,Am Pit Bull Ter,Br Brindle/White,Spayed,Medium,24,2016-01-14T00:00:00.000,2016-04-16T00:00:00.000,Stray,Healthy,Adoption,Facebook,93.0,1,Winter Standard
+Sonoma County Shelter,A423510,Dog,Labrador Retr/Mix,Chocolate,Female,Medium,24,2023-12-22T00:00:00.000,2024-01-13T00:00:00.000,Stray,Unknown,Euthanize,Aggressive,22.0,0,Winter Standard
+Sonoma County Shelter,A360813,Dog,Catahoula/Mix,Brn Merle/Black,Spayed,Medium,24,2024-01-11T00:00:00.000,2024-01-13T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Notice,2.0,0,Winter Standard
+Sonoma County Shelter,A423484,Dog,Siberian Husky/Mix,Black/Tan,Female,Medium,24,2023-12-20T00:00:00.000,2024-01-12T00:00:00.000,Confiscate,Unknown,Return To Owner,Over The Counter_Walkin,23.0,0,Winter Standard
+Sonoma County Shelter,A422093,Cat,Domestic Sh,Black/White,Neutered,Small,24,2023-11-13T00:00:00.000,2024-01-12T00:00:00.000,Stray,Unknown,Adoption,Walkin,60.0,1,Fall Moderate
+Sonoma County Shelter,A434014,Dog,Pomeranian,Black/White,Male,Medium,24,2025-05-24T00:00:00.000,2025-05-24T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Mchip,0.1,0,Spring Peak
+Sonoma County Shelter,A429681,Cat,Domestic Sh,Org Tabby,Spayed,Medium,24,2024-10-15T00:00:00.000,2025-01-15T00:00:00.000,Stray,Unknown,Adoption,Walkin,92.0,1,Fall Moderate
+Sonoma County Shelter,A397481,Dog,Pit Bull,Gray/White,Neutered,Medium,24,2025-04-18T00:00:00.000,2025-04-19T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Notice,1.0,0,Spring Peak
+Sonoma County Shelter,A430210,Dog,Chihuahua Sh,Brown,Male,Medium,24,2024-11-18T00:00:00.000,2024-12-07T00:00:00.000,Stray,Unknown,Transfer,Petslifeln,19.0,0,Fall Moderate
+Sonoma County Shelter,A425456,Livestock,Horse,Brown/White,Female,Medium,24,2024-03-22T00:00:00.000,2024-04-10T00:00:00.000,Confiscate,Unknown,Transfer,Sonoma Car,19.0,0,Spring Peak
+Sonoma County Shelter,A423968,Dog,Siberian Husky/Mix,Black/White,Spayed,Medium,24,2024-01-20T00:00:00.000,2024-04-10T00:00:00.000,Stray,Healthy,Adoption,Scas Web,81.0,1,Winter Standard
+Sonoma County Shelter,A423485,Dog,Pit Bull/Mix,Tan,Female,Medium,24,2023-12-20T00:00:00.000,2024-01-12T00:00:00.000,Confiscate,Unknown,Return To Owner,Over The Counter_Walkin,23.0,0,Winter Standard
+Sonoma County Shelter,A422542,Dog,Labrador Retr/Mix,Black,Spayed,Medium,24,2023-11-30T00:00:00.000,2023-11-30T00:00:00.000,Stray,Unknown,Return To Owner,Fld_Mchip,0.1,0,Fall Moderate
+Sonoma County Shelter,A420925,Dog,Doberman Pinsch,Black/Tan,Male,Medium,24,2023-10-05T00:00:00.000,2023-10-06T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Mchip,1.0,0,Fall Moderate
+Sonoma County Shelter,A420925,Dog,Doberman Pinsch,Black/Tan,Male,Medium,24,2023-09-16T00:00:00.000,2023-09-19T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Walkin,3.0,0,Fall Moderate
+Sonoma County Shelter,A311544,Dog,Doberman Pinsch,Black/Tan,Male,Medium,24,2014-09-12T00:00:00.000,2014-09-17T00:00:00.000,Stray,Healthy,Return To Owner,Over The Counter_Mchip,5.0,0,Fall Moderate
+Sonoma County Shelter,A423767,Dog,Pit Bull,Br Brindle,Spayed,Medium,24,2024-01-11T00:00:00.000,2024-01-12T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Mchip,1.0,0,Winter Standard
+Sonoma County Shelter,A405979,Dog,Schnauzer Min,Gray,Neutered,Medium,24,2024-01-10T00:00:00.000,2024-01-12T00:00:00.000,Quarantine,Unknown,Return To Owner,Over The Counter_Prvs,2.0,0,Winter Standard
+Sonoma County Shelter,A402635,Cat,Domestic Sh,Gray Tabby,Spayed,Medium,24,2021-02-24T00:00:00.000,2021-02-24T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Mchip,0.1,0,Winter Standard
+Sonoma County Shelter,A422264,Dog,Chihuahua Lh/Mix,Black/White,Female,Medium,24,2024-01-13T00:00:00.000,2024-01-13T00:00:00.000,Confiscate,Unknown,Transfer,Rp Shelter,0.1,0,Winter Standard
+Sonoma County Shelter,A422315,Dog,Germ Shepherd/Pit Bull,Tan/Black,Male,Medium,24,2023-12-07T00:00:00.000,2024-01-13T00:00:00.000,Confiscate,Unknown,Euthanize,Aggressive,37.0,1,Winter Standard
+Sonoma County Shelter,A426427,Cat,Domestic Sh,Gray Tabby/White,Spayed,Small,24,2024-05-15T00:00:00.000,2024-07-16T00:00:00.000,Stray,Healthy,Adoption,Scas Web,62.0,1,Spring Peak
+Sonoma County Shelter,A427227,Cat,Domestic Lh,Brn Tabby/White,Spayed,Small,24,2024-06-19T00:00:00.000,2024-07-16T00:00:00.000,Stray,Unknown,Adoption,Walkin,27.0,0,Summer High
+Sonoma County Shelter,A430424,Dog,Papillon/Chihuahua Lh,Gold,Spayed,Medium,24,2024-12-04T00:00:00.000,2024-12-07T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Web,3.0,0,Winter Standard
+Sonoma County Shelter,A423799,Rabbit,Rabbit Sh,White,Unknown,Medium,24,2024-01-12T00:00:00.000,2024-01-13T00:00:00.000,Stray,Unknown,Euthanize,Ill Severe,1.0,0,Winter Standard
+Sonoma County Shelter,A426754,Dog,Germ Shepherd,Tan/Black,Male,Medium,24,2024-05-29T00:00:00.000,2024-07-16T00:00:00.000,Stray,Unknown,Euthanize,Con Severe,48.0,1,Spring Peak
+Sonoma County Shelter,A300415,Dog,Germ Shepherd,Black/Tan,Spayed,Medium,24,2024-03-30T00:00:00.000,2024-04-10T00:00:00.000,Quarantine,Unknown,Return To Owner,Over The Counter_Letter,11.0,0,Spring Peak
+Sonoma County Shelter,A425453,Livestock,Horse,White,Male,Medium,24,2024-03-28T00:00:00.000,2024-04-10T00:00:00.000,Owner Surrender,Unknown,Transfer,Sonoma Car,13.0,0,Spring Peak
+Sonoma County Shelter,A425713,Dog,Rottweiler,Black/Tan,Male,Medium,24,2024-04-07T00:00:00.000,2024-04-10T00:00:00.000,Confiscate,Unknown,Return To Owner,Over The Counter_Arrest,3.0,0,Spring Peak
+Sonoma County Shelter,A426731,Cat,Domestic Sh,Tortie,Spayed,Small,24,2024-05-28T00:00:00.000,2024-07-16T00:00:00.000,Stray,Unknown,Adoption,Walkin,49.0,1,Spring Peak
+Sonoma County Shelter,A427527,Dog,French Bulldog,Gray/White,Male,Medium,24,2024-07-05T00:00:00.000,2024-07-16T00:00:00.000,Stray,Unknown,Euthanize,Con Severe,11.0,0,Summer High
+Sonoma County Shelter,A437513,Dog,Germ Shepherd/Mix,Brown/Black,Neutered,Medium,24,2025-10-12T00:00:00.000,2025-11-21T00:00:00.000,Stray,Unknown,Adoption,Scas Web,40.0,1,Fall Moderate
+Sonoma County Shelter,A430364,Cat,Domestic Sh,Gray,Neutered,Small,24,2024-11-30T00:00:00.000,2024-12-07T00:00:00.000,Owner Surrender,Healthy,Adoption,Walkin,7.0,0,Fall Moderate
+Sonoma County Shelter,A427784,Dog,Pit Bull/Mix,Br Brindle,Male,Medium,24,2024-07-15T00:00:00.000,2024-07-16T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Web,1.0,0,Summer High
+Sonoma County Shelter,A422617,Dog,Chihuahua Sh,Brown,Female,Medium,24,2024-12-07T00:00:00.000,2024-12-07T00:00:00.000,Confiscate,Unknown,Return To Owner,Over The Counter_Arrest,0.1,0,Winter Standard
+Sonoma County Shelter,A424146,Dog,Pit Bull,White/Black,Neutered,Medium,24,2024-01-31T00:00:00.000,2024-04-06T00:00:00.000,Stray,Healthy,Adoption,Oth_Media,66.0,1,Winter Standard
+Sonoma County Shelter,A397741,Cat,Domestic Sh,Brn Tabby/White,Spayed,Small,24,2020-06-03T00:00:00.000,2020-08-29T00:00:00.000,Owner Surrender,Treatable/Rehab,Adoption,Westfarm,87.0,1,Summer High
+Sonoma County Shelter,A427485,Dog,Chihuahua Sh,Tan,Spayed,Medium,24,2024-07-03T00:00:00.000,2024-07-16T00:00:00.000,Confiscate,Unknown,Return To Owner,Medical,13.0,0,Summer High
+Sonoma County Shelter,A426760,Cat,Snowshoe/Mix,Lynx Pt/White,Neutered,Small,24,2024-05-29T00:00:00.000,2024-07-16T00:00:00.000,Stray,Healthy,Adoption,Walkin,48.0,1,Spring Peak
+Sonoma County Shelter,A427497,Cat,Domestic Sh,Black,Unknown,Medium,24,2024-07-02T00:00:00.000,2024-07-16T00:00:00.000,Stray,Unknown,Transfer,Forgotten,14.0,0,Summer High
+Sonoma County Shelter,A427791,Dog,Chihuahua Sh/Mix,Tricolor,Female,Medium,24,2024-07-16T00:00:00.000,2024-07-16T00:00:00.000,Confiscate,Unknown,Return To Owner,Over The Counter_Arrest,0.1,0,Summer High
+Sonoma County Shelter,A342025,Dog,Pit Bull,White,Male,Medium,24,2019-09-04T00:00:00.000,2019-09-05T00:00:00.000,Stray,Healthy,Return To Owner,Over The Counter_Notice,1.0,0,Fall Moderate
+Sonoma County Shelter,A342023,Dog,Pit Bull,Brown/White,Male,Medium,24,2016-09-07T00:00:00.000,2016-09-09T00:00:00.000,Stray,Healthy,Return To Owner,Over The Counter_Prvs,2.0,0,Fall Moderate
+Sonoma County Shelter,A342025,Dog,Pit Bull,White,Male,Medium,24,2016-09-07T00:00:00.000,2016-09-09T00:00:00.000,Stray,Healthy,Return To Owner,Over The Counter_Prvs,2.0,0,Fall Moderate
+Sonoma County Shelter,A291746,Dog,Labrador Retr/Rottweiler,Black/White,Neutered,Medium,24,2014-12-08T00:00:00.000,2015-02-14T00:00:00.000,Transfer,Healthy,Adoption,Walkin,68.0,1,Winter Standard
+Sonoma County Shelter,A342024,Dog,Pit Bull,Brown/White,Female,Medium,24,2016-09-21T00:00:00.000,2016-09-23T00:00:00.000,Confiscate,Healthy,Return To Owner,Over The Counter_Prvs,2.0,0,Fall Moderate
+Sonoma County Shelter,A342023,Dog,Pit Bull,Brown/White,Male,Medium,24,2016-09-21T00:00:00.000,2016-09-23T00:00:00.000,Confiscate,Healthy,Return To Owner,Over The Counter_Prvs,2.0,0,Fall Moderate
+Sonoma County Shelter,A342025,Dog,Pit Bull,White,Male,Medium,24,2016-09-21T00:00:00.000,2016-09-23T00:00:00.000,Confiscate,Healthy,Return To Owner,Over The Counter_Prvs,2.0,0,Fall Moderate
+Sonoma County Shelter,A342024,Dog,Pit Bull,Brown/White,Female,Medium,24,2016-09-07T00:00:00.000,2016-09-09T00:00:00.000,Stray,Healthy,Return To Owner,Over The Counter_Prvs,2.0,0,Fall Moderate
+Sonoma County Shelter,A424871,Dog,Great Dane,Tan/Red Merle,Female,Medium,24,2024-02-28T00:00:00.000,2024-04-11T00:00:00.000,Stray,Unknown,Transfer,Dogwood,43.0,1,Winter Standard
+Sonoma County Shelter,A429570,Dog,Pit Bull/Boxer,Brown,Female,Medium,24,2024-11-23T00:00:00.000,2024-11-26T00:00:00.000,Confiscate,Unknown,Return To Owner,Over The Counter_Arrest,3.0,0,Fall Moderate
+Sonoma County Shelter,A425644,Dog,Chihuahua Lh,Brown/Gold,Female,Medium,24,2024-04-03T00:00:00.000,2024-04-11T00:00:00.000,Stray,Unknown,Transfer,Dogwood,8.0,0,Spring Peak
+Sonoma County Shelter,A422752,Bird,Peafowl,Brown/Gray,Female,Medium,24,2023-12-05T00:00:00.000,2024-01-16T00:00:00.000,Stray,Unknown,Transfer,,42.0,1,Winter Standard
+Sonoma County Shelter,A422694,Cat,Domestic Mh,Black,Spayed,Medium,24,2023-12-19T00:00:00.000,2024-01-16T00:00:00.000,Quarantine,Unknown,Euthanize,Aggressive,28.0,0,Winter Standard
+Sonoma County Shelter,A413147,Dog,Aust Cattle Dog,Black/Blue,Spayed,Medium,24,2023-05-26T00:00:00.000,2024-01-16T00:00:00.000,Confiscate,Healthy,Adoption,Scas Web,235.0,1,Spring Peak
+Sonoma County Shelter,A390786,Cat,Domestic Sh,Gray/White,Unknown,Small,24,2019-08-20T00:00:00.000,2019-08-20T00:00:00.000,Stray,Unknown,Transfer,Petluma Pp,0.1,0,Summer High
+Sonoma County Shelter,A414364,Dog,Belg Malinois,Brown,Spayed,Medium,24,2022-12-06T00:00:00.000,2023-01-17T00:00:00.000,Stray,Healthy,Adoption,Scas Web,42.0,1,Winter Standard
+Sonoma County Shelter,A413202,Dog,Chihuahua Sh/Mix,Black/Br Brindle,Spayed,Medium,24,2022-09-09T00:00:00.000,2022-09-30T00:00:00.000,Stray,Healthy,Adoption,Walkin,21.0,0,Fall Moderate
+Sonoma County Shelter,A422387,Dog,Labrador Retr,Black,Neutered,Medium,24,2023-11-25T00:00:00.000,2024-01-16T00:00:00.000,Stray,Healthy,Adoption,Scas Web,52.0,1,Fall Moderate
+Sonoma County Shelter,A423736,Cat,Domestic Sh,Org Tabby,Male,Medium,24,2024-01-10T00:00:00.000,2024-01-16T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Web,6.0,0,Winter Standard
+Sonoma County Shelter,A422659,Cat,Domestic Sh,Brn Tabby/White,Spayed,Small,24,2023-12-02T00:00:00.000,2024-01-16T00:00:00.000,Stray,Unknown,Adoption,Walkin,45.0,1,Winter Standard
+Sonoma County Shelter,A429143,Cat,Domestic Sh,Brn Tabby,Spayed,Small,24,2024-09-20T00:00:00.000,2024-12-07T00:00:00.000,Stray,Unknown,Adoption,Walkin,78.0,1,Fall Moderate
+Sonoma County Shelter,A381279,Cat,Domestic Sh,Org Tabby/White,Neutered,Small,24,2018-11-30T00:00:00.000,2018-12-04T00:00:00.000,Owner Surrender,Healthy,Adoption,Scas Web,4.0,0,Fall Moderate
+Sonoma County Shelter,A425758,Dog,Yorkshire Terr,Black/Brown,Female,Medium,24,2024-04-10T00:00:00.000,2024-04-11T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Walkin,1.0,0,Spring Peak
+Sonoma County Shelter,A436882,Dog,Amer Bulldog/Mix,Tan/White,Neutered,Medium,24,2025-09-18T00:00:00.000,2025-10-28T00:00:00.000,Owner Surrender,Unknown,Adoption,Fb Scas,40.0,1,Fall Moderate
+Sonoma County Shelter,A423513,Dog,Siberian Husky,Red/White,Female,Medium,24,2023-12-22T00:00:00.000,2024-01-16T00:00:00.000,Stray,Unknown,Euthanize,Beh Severe,25.0,0,Winter Standard
+Sonoma County Shelter,A442675,Cat,Domestic Sh,Gray Tabby/White,Female,Small,24,2026-06-24T00:00:00.000,2026-06-26T00:00:00.000,Stray,Unknown,Transfer,Hssc,2.0,0,Summer High
+Sonoma County Shelter,A425797,Cat,Domestic Lh,Black,Unknown,Medium,24,2024-04-11T00:00:00.000,2024-04-11T00:00:00.000,Stray,Unknown,Disposal,Doa,0.1,0,Spring Peak
+Sonoma County Shelter,A429974,Cat,Domestic Sh,Orange/White,Neutered,Small,24,2024-11-04T00:00:00.000,2024-12-07T00:00:00.000,Stray,Unknown,Adoption,Scas Web,33.0,1,Fall Moderate
+Sonoma County Shelter,A425673,Dog,Chinese Crested,White/Black,Male,Medium,24,2024-04-04T00:00:00.000,2024-04-11T00:00:00.000,Stray,Unknown,Transfer,Dogwood,7.0,0,Spring Peak
+Sonoma County Shelter,A432175,Dog,Border Collie,Black/White,Male,Medium,24,2025-02-21T00:00:00.000,2025-02-22T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Web,1.0,0,Winter Standard
+Sonoma County Shelter,A425796,Cat,Domestic Sh,Gray/White,Unknown,Medium,24,2024-04-11T00:00:00.000,2024-04-11T00:00:00.000,Stray,Unknown,Disposal,Doa,0.1,0,Spring Peak
+Sonoma County Shelter,A427193,Cat,Domestic Sh,Black/White,Spayed,Medium,24,2024-06-17T00:00:00.000,2024-07-17T00:00:00.000,Stray,Unknown,Euthanize,Con Severe,30.0,1,Summer High
+Sonoma County Shelter,A427742,Dog,Akita/Pit Bull,Black/White,Male,Medium,24,2024-07-12T00:00:00.000,2024-07-17T00:00:00.000,Confiscate,Unknown,Euthanize,Con Severe,5.0,0,Summer High
+Sonoma County Shelter,A405090,Dog,Labrador Retr/Siberian Husky,Gold/White,Neutered,Medium,24,2024-10-26T00:00:00.000,2024-10-29T00:00:00.000,Confiscate,Unknown,Return To Owner,Over The Counter_Arrest,3.0,0,Fall Moderate
+Sonoma County Shelter,A430457,Dog,Labrador Retr,Black,Male,Medium,24,2024-12-07T00:00:00.000,2024-12-07T00:00:00.000,Confiscate,Unknown,Return To Owner,Over The Counter_Arrest,0.1,0,Winter Standard
+Sonoma County Shelter,A340822,Cat,Domestic Sh,Slvr Tabby/White,Neutered,Medium,24,2016-08-13T00:00:00.000,2016-09-14T00:00:00.000,Stray,Healthy,Adoption,Walkin,32.0,1,Summer High
+Sonoma County Shelter,A423617,Dog,Germ Shepherd,Black/Tan,Male,Medium,24,2024-01-02T00:00:00.000,2024-01-02T00:00:00.000,Stray,Healthy,Return To Owner,Fld_Mchip,0.1,0,Winter Standard
+Sonoma County Shelter,A421834,Cat,Domestic Sh,Black/White,Neutered,Medium,24,2023-11-07T00:00:00.000,2024-01-17T00:00:00.000,Stray,Healthy,Transfer,Forgotten,71.0,1,Fall Moderate
+Sonoma County Shelter,A428914,Dog,Bullmastiff/Mix,Tan,Female,Medium,24,2024-09-10T00:00:00.000,2024-09-24T00:00:00.000,Stray,Unknown,Euthanize,Aggressive,14.0,0,Fall Moderate
+Sonoma County Shelter,A429198,Wildlife,Bat,Brown,Unknown,Medium,24,2024-09-24T00:00:00.000,2024-09-24T00:00:00.000,Quarantine,Unknown,Euthanize,Fra,0.1,0,Fall Moderate
+Sonoma County Shelter,A441278,Dog,Belg Malinois,Brown/Black,Female,Medium,24,2026-05-02T00:00:00.000,2026-05-18T00:00:00.000,Confiscate,Unknown,Euthanize,Beh Severe,16.0,0,Spring Peak
+Sonoma County Shelter,A423880,Dog,Schnauzer Min,Black,Male,Medium,24,2024-01-17T00:00:00.000,2024-01-17T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Mchip,0.1,0,Winter Standard
+Sonoma County Shelter,A420310,Dog,Labrador Retr/Mix,White,Spayed,Medium,24,2023-09-11T00:00:00.000,2023-10-24T00:00:00.000,Stray,Healthy,Adoption,Oth_Media,43.0,1,Fall Moderate
+Sonoma County Shelter,A425566,Cat,Domestic Sh,Gray Tabby,Spayed,Medium,24,2024-06-19T00:00:00.000,2024-07-17T00:00:00.000,Stray,Unknown,Adoption,Walkin,28.0,0,Summer High
+Sonoma County Shelter,A426154,Cat,Domestic Sh,Gray/White,Neutered,Medium,24,2024-04-30T00:00:00.000,2024-07-06T00:00:00.000,Stray,Healthy,Adoption,Walkin,67.0,1,Spring Peak
+Sonoma County Shelter,A429224,Dog,Labrador Retr/Mix,Black/White,Neutered,Medium,24,2024-09-25T00:00:00.000,2024-11-26T00:00:00.000,Owner Surrender,Healthy,Adoption,Scas Web,62.0,1,Fall Moderate
+Sonoma County Shelter,A428765,Wildlife,Bat,Black,Unknown,Medium,24,2024-08-31T00:00:00.000,2024-09-24T00:00:00.000,Stray,Unknown,Transfer,Lab Fra,24.0,0,Summer High
+Sonoma County Shelter,A429877,Dog,Pug,Black,Male,Medium,24,2024-10-30T00:00:00.000,2024-11-01T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Web,2.0,0,Fall Moderate
+Sonoma County Shelter,A423586,Cat,Domestic Sh,Org Tabby,Male,Medium,24,2023-12-29T00:00:00.000,2024-01-17T00:00:00.000,Stray,Unknown,Transfer,Forgotten,19.0,0,Winter Standard
+Sonoma County Shelter,A430213,Dog,Germ Shepherd/Mix,Black/Tan,Male,Medium,24,2024-11-19T00:00:00.000,2024-11-19T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Web,0.1,0,Fall Moderate
+Sonoma County Shelter,A430157,Dog,Mastiff/Mix,Br Brindle/White,Male,Medium,24,2024-11-13T00:00:00.000,2024-11-19T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Mchip,6.0,0,Fall Moderate
+Sonoma County Shelter,A426338,Dog,Chihuahua Sh,Black,Male,Medium,24,2024-11-09T00:00:00.000,2024-11-13T00:00:00.000,Stray,Unknown,Vet,Vet Return To Owner,4.0,0,Fall Moderate
+Sonoma County Shelter,A426831,Cat,Domestic Lh,Org Tabby,Male,Medium,24,2024-11-06T00:00:00.000,2024-11-12T00:00:00.000,Stray,Unknown,Transfer,Forgotten,6.0,0,Fall Moderate
+Sonoma County Shelter,A293972,Cat,Domestic Sh,Orange,Neutered,Medium,24,2023-12-14T00:00:00.000,2024-01-17T00:00:00.000,Stray,Unknown,Transfer,Forgotten,34.0,1,Winter Standard
+Sonoma County Shelter,A425687,Cat,Domestic Sh,Black/White,Spayed,Medium,24,2024-04-06T00:00:00.000,2024-04-12T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Web,6.0,0,Spring Peak
+Sonoma County Shelter,A425724,Dog,Siberian Husky,White,Spayed,Medium,24,2022-12-27T00:00:00.000,2023-01-27T00:00:00.000,Stray,Healthy,Return To Owner,Over The Counter_Mchip,31.0,1,Winter Standard
+Sonoma County Shelter,A442712,Dog,Aust Cattle Dog,Blue Merle/Black,Female,Medium,24,2026-06-26T00:00:00.000,2026-06-30T00:00:00.000,Confiscate,Unknown,Return To Owner,Over The Counter_Arrest,4.0,0,Summer High
+Sonoma County Shelter,A425724,Dog,Siberian Husky,White,Spayed,Medium,24,2021-12-29T00:00:00.000,2022-01-04T00:00:00.000,Confiscate,Unknown,Return To Owner,Over The Counter_Prvs,6.0,0,Winter Standard
+Sonoma County Shelter,A425724,Dog,Siberian Husky,White,Spayed,Medium,24,2022-06-11T00:00:00.000,2022-07-09T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Prvs,28.0,0,Summer High
+Sonoma County Shelter,A430897,Dog,Germ Shepherd,Black/Tan,Spayed,Medium,24,2024-12-29T00:00:00.000,2025-02-22T00:00:00.000,Stray,Unknown,Adoption,Walkin,55.0,1,Winter Standard
+Sonoma County Shelter,A425724,Dog,Siberian Husky,White,Spayed,Medium,24,2022-09-14T00:00:00.000,2022-09-17T00:00:00.000,Confiscate,Unknown,Return To Owner,Over The Counter_Arrest,3.0,0,Fall Moderate
+Sonoma County Shelter,A423823,Dog,Pit Bull,White/Black,Male,Medium,24,2024-01-14T00:00:00.000,2024-01-17T00:00:00.000,Confiscate,Unknown,Return To Owner,Over The Counter_Arrest,3.0,0,Winter Standard
+Sonoma County Shelter,A416471,Dog,Siberian Husky,Black/White,Neutered,Medium,24,2024-01-13T00:00:00.000,2024-01-18T00:00:00.000,Adoption Return,Unknown,Euthanize,Aggressive,5.0,0,Winter Standard
+Sonoma County Shelter,A423403,Dog,Siberian Husky/Mix,Red/White,Female,Medium,24,2024-01-18T00:00:00.000,2024-01-18T00:00:00.000,Stray,Unknown,Return To Owner,Fld_Mchip,0.1,0,Winter Standard
+Sonoma County Shelter,A435052,Wildlife,Bat,Brown,Unknown,Medium,24,2025-07-03T00:00:00.000,2025-07-04T00:00:00.000,Quarantine,Untreatable,Euthanize,Fra,1.0,0,Summer High
+Sonoma County Shelter,A422658,Cat,Domestic Sh,Brn Tabby,Spayed,Medium,24,2023-12-02T00:00:00.000,2024-01-18T00:00:00.000,Stray,Healthy,Adoption,Scas Web,47.0,1,Winter Standard
+Sonoma County Shelter,A412986,Cat,Domestic Sh,Tortie,Spayed,Small,24,2022-09-13T00:00:00.000,2022-11-30T00:00:00.000,Owner Surrender,Treatable/Rehab,Adoption,Finder,78.0,1,Fall Moderate
+Sonoma County Shelter,A442774,Wildlife,Bat,Brown,Unknown,Medium,24,2026-06-30T00:00:00.000,2026-06-30T00:00:00.000,Quarantine,Unknown,Euthanize,Fra,0.1,0,Summer High
+Sonoma County Shelter,A425724,Dog,Siberian Husky,White,Spayed,Medium,24,2021-08-17T00:00:00.000,2021-08-18T00:00:00.000,Stray,Healthy,Return To Owner,Over The Counter_Web,1.0,0,Summer High
+Sonoma County Shelter,A342025,Dog,Pit Bull,White,Male,Medium,24,2024-01-14T00:00:00.000,2024-01-17T00:00:00.000,Confiscate,Unknown,Return To Owner,Over The Counter_Arrest,3.0,0,Winter Standard
+Sonoma County Shelter,A424384,Dog,Anatol Shepherd/Mix,White,Neutered,Medium,24,2026-06-24T00:00:00.000,2026-06-30T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Web,6.0,0,Summer High
+Sonoma County Shelter,A424852,Dog,Chihuahua Sh,Black,Spayed,Medium,24,2024-04-03T00:00:00.000,2024-04-13T00:00:00.000,Confiscate,Unknown,Return To Owner,Medical,10.0,0,Spring Peak
+Sonoma County Shelter,A425151,Cat,Domestic Sh,Brn Tabby/White,Neutered,Medium,24,2024-03-12T00:00:00.000,2024-04-13T00:00:00.000,Stray,Healthy,Adoption,Walkin,32.0,1,Spring Peak
+Sonoma County Shelter,A444385,Dog,Pit Bull/Mix,Black,Female,Medium,24,2026-09-09T00:00:00.000,,Stray,Unknown,Unknown,,0.1,0,Fall Moderate
+Sonoma County Shelter,A425843,Dog,Chihuahua Lh,White/Black,Female,Medium,24,2024-04-13T00:00:00.000,2024-04-13T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Call,0.1,0,Spring Peak
+Sonoma County Shelter,A424652,Dog,Plott Hound/Mix,Br Brindle/Black,Spayed,Medium,24,2024-02-20T00:00:00.000,2024-04-13T00:00:00.000,Stray,Unknown,Adoption,Walkin,53.0,1,Winter Standard
+Sonoma County Shelter,A425724,Dog,Siberian Husky,White,Spayed,Medium,24,2024-04-08T00:00:00.000,2024-04-13T00:00:00.000,Confiscate,Unknown,Return To Owner,Over The Counter_Call,5.0,0,Spring Peak
+Sonoma County Shelter,A425838,Cat,Domestic Lh,Black/White,Male,Small,24,2024-04-13T00:00:00.000,2024-04-13T00:00:00.000,Stray,Unknown,Died,In Kennel,0.1,0,Spring Peak
+Sonoma County Shelter,A425765,Cat,Domestic Lh,Brn Tabby,Neutered,Medium,24,2024-04-10T00:00:00.000,2024-04-13T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Web,3.0,0,Spring Peak
+Sonoma County Shelter,A332348,Cat,Domestic Sh,Org Tabby/White,Neutered,Medium,24,2016-01-23T00:00:00.000,2016-02-20T00:00:00.000,Stray,Treatable/Rehab,Adoption,Walkin,28.0,0,Winter Standard
+Sonoma County Shelter,A422830,Cat,Domestic Sh,Calico/Blue Cream,Spayed,Small,24,2023-12-06T00:00:00.000,2024-01-16T00:00:00.000,Stray,Unknown,Adoption,Scas Web,41.0,1,Winter Standard
+Sonoma County Shelter,A422904,Dog,Amer Eskimo,White,Female,Medium,24,2023-12-08T00:00:00.000,2024-01-19T00:00:00.000,Stray,Unknown,Transfer,Sf Samoyed,42.0,1,Winter Standard
+Sonoma County Shelter,A410926,Dog,Aust Cattle Dog,Gray/Brown,Neutered,Medium,24,2023-05-26T00:00:00.000,2024-01-19T00:00:00.000,Confiscate,Treatable/Rehab,Adoption,Walkin,238.0,1,Spring Peak
+Sonoma County Shelter,A423703,Dog,Siberian Husky,Black/White,Female,Medium,24,2024-01-06T00:00:00.000,2024-01-19T00:00:00.000,Stray,Unknown,Euthanize,Beh Severe,13.0,0,Winter Standard
+Sonoma County Shelter,A421996,Dog,Aust Cattle Dog,Blue Merle,Male,Medium,24,2024-01-11T00:00:00.000,2024-01-12T00:00:00.000,Stray,Healthy,Return To Owner,Over The Counter_Mchip,1.0,0,Winter Standard
+Sonoma County Shelter,A421808,Dog,Chihuahua Sh,White/Brown,Female,Medium,24,2024-01-06T00:00:00.000,2024-01-06T00:00:00.000,Stray,Healthy,Return To Owner,Over The Counter_Call,0.1,0,Winter Standard
+Sonoma County Shelter,A422827,Cat,Domestic Sh,Brn Tabby/White,Spayed,Small,24,2023-12-06T00:00:00.000,2024-01-19T00:00:00.000,Owner Surrender,Unknown,Adoption,Walkin,44.0,1,Winter Standard
+Sonoma County Shelter,A423921,Dog,Poodle Min/Mix,Brown,Spayed,Medium,24,2024-01-18T00:00:00.000,2024-01-19T00:00:00.000,Stray,Healthy,Return To Owner,Over The Counter_Web,1.0,0,Winter Standard
+Sonoma County Shelter,A409314,Dog,Pit Bull/Mix,White/Brown,Neutered,Medium,24,2024-01-18T00:00:00.000,2024-01-19T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Notice,1.0,0,Winter Standard
+Sonoma County Shelter,A422830,Cat,Domestic Sh,Calico/Blue Cream,Spayed,Small,24,2024-01-19T00:00:00.000,2024-01-19T00:00:00.000,Adoption Return,Healthy,Adoption,Walkin,0.1,0,Winter Standard
+Sonoma County Shelter,A333701,Cat,Domestic Sh,Brn Tabby,Neutered,Medium,24,2016-03-01T00:00:00.000,2016-03-04T00:00:00.000,Owner Surrender,Healthy,Adoption,Walkin,3.0,0,Spring Peak
+Sonoma County Shelter,A423702,Dog,Siberian Husky,Black/White,Female,Medium,24,2024-01-06T00:00:00.000,2024-01-19T00:00:00.000,Stray,Unknown,Euthanize,Beh Severe,13.0,0,Winter Standard
+Sonoma County Shelter,A425472,Dog,Pit Bull,Br Brindle/White,Neutered,Medium,24,2024-03-23T00:00:00.000,2024-04-15T00:00:00.000,Stray,Unknown,Euthanize,Aggressive,23.0,0,Spring Peak
+Sonoma County Shelter,A423704,Dog,Siberian Husky,Black/White,Female,Medium,24,2024-01-06T00:00:00.000,2024-01-19T00:00:00.000,Stray,Unknown,Euthanize,Beh Severe,13.0,0,Winter Standard
+Sonoma County Shelter,A422809,Dog,Germ Shepherd/Mix,Br Brindle/Black,Male,Medium,24,2023-12-06T00:00:00.000,2024-01-19T00:00:00.000,Stray,Unknown,Euthanize,Aggressive,44.0,1,Winter Standard
+Sonoma County Shelter,A418478,Dog,Germ Shepherd,Black/Tan,Female,Medium,24,2024-01-06T00:00:00.000,2024-01-06T00:00:00.000,Stray,Healthy,Return To Owner,Over The Counter_Call,0.1,0,Winter Standard
+Sonoma County Shelter,A425850,Cat,Domestic Sh,Black,Unknown,Medium,24,2024-04-13T00:00:00.000,2024-04-15T00:00:00.000,Stray,Unknown,Disposal,Doa,2.0,0,Spring Peak
+Sonoma County Shelter,A410133,Dog,Labrador Retr,Yellow,Male,Medium,24,2023-10-10T00:00:00.000,2023-10-11T00:00:00.000,Confiscate,Healthy,Return To Owner,Over The Counter_Prvs,1.0,0,Fall Moderate
+Sonoma County Shelter,A293429,Dog,Queensland Heel/Mix,Tan/White,Spayed,Medium,24,2024-01-22T00:00:00.000,2024-01-23T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Mchip,1.0,0,Winter Standard
+Sonoma County Shelter,A423798,Dog,St Bernard Rgh,Brown/White,Female,Medium,24,2024-01-12T00:00:00.000,2024-01-23T00:00:00.000,Quarantine,Unknown,Return To Owner,Fld_Prvs,11.0,0,Winter Standard
+Sonoma County Shelter,A413248,Dog,Pit Bull/Mix,Black/White,Female,Medium,24,2024-01-22T00:00:00.000,2024-01-23T00:00:00.000,Confiscate,Unknown,Return To Owner,Over The Counter_Arrest,1.0,0,Winter Standard
+Sonoma County Shelter,A441394,Rabbit,Rabbit Lh,Black,Neutered,Medium,24,2026-04-24T00:00:00.000,2026-06-30T00:00:00.000,Stray,Unknown,Adoption,Scas Web,67.0,1,Spring Peak
+Sonoma County Shelter,A410133,Dog,Labrador Retr,Yellow,Male,Medium,24,2023-08-10T00:00:00.000,2023-08-10T00:00:00.000,Confiscate,Healthy,Return To Owner,Medical,0.1,0,Summer High
+Sonoma County Shelter,A423954,Wildlife,Bat/Mex Free-Tail,Brown,Unknown,Medium,24,2024-01-20T00:00:00.000,2024-01-20T00:00:00.000,Quarantine,Unknown,Euthanize,Fra,0.1,0,Winter Standard
+Sonoma County Shelter,A423962,Dog,Akita,Tricolor,Female,Medium,24,2024-01-20T00:00:00.000,2024-01-20T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Mchip,0.1,0,Winter Standard
+Sonoma County Shelter,A423957,Dog,Golden Retr/Mix,Red/Brown,Neutered,Medium,24,2024-01-20T00:00:00.000,2024-01-20T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Web,0.1,0,Winter Standard
+Sonoma County Shelter,A425865,Dog,Siberian Husky,White,Male,Medium,24,2024-04-14T00:00:00.000,2024-04-16T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Call,2.0,0,Spring Peak
+Sonoma County Shelter,A443534,Cat,Domestic Sh,Black,Neutered,Small,24,2026-08-06T00:00:00.000,,Stray,Unknown,Unknown,,0.1,0,Summer High
+Sonoma County Shelter,A422826,Cat,Domestic Sh,Brn Tabby/White,Spayed,Small,24,2023-12-06T00:00:00.000,2024-01-20T00:00:00.000,Owner Surrender,Unknown,Adoption,Walkin,45.0,1,Winter Standard
+Sonoma County Shelter,A410133,Dog,Labrador Retr,Yellow,Male,Medium,24,2023-09-28T00:00:00.000,2023-09-29T00:00:00.000,Confiscate,Unknown,Return To Owner,Over The Counter_Prvs,1.0,0,Fall Moderate
+Sonoma County Shelter,A425889,Dog,Germ Shepherd/Alaskan Husky,Tan/Black,Female,Medium,24,2024-04-16T00:00:00.000,2024-04-16T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Mchip,0.1,0,Spring Peak
+Sonoma County Shelter,A442067,Dog,Germ Shepherd,Tan/Black,Spayed,Medium,24,2026-05-28T00:00:00.000,2026-06-30T00:00:00.000,Stray,Unknown,Adoption,Finder,33.0,1,Spring Peak
+Sonoma County Shelter,A362676,Dog,Havanese/Parson Russ Ter,Buff,Spayed,Medium,24,2024-04-13T00:00:00.000,2024-04-16T00:00:00.000,Confiscate,Unknown,Return To Owner,Medical,3.0,0,Spring Peak
+Sonoma County Shelter,A425798,Dog,Rottweiler,Black/Tan,Male,Medium,24,2024-04-11T00:00:00.000,2024-04-16T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Walkin,5.0,0,Spring Peak
+Sonoma County Shelter,A422249,Dog,Germ Shepherd/Mix,Black/White,Female,Medium,24,2023-11-17T00:00:00.000,2024-01-23T00:00:00.000,Stray,Unknown,Transfer,Marin Hs,67.0,1,Fall Moderate
+Sonoma County Shelter,A426973,Cat,Domestic Sh,Brn Tabby,Spayed,Medium,24,2024-06-07T00:00:00.000,2024-09-24T00:00:00.000,Stray,Unknown,Adoption,Oth_Media,109.0,1,Summer High
+Sonoma County Shelter,A417643,Dog,Alaskan Husky,Black/White,Spayed,Medium,24,2024-04-16T00:00:00.000,2024-04-16T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Web,0.1,0,Spring Peak
+Sonoma County Shelter,A410983,Dog,Pit Bull,Brown,Neutered,Medium,24,2022-04-14T00:00:00.000,2022-04-14T00:00:00.000,Stray,Unknown,Transfer,Rp Shelter,0.1,0,Spring Peak
+Sonoma County Shelter,A425665,Cat,Domestic Lh,Black,Spayed,Medium,24,2024-04-04T00:00:00.000,2024-04-16T00:00:00.000,Confiscate,Unknown,Transfer,Forgotten,12.0,0,Spring Peak
+Sonoma County Shelter,A417643,Dog,Alaskan Husky,Black/White,Spayed,Medium,24,2023-05-18T00:00:00.000,2023-05-20T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Web,2.0,0,Spring Peak
+Sonoma County Shelter,A429051,Wildlife,Bat,Brown,Unknown,Medium,24,2024-09-16T00:00:00.000,2024-09-24T00:00:00.000,Quarantine,Unknown,Transfer,Lab Fra,8.0,0,Fall Moderate
+Sonoma County Shelter,A423628,Cat,Domestic Lh,Black,Spayed,Medium,24,2024-01-02T00:00:00.000,2024-01-23T00:00:00.000,Stray,Healthy,Transfer,Marin Hs,21.0,0,Winter Standard
+Sonoma County Shelter,A423297,Cat,Domestic Lh,Black/White,Neutered,Medium,24,2023-12-14T00:00:00.000,2024-01-23T00:00:00.000,Stray,Unknown,Transfer,Marin Hs,40.0,1,Winter Standard
+Sonoma County Shelter,A271127,Dog,Chihuahua Sh/Mix,Brown,Neutered,Medium,24,2024-04-16T00:00:00.000,2024-04-16T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Call,0.1,0,Spring Peak
+Sonoma County Shelter,A410983,Dog,Pit Bull,Brown,Neutered,Medium,24,2024-03-20T00:00:00.000,2024-04-16T00:00:00.000,Confiscate,Unknown,Return To Owner,Over The Counter_Arrest,27.0,0,Spring Peak
+Sonoma County Shelter,A425887,Wildlife,Bat,Brown/Black,Unknown,Medium,24,2024-04-16T00:00:00.000,2024-04-16T00:00:00.000,Quarantine,Unknown,Euthanize,Fra,0.1,0,Spring Peak
+Sonoma County Shelter,A422867,Dog,Aust Cattle Dog,Brown/White,Male,Medium,24,2023-12-07T00:00:00.000,2024-01-23T00:00:00.000,Confiscate,Unknown,Transfer,Marin Hs,47.0,1,Winter Standard
+Sonoma County Shelter,A422248,Dog,Germ Shepherd/Mix,Black/White,Male,Medium,24,2023-11-17T00:00:00.000,2024-01-23T00:00:00.000,Stray,Unknown,Transfer,Marin Hs,67.0,1,Fall Moderate
+Sonoma County Shelter,A422106,Cat,Domestic Sh,Tortie,Spayed,Medium,24,2023-11-13T00:00:00.000,2024-01-23T00:00:00.000,Stray,Healthy,Adoption,Walkin,71.0,1,Fall Moderate
+Sonoma County Shelter,A423947,Cat,Domestic Mh,Brn Tabby/White,Female,Medium,24,2024-01-19T00:00:00.000,2024-01-23T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Web,4.0,0,Winter Standard
+Sonoma County Shelter,A422866,Dog,Aust Cattle Dog,Brown/White,Male,Medium,24,2023-12-07T00:00:00.000,2024-01-23T00:00:00.000,Confiscate,Unknown,Transfer,Marin Hs,47.0,1,Winter Standard
+Sonoma County Shelter,A406399,Dog,Siberian Husky,Red/White,Neutered,Medium,24,2022-10-11T00:00:00.000,2024-01-23T00:00:00.000,Owner Surrender,Healthy,Adoption,Walkin,469.0,1,Fall Moderate
+Sonoma County Shelter,A422097,Cat,Domestic Sh,Black/White,Spayed,Medium,24,2023-11-13T00:00:00.000,2024-01-23T00:00:00.000,Stray,Unknown,Adoption,Walkin,71.0,1,Fall Moderate
+Sonoma County Shelter,A423695,Cat,Domestic Sh,Blk Tabby,Neutered,Medium,24,2024-01-05T00:00:00.000,2024-01-23T00:00:00.000,Stray,Healthy,Transfer,Marin Hs,18.0,0,Winter Standard
+Sonoma County Shelter,A423990,Dog,Poodle Min/Mix,White,Male,Medium,24,2024-01-23T00:00:00.000,2024-01-23T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Web,0.1,0,Winter Standard
+Sonoma County Shelter,A422828,Cat,Domestic Sh,Brn Tabby/White,Spayed,Small,24,2023-12-06T00:00:00.000,2024-01-23T00:00:00.000,Owner Surrender,Unknown,Adoption,Walkin,48.0,1,Winter Standard
+Sonoma County Shelter,A442619,Cat,Domestic Sh,Org Tabby,Neutered,Medium,24,2026-06-21T00:00:00.000,2026-06-30T00:00:00.000,Stray,Unknown,Transfer,Forgotten,9.0,0,Summer High
+Sonoma County Shelter,A419707,Cat,Domestic Sh,Black,Spayed,Medium,24,2023-08-16T00:00:00.000,2024-01-23T00:00:00.000,Stray,Unknown,Transfer,Marin Hs,160.0,1,Summer High
+Sonoma County Shelter,A415773,Dog,Rottweiler,Black/Brown,Male,Medium,24,2024-01-12T00:00:00.000,2024-01-23T00:00:00.000,Quarantine,Unknown,Return To Owner,Fld_Prvs,11.0,0,Winter Standard
+Sonoma County Shelter,A422250,Dog,Germ Shepherd/Mix,Black/White,Female,Medium,24,2023-11-17T00:00:00.000,2024-01-23T00:00:00.000,Stray,Unknown,Transfer,Marin Hs,67.0,1,Fall Moderate
+Sonoma County Shelter,A423972,Dog,Great Pyrenees,White,Male,Medium,24,2024-01-20T00:00:00.000,2024-01-23T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Web,3.0,0,Winter Standard
+Sonoma County Shelter,A423977,Dog,Pug,Tan/Black,Neutered,Medium,24,2024-01-21T00:00:00.000,2024-01-23T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Mchip,2.0,0,Winter Standard
+Sonoma County Shelter,A422868,Dog,Aust Cattle Dog,White/Brown,Male,Medium,24,2023-12-07T00:00:00.000,2024-01-23T00:00:00.000,Confiscate,Unknown,Transfer,Marin Hs,47.0,1,Winter Standard
+Sonoma County Shelter,A413061,Dog,Belg Malinois,Brown/Black,Spayed,Medium,24,2022-08-30T00:00:00.000,2022-09-27T00:00:00.000,Stray,Healthy,Adoption,Scas Web,28.0,0,Summer High
+Sonoma County Shelter,A423991,Dog,Shih Tzu/Mix,White/Gold,Female,Medium,24,2024-01-23T00:00:00.000,2024-01-24T00:00:00.000,Confiscate,Unknown,Return To Owner,Over The Counter_Arrest,1.0,0,Winter Standard
+Sonoma County Shelter,A400844,Cat,Domestic Mh,Org Tabby/White,Spayed,Medium,24,2020-10-07T00:00:00.000,2020-11-04T00:00:00.000,Stray,Unknown,Adoption,Westfarm,28.0,0,Fall Moderate
+Sonoma County Shelter,A423967,Dog,Yorkshire Terr/Mix,Tan,Female,Medium,24,2024-01-20T00:00:00.000,2024-01-24T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Mchip,4.0,0,Winter Standard
+Sonoma County Shelter,A429195,Dog,Labrador Retr,Black,Spayed,Medium,24,2024-09-24T00:00:00.000,2024-09-24T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Mchip,0.1,0,Fall Moderate
+Sonoma County Shelter,A423668,Small Animal,Rat,White/Brown,Female,Medium,24,2024-01-04T00:00:00.000,2024-01-25T00:00:00.000,Stray,Healthy,Adoption,Scas Web,21.0,0,Winter Standard
+Sonoma County Shelter,A419373,Reptile,Turtle,Brown,Unknown,Medium,24,2023-07-28T00:00:00.000,2023-07-29T00:00:00.000,Stray,Unknown,Transfer,Reptile,1.0,0,Summer High
+Sonoma County Shelter,A305362,Cat,Domestic Sh,Brn Tabby,Spayed,Medium,24,2014-04-15T00:00:00.000,2014-06-13T00:00:00.000,Owner Surrender,Healthy,Adoption,Walkin,59.0,1,Spring Peak
+Sonoma County Shelter,A424041,Dog,Pit Bull/Mix,Br Brindle/Black,Male,Medium,24,2024-01-25T00:00:00.000,2024-01-25T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Walkin,0.1,0,Winter Standard
+Sonoma County Shelter,A310346,Dog,Chihuahua Sh,Tan/White,Neutered,Medium,24,2014-08-19T00:00:00.000,2014-09-27T00:00:00.000,Transfer,Healthy,Adoption,Walkin,39.0,1,Summer High
+Sonoma County Shelter,A424031,Dog,Pit Bull,Brown,Neutered,Medium,24,2024-01-24T00:00:00.000,2024-01-25T00:00:00.000,Confiscate,Unknown,Return To Owner,Over The Counter_Arrest,1.0,0,Winter Standard
+Sonoma County Shelter,A423667,Small Animal,Rat,Brown,Female,Medium,24,2024-01-04T00:00:00.000,2024-01-25T00:00:00.000,Stray,Unknown,Adoption,Scas Web,21.0,0,Winter Standard
+Sonoma County Shelter,A401174,Cat,Domestic Sh,White/Brn Tabby,Neutered,Medium,24,2020-11-03T00:00:00.000,2020-12-31T00:00:00.000,Stray,Healthy,Adoption,Scas Web,58.0,1,Fall Moderate
+Sonoma County Shelter,A425619,Cat,Domestic Sh,Black,Unknown,Medium,24,2024-04-01T00:00:00.000,2024-04-04T00:00:00.000,Stray,Unknown,Died,At Vet,3.0,0,Spring Peak
+Sonoma County Shelter,A444433,Cat,Domestic Sh,Gray,Male,Small,24,2026-09-10T00:00:00.000,,Stray,Unknown,Unknown,,0.1,0,Fall Moderate
+Sonoma County Shelter,A427037,Dog,Pit Bull/Mix,Black/White,Neutered,Medium,24,2024-06-11T00:00:00.000,2024-12-07T00:00:00.000,Stray,Healthy,Adoption,Scas Web,179.0,1,Summer High
+Sonoma County Shelter,A425868,Dog,Rottweiler,Black/Brown,Male,Medium,24,2024-04-15T00:00:00.000,2024-04-17T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Web,2.0,0,Spring Peak
+Sonoma County Shelter,A423795,Dog,Pit Bull,Brown/White,Female,Medium,24,2024-01-12T00:00:00.000,2024-01-26T00:00:00.000,Stray,Unknown,Return To Owner,,14.0,0,Winter Standard
+Sonoma County Shelter,A424055,Wildlife,Bat/Mex Free-Tail,Brown,Unknown,Medium,24,2024-01-26T00:00:00.000,2024-01-26T00:00:00.000,Quarantine,Unknown,Euthanize,Fra,0.1,0,Winter Standard
+Sonoma County Shelter,A424058,Wildlife,Bat/Mex Free-Tail,Brown,Unknown,Medium,24,2024-01-26T00:00:00.000,2024-01-26T00:00:00.000,Quarantine,Unknown,Euthanize,Fra,0.1,0,Winter Standard
+Sonoma County Shelter,A423313,Dog,Alaskan Husky,White/Black,Female,Medium,24,2023-12-14T00:00:00.000,2024-01-26T00:00:00.000,Stray,Unknown,Euthanize,Beh Severe,43.0,1,Winter Standard
+Sonoma County Shelter,A422663,Cat,Domestic Sh,Brn Tabby,Neutered,Small,24,2023-12-02T00:00:00.000,2024-01-27T00:00:00.000,Stray,Healthy,Adoption,Walkin,56.0,1,Winter Standard
+Sonoma County Shelter,A423555,Dog,Pit Bull,Tan/White,Male,Medium,24,2023-12-26T00:00:00.000,2024-01-27T00:00:00.000,Stray,Unknown,Euthanize,Aggressive,32.0,1,Winter Standard
+Sonoma County Shelter,A424046,Wildlife,Bat,Brown,Unknown,Medium,24,2024-01-25T00:00:00.000,2024-01-26T00:00:00.000,Quarantine,Unknown,Euthanize,Fra,1.0,0,Winter Standard
+Sonoma County Shelter,A422128,Cat,Domestic Sh/Mix,Black,Spayed,Small,24,2023-11-14T00:00:00.000,2024-01-26T00:00:00.000,Owner Surrender,Healthy,Transfer,Marin Hs,73.0,1,Fall Moderate
+Sonoma County Shelter,A423964,Cat,Domestic Sh,Black/White,Neutered,Small,24,2024-01-20T00:00:00.000,2024-01-27T00:00:00.000,Owner Surrender,Healthy,Adoption,Walkin,7.0,0,Winter Standard
+Sonoma County Shelter,A416793,Dog,Pit Bull/Mix,Br Brindle/White,Male,Medium,24,2023-09-25T00:00:00.000,2023-09-26T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Web,1.0,0,Fall Moderate
+Sonoma County Shelter,A423808,Dog,Germ Shepherd/Mix,Black/Tan,Male,Medium,24,2024-01-12T00:00:00.000,2024-01-27T00:00:00.000,Stray,Unknown,Euthanize,Aggressive,15.0,0,Winter Standard
+Sonoma County Shelter,A442156,Dog,Jack/Mix,Brown/White,Neutered,Medium,24,2026-06-01T00:00:00.000,2026-06-30T00:00:00.000,Stray,Unknown,Adoption,Instagram,29.0,0,Summer High
+Sonoma County Shelter,A420662,Dog,Aust Shepherd/Mix,Tricolor,Spayed,Medium,24,2023-09-25T00:00:00.000,2023-09-26T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Web,1.0,0,Fall Moderate
+Sonoma County Shelter,A424093,Dog,Pit Bull,White/Brown,Spayed,Medium,24,2024-01-27T00:00:00.000,2024-01-27T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Mchip,0.1,0,Winter Standard
+Sonoma County Shelter,A423966,Cat,Domestic Sh,Black/White,Neutered,Small,24,2024-01-20T00:00:00.000,2024-01-27T00:00:00.000,Owner Surrender,Healthy,Adoption,Walkin,7.0,0,Winter Standard
+Sonoma County Shelter,A423686,Dog,Chihuahua Sh,Black,Spayed,Medium,24,2024-01-05T00:00:00.000,2024-01-29T00:00:00.000,Stray,Unknown,Transfer,Muttville,24.0,0,Winter Standard
+Sonoma County Shelter,A315543,Dog,Black/Tan Hound,Black/Tan,Neutered,Medium,24,2024-01-29T00:00:00.000,2024-01-29T00:00:00.000,Stray,Unknown,Return To Owner,Fld_Idtag,0.1,0,Winter Standard
+Sonoma County Shelter,A423687,Dog,Dachshund/Shih Tzu,Brown,Female,Medium,24,2024-01-05T00:00:00.000,2024-01-29T00:00:00.000,Stray,Unknown,Transfer,Muttville,24.0,0,Winter Standard
+Sonoma County Shelter,A402571,Dog,Germ Shepherd,Black/Tan,Neutered,Medium,24,2021-02-20T00:00:00.000,2021-02-23T00:00:00.000,Confiscate,Unknown,Return To Owner,Fld_Mchip,3.0,0,Winter Standard
+Sonoma County Shelter,A425907,Cat,Domestic Sh,White,Unknown,Small,24,2024-04-17T00:00:00.000,2024-04-18T00:00:00.000,Confiscate,Unknown,Rtos,Sover The Counter,1.0,0,Spring Peak
+Sonoma County Shelter,A425906,Dog,Germ Shepherd/Mix,Brown/Black,Male,Medium,24,2024-04-17T00:00:00.000,2024-04-18T00:00:00.000,Confiscate,Unknown,Return To Owner,Over The Counter_Arrest,1.0,0,Spring Peak
+Sonoma County Shelter,A425937,Dog,Poodle Min/Mix,White/Cream,Male,Medium,24,2024-04-17T00:00:00.000,2024-04-18T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Web,1.0,0,Spring Peak
+Sonoma County Shelter,A364817,Dog,Border Collie,Tricolor,Neutered,Medium,24,2024-01-03T00:00:00.000,2024-04-18T00:00:00.000,Confiscate,Unknown,Adoption,Scas Web,106.0,1,Winter Standard
+Sonoma County Shelter,A443244,Dog,Chihuahua Sh,Tricolor,Male,Medium,24,2026-07-22T00:00:00.000,,Owner Surrender,Unknown,Unknown,,0.1,0,Summer High
+Sonoma County Shelter,A425905,Dog,Siberian Husky,Black/White,Neutered,Medium,24,2021-02-20T00:00:00.000,2021-02-23T00:00:00.000,Confiscate,Unknown,Return To Owner,Fld_Mchip,3.0,0,Winter Standard
+Sonoma County Shelter,A425879,Other,Havana/Mix,Black,Unknown,Medium,24,2024-04-16T00:00:00.000,2024-04-18T00:00:00.000,Born Here,Unknown,Euthanize,Con Minor,2.0,0,Spring Peak
+Sonoma County Shelter,A425909,Cat,Domestic Sh,Orange,Unknown,Small,24,2024-04-17T00:00:00.000,2024-04-18T00:00:00.000,Confiscate,Unknown,Rtos,Sover The Counter,1.0,0,Spring Peak
+Sonoma County Shelter,A425917,Dog,Parson Russ Ter,White/Brown,Male,Medium,24,2024-04-17T00:00:00.000,2024-04-18T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Walkin,1.0,0,Spring Peak
+Sonoma County Shelter,A442770,Cat,Domestic Sh,Gray/White,Neutered,Medium,24,2026-06-30T00:00:00.000,2026-06-30T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Mchip,0.1,0,Summer High
+Sonoma County Shelter,A424109,Dog,Pit Bull,White/Brown,Male,Medium,24,2024-01-28T00:00:00.000,2024-01-30T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Web,2.0,0,Winter Standard
+Sonoma County Shelter,A424118,Dog,Germ Shepherd/Mix,Tan/Black,Female,Medium,24,2024-01-29T00:00:00.000,2024-01-30T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Call,1.0,0,Winter Standard
+Sonoma County Shelter,A424103,Dog,Poodle Min/Mix,White,Male,Medium,24,2024-01-27T00:00:00.000,2024-01-30T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Web,3.0,0,Winter Standard
+Sonoma County Shelter,A424115,Dog,Maltese,Black,Female,Medium,24,2024-01-29T00:00:00.000,2024-01-30T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Web,1.0,0,Winter Standard
+Sonoma County Shelter,A424116,Dog,Aust Cattle Dog/Mix,Tricolor,Male,Medium,24,2024-01-29T00:00:00.000,2024-01-30T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Call,1.0,0,Winter Standard
+Sonoma County Shelter,A423952,Other,Macaw,Red/White,Male,Medium,24,2024-01-19T00:00:00.000,2024-01-30T00:00:00.000,Confiscate,Healthy,Return To Owner,Over The Counter_Prvs,11.0,0,Winter Standard
+Sonoma County Shelter,A400563,Dog,Pomeranian,White,Neutered,Medium,24,2019-01-02T00:00:00.000,2019-01-04T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Web,2.0,0,Winter Standard
+Sonoma County Shelter,A444055,Cat,Domestic Sh,Tortie,Female,Medium,24,2026-08-25T00:00:00.000,,Stray,Unknown,Unknown,,0.1,0,Summer High
+Sonoma County Shelter,A422819,Cat,Domestic Sh,Tortie,Spayed,Medium,24,2023-12-06T00:00:00.000,2024-01-31T00:00:00.000,Stray,Healthy,Adoption,Scas Web,56.0,1,Winter Standard
+Sonoma County Shelter,A444027,Dog,Belg Malinois/Mix,Br Brindle,Male,Medium,24,2026-08-24T00:00:00.000,,Stray,Unknown,Unknown,,0.1,0,Summer High
+Sonoma County Shelter,A400563,Dog,Pomeranian,White,Neutered,Medium,24,2019-10-18T00:00:00.000,2019-11-05T00:00:00.000,Stray,Unknown,Return To Owner,Fld_Mchip,18.0,0,Fall Moderate
+Sonoma County Shelter,A423387,Dog,Pit Bull,Tricolor,Male,Medium,24,2023-12-15T00:00:00.000,2024-01-30T00:00:00.000,Stray,Unknown,Euthanize,Beh Severe,46.0,1,Winter Standard
+Sonoma County Shelter,A423489,Dog,Pit Bull/Alaskan Husky,Tan,Neutered,Medium,24,2023-12-21T00:00:00.000,2024-01-30T00:00:00.000,Stray,Unknown,Euthanize,Aggressive,40.0,1,Winter Standard
+Sonoma County Shelter,A384497,Dog,Chihuahua Sh/Dachshund,Tan,Spayed,Medium,24,2024-08-21T00:00:00.000,2024-08-21T00:00:00.000,Confiscate,Unknown,Return To Owner,Over The Counter_Walkin,0.1,0,Summer High
+Sonoma County Shelter,A422300,Dog,Pit Bull,Gray/White,Male,Medium,24,2023-11-21T00:00:00.000,2024-01-30T00:00:00.000,Stray,Unknown,Euthanize,Con Severe,70.0,1,Fall Moderate
+Sonoma County Shelter,A425908,Cat,Domestic Sh,Seal Pt,Unknown,Small,24,2024-04-17T00:00:00.000,2024-04-18T00:00:00.000,Confiscate,Unknown,Rtos,Sover The Counter,1.0,0,Spring Peak
+Sonoma County Shelter,A424129,Wildlife,Bat,Brown,Unknown,Medium,24,2024-01-30T00:00:00.000,2024-01-30T00:00:00.000,Quarantine,Unknown,Euthanize,Fra,0.1,0,Winter Standard
+Sonoma County Shelter,A424119,Dog,Border Collie/Mix,Black/White,Female,Medium,24,2024-01-29T00:00:00.000,2024-01-30T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Call,1.0,0,Winter Standard
+Sonoma County Shelter,A422650,Dog,Patterdale Terr/Mix,Black,Spayed,Medium,24,2023-12-02T00:00:00.000,2024-01-26T00:00:00.000,Confiscate,Healthy,Adoption,Scas Web,55.0,1,Winter Standard
+Sonoma County Shelter,A424087,Dog,Eng Bulldog,Brown/White,Female,Medium,24,2024-01-27T00:00:00.000,2024-01-30T00:00:00.000,Confiscate,Unknown,Return To Owner,Over The Counter_Call,3.0,0,Winter Standard
+Sonoma County Shelter,A425904,Dog,Siberian Husky/Mix,Gray/White,Male,Medium,24,2016-10-24T00:00:00.000,2016-10-25T00:00:00.000,Stray,Healthy,Return To Owner,Over The Counter_Prvs,1.0,0,Fall Moderate
+Sonoma County Shelter,A434241,Dog,Chihuahua Sh/Mix,Chocolate,Female,Medium,24,2025-06-05T00:00:00.000,2025-06-11T00:00:00.000,Confiscate,Unknown,Return To Owner,Over The Counter_Notice,6.0,0,Summer High
+Sonoma County Shelter,A423523,Cat,Domestic Mh,Black,Neutered,Small,24,2023-12-22T00:00:00.000,2024-02-01T00:00:00.000,Stray,Unknown,Adoption,Scas Web,41.0,1,Winter Standard
+Sonoma County Shelter,A429597,Cat,Domestic Sh,Calico,Spayed,Small,24,2024-10-10T00:00:00.000,2024-12-07T00:00:00.000,Stray,Unknown,Adoption,Scas Web,58.0,1,Fall Moderate
+Sonoma County Shelter,A341701,Cat,Domestic Mh,Black/White,Neutered,Small,24,2016-08-29T00:00:00.000,2016-11-18T00:00:00.000,Stray,Treatable/Rehab,Adoption,Walkin,81.0,1,Summer High
+Sonoma County Shelter,A444429,Cat,Domestic Sh,Gray,Female,Small,24,2026-09-10T00:00:00.000,,Stray,Unknown,Unknown,,0.1,0,Fall Moderate
+Sonoma County Shelter,A423525,Cat,Domestic Sh,Brn Tabby,Neutered,Small,24,2023-12-22T00:00:00.000,2024-02-01T00:00:00.000,Stray,Unknown,Adoption,Scas Web,41.0,1,Winter Standard
+Sonoma County Shelter,A423539,Dog,Parson Russ Ter/Mix,Red/White,Spayed,Medium,24,2023-12-23T00:00:00.000,2024-01-23T00:00:00.000,Stray,Treatable/Rehab,Adoption,Referral-V,31.0,1,Winter Standard
+Sonoma County Shelter,A432049,Dog,Germ Shepherd,Tan/Black,Neutered,Medium,24,2026-06-12T00:00:00.000,2026-06-26T00:00:00.000,Confiscate,Unknown,Adoption,Referral-O,14.0,0,Summer High
+Sonoma County Shelter,A442201,Dog,Doberman Pinsch/Pit Bull,Brown,Spayed,Medium,24,2026-06-04T00:00:00.000,2026-06-26T00:00:00.000,Owner Surrender,Unknown,Adoption,Scas Web,22.0,0,Summer High
+Sonoma County Shelter,A436543,Cat,Domestic Sh,Brn Tabby,Spayed,Medium,24,2025-09-04T00:00:00.000,2025-10-07T00:00:00.000,Stray,Healthy,Adoption,Fb Scas,33.0,1,Fall Moderate
+Sonoma County Shelter,A267440,Dog,Pomeranian,Fawn,Neutered,Medium,24,2024-01-20T00:00:00.000,2024-02-01T00:00:00.000,Confiscate,Unknown,Return To Owner,Medical,12.0,0,Winter Standard
+Sonoma County Shelter,A397320,Dog,Chihuahua Sh,Black/Tan,Female,Medium,24,2020-04-28T00:00:00.000,2020-05-06T00:00:00.000,Stray,Healthy,Transfer,Rocket Dog,8.0,0,Spring Peak
+Sonoma County Shelter,A424197,Dog,Labrador Retr,Chocolate,Female,Medium,24,2024-02-02T00:00:00.000,2024-02-02T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Web,0.1,0,Winter Standard
+Sonoma County Shelter,A414402,Dog,Pit Bull,Br Brindle/White,Neutered,Medium,24,2023-03-07T00:00:00.000,2024-02-03T00:00:00.000,Adoption Return,Unknown,Adoption,Referral-V,333.0,1,Spring Peak
+Sonoma County Shelter,A416269,Dog,Welsh Corgi Pem/Mix,Brown,Neutered,Medium,24,2023-03-18T00:00:00.000,2023-04-29T00:00:00.000,Stray,Healthy,Adoption,Scas Web,42.0,1,Spring Peak
+Sonoma County Shelter,A443715,Cat,Domestic Sh,Black,Neutered,Medium,24,2026-08-13T00:00:00.000,,Stray,Unknown,Unknown,,0.1,0,Summer High
+Sonoma County Shelter,A442206,Dog,Doberman Pinsch/Pit Bull,Bl Brindle,Spayed,Medium,24,2026-06-04T00:00:00.000,2026-06-26T00:00:00.000,Owner Surrender,Unknown,Adoption,Fb Scas,22.0,0,Summer High
+Sonoma County Shelter,A422829,Cat,Domestic Sh,Calico,Spayed,Medium,24,2023-12-06T00:00:00.000,2024-02-03T00:00:00.000,Stray,Healthy,Adoption,Scas Web,59.0,1,Winter Standard
+Sonoma County Shelter,A424017,Dog,Germ Shepherd,Black/Brown,Female,Medium,24,2024-01-24T00:00:00.000,2024-02-04T00:00:00.000,Stray,Unknown,Euthanize,Aggressive,11.0,0,Winter Standard
+Sonoma County Shelter,A420117,Dog,Eng Bulldog,Brown/White,Neutered,Medium,24,2024-01-22T00:00:00.000,2024-02-04T00:00:00.000,Quarantine,Unknown,Euthanize,Aggressive,13.0,0,Winter Standard
+Sonoma County Shelter,A420716,Dog,Rottweiler,Black/Tan,Female,Medium,24,2024-01-19T00:00:00.000,2024-02-04T00:00:00.000,Stray,Unknown,Euthanize,Aggressive,16.0,0,Winter Standard
+Sonoma County Shelter,A387122,Dog,Chihuahua Sh,Buff,Female,Medium,24,2024-01-16T00:00:00.000,2024-02-04T00:00:00.000,Stray,Unknown,Euthanize,Aggressive,19.0,0,Winter Standard
+Sonoma County Shelter,A423719,Cat,Domestic Sh,Brn Tabby/Calico,Female,Medium,24,2024-01-09T00:00:00.000,2024-02-04T00:00:00.000,Stray,Unknown,Transfer,We Care,26.0,0,Winter Standard
+Sonoma County Shelter,A403817,Dog,Chihuahua Sh/Dachshund,Black/Cream,Neutered,Medium,24,2024-01-16T00:00:00.000,2024-02-04T00:00:00.000,Stray,Unknown,Euthanize,Aggressive,19.0,0,Winter Standard
+Sonoma County Shelter,A424020,Cat,Domestic Sh,Brn Tabby,Male,Medium,24,2024-01-24T00:00:00.000,2024-02-04T00:00:00.000,Stray,Unknown,Transfer,We Care,11.0,0,Winter Standard
+Sonoma County Shelter,A443242,Dog,Chihuahua Sh,Brown/Tricolor,Neutered,Medium,24,2026-07-22T00:00:00.000,2026-09-11T00:00:00.000,Owner Surrender,Treatable/Rehab,Adoption,Referral-F,51.0,1,Summer High
+Sonoma County Shelter,A423842,Livestock,Goat,White/Tan,Female,Medium,24,2024-01-16T00:00:00.000,2024-02-03T00:00:00.000,Stray,Unknown,Transfer,Anim Place,18.0,0,Winter Standard
+Sonoma County Shelter,A421310,Cat,Domestic Sh,Brn Tabby,Neutered,Small,24,2024-01-20T00:00:00.000,2024-02-03T00:00:00.000,Adoption Return,Healthy,Adoption,Walkin,14.0,0,Winter Standard
+Sonoma County Shelter,A416269,Dog,Welsh Corgi Pem/Mix,Brown,Neutered,Medium,24,2024-02-03T00:00:00.000,2024-02-03T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Web,0.1,0,Winter Standard
+Sonoma County Shelter,A425908,Cat,Domestic Sh,Seal Pt,Unknown,Small,24,2024-04-18T00:00:00.000,2024-04-19T00:00:00.000,Owner Surrender,Unknown,Transfer,Petcare,1.0,0,Spring Peak
+Sonoma County Shelter,A425553,Bird,Chicken,Black,Female,Medium,24,2024-03-28T00:00:00.000,2024-04-19T00:00:00.000,Confiscate,Unknown,Transfer,Westfarm,22.0,0,Spring Peak
+Sonoma County Shelter,A424060,Dog,Shih Tzu/Mix,Brown/White,Neutered,Medium,24,2024-01-26T00:00:00.000,2024-02-04T00:00:00.000,Stray,Unknown,Euthanize,Con Severe,9.0,0,Winter Standard
+Sonoma County Shelter,A310677,Cat,Domestic Sh,Brn Tabby,Spayed,Small,24,2014-08-26T00:00:00.000,2014-10-27T00:00:00.000,Stray,Treatable/Rehab,Adoption,Westfarm,62.0,1,Summer High
+Sonoma County Shelter,A425905,Dog,Siberian Husky,Black/White,Neutered,Medium,24,2024-04-17T00:00:00.000,2024-04-18T00:00:00.000,Confiscate,Unknown,Return To Owner,Over The Counter_Arrest,1.0,0,Spring Peak
+Sonoma County Shelter,A423632,Dog,Germ Shepherd,Black/Tan,Spayed,Medium,24,2024-01-03T00:00:00.000,2024-01-03T00:00:00.000,Stray,Unknown,Return To Owner,Fld_Mchip,0.1,0,Winter Standard
+Sonoma County Shelter,A368901,Cat,Domestic Sh,Black/White,Female,Medium,24,2018-02-17T00:00:00.000,2018-02-24T00:00:00.000,Stray,Untreatable,Euthanize,Ill Severe,7.0,0,Winter Standard
+Sonoma County Shelter,A425556,Bird,Chicken,Black,Female,Medium,24,2024-03-28T00:00:00.000,2024-04-19T00:00:00.000,Confiscate,Unknown,Transfer,Westfarm,22.0,0,Spring Peak
+Sonoma County Shelter,A425672,Cat,Domestic Sh,Brn Tabby/White,Neutered,Medium,24,2024-04-04T00:00:00.000,2024-04-19T00:00:00.000,Stray,Healthy,Adoption,Walkin,15.0,0,Spring Peak
+Sonoma County Shelter,A441696,Dog,Pit Bull/Mix,Tan/White,Female,Medium,24,2026-05-10T00:00:00.000,2026-05-18T00:00:00.000,Stray,Unknown,Euthanize,Aggressive,8.0,0,Spring Peak
+Sonoma County Shelter,A423298,Dog,Pit Bull,Black/White,Female,Medium,24,2023-12-14T00:00:00.000,2024-01-30T00:00:00.000,Stray,Unknown,Euthanize,Beh Severe,47.0,1,Winter Standard
+Sonoma County Shelter,A437993,Cat,Domestic Sh,Orange,Neutered,Medium,24,2025-11-05T00:00:00.000,2025-11-13T00:00:00.000,Stray,Unknown,Euthanize,Ill Severe,8.0,0,Fall Moderate
+Sonoma County Shelter,A425907,Cat,Domestic Sh,White,Unknown,Small,24,2024-04-18T00:00:00.000,2024-04-19T00:00:00.000,Owner Surrender,Unknown,Transfer,Petcare,1.0,0,Spring Peak
+Sonoma County Shelter,A425552,Bird,Chicken,Red/Black,Male,Medium,24,2024-03-28T00:00:00.000,2024-04-19T00:00:00.000,Confiscate,Unknown,Transfer,Westfarm,22.0,0,Spring Peak
+Sonoma County Shelter,A425741,Bird,Parakeet,Blue,Male,Medium,24,2024-04-09T00:00:00.000,2024-04-19T00:00:00.000,Stray,Unknown,Transfer,Mickaboo,10.0,0,Spring Peak
+Sonoma County Shelter,A425555,Bird,Chicken,Black,Female,Medium,24,2024-03-28T00:00:00.000,2024-04-19T00:00:00.000,Confiscate,Unknown,Transfer,Westfarm,22.0,0,Spring Peak
+Sonoma County Shelter,A425909,Cat,Domestic Sh,Orange,Unknown,Small,24,2024-04-18T00:00:00.000,2024-04-19T00:00:00.000,Owner Surrender,Unknown,Transfer,Petcare,1.0,0,Spring Peak
+Sonoma County Shelter,A425554,Bird,Chicken,Black,Female,Medium,24,2024-03-28T00:00:00.000,2024-04-19T00:00:00.000,Confiscate,Unknown,Transfer,Westfarm,22.0,0,Spring Peak
+Sonoma County Shelter,A441987,Dog,Belg Malinois,Tan/Black,Spayed,Medium,24,2026-05-24T00:00:00.000,2026-06-30T00:00:00.000,Stray,Healthy,Adoption,Walkin,37.0,1,Spring Peak
+Sonoma County Shelter,A425904,Dog,Siberian Husky/Mix,Gray/White,Male,Medium,24,2024-04-17T00:00:00.000,2024-04-18T00:00:00.000,Confiscate,Unknown,Return To Owner,Over The Counter_Arrest,1.0,0,Spring Peak
+Sonoma County Shelter,A344915,Dog,Pomeranian/Yorkshire Terr,Tan,Neutered,Medium,24,2016-11-10T00:00:00.000,2016-11-19T00:00:00.000,Stray,Healthy,Adoption,Internet,9.0,0,Fall Moderate
+Sonoma County Shelter,A413520,Dog,Pit Bull,Br Brindle/White,Male,Medium,24,2022-10-01T00:00:00.000,2022-10-05T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Web,4.0,0,Fall Moderate
+Sonoma County Shelter,A354179,Cat,Domestic Sh,Brn Tabby,Spayed,Small,24,2017-06-21T00:00:00.000,2017-06-29T00:00:00.000,Stray,Treatable/Rehab,Return To Owner,Commcat,8.0,0,Summer High
+Sonoma County Shelter,A313715,Dog,Chihuahua Sh,Tan,Spayed,Medium,24,2024-02-05T00:00:00.000,2024-02-06T00:00:00.000,Confiscate,Unknown,Return To Owner,Over The Counter_Notice,1.0,0,Winter Standard
+Sonoma County Shelter,A415905,Dog,Maltese/Poodle Min,White,Male,Medium,24,2023-02-28T00:00:00.000,2023-02-28T00:00:00.000,Stray,Unknown,Return To Owner,Fb Other,0.1,0,Winter Standard
+Sonoma County Shelter,A354180,Cat,Domestic Sh,Calico,Spayed,Medium,24,2017-06-21T00:00:00.000,2017-06-29T00:00:00.000,Stray,Treatable/Manageable,Return To Owner,Commcat,8.0,0,Summer High
+Sonoma County Shelter,A443535,Cat,Domestic Sh,Black,Neutered,Small,24,2026-08-06T00:00:00.000,,Stray,Unknown,Unknown,,0.1,0,Summer High
+Sonoma County Shelter,A424245,Dog,Germ Shepherd,Brown/Black,Female,Medium,24,2024-02-06T00:00:00.000,2024-02-06T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Walkin,0.1,0,Winter Standard
+Sonoma County Shelter,A424244,Cat,Domestic Sh,Black,Male,Medium,24,2024-02-05T00:00:00.000,2024-02-06T00:00:00.000,Stray,Unknown,Disposal,Doa,1.0,0,Winter Standard
+Sonoma County Shelter,A354145,Cat,Domestic Sh,White/Black,Neutered,Small,24,2017-06-20T00:00:00.000,2017-06-29T00:00:00.000,Stray,Treatable/Manageable,Return To Owner,Commcat,9.0,0,Summer High
+Sonoma County Shelter,A334445,Dog,Labrador Retr,Black,Spayed,Medium,24,2016-04-29T00:00:00.000,2016-05-17T00:00:00.000,Owner Surrender,Healthy,Transfer,Petluma Pp,18.0,0,Spring Peak
+Sonoma County Shelter,A416721,Dog,Doberman Pinsch,Black/Brown,Neutered,Medium,24,2024-09-06T00:00:00.000,2024-09-24T00:00:00.000,Owner Surrender,Unknown,Euthanize,Aggressive,18.0,0,Fall Moderate
+Sonoma County Shelter,A299387,Dog,Aust Cattle Dog,Red/White,Neutered,Medium,24,2014-09-12T00:00:00.000,2014-10-04T00:00:00.000,Owner Surrender,Treatable/Manageable,Transfer,Herd It,22.0,0,Fall Moderate
+Sonoma County Shelter,A310993,Cat,Domestic Sh,Gray,Spayed,Medium,24,2014-09-02T00:00:00.000,2014-09-04T00:00:00.000,Transfer,Treatable/Manageable,Return To Owner,Over The Counter_Walkin,2.0,0,Fall Moderate
+Sonoma County Shelter,A305604,Dog,Beagle/Chihuahua Sh,White/Tan,Neutered,Medium,24,2015-02-24T00:00:00.000,2015-09-19T00:00:00.000,Adoption Return,Healthy,Adoption,Internet,207.0,1,Winter Standard
+Sonoma County Shelter,A305604,Dog,Beagle/Chihuahua Sh,White/Tan,Neutered,Medium,24,2015-02-05T00:00:00.000,2015-02-21T00:00:00.000,Owner Surrender,Healthy,Adoption,Walkin,16.0,0,Winter Standard
+Sonoma County Shelter,A444428,Cat,Domestic Sh,Lilac Pt/Gray Tabby,Female,Medium,24,2026-09-10T00:00:00.000,,Stray,Unknown,Unknown,,0.1,0,Fall Moderate
+Sonoma County Shelter,A329444,Dog,Labrador Retr,Yellow,Neutered,Medium,24,2015-11-03T00:00:00.000,2015-11-03T00:00:00.000,Stray,Healthy,Return To Owner,Fld_Mchip,0.1,0,Fall Moderate
+Sonoma County Shelter,A415107,Dog,Pit Bull,Brown/White,Spayed,Medium,24,2026-06-24T00:00:00.000,2026-06-30T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Web,6.0,0,Summer High
+Sonoma County Shelter,A288203,Dog,Germ Shepherd/Mix,Brown,Neutered,Medium,24,2024-02-02T00:00:00.000,2024-02-02T00:00:00.000,Stray,Unknown,Return To Owner,Fld_Mchip,0.1,0,Winter Standard
+Sonoma County Shelter,A345634,Dog,Pit Bull/Mix,Tan/White,Neutered,Medium,24,2018-03-10T00:00:00.000,2018-03-10T00:00:00.000,Stray,Unknown,Return To Owner,Fld_Mchip,0.1,0,Spring Peak
+Sonoma County Shelter,A444432,Cat,Domestic Sh,Gray,Male,Small,24,2026-09-10T00:00:00.000,,Stray,Unknown,Unknown,,0.1,0,Fall Moderate
+Sonoma County Shelter,A413397,Cat,Domestic Lh,Gray Tabby,Spayed,Small,24,2022-09-27T00:00:00.000,2022-12-13T00:00:00.000,Stray,Healthy,Adoption,Walkin,77.0,1,Fall Moderate
+Sonoma County Shelter,A354958,Dog,Chihuahua Sh/Mix,White/Tan,Male,Medium,24,2018-02-06T00:00:00.000,2018-02-06T00:00:00.000,Confiscate,Unknown,Return To Owner,Over The Counter_Arrest,0.1,0,Winter Standard
+Sonoma County Shelter,A424148,Wildlife,Bat,Brown,Unknown,Medium,24,2024-01-31T00:00:00.000,2024-02-07T00:00:00.000,Quarantine,Unknown,Transfer,Lab Fra,7.0,0,Winter Standard
+Sonoma County Shelter,A424239,Dog,Poodle Min/Mix,White,Female,Medium,24,2024-02-05T00:00:00.000,2024-02-07T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Web,2.0,0,Winter Standard
+Sonoma County Shelter,A413510,Cat,Domestic Sh,Black/White,Spayed,Small,24,2022-10-01T00:00:00.000,2022-12-13T00:00:00.000,Owner Surrender,Healthy,Adoption,Walkin,73.0,1,Fall Moderate
+Sonoma County Shelter,A425308,Dog,Great Pyrenees/Mix,White/Cream,Spayed,Medium,24,2024-03-17T00:00:00.000,2024-04-20T00:00:00.000,Stray,Unknown,Adoption,Walkin,34.0,1,Spring Peak
+Sonoma County Shelter,A442446,Dog,Aust Cattle Dog,Blue/Tan,Neutered,Medium,24,2026-06-14T00:00:00.000,2026-06-30T00:00:00.000,Stray,Unknown,Adoption,Scas Web,16.0,0,Summer High
+Sonoma County Shelter,A413467,Cat,Domestic Mh,Org Tabby,Neutered,Small,24,2022-09-30T00:00:00.000,2022-10-12T00:00:00.000,Owner Surrender,Unknown,Adoption,Walkin,12.0,0,Fall Moderate
+Sonoma County Shelter,A424288,Wildlife,Bat,Black/Brown,Unknown,Medium,24,2024-02-07T00:00:00.000,2024-02-07T00:00:00.000,Quarantine,Unknown,Euthanize,Fra,0.1,0,Winter Standard
+Sonoma County Shelter,A442100,Cat,Domestic Mh,Brn Tabby,Neutered,Medium,24,2026-05-29T00:00:00.000,2026-06-30T00:00:00.000,Owner Surrender,Unknown,Adoption,Scas Web,32.0,1,Spring Peak
+Sonoma County Shelter,A424040,Cat,Domestic Sh,Black,Neutered,Medium,24,2024-01-25T00:00:00.000,2024-02-07T00:00:00.000,Stray,Treatable/Rehab,Return To Owner,Over The Counter_Web,13.0,0,Winter Standard
+Sonoma County Shelter,A426010,Dog,Labrador Retr/Mix,Black,Male,Medium,24,2024-04-20T00:00:00.000,2024-04-20T00:00:00.000,Stray,Unknown,Euthanize,Ill Severe,0.1,0,Spring Peak
+Sonoma County Shelter,A434977,Cat,Domestic Mh,White/Black,Neutered,Small,24,2025-07-01T00:00:00.000,2025-07-25T00:00:00.000,Stray,Healthy,Adoption,Walkin,24.0,0,Summer High
+Sonoma County Shelter,A434322,Dog,Germ Shepherd,Black,Unknown,Medium,24,2025-06-07T00:00:00.000,2025-06-11T00:00:00.000,Born Here,Unknown,Euthanize,Underagewt,4.0,0,Summer High
+Sonoma County Shelter,A408756,Dog,Germ Shepherd,Brown/Black,Male,Medium,24,2024-04-21T00:00:00.000,2024-04-23T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Web,2.0,0,Spring Peak
+Sonoma County Shelter,A425573,Dog,Pit Bull,Tricolor/Fawn,Female,Medium,24,2024-03-29T00:00:00.000,2024-04-17T00:00:00.000,Stray,Unknown,Euthanize,Aggressive,19.0,0,Spring Peak
+Sonoma County Shelter,A444447,Cat,Domestic Sh,Tortie,Female,Small,24,2026-09-11T00:00:00.000,,Stray,Unknown,Unknown,,0.1,0,Fall Moderate
+Sonoma County Shelter,A414908,Dog,Poodle Min,White,Neutered,Medium,24,2023-01-12T00:00:00.000,2023-02-14T00:00:00.000,Stray,Healthy,Adoption,Scas Web,33.0,1,Winter Standard
+Sonoma County Shelter,A420016,Cat,Domestic Sh,Calico/Brn Tabby,Spayed,Small,24,2023-08-29T00:00:00.000,2023-12-16T00:00:00.000,Stray,Unknown,Adoption,Walkin,109.0,1,Summer High
+Sonoma County Shelter,A423965,Cat,Domestic Sh,Black,Spayed,Small,24,2024-01-20T00:00:00.000,2024-02-08T00:00:00.000,Owner Surrender,Healthy,Adoption,Scas Web,19.0,0,Winter Standard
+Sonoma County Shelter,A414113,Cat,Domestic Sh,Brn Tabby/White,Neutered,Medium,24,2022-11-10T00:00:00.000,2022-12-10T00:00:00.000,Stray,Healthy,Adoption,Walkin,30.0,1,Fall Moderate
+Sonoma County Shelter,A423623,Dog,Germ Shepherd/Mix,Tan/Black,Male,Medium,24,2024-01-02T00:00:00.000,2024-02-08T00:00:00.000,Quarantine,Unknown,Euthanize,Aggressive,37.0,1,Winter Standard
+Sonoma County Shelter,A429180,Dog,Alask Malamute/Mix,Black/White,Neutered,Medium,24,2025-02-13T00:00:00.000,2025-02-22T00:00:00.000,Adoption Return,Unknown,Euthanize,Aggressive,9.0,0,Winter Standard
+Sonoma County Shelter,A424326,Dog,Anatol Shepherd,Fawn/Black,Spayed,Medium,24,2024-02-08T00:00:00.000,2024-02-09T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Call,1.0,0,Winter Standard
+Sonoma County Shelter,A425688,Dog,Dachshund/Mix,Tan/Black,Male,Medium,24,2024-04-06T00:00:00.000,2024-04-23T00:00:00.000,Stray,Unknown,Euthanize,Aggressive,17.0,0,Spring Peak
+Sonoma County Shelter,A305539,Dog,Siberian Husky/Mix,White,Spayed,Medium,24,2024-04-22T00:00:00.000,2024-04-23T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Call,1.0,0,Spring Peak
+Sonoma County Shelter,A425849,Cat,Domestic Sh,Black/White,Male,Medium,24,2024-04-13T00:00:00.000,2024-04-23T00:00:00.000,Stray,Treatable/Manageable,Transfer,Forgotten,10.0,0,Spring Peak
+Sonoma County Shelter,A410926,Dog,Aust Cattle Dog,Gray/Brown,Neutered,Medium,24,2024-04-13T00:00:00.000,2024-04-23T00:00:00.000,Owner Surrender,Unknown,Euthanize,Aggressive,10.0,0,Spring Peak
+Sonoma County Shelter,A424325,Dog,Anatol Shepherd,Fawn/Black,Spayed,Medium,24,2024-02-08T00:00:00.000,2024-02-09T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Call,1.0,0,Winter Standard
+Sonoma County Shelter,A423961,Dog,Aust Cattle Dog/Mix,Black/White,Male,Medium,24,2024-01-20T00:00:00.000,2024-02-09T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Walkin,20.0,0,Winter Standard
+Sonoma County Shelter,A425650,Dog,Am Pit Bull Ter/Labrador Retr,Tan/White,Female,Medium,24,2024-04-03T00:00:00.000,2024-04-23T00:00:00.000,Stray,Unknown,Euthanize,Aggressive,20.0,0,Spring Peak
+Sonoma County Shelter,A425871,Dog,Pit Bull/Mix,Gray/White,Male,Medium,24,2024-04-15T00:00:00.000,2024-04-24T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Web,9.0,0,Spring Peak
+Sonoma County Shelter,A425676,Dog,Pit Bull/Mix,Black/Tan,Female,Medium,24,2024-04-05T00:00:00.000,2024-04-24T00:00:00.000,Stray,Unknown,Euthanize,Beh Severe,19.0,0,Spring Peak
+Sonoma County Shelter,A378486,Dog,Germ Shepherd,Black/Tan,Spayed,Medium,24,2018-10-23T00:00:00.000,2018-10-24T00:00:00.000,Stray,Healthy,Return To Owner,Over The Counter_Web,1.0,0,Fall Moderate
+Sonoma County Shelter,A424392,Dog,Chihuahua Sh,Tan/White,Female,Medium,24,2024-02-10T00:00:00.000,2024-02-10T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Web,0.1,0,Winter Standard
+Sonoma County Shelter,A424387,Dog,Chihuahua Sh,White/Tan,Male,Medium,24,2024-02-09T00:00:00.000,2024-02-10T00:00:00.000,Confiscate,Unknown,Return To Owner,Over The Counter_Arrest,1.0,0,Winter Standard
+Sonoma County Shelter,A425677,Dog,Pit Bull/Mix,Black,Male,Medium,24,2024-04-05T00:00:00.000,2024-04-24T00:00:00.000,Stray,Unknown,Euthanize,Beh Severe,19.0,0,Spring Peak
+Sonoma County Shelter,A424108,Dog,Labrador Retr/Mix,Black/White,Female,Medium,24,2024-01-28T00:00:00.000,2024-02-10T00:00:00.000,Confiscate,Unknown,Euthanize,Aggressive,13.0,0,Winter Standard
+Sonoma County Shelter,A423728,Dog,Germ Shepherd,Tan/Black,Male,Medium,24,2024-01-09T00:00:00.000,2024-02-10T00:00:00.000,Stray,Unknown,Euthanize,Aggressive,32.0,1,Winter Standard
+Sonoma County Shelter,A424388,Dog,Aust Cattle Dog,Black/Tan,Female,Medium,24,2024-02-09T00:00:00.000,2024-02-10T00:00:00.000,Confiscate,Unknown,Return To Owner,Over The Counter_Arrest,1.0,0,Winter Standard
+Sonoma County Shelter,A425515,Dog,Labrador Retr/Mix,Tan/Black,Spayed,Medium,24,2024-03-27T00:00:00.000,2024-04-11T00:00:00.000,Owner Surrender,Healthy,Adoption,Scas Web,15.0,0,Spring Peak
+Sonoma County Shelter,A425319,Dog,Golden Retr/Mix,Gold,Spayed,Medium,24,2024-03-18T00:00:00.000,2024-04-24T00:00:00.000,Stray,Unknown,Adoption,Scas Web,37.0,1,Spring Peak
+Sonoma County Shelter,A424380,Dog,Belg Malinois/Mix,Tan/Black,Male,Medium,24,2024-02-09T00:00:00.000,2024-02-10T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Walkin,1.0,0,Winter Standard
+Sonoma County Shelter,A417171,Dog,Alaskan Husky,White/Gray,Neutered,Medium,24,2023-05-01T00:00:00.000,2024-02-10T00:00:00.000,Stray,Healthy,Adoption,Walkin,285.0,1,Spring Peak
+Sonoma County Shelter,A434392,Cat,Domestic Sh,Orange,Unknown,Medium,24,2025-06-11T00:00:00.000,2025-06-11T00:00:00.000,Stray,Unknown,Disposal,Doa,0.1,0,Summer High
+Sonoma County Shelter,A317365,Dog,Siberian Husky,Red/White,Neutered,Medium,24,2015-02-28T00:00:00.000,2015-03-05T00:00:00.000,Owner Surrender,Healthy,Adoption,Internet,5.0,0,Winter Standard
+Sonoma County Shelter,A423435,Dog,Alaskan Husky,Black/White,Female,Medium,24,2023-12-18T00:00:00.000,2024-02-10T00:00:00.000,Stray,Unknown,Euthanize,Beh Severe,54.0,1,Winter Standard
+Sonoma County Shelter,A422891,Dog,Labrador Retr/Mix,Black,Neutered,Medium,24,2023-12-08T00:00:00.000,2024-02-10T00:00:00.000,Stray,Healthy,Adoption,Scas Web,64.0,1,Winter Standard
+Sonoma County Shelter,A401362,Cat,Domestic Sh,Brn Tabby/White,Neutered,Medium,24,2020-11-12T00:00:00.000,2020-12-18T00:00:00.000,Stray,Unknown,Adoption,Scas Web,36.0,1,Fall Moderate
+Sonoma County Shelter,A381756,Cat,Domestic Sh,Brn Tabby,Neutered,Small,24,2018-12-07T00:00:00.000,2018-12-19T00:00:00.000,Stray,Healthy,Adoption,Walkin,12.0,0,Winter Standard
+Sonoma County Shelter,A424142,Wildlife,Bat,Brown,Unknown,Medium,24,2024-01-30T00:00:00.000,2024-02-11T00:00:00.000,Quarantine,Unknown,Transfer,Lab Fra,12.0,0,Winter Standard
+Sonoma County Shelter,A444430,Cat,Domestic Sh,Gray,Female,Small,24,2026-09-10T00:00:00.000,,Stray,Unknown,Unknown,,0.1,0,Fall Moderate
+Sonoma County Shelter,A424440,Cat,Domestic Sh,White,Spayed,Medium,24,2024-02-13T00:00:00.000,2024-02-13T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Mchip,0.1,0,Winter Standard
+Sonoma County Shelter,A444427,Dog,Chihuahua Lh/Mix,Cream,Spayed,Medium,24,2026-09-10T00:00:00.000,2026-09-11T00:00:00.000,Confiscate,Unknown,Vet,Vet Return To Owner,1.0,0,Fall Moderate
+Sonoma County Shelter,A422770,Dog,Pit Bull,Tan/White,Spayed,Medium,24,2023-12-05T00:00:00.000,2024-02-13T00:00:00.000,Stray,Healthy,Adoption,Walkin,70.0,1,Winter Standard
+Sonoma County Shelter,A424408,Dog,Dachshund,Black/Tan,Female,Medium,24,2024-02-10T00:00:00.000,2024-02-13T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Web,3.0,0,Winter Standard
+Sonoma County Shelter,A424402,Dog,Great Pyrenees,White,Female,Medium,24,2024-02-10T00:00:00.000,2024-02-13T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Web,3.0,0,Winter Standard
+Sonoma County Shelter,A424409,Dog,Pit Bull/Mix,White/Brown,Female,Medium,24,2024-02-10T00:00:00.000,2024-02-13T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Web,3.0,0,Winter Standard
+Sonoma County Shelter,A410260,Livestock,Goat/Pygmy,Tan/White,Female,Medium,24,2022-02-24T00:00:00.000,2022-02-26T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Call,2.0,0,Winter Standard
+Sonoma County Shelter,A410258,Livestock,Goat/Pygmy,Gray,Male,Medium,24,2022-02-24T00:00:00.000,2022-02-26T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Call,2.0,0,Winter Standard
+Sonoma County Shelter,A410259,Livestock,Goat/Pygmy,Tan/White,Female,Medium,24,2022-02-24T00:00:00.000,2022-02-26T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Call,2.0,0,Winter Standard
+Sonoma County Shelter,A424410,Dog,Pit Bull/Mix,Br Brindle,Neutered,Medium,24,2024-02-10T00:00:00.000,2024-02-13T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Web,3.0,0,Winter Standard
+Sonoma County Shelter,A424448,Dog,Labrador Retr,Chocolate,Female,Medium,24,2024-02-13T00:00:00.000,2024-02-13T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Web,0.1,0,Winter Standard
+Sonoma County Shelter,A416320,Dog,Pit Bull/Mix,Black,Neutered,Medium,24,2023-03-22T00:00:00.000,2024-02-12T00:00:00.000,Stray,Unknown,Died,At Vet,327.0,1,Spring Peak
+Sonoma County Shelter,A425948,Dog,Siberian Husky/Mix,White/Tan,Female,Medium,24,2024-04-17T00:00:00.000,2024-04-25T00:00:00.000,Stray,Unknown,Euthanize,Aggressive,8.0,0,Spring Peak
+Sonoma County Shelter,A425856,Dog,Siberian Husky,Cream/Gray,Neutered,Medium,24,2024-04-13T00:00:00.000,2024-04-25T00:00:00.000,Stray,Unknown,Euthanize,Aggressive,12.0,0,Spring Peak
+Sonoma County Shelter,A444426,Dog,Maltese/Mix,Cream,Spayed,Medium,24,2026-09-10T00:00:00.000,2026-09-11T00:00:00.000,Confiscate,Unknown,Vet,Vet Return To Owner,1.0,0,Fall Moderate
+Sonoma County Shelter,A443749,Cat,Domestic Sh,Lynx Pt,Neutered,Small,24,2026-08-14T00:00:00.000,2026-09-11T00:00:00.000,Owner Surrender,Unknown,Adoption,Scas Web,28.0,0,Summer High
+Sonoma County Shelter,A426063,Dog,Labrador Retr,Black,Male,Medium,24,2024-04-25T00:00:00.000,2024-04-25T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Web,0.1,0,Spring Peak
+Sonoma County Shelter,A424497,Cat,Domestic Sh,Black/White,Unknown,Medium,24,2024-02-14T00:00:00.000,2024-02-14T00:00:00.000,Stray,Unknown,Euthanize,Inj Severe,0.1,0,Winter Standard
+Sonoma County Shelter,A375375,Dog,Chihuahua Sh,Tan/White,Neutered,Medium,24,2018-08-14T00:00:00.000,2018-08-15T00:00:00.000,Stray,Healthy,Return To Owner,Over The Counter_Call,1.0,0,Summer High
+Sonoma County Shelter,A396995,Dog,Aust Kelpie/Mix,Blue Merle/Black,Male,Medium,24,2024-02-14T00:00:00.000,2024-02-14T00:00:00.000,Stray,Unknown,Return To Owner,Fld_Prvs,0.1,0,Winter Standard
+Sonoma County Shelter,A418425,Dog,Labrador Retr,Black,Male,Medium,24,2024-02-14T00:00:00.000,2024-02-14T00:00:00.000,Stray,Unknown,Return To Owner,Fld_Mchip,0.1,0,Winter Standard
+Sonoma County Shelter,A426062,Dog,Labrador Retr,White,Male,Medium,24,2024-04-25T00:00:00.000,2024-04-25T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Mchip,0.1,0,Spring Peak
+Sonoma County Shelter,A423991,Dog,Shih Tzu/Mix,White/Gold,Female,Medium,24,2024-01-31T00:00:00.000,2024-02-14T00:00:00.000,Confiscate,Healthy,Return To Owner,Over The Counter_Arrest,14.0,0,Winter Standard
+Sonoma County Shelter,A426052,Cat,Domestic Sh,Gray Tabby,Neutered,Medium,24,2024-04-24T00:00:00.000,2024-04-25T00:00:00.000,Stray,Unknown,Return To Owner,Fld_Mchip,1.0,0,Spring Peak
+Sonoma County Shelter,A425915,Cat,Domestic Sh,Gray/White,Unknown,Medium,24,2024-04-17T00:00:00.000,2024-04-25T00:00:00.000,Stray,Treatable/Manageable,Transfer,Forgotten,8.0,0,Spring Peak
+Sonoma County Shelter,A425954,Cat,Domestic Sh,Brn Tabby,Neutered,Medium,24,2024-04-18T00:00:00.000,2024-04-25T00:00:00.000,Stray,Treatable/Manageable,Adoption,Finder,7.0,0,Spring Peak
+Sonoma County Shelter,A426061,Dog,Pit Bull,Black/White,Neutered,Medium,24,2024-04-25T00:00:00.000,2024-04-25T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Web,0.1,0,Spring Peak
+Sonoma County Shelter,A428433,Dog,American Staff/Mix,Tricolor,Male,Medium,24,2024-09-06T00:00:00.000,2024-09-24T00:00:00.000,Confiscate,Unknown,Return To Owner,Over The Counter_Arrest,18.0,0,Fall Moderate
+Sonoma County Shelter,A424788,Dog,Doberman Pinsch,Fawn/Tan,Spayed,Medium,24,2024-02-23T00:00:00.000,2024-04-25T00:00:00.000,Stray,Unknown,Adoption,Scas Web,62.0,1,Winter Standard
+Sonoma County Shelter,A382673,Dog,Siberian Husky/Mix,Black/Tan,Spayed,Medium,24,2024-02-14T00:00:00.000,2024-02-14T00:00:00.000,Stray,Unknown,Return To Owner,Fld_Mchip,0.1,0,Winter Standard
+Sonoma County Shelter,A426057,Dog,Chihuahua Sh,Tan/Black,Female,Medium,24,2024-04-24T00:00:00.000,2024-04-24T00:00:00.000,Stray,Unknown,Return To Owner,Fld_Mchip,0.1,0,Spring Peak
+Sonoma County Shelter,A426036,Dog,Pit Bull/Mix,Tan/White,Female,Medium,24,2024-04-23T00:00:00.000,2024-04-24T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Web,1.0,0,Spring Peak
+Sonoma County Shelter,A425646,Dog,Poodle Min/Mix,White,Female,Medium,24,2024-04-03T00:00:00.000,2024-04-26T00:00:00.000,Stray,Unknown,Transfer,Dogwood,23.0,0,Spring Peak
+Sonoma County Shelter,A444361,Dog,Pit Bull,Tricolor,Male,Medium,24,2026-09-08T00:00:00.000,2026-09-10T00:00:00.000,Confiscate,Unknown,Shelter,Rp Return To Owner,2.0,0,Fall Moderate
+Sonoma County Shelter,A424969,Dog,Great Pyrenees/Mix,White,Spayed,Medium,24,2024-03-04T00:00:00.000,2024-04-26T00:00:00.000,Stray,Unknown,Adoption,Walkin,53.0,1,Spring Peak
+Sonoma County Shelter,A425860,Dog,Airedale Terr/Mix,Tan,Male,Medium,24,2024-04-13T00:00:00.000,2024-04-26T00:00:00.000,Stray,Unknown,Transfer,Dogwood,13.0,0,Spring Peak
+Sonoma County Shelter,A391768,Cat,Domestic Sh,Black/White,Neutered,Small,24,2019-09-26T00:00:00.000,2019-10-03T00:00:00.000,Owner Surrender,Healthy,Adoption,Scas Web,7.0,0,Fall Moderate
+Sonoma County Shelter,A374864,Dog,Pit Bull,Black,Neutered,Medium,24,2019-12-12T00:00:00.000,2019-12-12T00:00:00.000,Stray,Unknown,Return To Owner,Fld_Mchip,0.1,0,Winter Standard
+Sonoma County Shelter,A424273,Dog,Great Pyrenees,White,Neutered,Medium,24,2024-02-06T00:00:00.000,2024-02-15T00:00:00.000,Quarantine,Healthy,Return To Owner,Over The Counter_Notice,9.0,0,Winter Standard
+Sonoma County Shelter,A425566,Cat,Domestic Sh,Gray Tabby,Spayed,Medium,24,2024-03-28T00:00:00.000,2024-04-27T00:00:00.000,Stray,Healthy,Adoption,Walkin,30.0,1,Spring Peak
+Sonoma County Shelter,A421694,Cat,Siamese,Seal Pt,Female,Small,24,2023-11-02T00:00:00.000,2024-02-15T00:00:00.000,Stray,Unknown,Transfer,Petcare,105.0,1,Fall Moderate
+Sonoma County Shelter,A308329,Dog,Pit Bull,White,Male,Medium,24,2014-06-25T00:00:00.000,2014-06-28T00:00:00.000,Owner Surrender,Healthy,Return To Owner,Over The Counter_Prvs,3.0,0,Summer High
+Sonoma County Shelter,A444431,Cat,Domestic Sh,Gray,Female,Small,24,2026-09-10T00:00:00.000,,Stray,Unknown,Unknown,,0.1,0,Fall Moderate
+Sonoma County Shelter,A426118,Cat,Domestic Sh,White,Male,Medium,24,2024-04-27T00:00:00.000,2024-04-27T00:00:00.000,Stray,Unknown,Euthanize,Con Severe,0.1,0,Spring Peak
+Sonoma County Shelter,A419560,Dog,Germ Shepherd,Tan/Black,Neutered,Medium,24,2023-08-09T00:00:00.000,2024-04-27T00:00:00.000,Stray,Healthy,Adoption,Volunteer,262.0,1,Summer High
+Sonoma County Shelter,A410734,Dog,Germ Shepherd/Mix,Tan/Brown,Spayed,Medium,24,2022-03-27T00:00:00.000,2023-09-12T00:00:00.000,Quarantine,Healthy,Adoption,Scas Web,534.0,1,Spring Peak
+Sonoma County Shelter,A414944,Dog,Belg Malinois/Mix,Br Brindle,Neutered,Medium,24,2020-12-02T00:00:00.000,2020-12-04T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Web,2.0,0,Winter Standard
+Sonoma County Shelter,A425512,Dog,Border Collie,Brown/White,Spayed,Medium,24,2024-03-26T00:00:00.000,2024-04-27T00:00:00.000,Stray,Unknown,Adoption,Walkin,32.0,1,Spring Peak
+Sonoma County Shelter,A414944,Dog,Belg Malinois/Mix,Br Brindle,Neutered,Medium,24,2023-01-13T00:00:00.000,2023-03-07T00:00:00.000,Stray,Healthy,Adoption,Scas Web,53.0,1,Winter Standard
+Sonoma County Shelter,A346511,Dog,Aust Shepherd/Mix,Black/Brown,Neutered,Medium,24,2016-12-22T00:00:00.000,2017-05-30T00:00:00.000,Stray,Treatable/Rehab,Adoption,Referral-V,159.0,1,Winter Standard
+Sonoma County Shelter,A410734,Dog,Germ Shepherd/Mix,Tan/Brown,Spayed,Medium,24,2023-09-21T00:00:00.000,2023-12-29T00:00:00.000,Adoption Return,Unknown,Adoption,Oth_Media,99.0,1,Fall Moderate
+Sonoma County Shelter,A422400,Dog,Germ Shepherd,Tan/Black,Neutered,Medium,24,2023-11-25T00:00:00.000,2024-02-16T00:00:00.000,Stray,Unknown,Adoption,Scas Web,83.0,1,Fall Moderate
+Sonoma County Shelter,A424433,Cat,Domestic Sh,White/Gray,Unknown,Medium,24,2024-02-11T00:00:00.000,2024-02-16T00:00:00.000,Stray,Unknown,Vet,Vet Return To Owner,5.0,0,Winter Standard
+Sonoma County Shelter,A444354,Cat,Domestic Sh,Black/White,Male,Medium,24,2026-09-08T00:00:00.000,,Stray,Unknown,Unknown,,0.1,0,Fall Moderate
+Sonoma County Shelter,A414179,Dog,Chihuahua Sh/Mix,White/Tan,Male,Medium,24,2024-02-16T00:00:00.000,2024-02-17T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Call,1.0,0,Winter Standard
+Sonoma County Shelter,A424571,Dog,Siberian Husky/Labrador Retr,Cream,Female,Medium,24,2024-02-16T00:00:00.000,2024-02-17T00:00:00.000,Confiscate,Unknown,Return To Owner,Over The Counter_Arrest,1.0,0,Winter Standard
+Sonoma County Shelter,A443584,Cat,Domestic Sh,Gray,Male,Small,24,2026-08-08T00:00:00.000,,Stray,Unknown,Unknown,,0.1,0,Summer High
+Sonoma County Shelter,A424585,Cat,Bengal/Amer Curl Sh,Brn Tabby,Male,Medium,24,2024-02-16T00:00:00.000,2024-02-17T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Mchip,1.0,0,Winter Standard
+Sonoma County Shelter,A426131,Dog,Rottweiler,Black/Brown,Female,Medium,24,2024-04-29T00:00:00.000,2024-04-29T00:00:00.000,Stray,Unknown,Return To Owner,Fld_Prvs,0.1,0,Spring Peak
+Sonoma County Shelter,A425959,Reptile,Lizard,Brown,Unknown,Medium,24,2024-04-18T00:00:00.000,2024-04-29T00:00:00.000,Stray,Unknown,Transfer,Reptile,11.0,0,Spring Peak
+Sonoma County Shelter,A355896,Cat,Siamese,Seal Pt,Neutered,Medium,24,2017-07-22T00:00:00.000,2017-07-22T00:00:00.000,Stray,Untreatable,Euthanize,Ill Severe,0.1,0,Summer High
+Sonoma County Shelter,A426004,Cat,Domestic Lh,Brn Tabby,Neutered,Medium,24,2024-04-20T00:00:00.000,2024-04-29T00:00:00.000,Stray,Unknown,Euthanize,Con Severe,9.0,0,Spring Peak
+Sonoma County Shelter,A425328,Dog,Germ Shepherd,Brown/Black,Male,Medium,24,2024-03-19T00:00:00.000,2024-04-29T00:00:00.000,Stray,Unknown,Euthanize,Aggressive,41.0,1,Spring Peak
+Sonoma County Shelter,A425196,Dog,Pit Bull,White/Brown,Female,Medium,24,2024-03-13T00:00:00.000,2024-04-29T00:00:00.000,Stray,Unknown,Euthanize,Aggressive,47.0,1,Spring Peak
+Sonoma County Shelter,A384043,Dog,Siberian Husky,Black/Gray,Female,Medium,24,2024-04-29T00:00:00.000,2024-04-29T00:00:00.000,Stray,Unknown,Return To Owner,Fld_Mchip,0.1,0,Spring Peak
+Sonoma County Shelter,A423557,Dog,Pit Bull/Mix,Br Brindle/White,Female,Medium,24,2023-12-26T00:00:00.000,2024-02-20T00:00:00.000,Stray,Unknown,Euthanize,Aggressive,56.0,1,Winter Standard
+Sonoma County Shelter,A415021,Dog,Pekingese/Chihuahua Sh,Br Brindle,Spayed,Medium,24,2023-01-17T00:00:00.000,2023-02-25T00:00:00.000,Stray,Healthy,Adoption,Scas Web,39.0,1,Winter Standard
+Sonoma County Shelter,A424618,Dog,Germ Shepherd,Tan/Black,Male,Medium,24,2024-02-18T00:00:00.000,2024-02-20T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Notice,2.0,0,Winter Standard
+Sonoma County Shelter,A267440,Dog,Pomeranian,Fawn,Neutered,Medium,24,2024-02-14T00:00:00.000,2024-02-20T00:00:00.000,Confiscate,Unknown,Return To Owner,Over The Counter_Prvs,6.0,0,Winter Standard
+Sonoma County Shelter,A423942,Dog,Aust Cattle Dog/Labrador Retr,Tan/White,Male,Medium,24,2024-01-19T00:00:00.000,2024-02-20T00:00:00.000,Owner Surrender,Unknown,Euthanize,Beh Severe,32.0,1,Winter Standard
+Sonoma County Shelter,A423940,Dog,Aust Cattle Dog/Labrador Retr,Tan/White,Male,Medium,24,2024-01-19T00:00:00.000,2024-02-20T00:00:00.000,Owner Surrender,Unknown,Euthanize,Beh Severe,32.0,1,Winter Standard
+Sonoma County Shelter,A432206,Dog,Germ Shepherd,Tan/Black,Male,Medium,24,2025-02-22T00:00:00.000,2025-02-22T00:00:00.000,Confiscate,Unknown,Return To Owner,Over The Counter_Notice,0.1,0,Winter Standard
+Sonoma County Shelter,A390780,Cat,Domestic Sh,Tortie/White,Spayed,Medium,24,2019-08-20T00:00:00.000,2019-09-19T00:00:00.000,Stray,Treatable/Rehab,Adoption,Scas Web,30.0,1,Summer High
+Sonoma County Shelter,A330929,Dog,Pug/Beagle,Tan,Spayed,Medium,24,2015-12-15T00:00:00.000,2015-12-15T00:00:00.000,Stray,Healthy,Return To Owner,Fld_Prvs,0.1,0,Winter Standard
+Sonoma County Shelter,A426135,Cat,Domestic Mh,Orange/White,Neutered,Medium,24,2024-04-29T00:00:00.000,2024-04-30T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Web,1.0,0,Spring Peak
+Sonoma County Shelter,A362459,Cat,Bengal,Brn Tabby,Neutered,Medium,24,2017-10-10T00:00:00.000,2017-10-10T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Prvs,0.1,0,Fall Moderate
+Sonoma County Shelter,A375939,Dog,Siberian Husky,Black/White,Neutered,Medium,24,2018-09-11T00:00:00.000,2018-10-13T00:00:00.000,Stray,Healthy,Adoption,Walkin,32.0,1,Fall Moderate
+Sonoma County Shelter,A424008,Cat,Siamese,Seal Pt,Male,Medium,24,2024-01-23T00:00:00.000,2024-02-21T00:00:00.000,Stray,Unknown,Transfer,Forgotten,29.0,0,Winter Standard
+Sonoma County Shelter,A344678,Dog,Pit Bull,Blue,Male,Medium,24,2016-10-29T00:00:00.000,2016-11-01T00:00:00.000,Stray,Healthy,Return To Owner,Over The Counter_Walkin,3.0,0,Fall Moderate
+Sonoma County Shelter,A400813,Dog,Beagle/Mix,Tan/White,Neutered,Medium,24,2018-09-27T00:00:00.000,2018-10-03T00:00:00.000,Stray,Healthy,Return To Owner,Over The Counter_Mchip,6.0,0,Fall Moderate
+Sonoma County Shelter,A400156,Cat,Manx/Mix,Brn Tabby,Neutered,Small,24,2020-08-28T00:00:00.000,2020-11-03T00:00:00.000,Stray,Unknown,Adoption,Referral-O,67.0,1,Summer High
+Sonoma County Shelter,A418979,Dog,Dachshund/Poodle Min,Tan,Neutered,Medium,24,2023-07-12T00:00:00.000,2023-08-29T00:00:00.000,Owner Surrender,Treatable/Manageable,Adoption,Scas Web,48.0,1,Summer High
+Sonoma County Shelter,A439994,Dog,Norwich Terrier/Mix,Tan/Gray,Neutered,Medium,24,2026-06-23T00:00:00.000,2026-06-27T00:00:00.000,Confiscate,Unknown,Return To Owner,Over The Counter_Web,4.0,0,Summer High
+Sonoma County Shelter,A444436,Dog,Germ Shepherd,Black/Brown,Male,Medium,24,2026-09-11T00:00:00.000,,Stray,Unknown,Unknown,,0.1,0,Fall Moderate
+Sonoma County Shelter,A424467,Dog,Chihuahua Sh/Pug,Tan,Male,Medium,24,2024-02-13T00:00:00.000,2024-02-21T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Web,8.0,0,Winter Standard
+Sonoma County Shelter,A424161,Dog,Pit Bull/Mix,Br Brindle/White,Female,Medium,24,2024-01-31T00:00:00.000,2024-02-21T00:00:00.000,Stray,Unknown,Euthanize,Aggressive,21.0,0,Winter Standard
+Sonoma County Shelter,A426139,Dog,Doberman Pinsch,Brown/Red,Spayed,Medium,24,2024-04-30T00:00:00.000,2024-04-30T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Web,0.1,0,Spring Peak
+Sonoma County Shelter,A442108,Rabbit,Rabbit Lh,White,Neutered,Medium,24,2026-05-29T00:00:00.000,2026-06-27T00:00:00.000,Stray,Unknown,Transfer,Saveabunny,29.0,0,Spring Peak
+Sonoma County Shelter,A423453,Cat,Domestic Sh,Brn Tabby/White,Female,Medium,24,2023-12-19T00:00:00.000,2024-02-21T00:00:00.000,Stray,Unknown,Transfer,Forgotten,64.0,1,Winter Standard
+Sonoma County Shelter,A442939,Cat,Domestic Sh,Black,Neutered,Small,24,2026-07-03T00:00:00.000,,Stray,Unknown,Unknown,,0.1,0,Summer High
+Sonoma County Shelter,A444434,Cat,Persian,Orange,Male,Medium,24,2026-09-11T00:00:00.000,2026-09-11T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Call,0.1,0,Fall Moderate
+Sonoma County Shelter,A431028,Dog,Great Pyrenees/Mix,White,Spayed,Medium,24,2025-01-06T00:00:00.000,2025-02-22T00:00:00.000,Stray,Healthy,Adoption,Scas Web,47.0,1,Winter Standard
+Sonoma County Shelter,A393509,Cat,Domestic Sh,Brn Tabby/White,Neutered,Small,24,2019-11-05T00:00:00.000,2019-11-09T00:00:00.000,Owner Surrender,Healthy,Adoption,Walkin,4.0,0,Fall Moderate
+Sonoma County Shelter,A424221,Cat,Domestic Sh,Tortie/Calico,Female,Medium,24,2024-02-03T00:00:00.000,2024-02-22T00:00:00.000,Stray,Unknown,Transfer,Ebspca,19.0,0,Winter Standard
+Sonoma County Shelter,A424042,Cat,Domestic Lh,Black,Female,Medium,24,2024-01-25T00:00:00.000,2024-02-22T00:00:00.000,Stray,Unknown,Transfer,Ebspca,28.0,0,Winter Standard
+Sonoma County Shelter,A425627,Dog,Germ Shepherd/Mix,Tricolor,Spayed,Medium,24,2024-04-02T00:00:00.000,2024-04-30T00:00:00.000,Stray,Healthy,Adoption,Walkin,28.0,0,Spring Peak
+Sonoma County Shelter,A304100,Dog,Welsh Corgi Pem/Mix,Tan/White,Spayed,Medium,24,2014-03-17T00:00:00.000,2014-03-18T00:00:00.000,Stray,Healthy,Return To Owner,Return To Owner,1.0,0,Spring Peak
+Sonoma County Shelter,A352231,Dog,Pit Bull,Tan/White,Male,Medium,24,2017-05-03T00:00:00.000,2017-05-03T00:00:00.000,Stray,Healthy,Return To Owner,Over The Counter_Mchip,0.1,0,Spring Peak
+Sonoma County Shelter,A424077,Cat,Domestic Sh,Brn Tabby/White,Female,Medium,24,2024-01-27T00:00:00.000,2024-02-22T00:00:00.000,Stray,Unknown,Transfer,Ebspca,26.0,0,Winter Standard
+Sonoma County Shelter,A365306,Dog,Alask Malamute,White/Black,Female,Medium,24,2017-12-05T00:00:00.000,2017-12-05T00:00:00.000,Stray,Healthy,Return To Owner,Fld_Idtag,0.1,0,Winter Standard
+Sonoma County Shelter,A424363,Cat,Domestic Sh,Brn Tabby/White,Female,Medium,24,2024-02-09T00:00:00.000,2024-02-22T00:00:00.000,Confiscate,Unknown,Transfer,Ebspca,13.0,0,Winter Standard
+Sonoma County Shelter,A442540,Dog,Labrador Retr/Mix,Black,Female,Medium,24,2026-06-18T00:00:00.000,2026-06-26T00:00:00.000,Stray,Unknown,Died,At Vet,8.0,0,Summer High
+Sonoma County Shelter,A424560,Cat,Domestic Sh,Brn Tabby/White,Female,Medium,24,2024-02-16T00:00:00.000,2024-02-22T00:00:00.000,Stray,Unknown,Transfer,Ebspca,6.0,0,Winter Standard
+Sonoma County Shelter,A422917,Bird,Chicken,Black/Red,Male,Medium,24,2023-12-08T00:00:00.000,2024-02-22T00:00:00.000,Confiscate,Unknown,Transfer,Westfarm,76.0,1,Winter Standard
+Sonoma County Shelter,A387144,Dog,Siberian Husky/Mix,Black/White,Neutered,Medium,24,2026-06-17T00:00:00.000,2026-06-27T00:00:00.000,Quarantine,Unknown,Return To Owner,Over The Counter_Notice,10.0,0,Summer High
+Sonoma County Shelter,A334649,Dog,Labrador Retr/Aust Kelpie,Tan/White,Spayed,Medium,24,2024-02-21T00:00:00.000,2024-02-22T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Web,1.0,0,Winter Standard
+Sonoma County Shelter,A436263,Dog,Aust Cattle Dog,Tricolor,Neutered,Medium,24,2026-05-06T00:00:00.000,2026-06-27T00:00:00.000,Owner Surrender,Unknown,Adoption,Walkin,52.0,1,Spring Peak
+Sonoma County Shelter,A422916,Bird,Chicken,Black/Red,Male,Medium,24,2023-12-08T00:00:00.000,2024-02-22T00:00:00.000,Confiscate,Unknown,Transfer,Westfarm,76.0,1,Winter Standard
+Sonoma County Shelter,A423791,Dog,Border Collie,Red/White,Male,Medium,24,2024-01-12T00:00:00.000,2024-02-22T00:00:00.000,Stray,Unknown,Euthanize,Aggressive,41.0,1,Winter Standard
+Sonoma County Shelter,A424719,Dog,Chihuahua Sh/Mix,Black/Tan,Female,Medium,24,2024-02-21T00:00:00.000,2024-02-22T00:00:00.000,Confiscate,Unknown,Return To Owner,Medical,1.0,0,Winter Standard
+Sonoma County Shelter,A422914,Bird,Chicken,Black/Red,Male,Medium,24,2023-12-08T00:00:00.000,2024-02-22T00:00:00.000,Confiscate,Unknown,Transfer,Westfarm,76.0,1,Winter Standard
+Sonoma County Shelter,A442268,Dog,Poodle Min/Mix,White,Spayed,Medium,24,2026-06-06T00:00:00.000,2026-06-27T00:00:00.000,Stray,Unknown,Adoption,Scas Web,21.0,0,Summer High
+Sonoma County Shelter,A424362,Cat,Domestic Sh,Brn Tabby,Female,Medium,24,2024-02-09T00:00:00.000,2024-02-22T00:00:00.000,Confiscate,Unknown,Transfer,Ebspca,13.0,0,Winter Standard
+Sonoma County Shelter,A422919,Bird,Chicken,Black,Female,Medium,24,2023-12-08T00:00:00.000,2024-02-22T00:00:00.000,Confiscate,Unknown,Transfer,Westfarm,76.0,1,Winter Standard
+Sonoma County Shelter,A424718,Dog,Yorkshire Terr/Mix,Tan,Female,Medium,24,2024-02-21T00:00:00.000,2024-02-22T00:00:00.000,Confiscate,Unknown,Return To Owner,Medical,1.0,0,Winter Standard
+Sonoma County Shelter,A422918,Bird,Chicken,Black/Red,Male,Medium,24,2023-12-08T00:00:00.000,2024-02-22T00:00:00.000,Confiscate,Unknown,Transfer,Westfarm,76.0,1,Winter Standard
+Sonoma County Shelter,A423877,Cat,Snowshoe,Lilac Pt/White,Neutered,Medium,24,2024-01-17T00:00:00.000,2024-02-22T00:00:00.000,Stray,Healthy,Adoption,Walkin,36.0,1,Winter Standard
+Sonoma County Shelter,A423960,Bird,Chicken,Red,Female,Medium,24,2024-01-20T00:00:00.000,2024-02-22T00:00:00.000,Stray,Unknown,Transfer,Westfarm,33.0,1,Winter Standard
+Sonoma County Shelter,A424381,Cat,Domestic Sh,Brn Tabby/White,Female,Medium,24,2024-02-09T00:00:00.000,2024-02-22T00:00:00.000,Stray,Unknown,Transfer,Ebspca,13.0,0,Winter Standard
+Sonoma County Shelter,A424720,Other,Cockatoo,White/Yellow,Male,Medium,24,2024-02-21T00:00:00.000,2024-02-22T00:00:00.000,Confiscate,Unknown,Return To Owner,Medical,1.0,0,Winter Standard
+Sonoma County Shelter,A424371,Dog,Bull Terrier,White,Female,Medium,24,2024-02-09T00:00:00.000,2024-02-22T00:00:00.000,Stray,Unknown,Euthanize,Aggressive,13.0,0,Winter Standard
+Sonoma County Shelter,A422502,Dog,Labrador Retr/Mix,Tan,Neutered,Medium,24,2024-04-29T00:00:00.000,2024-04-30T00:00:00.000,Stray,Unknown,Return To Owner,Fld_Mchip,1.0,0,Spring Peak
+Sonoma County Shelter,A426926,Cat,Domestic Sh,Brn Tabby,Spayed,Small,24,2024-06-04T00:00:00.000,2024-08-13T00:00:00.000,Stray,Healthy,Adoption,Walkin,70.0,1,Summer High
+Sonoma County Shelter,A424119,Dog,Border Collie/Mix,Black/White,Female,Medium,24,2024-04-30T00:00:00.000,2024-05-01T00:00:00.000,Confiscate,Unknown,Return To Owner,Over The Counter_Arrest,1.0,0,Spring Peak
+Sonoma County Shelter,A442260,Cat,Domestic Sh,Gray Tabby,Female,Small,24,2026-06-05T00:00:00.000,2026-06-06T00:00:00.000,Stray,Unknown,Transfer,Petluma Pp,1.0,0,Summer High
+Sonoma County Shelter,A425567,Cat,Domestic Sh,Black,Spayed,Medium,24,2024-03-28T00:00:00.000,2024-05-01T00:00:00.000,Stray,Unknown,Adoption,Oth_Media,34.0,1,Spring Peak
+Sonoma County Shelter,A442245,Dog,Chihuahua Sh,Black/Tan,Spayed,Medium,24,2026-06-05T00:00:00.000,2026-06-27T00:00:00.000,Confiscate,Unknown,Adoption,Scas Web,22.0,0,Summer High
+Sonoma County Shelter,A419202,Dog,Parson Russ Ter/Mix,White/Br Brindle,Spayed,Medium,24,2023-07-21T00:00:00.000,2023-08-24T00:00:00.000,Stray,Unknown,Adoption,Scas Web,34.0,1,Summer High
+Sonoma County Shelter,A413520,Dog,Pit Bull,Br Brindle/White,Male,Medium,24,2024-02-05T00:00:00.000,2024-02-22T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Call,17.0,0,Winter Standard
+Sonoma County Shelter,A423636,Dog,Min Pinscher,Fawn,Spayed,Medium,24,2024-01-03T00:00:00.000,2024-02-10T00:00:00.000,Stray,Healthy,Adoption,Walkin,38.0,1,Winter Standard
+Sonoma County Shelter,A424347,Dog,Cocker Span/Mix,White/Black,Male,Medium,24,2024-02-08T00:00:00.000,2024-02-23T00:00:00.000,Stray,Unknown,Transfer,Rp Shelter,15.0,0,Winter Standard
+Sonoma County Shelter,A444414,Dog,Border Collie,Black/White,Male,Medium,24,2026-09-10T00:00:00.000,2026-09-11T00:00:00.000,Stray,Unknown,Shelter,Rp Return To Owner,1.0,0,Fall Moderate
+Sonoma County Shelter,A424774,Wildlife,Bat,Brown,Unknown,Medium,24,2024-02-23T00:00:00.000,2024-02-23T00:00:00.000,Quarantine,Unknown,Euthanize,Fra,0.1,0,Winter Standard
+Sonoma County Shelter,A304915,Dog,Harrier,Black/White,Neutered,Medium,24,2024-02-22T00:00:00.000,2024-02-23T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Call,1.0,0,Winter Standard
+Sonoma County Shelter,A444360,Dog,Pit Bull,Tan,Male,Medium,24,2026-09-08T00:00:00.000,2026-09-10T00:00:00.000,Confiscate,Unknown,Shelter,Rp Return To Owner,2.0,0,Fall Moderate
+Sonoma County Shelter,A424614,Dog,Labrador Retr,Black,Female,Medium,24,2024-02-17T00:00:00.000,2024-02-23T00:00:00.000,Stray,Unknown,Transfer,Rp Shelter,6.0,0,Winter Standard
+Sonoma County Shelter,A424636,Dog,Belg Malinois,Brown/Black,Female,Medium,24,2024-02-20T00:00:00.000,2024-02-23T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Mchip,3.0,0,Winter Standard
+Sonoma County Shelter,A434320,Dog,Germ Shepherd,Black,Unknown,Medium,24,2025-06-07T00:00:00.000,2025-06-11T00:00:00.000,Born Here,Unknown,Euthanize,Underagewt,4.0,0,Summer High
+Sonoma County Shelter,A423745,Dog,Pit Bull/Mix,Tan,Female,Medium,24,2024-01-10T00:00:00.000,2024-02-24T00:00:00.000,Confiscate,Unknown,Transfer,Marin Hs,45.0,1,Winter Standard
+Sonoma County Shelter,A424681,Dog,Labrador Retr/Doberman Pinsch,Yellow,Female,Medium,24,2024-02-20T00:00:00.000,2024-02-24T00:00:00.000,Stray,Unknown,Transfer,Gg Lab Res,4.0,0,Winter Standard
+Sonoma County Shelter,A423669,Dog,Germ Shepherd,Black/Tan,Female,Medium,24,2024-01-04T00:00:00.000,2024-02-24T00:00:00.000,Stray,Unknown,Euthanize,Aggressive,51.0,1,Winter Standard
+Sonoma County Shelter,A424111,Dog,Shih Tzu/Mix,White/Black,Male,Medium,24,2024-01-28T00:00:00.000,2024-02-24T00:00:00.000,Stray,Unknown,Transfer,Dogwood,27.0,0,Winter Standard
+Sonoma County Shelter,A424778,Dog,Siberian Husky,Gray/White,Female,Medium,24,2024-02-23T00:00:00.000,2024-02-24T00:00:00.000,Confiscate,Unknown,Return To Owner,Over The Counter_Arrest,1.0,0,Winter Standard
+Sonoma County Shelter,A424780,Dog,Siberian Husky,Gray/White,Female,Medium,24,2024-02-23T00:00:00.000,2024-02-24T00:00:00.000,Confiscate,Unknown,Return To Owner,Over The Counter_Arrest,1.0,0,Winter Standard
+Sonoma County Shelter,A424349,Dog,Queensland Heel,Red/White,Spayed,Medium,24,2024-02-08T00:00:00.000,2024-02-24T00:00:00.000,Stray,Unknown,Transfer,Marin Hs,16.0,0,Winter Standard
+Sonoma County Shelter,A422317,Dog,Aust Cattle Dog,Tricolor,Spayed,Medium,24,2023-12-07T00:00:00.000,2024-02-24T00:00:00.000,Confiscate,Unknown,Adoption,Scas Web,79.0,1,Winter Standard
+Sonoma County Shelter,A424473,Dog,Rottweiler/Mix,Red/Black,Female,Medium,24,2024-02-13T00:00:00.000,2024-02-24T00:00:00.000,Stray,Unknown,Transfer,Marin Hs,11.0,0,Winter Standard
+Sonoma County Shelter,A424679,Dog,Labrador Retr/Doberman Pinsch,Black,Female,Medium,24,2024-02-20T00:00:00.000,2024-02-24T00:00:00.000,Stray,Unknown,Transfer,Gg Lab Res,4.0,0,Winter Standard
+Sonoma County Shelter,A416269,Dog,Welsh Corgi Pem/Mix,Brown,Neutered,Medium,24,2024-05-01T00:00:00.000,2024-05-02T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Walkin,1.0,0,Spring Peak
+Sonoma County Shelter,A424725,Cat,Domestic Sh,Black/White,Neutered,Medium,24,2024-02-21T00:00:00.000,2024-02-24T00:00:00.000,Confiscate,Unknown,Return To Owner,Over The Counter_Walkin,3.0,0,Winter Standard
+Sonoma County Shelter,A434321,Dog,Germ Shepherd,Black,Unknown,Medium,24,2025-06-07T00:00:00.000,2025-06-11T00:00:00.000,Born Here,Unknown,Euthanize,Underagewt,4.0,0,Summer High
+Sonoma County Shelter,A424680,Dog,Labrador Retr/Doberman Pinsch,Tan/Black,Male,Medium,24,2024-02-20T00:00:00.000,2024-02-24T00:00:00.000,Stray,Unknown,Transfer,Gg Lab Res,4.0,0,Winter Standard
+Sonoma County Shelter,A424229,Dog,Siberian Husky,Black/White,Female,Medium,24,2024-02-03T00:00:00.000,2024-02-24T00:00:00.000,Stray,Unknown,Transfer,Marin Hs,21.0,0,Winter Standard
+Sonoma County Shelter,A424678,Dog,Labrador Retr/Doberman Pinsch,Chocolate,Female,Medium,24,2024-02-20T00:00:00.000,2024-02-24T00:00:00.000,Stray,Unknown,Transfer,Gg Lab Res,4.0,0,Winter Standard
+Sonoma County Shelter,A424110,Dog,Shih Tzu/Mix,Black/White,Male,Medium,24,2024-01-28T00:00:00.000,2024-02-24T00:00:00.000,Stray,Unknown,Transfer,Dogwood,27.0,0,Winter Standard
+Sonoma County Shelter,A424112,Dog,Shih Tzu,White,Male,Medium,24,2024-01-28T00:00:00.000,2024-02-24T00:00:00.000,Stray,Unknown,Transfer,Dogwood,27.0,0,Winter Standard
+Sonoma County Shelter,A424475,Dog,Rottweiler/Mix,Red/Black,Female,Medium,24,2024-02-13T00:00:00.000,2024-02-24T00:00:00.000,Stray,Unknown,Transfer,Marin Hs,11.0,0,Winter Standard
+Sonoma County Shelter,A424210,Dog,Maltese/Mix,Tan,Male,Medium,24,2024-02-02T00:00:00.000,2024-02-24T00:00:00.000,Stray,Unknown,Transfer,Marin Hs,22.0,0,Winter Standard
+Sonoma County Shelter,A424779,Dog,Siberian Husky,Gray/White,Female,Medium,24,2024-02-23T00:00:00.000,2024-02-24T00:00:00.000,Confiscate,Unknown,Return To Owner,Over The Counter_Arrest,1.0,0,Winter Standard
+Sonoma County Shelter,A441277,Dog,Belg Malinois,Brown/Black,Female,Medium,24,2026-05-02T00:00:00.000,2026-05-18T00:00:00.000,Confiscate,Unknown,Euthanize,Beh Severe,16.0,0,Spring Peak
+Sonoma County Shelter,A424682,Dog,Labrador Retr/Doberman Pinsch,Black,Female,Medium,24,2024-02-20T00:00:00.000,2024-02-24T00:00:00.000,Stray,Unknown,Transfer,Gg Lab Res,4.0,0,Winter Standard
+Sonoma County Shelter,A426190,Dog,Alaskan Husky,White,Female,Medium,24,2024-05-01T00:00:00.000,2024-05-02T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Web,1.0,0,Spring Peak
+Sonoma County Shelter,A426191,Dog,Alaskan Husky,White,Male,Medium,24,2024-05-01T00:00:00.000,2024-05-02T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Web,1.0,0,Spring Peak
+Sonoma County Shelter,A428429,Dog,Dutch Shepherd/Mix,Bl Brindle,Female,Medium,24,2024-08-14T00:00:00.000,2024-09-24T00:00:00.000,Stray,Unknown,Euthanize,Aggressive,41.0,1,Summer High
+Sonoma County Shelter,A442096,Cat,Domestic Sh,Black/White,Neutered,Medium,24,2026-05-29T00:00:00.000,2026-06-27T00:00:00.000,Owner Surrender,Unknown,Adoption,Volunteer,29.0,0,Spring Peak
+Sonoma County Shelter,A428547,Bird,Chicken,Brown,Male,Medium,24,2024-08-21T00:00:00.000,2024-09-24T00:00:00.000,Confiscate,Unknown,Escaped/Stolen,Unk Missng,34.0,1,Summer High
+Sonoma County Shelter,A357087,Dog,Germ Shepherd,Tan,Neutered,Medium,24,2024-09-19T00:00:00.000,2024-09-24T00:00:00.000,Confiscate,Unknown,Return To Owner,Over The Counter_Walkin,5.0,0,Fall Moderate
+Sonoma County Shelter,A429194,Dog,Siberian Husky,Black/White,Spayed,Medium,24,2024-09-24T00:00:00.000,2024-09-24T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Mchip,0.1,0,Fall Moderate
+Sonoma County Shelter,A441699,Dog,Pit Bull,Tan,Spayed,Medium,24,2026-06-26T00:00:00.000,2026-06-27T00:00:00.000,Adoption Return,Unknown,Adoption,Scas Web,1.0,0,Summer High
+Sonoma County Shelter,A428025,Dog,American Staff,White/Brown,Neutered,Medium,24,2024-07-25T00:00:00.000,2024-09-24T00:00:00.000,Stray,Healthy,Adoption,Walkin,61.0,1,Summer High
+Sonoma County Shelter,A425682,Dog,Aust Cattle Dog/Mix,Black/White,Neutered,Medium,24,2024-04-05T00:00:00.000,2024-05-03T00:00:00.000,Stray,Healthy,Adoption,Scas Web,28.0,0,Spring Peak
+Sonoma County Shelter,A425440,Dog,Aust Cattle Dog,Blue/Tan,Neutered,Medium,24,2024-03-22T00:00:00.000,2024-03-28T00:00:00.000,Confiscate,Unknown,Rtos,Sover The Counter,6.0,0,Spring Peak
+Sonoma County Shelter,A434366,Dog,Siberian Husky,White,Neutered,Medium,24,2025-06-10T00:00:00.000,2025-06-11T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Notice,1.0,0,Summer High
+Sonoma County Shelter,A429174,Wildlife,Bat,Brown,Unknown,Medium,24,2024-09-21T00:00:00.000,2024-09-24T00:00:00.000,Quarantine,Unknown,Transfer,Lab Fra,3.0,0,Fall Moderate
+Sonoma County Shelter,A433420,Bird,Chicken,Red/Black,Female,Medium,24,2025-04-20T00:00:00.000,2025-05-05T00:00:00.000,Confiscate,Unknown,Transfer,Westfarm,15.0,0,Spring Peak
+Sonoma County Shelter,A426224,Dog,Pomeranian,Black/Brown,Male,Medium,24,2024-05-03T00:00:00.000,2024-05-03T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Walkin,0.1,0,Spring Peak
+Sonoma County Shelter,A418692,Dog,Pit Bull,Tan,Male,Medium,24,2024-04-07T00:00:00.000,2024-04-10T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Walkin,3.0,0,Spring Peak
+Sonoma County Shelter,A426030,Cat,Siamese,Lilac Pt,Neutered,Medium,24,2024-04-23T00:00:00.000,2024-05-03T00:00:00.000,Stray,Healthy,Return To Owner,Over The Counter_Web,10.0,0,Spring Peak
+Sonoma County Shelter,A426194,Cat,Domestic Lh,Org Tabby,Male,Medium,24,2024-05-01T00:00:00.000,2024-05-03T00:00:00.000,Stray,Unknown,Euthanize,Ill Severe,2.0,0,Spring Peak
+Sonoma County Shelter,A424089,Bird,Pigeon,White,Unknown,Medium,24,2024-01-27T00:00:00.000,2024-02-27T00:00:00.000,Stray,Unknown,Transfer,Marin Hs,31.0,1,Winter Standard
+Sonoma County Shelter,A424661,Dog,Germ Shepherd/Mix,Brown,Female,Medium,24,2024-02-20T00:00:00.000,2024-02-27T00:00:00.000,Stray,Unknown,Transfer,Marin Hs,7.0,0,Winter Standard
+Sonoma County Shelter,A434319,Dog,Germ Shepherd,Black,Unknown,Medium,24,2025-06-07T00:00:00.000,2025-06-11T00:00:00.000,Born Here,Unknown,Euthanize,Underagewt,4.0,0,Summer High
+Sonoma County Shelter,A424660,Dog,Germ Shepherd/Mix,Brown,Female,Medium,24,2024-02-20T00:00:00.000,2024-02-27T00:00:00.000,Stray,Unknown,Transfer,Marin Hs,7.0,0,Winter Standard
+Sonoma County Shelter,A424330,Cat,Domestic Sh,Black/White,Female,Medium,24,2024-02-08T00:00:00.000,2024-02-27T00:00:00.000,Confiscate,Unknown,Transfer,Marin Hs,19.0,0,Winter Standard
+Sonoma County Shelter,A425090,Dog,Great Pyrenees,Buff,Neutered,Medium,24,2024-04-11T00:00:00.000,2024-05-04T00:00:00.000,Adoption Return,Unknown,Adoption,Walkin,23.0,0,Spring Peak
+Sonoma County Shelter,A323850,Cat,Domestic Sh,Black,Spayed,Medium,24,2015-06-30T00:00:00.000,2015-07-07T00:00:00.000,Stray,Healthy,Return To Owner,Commcat,7.0,0,Summer High
+Sonoma County Shelter,A424638,Dog,Germ Shepherd/Mix,Tan,Neutered,Medium,24,2024-02-20T00:00:00.000,2024-02-27T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Mchip,7.0,0,Winter Standard
+Sonoma County Shelter,A424213,Dog,Fox Terr Wire,Chocolate/White,Female,Medium,24,2024-02-02T00:00:00.000,2024-02-27T00:00:00.000,Stray,Unknown,Transfer,Marin Hs,25.0,0,Winter Standard
+Sonoma County Shelter,A424329,Cat,Domestic Sh,Black/White,Female,Medium,24,2024-02-08T00:00:00.000,2024-02-27T00:00:00.000,Confiscate,Unknown,Transfer,Marin Hs,19.0,0,Winter Standard
+Sonoma County Shelter,A425814,Dog,Labrador Retr/Mix,Br Brindle,Female,Medium,24,2024-04-18T00:00:00.000,2024-05-04T00:00:00.000,Owner Surrender,Unknown,Euthanize,Aggressive,16.0,0,Spring Peak
+Sonoma County Shelter,A430306,Dog,Aust Cattle Dog/Mix,Black/White,Neutered,Medium,24,2024-11-23T00:00:00.000,2024-12-08T00:00:00.000,Quarantine,Unknown,Disposal,Fra,15.0,0,Fall Moderate
+Sonoma County Shelter,A421568,Rabbit,Rabbit Sh,Tricolor,Neutered,Medium,24,2023-10-30T00:00:00.000,2024-02-27T00:00:00.000,Stray,Unknown,Transfer,Marin Hs,120.0,1,Fall Moderate
+Sonoma County Shelter,A424664,Dog,Germ Shepherd/Mix,Brown/Br Brindle,Male,Medium,24,2024-02-20T00:00:00.000,2024-02-27T00:00:00.000,Stray,Unknown,Transfer,Marin Hs,7.0,0,Winter Standard
+Sonoma County Shelter,A424838,Dog,French Bulldog,Blue Merle/Tan,Male,Medium,24,2024-02-27T00:00:00.000,2024-02-27T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Web,0.1,0,Winter Standard
+Sonoma County Shelter,A425816,Dog,Labrador Retr/Mix,Bl Brindle,Female,Medium,24,2024-04-18T00:00:00.000,2024-05-04T00:00:00.000,Owner Surrender,Unknown,Euthanize,Aggressive,16.0,0,Spring Peak
+Sonoma County Shelter,A352149,Dog,Germ Shepherd,Brown/Black,Spayed,Medium,24,2017-04-29T00:00:00.000,2017-05-25T00:00:00.000,Stray,Healthy,Adoption,Walkin,26.0,0,Spring Peak
+Sonoma County Shelter,A434323,Dog,Germ Shepherd,Black,Unknown,Medium,24,2025-06-07T00:00:00.000,2025-06-11T00:00:00.000,Born Here,Unknown,Euthanize,Underagewt,4.0,0,Summer High
+Sonoma County Shelter,A429827,Dog,Aust Shepherd/Mix,Black/White,Male,Medium,24,2024-10-24T00:00:00.000,2024-12-08T00:00:00.000,Stray,Unknown,Euthanize,Aggressive,45.0,1,Fall Moderate
+Sonoma County Shelter,A425748,Cat,Domestic Sh,Brn Tabby,Spayed,Medium,24,2024-04-09T00:00:00.000,2024-05-04T00:00:00.000,Owner Surrender,Unknown,Euthanize,Con Severe,25.0,0,Spring Peak
+Sonoma County Shelter,A429743,Dog,Labrador Retr/Mix,Black/White,Male,Medium,24,2024-10-19T00:00:00.000,2024-12-08T00:00:00.000,Stray,Unknown,Euthanize,Aggressive,50.0,1,Fall Moderate
+Sonoma County Shelter,A413218,Dog,Labrador Retr/Mix,Black/White,Female,Medium,24,2022-09-10T00:00:00.000,2022-09-14T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Web,4.0,0,Fall Moderate
+Sonoma County Shelter,A419889,Rabbit,Rabbit Lh/Mix,White,Spayed,Medium,24,2023-08-24T00:00:00.000,2024-02-27T00:00:00.000,Stray,Healthy,Adoption,Referral-F,187.0,1,Summer High
+Sonoma County Shelter,A423499,Dog,Siberian Husky/Mix,Gray/White,Neutered,Medium,24,2023-12-21T00:00:00.000,2024-05-04T00:00:00.000,Stray,Unknown,Adoption,Finder,135.0,1,Winter Standard
+Sonoma County Shelter,A426121,Cat,Domestic Sh,Brn Tabby,Male,Medium,24,2024-04-28T00:00:00.000,2024-05-05T00:00:00.000,Stray,Unknown,Died,In Kennel,7.0,0,Spring Peak
+Sonoma County Shelter,A426066,Dog,Rottweiler/Mix,Black/Tan,Female,Medium,24,2024-04-25T00:00:00.000,2024-05-06T00:00:00.000,Stray,Unknown,Euthanize,Con Severe,11.0,0,Spring Peak
+Sonoma County Shelter,A426232,Cat,Domestic Sh,Gray,Unknown,Small,24,2024-05-04T00:00:00.000,2024-05-06T00:00:00.000,Stray,Unknown,Died,In Kennel,2.0,0,Spring Peak
+Sonoma County Shelter,A425599,Dog,Germ Shepherd/Mix,Tan,Male,Medium,24,2024-03-30T00:00:00.000,2024-05-06T00:00:00.000,Stray,Unknown,Euthanize,Aggressive,37.0,1,Spring Peak
+Sonoma County Shelter,A424847,Dog,Aust Kelpie/Mix,Brown/Tan,Female,Medium,24,2024-02-27T00:00:00.000,2024-02-27T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Walkin,0.1,0,Winter Standard
+Sonoma County Shelter,A424116,Dog,Aust Cattle Dog/Mix,Tricolor,Male,Medium,24,2024-02-28T00:00:00.000,2024-02-28T00:00:00.000,Stray,Unknown,Return To Owner,Fld_Mchip,0.1,0,Winter Standard
+Sonoma County Shelter,A424118,Dog,Germ Shepherd/Mix,Tan/Black,Female,Medium,24,2024-02-28T00:00:00.000,2024-02-28T00:00:00.000,Stray,Unknown,Return To Owner,Fld_Mchip,0.1,0,Winter Standard
+Sonoma County Shelter,A426042,Dog,Doberman Pinsch/Mix,Red,Male,Medium,24,2024-08-07T00:00:00.000,2024-09-24T00:00:00.000,Stray,Unknown,Euthanize,Aggressive,48.0,1,Summer High
+Sonoma County Shelter,A414799,Dog,Germ Shepherd/Mix,Tan/Black,Neutered,Medium,24,2023-01-08T00:00:00.000,2023-08-19T00:00:00.000,Stray,Treatable/Rehab,Adoption,Scas Web,223.0,1,Winter Standard
+Sonoma County Shelter,A374864,Dog,Pit Bull,Black,Neutered,Medium,24,2024-02-12T00:00:00.000,2024-02-28T00:00:00.000,Stray,Unknown,Euthanize,Aggressive,16.0,0,Winter Standard
+Sonoma County Shelter,A423625,Dog,Aust Cattle Dog,Blue Merle,Male,Medium,24,2024-01-02T00:00:00.000,2024-02-28T00:00:00.000,Stray,Unknown,Euthanize,Beh Severe,57.0,1,Winter Standard
+Sonoma County Shelter,A424608,Dog,Poodle Stnd/Mix,White,Male,Medium,24,2024-02-17T00:00:00.000,2024-02-28T00:00:00.000,Stray,Unknown,Transfer,Bfkr,11.0,0,Winter Standard
+Sonoma County Shelter,A349476,Dog,Chihuahua Sh,Red,Neutered,Medium,24,2017-03-14T00:00:00.000,2017-03-31T00:00:00.000,Stray,Healthy,Adoption,Walkin,17.0,0,Spring Peak
+Sonoma County Shelter,A290368,Dog,Border Collie/Mix,Black/White,Neutered,Medium,24,2014-11-05T00:00:00.000,2014-11-12T00:00:00.000,Quarantine,Healthy,Return To Owner,Over The Counter_Letter,7.0,0,Fall Moderate
+Sonoma County Shelter,A412456,Small Animal,Mouse,White/Black,Unknown,Medium,24,2022-07-13T00:00:00.000,2022-07-13T00:00:00.000,Confiscate,Unknown,Escaped/Stolen,,0.1,0,Summer High
+Sonoma County Shelter,A424854,Wildlife,Bat,Brown,Unknown,Medium,24,2024-02-27T00:00:00.000,2024-02-28T00:00:00.000,Quarantine,Unknown,Euthanize,Fra,1.0,0,Winter Standard
+Sonoma County Shelter,A309156,Dog,Bichon Frise/Mix,White,Spayed,Medium,24,2016-10-30T00:00:00.000,2016-11-01T00:00:00.000,Stray,Treatable/Manageable,Return To Owner,Over The Counter_Prvs,2.0,0,Fall Moderate
+Sonoma County Shelter,A309292,Dog,Pit Bull,Br Brindle,Spayed,Medium,24,2018-01-31T00:00:00.000,2018-01-31T00:00:00.000,Confiscate,Unknown,Return To Owner,Fld_Mchip,0.1,0,Winter Standard
+Sonoma County Shelter,A309292,Dog,Pit Bull,Br Brindle,Spayed,Medium,24,2016-04-23T00:00:00.000,2016-04-23T00:00:00.000,Stray,Healthy,Return To Owner,Fld_Mchip,0.1,0,Spring Peak
+Sonoma County Shelter,A309156,Dog,Bichon Frise/Mix,White,Spayed,Medium,24,2015-09-22T00:00:00.000,2015-09-23T00:00:00.000,Stray,Healthy,Return To Owner,Over The Counter_Prvs,1.0,0,Fall Moderate
+Sonoma County Shelter,A425563,Dog,Chihuahua Sh/Mix,Brown/Black,Male,Medium,24,2024-03-28T00:00:00.000,2024-05-07T00:00:00.000,Stray,Unknown,Transfer,Muttville,40.0,1,Spring Peak
+Sonoma County Shelter,A309156,Dog,Bichon Frise/Mix,White,Spayed,Medium,24,2014-07-17T00:00:00.000,2014-07-25T00:00:00.000,Transfer,Healthy,Return To Owner,Over The Counter_Walkin,8.0,0,Summer High
+Sonoma County Shelter,A309292,Dog,Pit Bull,Br Brindle,Spayed,Medium,24,2016-01-25T00:00:00.000,2016-02-09T00:00:00.000,Stray,Healthy,Return To Owner,Over The Counter_Mchip,15.0,0,Winter Standard
+Sonoma County Shelter,A395729,Dog,Germ Shepherd/Siberian Husky,Tan/Black,Spayed,Medium,24,2020-01-22T00:00:00.000,2020-02-14T00:00:00.000,Owner Surrender,Healthy,Adoption,Scas Web,23.0,0,Winter Standard
+Sonoma County Shelter,A425720,Dog,Poodle Min/Mix,White,Neutered,Medium,24,2024-04-08T00:00:00.000,2024-05-07T00:00:00.000,Stray,Unknown,Transfer,Muttville,29.0,0,Spring Peak
+Sonoma County Shelter,A429176,Dog,Pomeranian/Chihuahua Lh,Red/White,Spayed,Medium,24,2024-09-21T00:00:00.000,2024-09-24T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Call,3.0,0,Fall Moderate
+Sonoma County Shelter,A425371,Dog,Pit Bull,Black/White,Spayed,Medium,24,2024-03-20T00:00:00.000,2024-05-07T00:00:00.000,Stray,Unknown,Adoption,Walkin,48.0,1,Spring Peak
+Sonoma County Shelter,A365337,Cat,Siamese,Seal Pt,Spayed,Medium,24,2017-12-06T00:00:00.000,2017-12-13T00:00:00.000,Stray,Healthy,Return To Owner,Fld_Prvs,7.0,0,Winter Standard
+Sonoma County Shelter,A426113,Dog,Schnauzer Min,Black/White,Female,Medium,24,2024-04-27T00:00:00.000,2024-05-07T00:00:00.000,Stray,Healthy,Transfer,Dogwood,10.0,0,Spring Peak
+Sonoma County Shelter,A426175,Cat,Domestic Sh,White/Gray,Spayed,Medium,24,2024-05-01T00:00:00.000,2024-05-07T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Mchip,6.0,0,Spring Peak
+Sonoma County Shelter,A426041,Cat,Domestic Sh,White/Brn Tabby,Neutered,Medium,24,2024-04-23T00:00:00.000,2024-05-07T00:00:00.000,Owner Surrender,Unknown,Transfer,Forgotten,14.0,0,Spring Peak
+Sonoma County Shelter,A309156,Dog,Bichon Frise/Mix,White,Spayed,Medium,24,2015-10-24T00:00:00.000,2015-10-24T00:00:00.000,Stray,Healthy,Return To Owner,Fld_Lic,0.1,0,Fall Moderate
+Sonoma County Shelter,A309292,Dog,Pit Bull,Br Brindle,Spayed,Medium,24,2018-02-08T00:00:00.000,2018-02-21T00:00:00.000,Quarantine,Healthy,Return To Owner,Over The Counter_Prvs,13.0,0,Winter Standard
+Sonoma County Shelter,A391173,Cat,Domestic Sh,Tortie,Spayed,Small,24,2019-09-05T00:00:00.000,2019-10-11T00:00:00.000,Stray,Healthy,Adoption,Scas Web,36.0,1,Fall Moderate
+Sonoma County Shelter,A313120,Cat,Domestic Sh,Brn Tabby,Spayed,Medium,24,2014-10-27T00:00:00.000,2014-12-27T00:00:00.000,Transfer,Healthy,Adoption,Westfarm,61.0,1,Fall Moderate
+Sonoma County Shelter,A425616,Cat,Domestic Sh,Gray Tabby,Male,Medium,24,2024-05-01T00:00:00.000,2024-05-07T00:00:00.000,Confiscate,Treatable/Manageable,Return To Owner,Over The Counter_Prvs,6.0,0,Spring Peak
+Sonoma County Shelter,A425719,Dog,Papillon/Mix,Tricolor,Spayed,Medium,24,2024-04-08T00:00:00.000,2024-05-07T00:00:00.000,Stray,Unknown,Transfer,Muttville,29.0,0,Spring Peak
+Sonoma County Shelter,A365339,Cat,Domestic Sh,Gray,Neutered,Medium,24,2017-12-06T00:00:00.000,2017-12-13T00:00:00.000,Stray,Healthy,Return To Owner,Fld_Prvs,7.0,0,Winter Standard
+Sonoma County Shelter,A309292,Dog,Pit Bull,Br Brindle,Spayed,Medium,24,2017-05-26T00:00:00.000,2017-05-27T00:00:00.000,Stray,Healthy,Return To Owner,Over The Counter_Mchip,1.0,0,Spring Peak
+Sonoma County Shelter,A437518,Dog,Germ Shepherd/Siberian Husky,Black/Tan,Spayed,Medium,24,2025-10-12T00:00:00.000,2025-12-06T00:00:00.000,Confiscate,Healthy,Adoption,Walkin,55.0,1,Fall Moderate
+Sonoma County Shelter,A314381,Dog,Chihuahua Lh/Mix,Tan/White,Male,Medium,24,2014-11-27T00:00:00.000,2014-11-29T00:00:00.000,Stray,Healthy,Return To Owner,Over The Counter_Prvs,2.0,0,Fall Moderate
+Sonoma County Shelter,A426229,Dog,Germ Shepherd,Tan/Black,Spayed,Medium,24,2024-05-04T00:00:00.000,2024-05-07T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Web,3.0,0,Spring Peak
+Sonoma County Shelter,A425740,Dog,Schipperke/Mix,Gray,Spayed,Medium,24,2024-04-09T00:00:00.000,2024-05-07T00:00:00.000,Stray,Healthy,Adoption,Walkin,28.0,0,Spring Peak
+Sonoma County Shelter,A414069,Dog,Pit Bull,White/Brown,Female,Medium,24,2025-03-18T00:00:00.000,2025-03-21T00:00:00.000,Confiscate,Unknown,Return To Owner,Over The Counter_Notice,3.0,0,Spring Peak
+Sonoma County Shelter,A310335,Cat,Domestic Sh,Org Tabby,Neutered,Small,24,2014-08-19T00:00:00.000,2014-09-04T00:00:00.000,Stray,Treatable/Manageable,Adoption,Internet,16.0,0,Summer High
+Sonoma County Shelter,A391878,Dog,Bulldog,Tricolor,Male,Medium,24,2019-09-28T00:00:00.000,2019-10-10T00:00:00.000,Stray,Healthy,Transfer,Nbas,12.0,0,Fall Moderate
+Sonoma County Shelter,A424886,Wildlife,Bat,Brown,Unknown,Medium,24,2024-02-29T00:00:00.000,2024-02-29T00:00:00.000,Quarantine,Unknown,Euthanize,Fra,0.1,0,Winter Standard
+Sonoma County Shelter,A425529,Dog,Chihuahua Sh/Mix,White/Black,Male,Medium,24,2024-03-27T00:00:00.000,2024-05-07T00:00:00.000,Stray,Unknown,Transfer,Muttville,41.0,1,Spring Peak
+Sonoma County Shelter,A417832,Dog,Aust Cattle Dog,Tricolor,Spayed,Medium,24,2023-05-26T00:00:00.000,2024-01-11T00:00:00.000,Confiscate,Unknown,Adoption,Walkin,230.0,1,Spring Peak
+Sonoma County Shelter,A433335,Cat,Domestic Mh,Black,Spayed,Small,24,2025-04-17T00:00:00.000,2025-06-11T00:00:00.000,Stray,Healthy,Adoption,Walkin,55.0,1,Spring Peak
+Sonoma County Shelter,A310673,Dog,Black/Tan Hound,Black/Tan,Male,Medium,24,2014-08-26T00:00:00.000,2014-08-26T00:00:00.000,Transfer,Healthy,Return To Owner,Over The Counter_Web,0.1,0,Summer High
+Sonoma County Shelter,A311062,Dog,Pit Bull,Brown,Neutered,Medium,24,2014-09-02T00:00:00.000,2014-09-06T00:00:00.000,Owner Surrender,Healthy,Adoption,Walkin,4.0,0,Fall Moderate
+Sonoma County Shelter,A424892,Wildlife,Bat,Brown,Unknown,Medium,24,2024-02-29T00:00:00.000,2024-02-29T00:00:00.000,Quarantine,Unknown,Euthanize,Fra,0.1,0,Winter Standard
+Sonoma County Shelter,A424599,Cat,Domestic Lh,Buff,Neutered,Medium,24,2024-02-17T00:00:00.000,2024-02-29T00:00:00.000,Stray,Healthy,Adoption,Scas Web,12.0,0,Winter Standard
+Sonoma County Shelter,A392120,Bird,Chicken,Tricolor,Male,Medium,24,2019-10-08T00:00:00.000,2019-10-25T00:00:00.000,Stray,Healthy,Transfer,Westfarm,17.0,0,Fall Moderate
+Sonoma County Shelter,A436741,Cat,Domestic Sh,Black/White,Spayed,Small,24,2025-09-12T00:00:00.000,2025-09-27T00:00:00.000,Stray,Healthy,Adoption,Walkin,15.0,0,Fall Moderate
+Sonoma County Shelter,A423721,Dog,Whippet/Mix,Br Brindle/White,Spayed,Medium,24,2024-01-09T00:00:00.000,2024-03-01T00:00:00.000,Stray,Unknown,Adoption,Walkin,52.0,1,Winter Standard
+Sonoma County Shelter,A422143,Cat,Domestic Sh,Brn Tabby,Spayed,Medium,24,2024-02-08T00:00:00.000,2024-03-01T00:00:00.000,Owner Surrender,Unknown,Adoption,Scas Web,22.0,0,Winter Standard
+Sonoma County Shelter,A424573,Dog,Siberian Husky/Mix,Black/White,Female,Medium,24,2024-02-16T00:00:00.000,2024-03-01T00:00:00.000,Stray,Unknown,Euthanize,Aggressive,14.0,0,Winter Standard
+Sonoma County Shelter,A424540,Cat,Domestic Sh,Black,Neutered,Medium,24,2024-02-15T00:00:00.000,2024-03-01T00:00:00.000,Stray,Healthy,Adoption,Referral-F,15.0,0,Winter Standard
+Sonoma County Shelter,A424882,Dog,Gr Swiss Mtn/Mix,White/Brown,Neutered,Medium,24,2024-02-28T00:00:00.000,2024-03-01T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Call,2.0,0,Winter Standard
+Sonoma County Shelter,A401878,Dog,Aust Cattle Dog/Mix,Tricolor,Neutered,Medium,24,2024-02-24T00:00:00.000,2024-03-01T00:00:00.000,Quarantine,Unknown,Euthanize,Aggressive,6.0,0,Winter Standard
+Sonoma County Shelter,A424897,Dog,Rottweiler,Black/Tan,Male,Medium,24,2024-02-29T00:00:00.000,2024-03-01T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Web,1.0,0,Winter Standard
+Sonoma County Shelter,A424696,Dog,Pit Bull,White/Blue Merle,Male,Medium,24,2024-02-21T00:00:00.000,2024-03-01T00:00:00.000,Stray,Unknown,Euthanize,Aggressive,9.0,0,Winter Standard
+Sonoma County Shelter,A424898,Dog,Rottweiler,Black/Tan,Male,Medium,24,2024-02-29T00:00:00.000,2024-03-01T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Web,1.0,0,Winter Standard
+Sonoma County Shelter,A423183,Dog,Aust Kelpie/Pit Bull,Red/Tan,Neutered,Medium,24,2023-12-13T00:00:00.000,2024-03-01T00:00:00.000,Stray,Healthy,Adoption,Oth_Media,79.0,1,Winter Standard
+Sonoma County Shelter,A308329,Dog,Pit Bull,White,Male,Medium,24,2024-02-14T00:00:00.000,2024-03-01T00:00:00.000,Stray,Unknown,Euthanize,Con Severe,16.0,0,Winter Standard
+Sonoma County Shelter,A414001,Dog,Chihuahua Sh,Tan,Male,Medium,24,2022-11-02T00:00:00.000,2022-11-09T00:00:00.000,Stray,Unknown,Euthanize,Ill Severe,7.0,0,Fall Moderate
+Sonoma County Shelter,A424852,Dog,Chihuahua Sh,Black,Spayed,Medium,24,2024-02-27T00:00:00.000,2024-03-02T00:00:00.000,Confiscate,Unknown,Return To Owner,Over The Counter_Call,4.0,0,Winter Standard
+Sonoma County Shelter,A424675,Dog,Doberman Pinsch,Brown/Tan,Female,Medium,24,2024-02-20T00:00:00.000,2024-03-02T00:00:00.000,Confiscate,Unknown,Return To Owner,Over The Counter_Notice,11.0,0,Winter Standard
+Sonoma County Shelter,A424293,Dog,Beagle/Germ Shepherd,Tan/Black,Male,Medium,24,2024-02-07T00:00:00.000,2024-03-02T00:00:00.000,Stray,Unknown,Euthanize,Aggressive,24.0,0,Winter Standard
+Sonoma County Shelter,A418274,Dog,Cairn Terrier/Mix,Tan,Male,Medium,24,2023-06-14T00:00:00.000,2023-06-15T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Call,1.0,0,Summer High
+Sonoma County Shelter,A424026,Dog,Pit Bull,Brown,Spayed,Medium,24,2024-01-24T00:00:00.000,2024-03-02T00:00:00.000,Stray,Healthy,Adoption,Walkin,38.0,1,Winter Standard
+Sonoma County Shelter,A414752,Cat,Domestic Sh,Brn Tabby,Spayed,Medium,24,2023-01-06T00:00:00.000,2023-01-07T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Mchip,1.0,0,Winter Standard
+Sonoma County Shelter,A434383,Cat,Domestic Sh,Gray Tabby,Female,Medium,24,2025-06-11T00:00:00.000,2025-06-11T00:00:00.000,Confiscate,Unknown,Shelter,Hold Expir,0.1,0,Summer High
+Sonoma County Shelter,A384464,Cat,Domestic Sh,Black/White,Spayed,Small,24,2019-02-20T00:00:00.000,2019-03-01T00:00:00.000,Stray,Healthy,Adoption,Walkin,9.0,0,Winter Standard
+Sonoma County Shelter,A423110,Dog,Belg Malinois/Mix,Red/Black,Spayed,Medium,24,2023-12-12T00:00:00.000,2024-03-02T00:00:00.000,Stray,Healthy,Adoption,Walkin,81.0,1,Winter Standard
+Sonoma County Shelter,A418273,Dog,Chihuahua Lh/Mix,Black,Female,Medium,24,2023-06-14T00:00:00.000,2023-06-15T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Call,1.0,0,Summer High
+Sonoma County Shelter,A424432,Cat,Siamese,Seal Pt,Neutered,Medium,24,2024-02-11T00:00:00.000,2024-03-04T00:00:00.000,Confiscate,Unknown,Euthanize,Ill Severe,22.0,0,Winter Standard
+Sonoma County Shelter,A426279,Dog,French Bulldog,Blue Merle,Male,Medium,24,2024-05-08T00:00:00.000,2024-05-08T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Web,0.1,0,Spring Peak
+Sonoma County Shelter,A430410,Other,Skunk,Black/White,Unknown,Medium,24,2024-12-03T00:00:00.000,2024-12-08T00:00:00.000,Quarantine,Unknown,Disposal,Fra,5.0,0,Winter Standard
+Sonoma County Shelter,A406485,Dog,Pit Bull/Mix,Black/White,Neutered,Medium,24,2026-06-24T00:00:00.000,2026-07-01T00:00:00.000,Owner Surrender,Unknown,Euthanize,Con Severe,7.0,0,Summer High
+Sonoma County Shelter,A424106,Dog,Aust Cattle Dog,Blue/Black,Spayed,Medium,24,2024-01-28T00:00:00.000,2024-03-05T00:00:00.000,Stray,Healthy,Adoption,Walkin,37.0,1,Winter Standard
+Sonoma County Shelter,A416396,Dog,Chinese Sharpei/Chihuahua Sh,Black/Brown,Neutered,Medium,24,2023-03-27T00:00:00.000,2023-04-27T00:00:00.000,Stray,Healthy,Adoption,Scas Web,31.0,1,Spring Peak
+Sonoma County Shelter,A442457,Dog,Maltese/Mix,White,Spayed,Medium,24,2026-06-15T00:00:00.000,2026-07-01T00:00:00.000,Stray,Unknown,Adoption,Scas Web,16.0,0,Summer High
+Sonoma County Shelter,A424929,Cat,Domestic Sh,Black,Female,Medium,24,2024-03-02T00:00:00.000,2024-03-05T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Prvs,3.0,0,Spring Peak
+Sonoma County Shelter,A434318,Dog,Germ Shepherd,Black,Unknown,Medium,24,2025-06-07T00:00:00.000,2025-06-11T00:00:00.000,Born Here,Unknown,Euthanize,Underagewt,4.0,0,Summer High
+Sonoma County Shelter,A425891,Dog,Rat Terrier/Mix,White/Brown,Neutered,Medium,24,2024-04-16T00:00:00.000,2024-05-08T00:00:00.000,Stray,Unknown,Adoption,Walkin,22.0,0,Spring Peak
+Sonoma County Shelter,A399237,Dog,Anatol Shepherd/Mix,Tan/Brown,Male,Medium,24,2020-07-28T00:00:00.000,2020-08-19T00:00:00.000,Stray,Healthy,Transfer,Nbas,22.0,0,Summer High
+Sonoma County Shelter,A397667,Dog,Pit Bull,Black/White,Spayed,Medium,24,2020-05-29T00:00:00.000,2020-06-03T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Call,5.0,0,Spring Peak
+Sonoma County Shelter,A387930,Cat,Domestic Sh,Brn Tabby,Spayed,Small,24,2019-06-01T00:00:00.000,2019-07-17T00:00:00.000,Stray,Treatable/Rehab,Adoption,Scas Web,46.0,1,Summer High
+Sonoma County Shelter,A338015,Dog,Germ Shepherd/Mix,Black/Tan,Male,Medium,24,2016-06-06T00:00:00.000,2016-06-07T00:00:00.000,Stray,Healthy,Return To Owner,Over The Counter_Web,1.0,0,Summer High
+Sonoma County Shelter,A307508,Dog,Basset Hound/Dachshund,Brown/Brown,Neutered,Medium,24,2017-11-20T00:00:00.000,2017-11-21T00:00:00.000,Confiscate,Unknown,Return To Owner,Over The Counter_Prvs,1.0,0,Fall Moderate
+Sonoma County Shelter,A426258,Dog,Siberian Husky/Mix,White,Female,Medium,24,2024-05-08T00:00:00.000,2024-05-08T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Web,0.1,0,Spring Peak
+Sonoma County Shelter,A418385,Dog,Parson Russ Ter/Dachshund,Brown/Tan,Neutered,Medium,24,2024-05-07T00:00:00.000,2024-05-08T00:00:00.000,Confiscate,Unknown,Return To Owner,Over The Counter_Arrest,1.0,0,Spring Peak
+Sonoma County Shelter,A437697,Cat,Domestic Sh,Black,Spayed,Medium,24,2025-11-05T00:00:00.000,2026-01-07T00:00:00.000,Stray,Healthy,Adoption,Walkin,63.0,1,Fall Moderate
+Sonoma County Shelter,A424716,Dog,Pit Bull,Tan/White,Male,Medium,24,2024-03-18T00:00:00.000,2024-03-19T00:00:00.000,Confiscate,Unknown,Return To Owner,Over The Counter_Prvs,1.0,0,Spring Peak
+Sonoma County Shelter,A314905,Dog,Chihuahua Lh/Mix,White/Tan,Female,Medium,24,2014-12-13T00:00:00.000,2014-12-30T00:00:00.000,Stray,Treatable/Manageable,Transfer,Green Dog,17.0,0,Winter Standard
+Sonoma County Shelter,A433995,Dog,Pit Bull,White,Male,Medium,24,2025-05-23T00:00:00.000,2025-05-23T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Call,0.1,0,Spring Peak
+Sonoma County Shelter,A369327,Cat,Domestic Mh,Brn Tabby/White,Neutered,Medium,24,2018-03-10T00:00:00.000,2018-03-31T00:00:00.000,Stray,Healthy,Adoption,Scas Web,21.0,0,Spring Peak
+Sonoma County Shelter,A403341,Wildlife,Bat,Brown,Unknown,Medium,24,2021-03-26T00:00:00.000,2021-03-26T00:00:00.000,Quarantine,Unknown,Euthanize,Fra,0.1,0,Spring Peak
+Sonoma County Shelter,A424913,Dog,Border Collie/Mix,Black/White,Female,Medium,24,2024-03-01T00:00:00.000,2024-03-06T00:00:00.000,Stray,Unknown,Transfer,Dogwood,5.0,0,Spring Peak
+Sonoma County Shelter,A340811,Cat,Domestic Sh,Buff/Org Tabby,Neutered,Medium,24,2024-02-29T00:00:00.000,2024-03-06T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Call,6.0,0,Winter Standard
+Sonoma County Shelter,A426259,Dog,Germ Shepherd/Mix,Black/Brown,Female,Medium,24,2024-05-08T00:00:00.000,2024-05-08T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Web,0.1,0,Spring Peak
+Sonoma County Shelter,A424345,Dog,Mastiff/Mix,Black/White,Male,Medium,24,2024-02-08T00:00:00.000,2024-03-06T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Web,27.0,0,Winter Standard
+Sonoma County Shelter,A410679,Dog,Black/Tan Hound/Tr Walker Hound,Black/Tan,Neutered,Medium,24,2024-03-06T00:00:00.000,2024-03-06T00:00:00.000,Stray,Unknown,Return To Owner,Fld_Mchip,0.1,0,Spring Peak
+Sonoma County Shelter,A424981,Dog,Belg Malinois,Tan/Black,Female,Medium,24,2024-03-05T00:00:00.000,2024-03-07T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Call,2.0,0,Spring Peak
+Sonoma County Shelter,A424975,Cat,Siamese/Mix,Cream/Brown,Female,Medium,24,2024-03-05T00:00:00.000,2024-03-08T00:00:00.000,Stray,Unknown,Rtos,Sover The Counter,3.0,0,Spring Peak
+Sonoma County Shelter,A417722,Dog,Rottweiler/Germ Shepherd,Brown/Black,Spayed,Medium,24,2024-02-18T00:00:00.000,2024-03-07T00:00:00.000,Confiscate,Unknown,Rtos,Eover The Counter,18.0,0,Winter Standard
+Sonoma County Shelter,A424833,Cat,Domestic Sh,Brn Tabby/White,Neutered,Medium,24,2024-02-27T00:00:00.000,2024-03-07T00:00:00.000,Stray,Unknown,Euthanize,Con Severe,9.0,0,Winter Standard
+Sonoma County Shelter,A424982,Dog,Belg Malinois,Tan/Black,Male,Medium,24,2024-03-05T00:00:00.000,2024-03-07T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Call,2.0,0,Spring Peak
+Sonoma County Shelter,A412196,Dog,Cairn Terrier/Mix,Gray/White,Neutered,Medium,24,2022-06-28T00:00:00.000,2022-07-28T00:00:00.000,Stray,Healthy,Transfer,Rp Shelter,30.0,1,Summer High
+Sonoma County Shelter,A442445,Dog,Pit Bull,Gray,Male,Medium,24,2026-06-16T00:00:00.000,2026-07-01T00:00:00.000,Stray,Unknown,Euthanize,Aggressive,15.0,0,Summer High
+Sonoma County Shelter,A424971,Dog,Pit Bull/Mix,Chocolate/White,Female,Medium,24,2024-03-05T00:00:00.000,2024-03-07T00:00:00.000,Confiscate,Unknown,Return To Owner,Over The Counter_Arrest,2.0,0,Spring Peak
+Sonoma County Shelter,A426285,Reptile,Lizard,Orange,Male,Medium,24,2024-05-08T00:00:00.000,2024-05-09T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Web,1.0,0,Spring Peak
+Sonoma County Shelter,A425862,Cat,Domestic Sh,Black/White,Unknown,Medium,24,2024-04-14T00:00:00.000,2024-04-15T00:00:00.000,Stray,Unknown,Disposal,Doa,1.0,0,Spring Peak
+Sonoma County Shelter,A015125,Dog,Labrador Retr/Mix,Cream,Male,Medium,24,2014-12-23T00:00:00.000,2014-12-24T00:00:00.000,Stray,Treatable/Manageable,Return To Owner,Over The Counter_Web,1.0,0,Winter Standard
+Sonoma County Shelter,A425050,Dog,Papillon/Mix,Brown,Neutered,Medium,24,2024-03-07T00:00:00.000,2024-03-08T00:00:00.000,Confiscate,Unknown,Return To Owner,Over The Counter_Arrest,1.0,0,Spring Peak
+Sonoma County Shelter,A424809,Dog,Siberian Husky,White/Tan,Female,Medium,24,2024-02-24T00:00:00.000,2024-03-08T00:00:00.000,Stray,Unknown,Euthanize,Aggressive,13.0,0,Winter Standard
+Sonoma County Shelter,A423855,Dog,Parson Russ Ter,White/Black,Spayed,Medium,24,2024-01-16T00:00:00.000,2024-03-08T00:00:00.000,Stray,Unknown,Adoption,Referral-F,52.0,1,Winter Standard
+Sonoma County Shelter,A424419,Cat,Domestic Sh,Black/White,Neutered,Medium,24,2024-02-10T00:00:00.000,2024-05-09T00:00:00.000,Confiscate,Unknown,Return To Owner,Over The Counter_Web,89.0,1,Winter Standard
+Sonoma County Shelter,A442670,Cat,Domestic Sh,Gray,Unknown,Small,24,2026-06-24T00:00:00.000,2026-07-01T00:00:00.000,Stray,Unknown,Transfer,Petluma Pp,7.0,0,Summer High
+Sonoma County Shelter,A442745,Cat,Domestic Sh,Gray/White,Female,Medium,24,2026-06-29T00:00:00.000,2026-07-01T00:00:00.000,Confiscate,Unknown,Euthanize,Ill Severe,2.0,0,Summer High
+Sonoma County Shelter,A426277,Dog,French Bulldog,Brown/Tan,Female,Medium,24,2024-05-08T00:00:00.000,2024-05-08T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Web,0.1,0,Spring Peak
+Sonoma County Shelter,A425086,Wildlife,Bat/Mex Free-Tail,Brown,Unknown,Medium,24,2024-03-09T00:00:00.000,2024-03-09T00:00:00.000,Quarantine,Unknown,Euthanize,Fra,0.1,0,Spring Peak
+Sonoma County Shelter,A424975,Cat,Siamese/Mix,Cream/Brown,Female,Medium,24,2024-03-08T00:00:00.000,2024-03-09T00:00:00.000,Owner Surrender,Treatable/Rehab,Return To Owner,Over The Counter_Mchip,1.0,0,Spring Peak
+Sonoma County Shelter,A424296,Dog,Belg Malinois,Brown/Black,Spayed,Medium,24,2024-02-07T00:00:00.000,2024-03-05T00:00:00.000,Stray,Unknown,Adoption,Scas Web,27.0,0,Winter Standard
+Sonoma County Shelter,A424811,Cat,Domestic Sh,Black,Neutered,Medium,24,2024-02-24T00:00:00.000,2024-03-09T00:00:00.000,Stray,Healthy,Adoption,Walkin,14.0,0,Winter Standard
+Sonoma County Shelter,A426254,Cat,Domestic Sh,Black/White,Unknown,Medium,24,2024-05-07T00:00:00.000,2024-05-10T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Web,3.0,0,Spring Peak
+Sonoma County Shelter,A371598,Dog,Terrier/Mix,Tan,Neutered,Medium,24,2017-04-21T00:00:00.000,2017-04-21T00:00:00.000,Stray,Healthy,Return To Owner,Over The Counter_Web,0.1,0,Spring Peak
+Sonoma County Shelter,A424653,Dog,Germ Shepherd/Mix,Tricolor,Neutered,Medium,24,2024-02-20T00:00:00.000,2024-03-09T00:00:00.000,Stray,Unknown,Adoption,Walkin,18.0,0,Winter Standard
+Sonoma County Shelter,A424869,Cat,Domestic Sh,Buff,Spayed,Medium,24,2024-02-28T00:00:00.000,2024-03-09T00:00:00.000,Stray,Healthy,Adoption,Walkin,10.0,0,Winter Standard
+Sonoma County Shelter,A434185,Dog,Germ Shepherd,Black/Tan,Female,Medium,24,2025-05-31T00:00:00.000,2025-06-11T00:00:00.000,Stray,Unknown,Euthanize,Beh Severe,11.0,0,Spring Peak
+Sonoma County Shelter,A424162,Cat,Siamese/Mix,Tortie Pt,Spayed,Medium,24,2024-01-31T00:00:00.000,2024-03-09T00:00:00.000,Stray,Treatable/Rehab,Adoption,Walkin,38.0,1,Winter Standard
+Sonoma County Shelter,A391997,Dog,Cane Corso,Blue,Spayed,Medium,24,2024-03-08T00:00:00.000,2024-03-09T00:00:00.000,Confiscate,Unknown,Return To Owner,Over The Counter_Arrest,1.0,0,Spring Peak
+Sonoma County Shelter,A425097,Dog,Fox Terr Wire,White,Female,Medium,24,2024-03-09T00:00:00.000,2024-03-09T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Mchip,0.1,0,Spring Peak
+Sonoma County Shelter,A419902,Rabbit,Rabbit Sh,White/Gray,Spayed,Medium,24,2023-08-24T00:00:00.000,2024-03-09T00:00:00.000,Stray,Healthy,Adoption,Oth_Media,198.0,1,Summer High
+Sonoma County Shelter,A426015,Dog,Bull Terr Min,Tricolor,Neutered,Medium,24,2024-04-22T00:00:00.000,2024-05-10T00:00:00.000,Owner Surrender,Unknown,Euthanize,Aggressive,18.0,0,Spring Peak
+Sonoma County Shelter,A425841,Cat,Domestic Sh,Brn Tabby,Neutered,Small,24,2024-04-13T00:00:00.000,2024-05-10T00:00:00.000,Stray,Healthy,Adoption,Walkin,27.0,0,Spring Peak
+Sonoma County Shelter,A426307,Dog,Chihuahua Sh,Brown,Male,Medium,24,2024-05-09T00:00:00.000,2024-05-10T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Web,1.0,0,Spring Peak
+Sonoma County Shelter,A425566,Cat,Domestic Sh,Gray Tabby,Spayed,Medium,24,2024-05-07T00:00:00.000,2024-05-10T00:00:00.000,Adoption Return,Unknown,Adoption,Walkin,3.0,0,Spring Peak
+Sonoma County Shelter,A404519,Dog,Samoyed,White,Male,Medium,24,2024-05-09T00:00:00.000,2024-05-10T00:00:00.000,Stray,Unknown,Return To Owner,Fb Other,1.0,0,Spring Peak
+Sonoma County Shelter,A429114,Dog,Welsh Corgi Car/Mix,Tan/White,Neutered,Medium,24,2024-09-19T00:00:00.000,2024-11-02T00:00:00.000,Stray,Healthy,Adoption,Walkin,44.0,1,Fall Moderate
+Sonoma County Shelter,A426310,Dog,Maremma Sheepdg,White,Spayed,Medium,24,2024-05-09T00:00:00.000,2024-05-10T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Web,1.0,0,Spring Peak
+Sonoma County Shelter,A426339,Cat,Domestic Lh,Gray/White,Unknown,Medium,24,2024-05-10T00:00:00.000,2024-05-10T00:00:00.000,Stray,Unknown,Euthanize,Ill Severe,0.1,0,Spring Peak
+Sonoma County Shelter,A345843,Dog,Siberian Husky/Germ Shepherd,Black/White,Neutered,Medium,24,2024-03-23T00:00:00.000,2024-05-10T00:00:00.000,Stray,Unknown,Euthanize,Con Severe,48.0,1,Spring Peak
+Sonoma County Shelter,A426347,Dog,Akita,White,Female,Medium,24,2024-05-10T00:00:00.000,2024-05-11T00:00:00.000,Confiscate,Unknown,Return To Owner,Medical,1.0,0,Spring Peak
+Sonoma County Shelter,A426338,Dog,Chihuahua Sh,Black,Male,Medium,24,2024-05-10T00:00:00.000,2024-05-11T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Call,1.0,0,Spring Peak
+Sonoma County Shelter,A426358,Dog,Dachshund/Germ Shepherd,Brown/Black,Male,Medium,24,2024-05-11T00:00:00.000,2024-05-11T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Walkin,0.1,0,Spring Peak
+Sonoma County Shelter,A421478,Cat,Domestic Sh,Brn Tabby,Male,Medium,24,2024-05-09T00:00:00.000,2024-05-11T00:00:00.000,Confiscate,Unknown,Return To Owner,Over The Counter_Call,2.0,0,Spring Peak
+Sonoma County Shelter,A426346,Dog,Akita,Brown/Black,Male,Medium,24,2024-05-10T00:00:00.000,2024-05-11T00:00:00.000,Confiscate,Unknown,Return To Owner,Medical,1.0,0,Spring Peak
+Sonoma County Shelter,A424707,Cat,Domestic Sh,Org Tabby,Neutered,Medium,24,2024-02-21T00:00:00.000,2024-05-11T00:00:00.000,Stray,Healthy,Return To Owner,Fld_Prvs,80.0,1,Winter Standard
+Sonoma County Shelter,A425738,Dog,Catahoula/Pit Bull,Br Brindle/White,Neutered,Medium,24,2024-04-09T00:00:00.000,2024-05-11T00:00:00.000,Stray,Unknown,Adoption,Walkin,32.0,1,Spring Peak
+Sonoma County Shelter,A424741,Dog,Pit Bull,Tan,Male,Medium,24,2024-02-22T00:00:00.000,2024-03-12T00:00:00.000,Stray,Unknown,Died,At Vet,19.0,0,Winter Standard
+Sonoma County Shelter,A425840,Cat,Domestic Sh,Black/White,Neutered,Small,24,2024-04-13T00:00:00.000,2024-05-11T00:00:00.000,Stray,Healthy,Adoption,Volunteer,28.0,0,Spring Peak
+Sonoma County Shelter,A425126,Wildlife,Bat,Black,Unknown,Medium,24,2024-03-12T00:00:00.000,2024-03-12T00:00:00.000,Quarantine,Unknown,Euthanize,Fra,0.1,0,Spring Peak
+Sonoma County Shelter,A426289,Dog,Germ Shepherd/Mix,Black/Tan,Male,Medium,24,2024-05-08T00:00:00.000,2024-05-11T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Walkin,3.0,0,Spring Peak
+Sonoma County Shelter,A425440,Dog,Aust Cattle Dog,Blue/Tan,Neutered,Medium,24,2024-03-28T00:00:00.000,2024-05-11T00:00:00.000,Owner Surrender,Healthy,Return To Owner,Over The Counter_Web,44.0,1,Spring Peak
+Sonoma County Shelter,A426290,Dog,Germ Shepherd/Mix,Tan/Black,Male,Medium,24,2024-05-08T00:00:00.000,2024-05-11T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Walkin,3.0,0,Spring Peak
+Sonoma County Shelter,A426288,Dog,Pit Bull,Gray/Red,Male,Medium,24,2024-05-08T00:00:00.000,2024-05-11T00:00:00.000,Owner Surrender,Unknown,Return To Owner,Over The Counter_Notice,3.0,0,Spring Peak
+Sonoma County Shelter,A425476,Dog,Cairn Terrier/Mix,Cream,Spayed,Medium,24,2024-03-24T00:00:00.000,2024-05-11T00:00:00.000,Stray,Unknown,Adoption,Scas Web,48.0,1,Spring Peak
+Sonoma County Shelter,A421478,Cat,Domestic Sh,Brn Tabby,Male,Medium,24,2023-10-25T00:00:00.000,2023-10-28T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Prvs,3.0,0,Fall Moderate
+Sonoma County Shelter,A426287,Dog,Pit Bull,Br Brindle,Male,Medium,24,2024-05-08T00:00:00.000,2024-05-11T00:00:00.000,Owner Surrender,Unknown,Return To Owner,Over The Counter_Prvs,3.0,0,Spring Peak
+Sonoma County Shelter,A424292,Dog,Pit Bull/Mix,Chocolate/White,Neutered,Medium,24,2024-02-07T00:00:00.000,2024-03-09T00:00:00.000,Stray,Healthy,Adoption,Scas Web,31.0,1,Winter Standard
+Sonoma County Shelter,A364817,Dog,Border Collie,Tricolor,Neutered,Medium,24,2022-01-04T00:00:00.000,2022-01-13T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Web,9.0,0,Winter Standard
+Sonoma County Shelter,A425867,Dog,Belg Malinois,Tan/Black,Male,Medium,24,2024-04-15T00:00:00.000,2024-05-13T00:00:00.000,Stray,Unknown,Euthanize,Beh Severe,28.0,0,Spring Peak
+Sonoma County Shelter,A443041,Cat,Domestic Sh,Black/White,Spayed,Small,24,2026-07-13T00:00:00.000,,Stray,Unknown,Unknown,,0.1,0,Summer High
+Sonoma County Shelter,A425130,Dog,Shih Tzu,Cream,Female,Medium,24,2024-03-12T00:00:00.000,2024-03-13T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Walkin,1.0,0,Spring Peak
+Sonoma County Shelter,A443468,Dog,Chihuahua Lh,White/Brown,Spayed,Medium,24,2026-08-03T00:00:00.000,2026-09-12T00:00:00.000,Confiscate,Unknown,Adoption,Fb Scas,40.0,1,Summer High
+Sonoma County Shelter,A444446,Dog,Pit Bull,Black/White,Male,Medium,24,2026-09-11T00:00:00.000,,Owner Surrender,Unknown,Unknown,,0.1,0,Fall Moderate
+Sonoma County Shelter,A422947,Dog,Pit Bull/Mix,Red/White,Spayed,Medium,24,2023-12-09T00:00:00.000,2024-02-13T00:00:00.000,Stray,Healthy,Adoption,Walkin,66.0,1,Winter Standard
+Sonoma County Shelter,A425182,Dog,Labrador Retr/Mix,Black/White,Male,Medium,24,2024-03-13T00:00:00.000,2024-03-13T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Call,0.1,0,Spring Peak
+Sonoma County Shelter,A422251,Dog,Germ Shepherd/Mix,Sable/White,Spayed,Medium,24,2023-11-17T00:00:00.000,2024-02-24T00:00:00.000,Stray,Healthy,Adoption,Referral-F,99.0,1,Fall Moderate
+Sonoma County Shelter,A305570,Dog,Poodle Min,White,Spayed,Medium,24,2024-05-11T00:00:00.000,2024-05-14T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Web,3.0,0,Spring Peak
+Sonoma County Shelter,A426355,Dog,Eng Setter,Black/White,Neutered,Medium,24,2024-05-11T00:00:00.000,2024-05-11T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Walkin,0.1,0,Spring Peak
+Sonoma County Shelter,A425180,Dog,Golden Retr,Red,Female,Medium,24,2024-03-13T00:00:00.000,2024-03-13T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Walkin,0.1,0,Spring Peak
+Sonoma County Shelter,A431482,Dog,Pit Bull,Brown/White,Female,Medium,24,2025-01-21T00:00:00.000,2025-02-23T00:00:00.000,Stray,Unknown,Euthanize,Aggressive,33.0,1,Winter Standard
+Sonoma County Shelter,A425889,Dog,Germ Shepherd/Alaskan Husky,Tan/Black,Female,Medium,24,2024-05-14T00:00:00.000,2024-05-14T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Notice,0.1,0,Spring Peak
+Sonoma County Shelter,A442460,Cat,Domestic Sh,Brn Tabby,Neutered,Medium,24,2026-06-15T00:00:00.000,2026-07-01T00:00:00.000,Stray,Unknown,Euthanize,Con Severe,16.0,0,Summer High
+Sonoma County Shelter,A424402,Dog,Great Pyrenees,White,Female,Medium,24,2024-03-13T00:00:00.000,2024-03-13T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Call,0.1,0,Spring Peak
+Sonoma County Shelter,A426018,Wildlife,Bat,Brown,Unknown,Medium,24,2024-04-22T00:00:00.000,2024-04-23T00:00:00.000,Quarantine,Unknown,Transfer,Lab Fra,1.0,0,Spring Peak
+Sonoma County Shelter,A425137,Dog,Beagle/Chinese Sharpei,Red,Male,Medium,24,2021-05-17T00:00:00.000,2021-05-22T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Call,5.0,0,Spring Peak
+Sonoma County Shelter,A425181,Dog,Labrador Retr/Mix,Black/White,Male,Medium,24,2024-03-13T00:00:00.000,2024-03-13T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Call,0.1,0,Spring Peak
+Sonoma County Shelter,A425841,Cat,Domestic Sh,Brn Tabby,Neutered,Small,24,2024-05-10T00:00:00.000,2024-05-14T00:00:00.000,Adoption Return,Healthy,Adoption,Walkin,4.0,0,Spring Peak
+Sonoma County Shelter,A425613,Cat,Domestic Sh,Black/White,Female,Medium,24,2024-03-30T00:00:00.000,2024-05-14T00:00:00.000,Stray,Untreatable,Euthanize,Ill Severe,45.0,1,Spring Peak
+Sonoma County Shelter,A426357,Dog,Poodle Min,Brown/Gray,Male,Medium,24,2024-05-11T00:00:00.000,2024-05-14T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Web,3.0,0,Spring Peak
+Sonoma County Shelter,A444478,Dog,Alaskan Husky,White/Brown,Female,Medium,24,2026-09-12T00:00:00.000,,Stray,Unknown,Unknown,,0.1,0,Fall Moderate
+Sonoma County Shelter,A423972,Dog,Great Pyrenees,White,Male,Medium,24,2024-05-11T00:00:00.000,2024-05-14T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Web,3.0,0,Spring Peak
+Sonoma County Shelter,A426356,Dog,Eng Setter,White/Black,Female,Medium,24,2024-05-11T00:00:00.000,2024-05-11T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Walkin,0.1,0,Spring Peak
+Sonoma County Shelter,A426289,Dog,Germ Shepherd/Mix,Black/Tan,Male,Medium,24,2024-05-13T00:00:00.000,2024-05-14T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Walkin,1.0,0,Spring Peak
+Sonoma County Shelter,A426290,Dog,Germ Shepherd/Mix,Tan/Black,Male,Medium,24,2024-05-13T00:00:00.000,2024-05-14T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Walkin,1.0,0,Spring Peak
+Sonoma County Shelter,A425750,Wildlife,Bat,Brown,Unknown,Medium,24,2024-04-09T00:00:00.000,2024-05-14T00:00:00.000,Quarantine,Unknown,Transfer,Lab Fra,35.0,1,Spring Peak
+Sonoma County Shelter,A425137,Dog,Beagle/Chinese Sharpei,Red,Male,Medium,24,2024-03-12T00:00:00.000,2024-03-14T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Web,2.0,0,Spring Peak
+Sonoma County Shelter,A417359,Dog,Pit Bull/Mix,Gray,Neutered,Medium,24,2023-07-22T00:00:00.000,2024-03-15T00:00:00.000,Adoption Return,Healthy,Adoption,Referral-V,237.0,1,Summer High
+Sonoma County Shelter,A442242,Dog,Chihuahua Sh/Mix,Tan,Neutered,Medium,24,2026-06-05T00:00:00.000,2026-07-01T00:00:00.000,Confiscate,Unknown,Adoption,Scas Web,26.0,0,Summer High
+Sonoma County Shelter,A416583,Dog,French Bulldog/Mix,Tan,Female,Medium,24,2023-04-07T00:00:00.000,2023-04-07T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Call,0.1,0,Spring Peak
+Sonoma County Shelter,A425227,Dog,Germ Shepherd/Golden Retr,Red,Male,Medium,24,2024-03-14T00:00:00.000,2024-03-14T00:00:00.000,Stray,Unknown,Return To Owner,Fld_Idtag,0.1,0,Spring Peak
+Sonoma County Shelter,A414424,Dog,Chihuahua Sh,Tan,Neutered,Medium,24,2022-12-13T00:00:00.000,2022-12-13T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Mchip,0.1,0,Winter Standard
+Sonoma County Shelter,A258798,Dog,Chihuahua Sh,Brown,Male,Medium,24,2024-03-13T00:00:00.000,2024-03-14T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Web,1.0,0,Spring Peak
+Sonoma County Shelter,A443747,Cat,Domestic Mh,Gray,Spayed,Small,24,2026-08-14T00:00:00.000,,Stray,Unknown,Unknown,,0.1,0,Summer High
+Sonoma County Shelter,A288307,Dog,Yorkshire Terr/Mix,Black/Tan,Spayed,Medium,24,2024-03-16T00:00:00.000,2024-03-16T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Web,0.1,0,Spring Peak
+Sonoma County Shelter,A426442,Cat,Domestic Sh,Org Tabby/White,Unknown,Medium,24,2024-05-15T00:00:00.000,2024-05-15T00:00:00.000,Stray,Unknown,Disposal,Doa,0.1,0,Spring Peak
+Sonoma County Shelter,A426421,Cat,Domestic Sh,Gray/White,Unknown,Small,24,2024-05-15T00:00:00.000,2024-05-15T00:00:00.000,Stray,Unknown,Transfer,We Care,0.1,0,Spring Peak
+Sonoma County Shelter,A443751,Cat,Domestic Sh,Lynx Pt,Spayed,Small,24,2026-08-14T00:00:00.000,,Owner Surrender,Unknown,Unknown,,0.1,0,Summer High
+Sonoma County Shelter,A426443,Cat,Domestic Sh,Gray/White,Unknown,Medium,24,2024-05-15T00:00:00.000,2024-05-15T00:00:00.000,Stray,Unknown,Disposal,Doa,0.1,0,Spring Peak
+Sonoma County Shelter,A443752,Cat,Domestic Sh,Seal Pt,Spayed,Small,24,2026-08-14T00:00:00.000,,Owner Surrender,Unknown,Unknown,,0.1,0,Summer High
+Sonoma County Shelter,A443750,Cat,Domestic Sh,Lynx Pt,Spayed,Small,24,2026-08-14T00:00:00.000,,Owner Surrender,Unknown,Unknown,,0.1,0,Summer High
+Sonoma County Shelter,A426420,Cat,Domestic Sh,Gray/White,Unknown,Small,24,2024-05-15T00:00:00.000,2024-05-15T00:00:00.000,Stray,Unknown,Transfer,We Care,0.1,0,Spring Peak
+Sonoma County Shelter,A426423,Cat,Domestic Sh,Gray/White,Unknown,Small,24,2024-05-15T00:00:00.000,2024-05-15T00:00:00.000,Stray,Unknown,Transfer,We Care,0.1,0,Spring Peak
+Sonoma County Shelter,A426422,Cat,Domestic Sh,Gray/White,Unknown,Small,24,2024-05-15T00:00:00.000,2024-05-15T00:00:00.000,Stray,Unknown,Transfer,We Care,0.1,0,Spring Peak
+Sonoma County Shelter,A444343,Cat,Domestic Sh,Brn Tabby/White,Neutered,Medium,24,2026-09-08T00:00:00.000,2026-09-12T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Walkin,4.0,0,Fall Moderate
+Sonoma County Shelter,A426436,Dog,Germ Shepherd/Siberian Husky,Tan/Black,Neutered,Medium,24,2024-05-15T00:00:00.000,2024-05-15T00:00:00.000,Owner Surrender,Unknown,Return To Owner,Over The Counter_Notice,0.1,0,Spring Peak
+Sonoma County Shelter,A423819,Dog,Germ Shepherd,Black/Tan,Neutered,Medium,24,2024-01-14T00:00:00.000,2024-03-16T00:00:00.000,Stray,Healthy,Adoption,Oth_Media,62.0,1,Winter Standard
+Sonoma County Shelter,A288934,Dog,Schnauzer Min,White/Black,Neutered,Medium,24,2024-03-15T00:00:00.000,2024-03-16T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Web,1.0,0,Spring Peak
+Sonoma County Shelter,A429532,Dog,Siberian Husky/Germ Shepherd,White,Male,Medium,24,2026-09-11T00:00:00.000,2026-09-12T00:00:00.000,Confiscate,Unknown,Transfer,Hssc,1.0,0,Fall Moderate
+Sonoma County Shelter,A414424,Dog,Chihuahua Sh,Tan,Neutered,Medium,24,2024-03-13T00:00:00.000,2024-03-14T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Mchip,1.0,0,Spring Peak
+Sonoma County Shelter,A425193,Dog,Pit Bull,White/Black,Male,Medium,24,2024-03-12T00:00:00.000,2024-03-17T00:00:00.000,Owner Surrender,Unknown,Transfer,We Care,5.0,0,Spring Peak
+Sonoma County Shelter,A426157,Dog,Germ Shepherd,Tan/Black,Neutered,Medium,24,2024-04-30T00:00:00.000,2024-05-16T00:00:00.000,Quarantine,Unknown,Euthanize,Aggressive,16.0,0,Spring Peak
+Sonoma County Shelter,A425107,Dog,Pug,Brown/Black,Female,Medium,24,2024-03-09T00:00:00.000,2024-03-18T00:00:00.000,Stray,Unknown,Transfer,Pugres Sac,9.0,0,Spring Peak
+Sonoma County Shelter,A426417,Dog,Aust Cattle Dog,Black/Gray,Neutered,Medium,24,2024-05-14T00:00:00.000,2024-05-16T00:00:00.000,Confiscate,Unknown,Return To Owner,Over The Counter_Arrest,2.0,0,Spring Peak
+Sonoma County Shelter,A401507,Dog,Pit Bull/Mix,White/Black,Female,Medium,24,2024-04-03T00:00:00.000,2024-04-06T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Web,3.0,0,Spring Peak
+Sonoma County Shelter,A415089,Dog,Germ Shepherd/Mix,Black/Tan,Spayed,Medium,24,2023-03-11T00:00:00.000,2023-03-16T00:00:00.000,Adoption Return,Healthy,Adoption,Walkin,5.0,0,Spring Peak
+Sonoma County Shelter,A426158,Dog,Germ Shepherd,Tan/Black,Spayed,Medium,24,2024-04-30T00:00:00.000,2024-05-16T00:00:00.000,Quarantine,Unknown,Euthanize,Aggressive,16.0,0,Spring Peak
+Sonoma County Shelter,A415089,Dog,Germ Shepherd/Mix,Black/Tan,Spayed,Medium,24,2023-01-20T00:00:00.000,2023-03-10T00:00:00.000,Stray,Healthy,Adoption,Scas Web,49.0,1,Winter Standard
+Sonoma County Shelter,A401507,Dog,Pit Bull/Mix,White/Black,Female,Medium,24,2020-11-20T00:00:00.000,2020-11-21T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Web,1.0,0,Fall Moderate
+Sonoma County Shelter,A444341,Cat,Siamese,White,Neutered,Medium,24,2026-09-06T00:00:00.000,2026-09-12T00:00:00.000,Quarantine,Unknown,Return To Owner,Over The Counter_Notice,6.0,0,Fall Moderate
+Sonoma County Shelter,A426063,Dog,Labrador Retr,Black,Male,Medium,24,2024-05-17T00:00:00.000,2024-05-17T00:00:00.000,Stray,Unknown,Return To Owner,Fld_Mchip,0.1,0,Spring Peak
+Sonoma County Shelter,A442244,Dog,Chihuahua Sh/Mix,Tricolor,Neutered,Medium,24,2026-06-05T00:00:00.000,2026-07-01T00:00:00.000,Confiscate,Unknown,Adoption,Fb Scas,26.0,0,Summer High
+Sonoma County Shelter,A444364,Cat,Domestic Mh,Brn Tabby/White,Male,Medium,24,2026-09-08T00:00:00.000,,Stray,Unknown,Unknown,,0.1,0,Fall Moderate
+Sonoma County Shelter,A425100,Dog,Bull Terrier,Tricolor,Male,Medium,24,2024-03-09T00:00:00.000,2024-03-19T00:00:00.000,Stray,Unknown,Euthanize,Aggressive,10.0,0,Spring Peak
+Sonoma County Shelter,A425009,Dog,Siberian Husky,White,Male,Medium,24,2024-03-06T00:00:00.000,2024-03-19T00:00:00.000,Stray,Unknown,Euthanize,Aggressive,13.0,0,Spring Peak
+Sonoma County Shelter,A425321,Dog,Labrador Retr/Mix,Chocolate,Male,Medium,24,2024-03-19T00:00:00.000,2024-03-19T00:00:00.000,Stray,Unknown,Return To Owner,Fld_Mchip,0.1,0,Spring Peak
+Sonoma County Shelter,A444124,Dog,Pit Bull,Tan/White,Male,Medium,24,2026-08-27T00:00:00.000,2026-09-12T00:00:00.000,Confiscate,Unknown,Return To Owner,Over The Counter_Arrest,16.0,0,Summer High
+Sonoma County Shelter,A426242,Dog,Chihuahua Sh,Brown/White,Female,Medium,24,2024-05-06T00:00:00.000,2024-05-17T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Mchip,11.0,0,Spring Peak
+Sonoma County Shelter,A442669,Cat,Domestic Sh,Black,Unknown,Small,24,2026-06-24T00:00:00.000,2026-07-01T00:00:00.000,Stray,Unknown,Transfer,Petluma Pp,7.0,0,Summer High
+Sonoma County Shelter,A424184,Dog,Labrador Retr/Mix,Black/Tan,Female,Medium,24,2024-02-01T00:00:00.000,2024-03-19T00:00:00.000,Stray,Unknown,Euthanize,Beh Severe,47.0,1,Winter Standard
+Sonoma County Shelter,A425242,Cat,Domestic Sh,Slvr Tabby,Unknown,Small,24,2024-03-14T00:00:00.000,2024-03-19T00:00:00.000,Stray,Unknown,Transfer,We Care,5.0,0,Spring Peak
+Sonoma County Shelter,A425239,Cat,Domestic Sh,Org Tabby,Unknown,Small,24,2024-03-14T00:00:00.000,2024-03-19T00:00:00.000,Stray,Unknown,Transfer,We Care,5.0,0,Spring Peak
+Sonoma County Shelter,A425241,Cat,Domestic Sh,Org Tabby,Unknown,Small,24,2024-03-14T00:00:00.000,2024-03-19T00:00:00.000,Stray,Unknown,Transfer,We Care,5.0,0,Spring Peak
+Sonoma County Shelter,A410735,Dog,Pit Bull,Br Brindle,Neutered,Medium,24,2026-01-30T00:00:00.000,,Stray,Unknown,Unknown,,0.1,0,Winter Standard
+Sonoma County Shelter,A425238,Cat,Domestic Sh,Tortie,Female,Medium,24,2024-03-14T00:00:00.000,2024-03-19T00:00:00.000,Stray,Unknown,Transfer,We Care,5.0,0,Spring Peak
+Sonoma County Shelter,A425240,Cat,Domestic Sh,Org Tabby,Unknown,Small,24,2024-03-14T00:00:00.000,2024-03-19T00:00:00.000,Stray,Unknown,Transfer,We Care,5.0,0,Spring Peak
+Sonoma County Shelter,A444468,Cat,Domestic Sh,Black/White,Unknown,Medium,24,2026-09-12T00:00:00.000,2026-09-12T00:00:00.000,Stray,Unknown,Disposal,Doa,0.1,0,Fall Moderate
+Sonoma County Shelter,A442750,Dog,Beagle,White/Black,Neutered,Medium,24,2026-06-29T00:00:00.000,2026-07-01T00:00:00.000,Confiscate,Unknown,Return To Owner,Over The Counter_Notice,2.0,0,Summer High
+Sonoma County Shelter,A425004,Dog,Siberian Husky,White/Black,Neutered,Medium,24,2024-03-13T00:00:00.000,2024-03-19T00:00:00.000,Confiscate,Unknown,Return To Owner,Over The Counter_Call,6.0,0,Spring Peak
+Sonoma County Shelter,A424185,Dog,Labrador Retr/Mix,Black/Tan,Male,Medium,24,2024-02-01T00:00:00.000,2024-03-19T00:00:00.000,Stray,Unknown,Euthanize,Aggressive,47.0,1,Winter Standard
+Sonoma County Shelter,A413804,Dog,Amer Bulldog/Mix,Black/White,Neutered,Medium,24,2024-03-16T00:00:00.000,2024-03-19T00:00:00.000,Confiscate,Unknown,Return To Owner,Over The Counter_Prvs,3.0,0,Spring Peak
+Sonoma County Shelter,A444016,Dog,Belg Malinois/Mix,Br Brindle,Male,Medium,24,2026-08-23T00:00:00.000,,Stray,Unknown,Unknown,,0.1,0,Summer High
+Sonoma County Shelter,A444019,Dog,Belg Malinois/Mix,Br Brindle/White,Male,Medium,24,2026-08-23T00:00:00.000,,Stray,Unknown,Unknown,,0.1,0,Summer High
+Sonoma County Shelter,A443040,Cat,Domestic Lh,Gray/White,Spayed,Small,24,2026-07-13T00:00:00.000,,Stray,Unknown,Unknown,,0.1,0,Summer High
+Sonoma County Shelter,A425003,Dog,Siberian Husky,White/Black,Spayed,Medium,24,2024-03-13T00:00:00.000,2024-03-19T00:00:00.000,Confiscate,Unknown,Return To Owner,Over The Counter_Call,6.0,0,Spring Peak
+Sonoma County Shelter,A425778,Bird,Chicken,Black,Female,Medium,24,2024-04-10T00:00:00.000,2024-05-17T00:00:00.000,Stray,Unknown,Adoption,Scas Web,37.0,1,Spring Peak
+Sonoma County Shelter,A425306,Dog,Great Pyrenees,White,Neutered,Medium,24,2024-03-17T00:00:00.000,2024-03-20T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Web,3.0,0,Spring Peak
+Sonoma County Shelter,A424907,Dog,Aust Shepherd,Brown,Female,Medium,24,2024-03-01T00:00:00.000,2024-03-12T00:00:00.000,Confiscate,Unknown,Return To Owner,Over The Counter_Arrest,11.0,0,Spring Peak
+Sonoma County Shelter,A304864,Cat,Domestic Sh,Black,Male,Small,24,2014-04-01T00:00:00.000,2014-04-01T00:00:00.000,Stray,Unknown,Died,En Route,0.1,0,Spring Peak
+Sonoma County Shelter,A425307,Dog,Great Pyrenees,White,Female,Medium,24,2024-03-17T00:00:00.000,2024-03-20T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Web,3.0,0,Spring Peak
+Sonoma County Shelter,A424982,Dog,Belg Malinois,Tan/Black,Male,Medium,24,2024-03-12T00:00:00.000,2024-03-20T00:00:00.000,Stray,Healthy,Return To Owner,Over The Counter_Notice,8.0,0,Spring Peak
+Sonoma County Shelter,A425829,Dog,Pit Bull,Gray,Neutered,Medium,24,2024-04-12T00:00:00.000,2024-05-17T00:00:00.000,Stray,Healthy,Adoption,Referral-F,35.0,1,Spring Peak
+Sonoma County Shelter,A444368,Cat,Domestic Sh,Brn Tabby,Male,Medium,24,2026-09-08T00:00:00.000,2026-09-12T00:00:00.000,Stray,Unknown,Transfer,Petcare,4.0,0,Fall Moderate
+Sonoma County Shelter,A331887,Dog,Siberian Husky,Tan/White,Spayed,Medium,24,2026-09-11T00:00:00.000,2026-09-12T00:00:00.000,Confiscate,Unknown,Transfer,Hssc,1.0,0,Fall Moderate
+Sonoma County Shelter,A230349,Dog,Chihuahua Sh/Mix,Tricolor,Neutered,Medium,24,2024-03-16T00:00:00.000,2024-03-18T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Web,2.0,0,Spring Peak
+Sonoma County Shelter,A424981,Dog,Belg Malinois,Tan/Black,Female,Medium,24,2024-03-12T00:00:00.000,2024-03-20T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Walkin,8.0,0,Spring Peak
+Sonoma County Shelter,A401507,Dog,Pit Bull/Mix,White/Black,Female,Medium,24,2024-05-11T00:00:00.000,2024-05-17T00:00:00.000,Stray,Unknown,Rtos,Sphone,6.0,0,Spring Peak
+Sonoma County Shelter,A425017,Dog,Mastiff,Br Brindle/White,Neutered,Medium,24,2024-03-06T00:00:00.000,2024-03-21T00:00:00.000,Stray,Unknown,Euthanize,Con Severe,15.0,0,Spring Peak
+Sonoma County Shelter,A310075,Dog,Border Collie/Labrador Retr,Black/White,Neutered,Medium,24,2024-05-06T00:00:00.000,2024-05-17T00:00:00.000,Confiscate,Unknown,Return To Owner,Over The Counter_Notice,11.0,0,Spring Peak
+Sonoma County Shelter,A444465,Wildlife,Bat,Brown,Unknown,Medium,24,2026-09-12T00:00:00.000,2026-09-12T00:00:00.000,Quarantine,Unknown,Euthanize,Fra,0.1,0,Fall Moderate
+Sonoma County Shelter,A424912,Dog,Germ Shepherd,Black/Tan,Female,Medium,24,2024-03-01T00:00:00.000,2024-03-21T00:00:00.000,Stray,Unknown,Euthanize,Beh Severe,20.0,0,Spring Peak
+Sonoma County Shelter,A425105,Dog,French Bulldog,White,Male,Medium,24,2024-03-09T00:00:00.000,2024-03-21T00:00:00.000,Stray,Unknown,Euthanize,Con Severe,12.0,0,Spring Peak
+Sonoma County Shelter,A425261,Dog,Rhod Ridgeback/Mix,Brown,Female,Medium,24,2024-03-15T00:00:00.000,2024-03-19T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Mchip,4.0,0,Spring Peak
+Sonoma County Shelter,A425305,Cat,Domestic Sh,Black/White,Unknown,Medium,24,2024-03-16T00:00:00.000,2024-03-21T00:00:00.000,Stray,Unknown,Disposal,Doa,5.0,0,Spring Peak
+Sonoma County Shelter,A444445,Dog,French Bulldog,Blue Merle,Male,Medium,24,2026-09-11T00:00:00.000,2026-09-12T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Web,1.0,0,Fall Moderate
+Sonoma County Shelter,A444365,Cat,Domestic Mh,Brn Tabby,Male,Medium,24,2026-09-08T00:00:00.000,,Stray,Unknown,Unknown,,0.1,0,Fall Moderate
+Sonoma County Shelter,A424107,Dog,Aust Cattle Dog,Brown,Neutered,Medium,24,2024-01-28T00:00:00.000,2024-03-16T00:00:00.000,Stray,Healthy,Adoption,Walkin,48.0,1,Winter Standard
+Sonoma County Shelter,A362734,Dog,Germ Shepherd/Mix,Black/Tan,Male,Medium,24,2024-05-18T00:00:00.000,2024-05-18T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Notice,0.1,0,Spring Peak
+Sonoma County Shelter,A426236,Dog,Labrador Retr/Mix,Black,Male,Medium,24,2024-05-04T00:00:00.000,2024-05-18T00:00:00.000,Stray,Unknown,Euthanize,Beh Severe,14.0,0,Spring Peak
+Sonoma County Shelter,A425279,Cat,Domestic Sh,Gray,Unknown,Small,24,2024-03-16T00:00:00.000,2024-03-23T00:00:00.000,Stray,Unknown,Transfer,Forgotten,7.0,0,Spring Peak
+Sonoma County Shelter,A425316,Cat,Domestic Sh,Gray/White,Female,Medium,24,2024-03-18T00:00:00.000,2024-03-22T00:00:00.000,Confiscate,Unknown,Return To Owner,Medical,4.0,0,Spring Peak
+Sonoma County Shelter,A426252,Dog,Pit Bull/Mix,Br Brindle/White,Male,Medium,24,2024-05-07T00:00:00.000,2024-05-18T00:00:00.000,Stray,Unknown,Euthanize,Aggressive,11.0,0,Spring Peak
+Sonoma County Shelter,A424117,Dog,Pug,Tan/Black,Neutered,Medium,24,2024-01-29T00:00:00.000,2024-03-22T00:00:00.000,Stray,Healthy,Adoption,Finder,53.0,1,Winter Standard
+Sonoma County Shelter,A393740,Dog,Yorkshire Terr/Mix,Black/Brown,Spayed,Medium,24,2024-03-16T00:00:00.000,2024-03-22T00:00:00.000,Confiscate,Unknown,Return To Owner,Medical,6.0,0,Spring Peak
+Sonoma County Shelter,A425120,Cat,Himalayan,Calico,Female,Medium,24,2024-03-11T00:00:00.000,2024-03-20T00:00:00.000,Confiscate,Unknown,Transfer,Paradise,9.0,0,Spring Peak
+Sonoma County Shelter,A425303,Dog,Schnauzer Min,Gray/White,Female,Medium,24,2024-03-16T00:00:00.000,2024-03-22T00:00:00.000,Confiscate,Unknown,Return To Owner,Medical,6.0,0,Spring Peak
+Sonoma County Shelter,A426267,Dog,Siberian Husky/Mix,Tan,Female,Medium,24,2024-05-17T00:00:00.000,2024-05-18T00:00:00.000,Owner Surrender,Unknown,Euthanize,Aggressive,1.0,0,Spring Peak
+Sonoma County Shelter,A303573,Cat,Domestic Sh,Brn Tabby/White,Spayed,Medium,24,2014-03-04T00:00:00.000,2014-04-01T00:00:00.000,Stray,Healthy,Adoption,Walkin,28.0,0,Spring Peak
+Sonoma County Shelter,A425436,Cat,Domestic Sh,Calico,Spayed,Medium,24,2024-03-22T00:00:00.000,2024-03-22T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Call,0.1,0,Spring Peak
+Sonoma County Shelter,A425869,Cat,Domestic Sh,Black,Male,Medium,24,2024-04-15T00:00:00.000,2024-05-18T00:00:00.000,Stray,Unknown,Euthanize,Ill Severe,33.0,1,Spring Peak
+Sonoma County Shelter,A425304,Cat,Domestic Sh,Tortie,Spayed,Medium,24,2024-03-16T00:00:00.000,2024-03-22T00:00:00.000,Confiscate,Unknown,Return To Owner,Medical,6.0,0,Spring Peak
+Sonoma County Shelter,A426365,Dog,Am Pit Bull Ter/Mix,Tan/White,Male,Medium,24,2024-05-11T00:00:00.000,2024-05-16T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Letter,5.0,0,Spring Peak
+Sonoma County Shelter,A400085,Dog,Aust Shepherd,Red,Neutered,Medium,24,2024-03-08T00:00:00.000,2024-03-20T00:00:00.000,Confiscate,Unknown,Transfer,Paradise,12.0,0,Spring Peak
+Sonoma County Shelter,A426268,Dog,Siberian Husky/Mix,White,Male,Medium,24,2024-05-17T00:00:00.000,2024-05-18T00:00:00.000,Owner Surrender,Unknown,Euthanize,Aggressive,1.0,0,Spring Peak
+Sonoma County Shelter,A425150,Cat,Domestic Mh,Gray/White,Neutered,Medium,24,2024-03-11T00:00:00.000,2024-03-20T00:00:00.000,Confiscate,Unknown,Transfer,Paradise,9.0,0,Spring Peak
+Sonoma County Shelter,A425431,Wildlife,Bat,Brown,Unknown,Medium,24,2024-03-22T00:00:00.000,2024-03-22T00:00:00.000,Quarantine,Unknown,Euthanize,Fra,0.1,0,Spring Peak
+Sonoma County Shelter,A425414,Cat,Siamese/Mix,Flame Pt,Spayed,Medium,24,2024-03-21T00:00:00.000,2024-03-22T00:00:00.000,Stray,Healthy,Return To Owner,Over The Counter_Web,1.0,0,Spring Peak
+Sonoma County Shelter,A310939,Dog,Aust Shepherd,Blue Merle,Spayed,Medium,24,2024-03-08T00:00:00.000,2024-03-20T00:00:00.000,Confiscate,Unknown,Transfer,Paradise,12.0,0,Spring Peak
+Sonoma County Shelter,A412228,Dog,Siberian Husky/Mix,Tan/White,Male,Medium,24,2024-05-17T00:00:00.000,2024-05-18T00:00:00.000,Owner Surrender,Unknown,Euthanize,Aggressive,1.0,0,Spring Peak
+Sonoma County Shelter,A425281,Cat,Domestic Sh,Gray,Unknown,Small,24,2024-03-16T00:00:00.000,2024-03-23T00:00:00.000,Stray,Unknown,Transfer,Forgotten,7.0,0,Spring Peak
+Sonoma County Shelter,A403737,Dog,Pit Bull,Gray/White,Male,Medium,24,2024-03-22T00:00:00.000,2024-03-23T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Call,1.0,0,Spring Peak
+Sonoma County Shelter,A424655,Dog,Germ Shepherd/Mix,Brown,Spayed,Medium,24,2024-02-20T00:00:00.000,2024-03-23T00:00:00.000,Stray,Healthy,Adoption,Oth_Media,32.0,1,Winter Standard
+Sonoma County Shelter,A424102,Dog,Germ Shepherd/Mix,Black/Brown,Neutered,Medium,24,2024-01-27T00:00:00.000,2024-03-23T00:00:00.000,Stray,Unknown,Adoption,Scas Web,56.0,1,Winter Standard
+Sonoma County Shelter,A424908,Cat,Domestic Mh,Brn Tabby,Neutered,Medium,24,2024-03-01T00:00:00.000,2024-03-23T00:00:00.000,Stray,Healthy,Adoption,Oth_Media,22.0,0,Spring Peak
+Sonoma County Shelter,A444366,Cat,Domestic Mh,Brn Tabby,Female,Medium,24,2026-09-08T00:00:00.000,,Stray,Unknown,Unknown,,0.1,0,Fall Moderate
+Sonoma County Shelter,A425276,Cat,Domestic Sh,Gray,Unknown,Small,24,2024-03-16T00:00:00.000,2024-03-23T00:00:00.000,Stray,Unknown,Transfer,Forgotten,7.0,0,Spring Peak
+Sonoma County Shelter,A423128,Dog,Pit Bull/Mix,Br Brindle,Male,Medium,24,2024-03-19T00:00:00.000,2024-03-23T00:00:00.000,Confiscate,Unknown,Return To Owner,Over The Counter_Prvs,4.0,0,Spring Peak
+Sonoma County Shelter,A425278,Cat,Domestic Sh,Gray,Unknown,Small,24,2024-03-16T00:00:00.000,2024-03-23T00:00:00.000,Stray,Unknown,Transfer,Forgotten,7.0,0,Spring Peak
+Sonoma County Shelter,A425275,Cat,Domestic Sh,Black/White,Female,Medium,24,2024-03-16T00:00:00.000,2024-03-23T00:00:00.000,Stray,Healthy,Transfer,Forgotten,7.0,0,Spring Peak
+Sonoma County Shelter,A425280,Cat,Domestic Sh,Gray,Unknown,Small,24,2024-03-16T00:00:00.000,2024-03-23T00:00:00.000,Stray,Unknown,Transfer,Forgotten,7.0,0,Spring Peak
+Sonoma County Shelter,A413804,Dog,Amer Bulldog/Mix,Black/White,Neutered,Medium,24,2024-03-19T00:00:00.000,2024-03-23T00:00:00.000,Owner Surrender,Unknown,Euthanize,Aggressive,4.0,0,Spring Peak
+Sonoma County Shelter,A424241,Cat,Domestic Sh,Black/White,Neutered,Medium,24,2024-02-05T00:00:00.000,2024-03-23T00:00:00.000,Stray,Healthy,Adoption,Walkin,47.0,1,Winter Standard
+Sonoma County Shelter,A426416,Wildlife,Bat,Brown,Unknown,Medium,24,2024-05-14T00:00:00.000,2024-05-15T00:00:00.000,Quarantine,Unknown,Transfer,Lab Fra,1.0,0,Spring Peak
+Sonoma County Shelter,A425365,Cat,Domestic Sh,Gray,Female,Medium,24,2024-03-20T00:00:00.000,2024-03-23T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Web,3.0,0,Spring Peak

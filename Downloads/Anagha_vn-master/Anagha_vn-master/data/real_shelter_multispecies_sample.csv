@@ -1,0 +1,300 @@
+source_portal,id,species,breed,color,sex,size,age_months,intake_date,outcome_date,intake_type,intake_condition,outcome_type,outcome_subtype,length_of_stay_days,is_high_risk,intake_season
+Austin Animal Center,A929523,Cat,Domestic Shorthair,Black/White,Unknown,Standard,72,2025-05-01T13:06:00.000,2025-05-05T07:22:00,Stray,Medical,Transfer,Partner,3.76,0,Spring Peak
+Austin Animal Center,A929377,Cat,Domestic Shorthair,Orange Tabby,Unknown,Standard,24,2025-04-29T13:36:00.000,2025-05-05T07:21:00,Stray,Normal,Transfer,Partner,5.74,0,Spring Peak
+Austin Animal Center,A929559,Cat,Domestic Shorthair,Gray Tabby/White,Intact Male,Standard,1,2025-05-01T21:00:00.000,2025-05-05T00:00:00,Stray,Injured,Transfer,Partner,3.12,0,Spring Peak
+Austin Animal Center,A848454,Cat,Domestic Shorthair Mix,Orange Tabby,Spayed Female,Standard,84,2021-12-20T17:35:00.000,2025-05-04T18:53:00,Owner Surrender,Normal,Adoption,,1231.05,1,Winter Standard
+Austin Animal Center,A929205,Dog,Australian Cattle Dog,White/Black,Intact Male,Standard,4,2025-04-26T12:37:00.000,2025-05-04T18:46:00,Abandoned,Normal,Adoption,,8.26,0,Spring Peak
+Austin Animal Center,A925997,Cat,Domestic Shorthair,Orange Tabby,Intact Male,Standard,1,2025-03-03T18:53:00.000,2025-05-04T18:39:00,Stray,Neonatal,Adoption,Foster,61.99,1,Spring Peak
+Austin Animal Center,A464421,Cat,Siamese Mix,Lynx Point,Spayed Female,Standard,156,2020-11-10T15:29:00.000,2025-05-04T18:23:00,Owner Surrender,Normal,Adoption,Foster,1636.12,1,Fall Moderate
+Austin Animal Center,A928232,Dog,Mastiff,Brown/Black,Intact Male,Standard,24,2025-04-10T10:38:00.000,2025-05-04T18:08:00,Stray,Unknown,Adoption,,24.31,0,Spring Peak
+Austin Animal Center,A926142,Dog,Labrador Retriever Mix,Red,Intact Male,Standard,7,2025-03-06T11:35:00.000,2025-05-04T18:03:00,Owner Surrender,Normal,Adoption,,59.27,1,Spring Peak
+Austin Animal Center,A917477,Dog,Mastiff/Pit Bull,Brown Brindle,Intact Male,Standard,12,2024-11-06T17:55:00.000,2025-05-04T17:53:00,Stray,Normal,Adoption,,179.0,1,Fall Moderate
+Austin Animal Center,A785878,Dog,Australian Cattle Dog/Labrador Retriever,Red Tick/White,Intact Male,Standard,24,2018-12-11T17:51:00.000,2025-05-04T17:24:00,Stray,Normal,Adoption,Foster,2335.98,1,Winter Standard
+Austin Animal Center,A929710,Cat,American Shorthair,White/Black,Neutered Male,Standard,120,2025-05-04T13:15:00.000,2025-05-04T17:13:03,Stray,Sick,Euthanasia,Suffering,0.17,0,Spring Peak
+Austin Animal Center,A927303,Cat,Domestic Shorthair,Tortie,Intact Female,Standard,12,2025-03-25T11:25:00.000,2025-05-04T17:13:00,Owner Surrender,Normal,Adoption,,40.24,1,Spring Peak
+Austin Animal Center,A912968,Dog,Greyhound,Fawn,Spayed Female,Standard,7,2024-09-09T09:38:00.000,2025-05-04T16:58:00,Stray,Injured,Adoption,Foster,237.31,1,Fall Moderate
+Austin Animal Center,A928474,Cat,Domestic Shorthair,Torbie,Spayed Female,Standard,12,2025-04-14T13:42:00.000,2025-05-04T16:11:00,Public Assist,Normal,Adoption,,20.1,0,Spring Peak
+Austin Animal Center,A921762,Dog,Pit Bull,White,Spayed Female,Standard,24,2025-04-09T12:57:00.000,2025-05-04T16:04:00,Stray,Normal,Transfer,Partner,25.13,0,Spring Peak
+Austin Animal Center,A927485,Dog,Anatol Shepherd Mix,Brown Brindle/White,Intact Male,Standard,2,2025-03-28T11:40:00.000,2025-05-04T15:44:00,Stray,Normal,Adoption,,37.17,1,Spring Peak
+Austin Animal Center,A924278,Dog,German Shepherd Mix,Black/Brown,Intact Male,Standard,24,2025-02-09T15:56:00.000,2025-05-04T15:42:00,Stray,Sick,Adoption,,83.99,1,Winter Standard
+Austin Animal Center,A621834,Dog,Jack Russell Terrier Mix,White/Gray,Spayed Female,Standard,180,2025-04-24T11:36:00.000,2025-05-04T14:18:00,Stray,Medical,Adoption,,10.11,0,Spring Peak
+Austin Animal Center,A928536,Cat,Domestic Shorthair,Black,Intact Male,Standard,1,2025-04-15T12:30:00.000,2025-05-04T13:08:00,Stray,Sick,Adoption,Foster,19.03,0,Spring Peak
+Austin Animal Center,A926375,Cat,Domestic Shorthair,Black/White,Intact Male,Standard,1,2025-03-10T12:38:00.000,2025-05-04T13:03:00,Stray,Neonatal,Adoption,Foster,55.02,1,Spring Peak
+Austin Animal Center,A929174,Dog,Border Collie,White/Black,Spayed Female,Standard,12,2025-04-25T17:27:00.000,2025-05-04T13:01:00,Stray,Normal,Adoption,,8.82,0,Spring Peak
+Austin Animal Center,A927435,Dog,Siberian Husky,Black/Brown,Intact Male,Standard,1,2025-03-27T11:47:00.000,2025-05-04T12:49:00,Stray,Normal,Adoption,,38.04,1,Spring Peak
+Austin Animal Center,A926373,Cat,Domestic Shorthair,Black,Intact Female,Standard,1,2025-03-10T12:38:00.000,2025-05-04T12:48:00,Stray,Neonatal,Adoption,Foster,55.01,1,Spring Peak
+Austin Animal Center,A926374,Cat,Domestic Shorthair,Black,Intact Female,Standard,1,2025-03-10T12:38:00.000,2025-05-04T12:46:00,Stray,Neonatal,Adoption,Foster,55.01,1,Spring Peak
+Austin Animal Center,A923417,Rabbit,Rabbit Sh,White/Brown,Intact Male,Standard,12,2025-02-03T13:56:00.000,2025-05-04T12:39:00,Stray,Normal,Adoption,Foster,89.95,1,Winter Standard
+Austin Animal Center,A929023,Cat,Domestic Shorthair,Brown Tabby/White,Neutered Male,Standard,36,2025-04-23T13:56:00.000,2025-05-04T12:29:00,Owner Surrender,Normal,Adoption,,10.94,0,Spring Peak
+Austin Animal Center,A927578,Dog,German Shepherd/Labrador Retriever,Brown/Black,Intact Male,Standard,24,2025-03-30T11:31:00.000,2025-05-04T12:16:00,Owner Surrender,Normal,Adoption,,35.03,1,Spring Peak
+Austin Animal Center,A929541,Cat,Domestic Longhair,Blue/White,Intact Female,Standard,1,2025-05-01T16:06:00.000,2025-05-04T10:34:00,Stray,Medical,Euthanasia,Suffering,2.77,0,Spring Peak
+Austin Animal Center,A928986,Dog,German Shepherd,Black/Brown,Intact Male,Standard,12,2025-04-23T09:20:00.000,2025-05-03T19:20:00,Stray,Normal,Adoption,,10.42,0,Spring Peak
+Austin Animal Center,A928789,Dog,Pit Bull,Red/White,Intact Male,Standard,24,2025-04-19T10:15:00.000,2025-05-03T18:41:00,Public Assist,Normal,Adoption,,14.35,0,Spring Peak
+Austin Animal Center,A929503,Small Animal,Mouse,White/Black,Intact Male,Standard,1,2025-05-01T11:32:00.000,2025-05-03T18:33:00,Owner Surrender,Normal,Adoption,,2.29,0,Spring Peak
+Austin Animal Center,A929504,Small Animal,Mouse,White/Black,Intact Male,Standard,1,2025-05-01T11:32:00.000,2025-05-03T18:33:00,Owner Surrender,Normal,Adoption,,2.29,0,Spring Peak
+Austin Animal Center,A929143,Cat,Domestic Shorthair,Brown Tabby,Intact Female,Standard,7,2025-04-25T12:32:00.000,2025-05-03T17:46:00,Stray,Normal,Adoption,,8.22,0,Spring Peak
+Austin Animal Center,A929266,Cat,Domestic Shorthair,Blue,Intact Female,Standard,24,2025-04-27T16:43:00.000,2025-05-03T17:32:00,Stray,Normal,Adoption,,6.03,0,Spring Peak
+Austin Animal Center,A928476,Cat,Domestic Shorthair,Cream Tabby,Intact Male,Standard,5,2025-04-14T13:21:00.000,2025-05-03T17:02:00,Stray,Normal,Adoption,,19.15,0,Spring Peak
+Austin Animal Center,A929153,Cat,Domestic Longhair,Calico,Spayed Female,Standard,24,2025-04-25T13:27:00.000,2025-05-03T16:49:00,Stray,Normal,Adoption,,8.14,0,Spring Peak
+Austin Animal Center,A929560,Dog,Chihuahua Shorthair,Brown/White,Intact Male,Standard,72,2025-05-01T23:06:00.000,2025-05-03T16:26:00,Stray,Injured,Return to Owner,,1.72,0,Spring Peak
+Austin Animal Center,A927840,Cat,Domestic Longhair,Orange,Intact Male,Standard,1,2025-04-02T16:38:00.000,2025-05-03T15:44:00,Stray,Normal,Adoption,Foster,30.96,1,Spring Peak
+Austin Animal Center,A927841,Cat,Domestic Longhair,Buff,Intact Male,Standard,1,2025-04-02T16:38:00.000,2025-05-03T15:44:00,Stray,Normal,Adoption,Foster,30.96,1,Spring Peak
+Austin Animal Center,A929293,Dog,Dachshund,Tricolor,Intact Female,Standard,2,2025-04-28T11:56:00.000,2025-05-03T14:07:00,Stray,Normal,Transfer,Partner,5.09,0,Spring Peak
+Austin Animal Center,A929095,Cat,Domestic Shorthair,Blue Tabby,Neutered Male,Standard,36,2025-04-24T16:26:00.000,2025-05-03T14:04:00,Owner Surrender,Normal,Adoption,,8.9,0,Spring Peak
+Austin Animal Center,A928328,Dog,Labrador Retriever/Affenpinscher,Black/White,Intact Male,Standard,36,2025-04-15T15:35:00.000,2025-05-03T14:04:00,Stray,Normal,Adoption,Foster,17.94,0,Spring Peak
+Austin Animal Center,A929171,Cat,Domestic Shorthair,Cream Tabby/White,Spayed Female,Standard,36,2025-04-25T16:20:00.000,2025-05-03T13:53:00,Owner Surrender,Normal,Adoption,,7.9,0,Spring Peak
+Austin Animal Center,A929141,Dog,Great Pyrenees,White,Intact Female,Standard,12,2025-04-25T12:34:00.000,2025-05-03T13:30:00,Stray,Normal,Transfer,Partner,8.04,0,Spring Peak
+Austin Animal Center,A928772,Dog,German Shepherd,Brown,Intact Male,Standard,84,2025-04-18T18:32:00.000,2025-05-03T13:29:00,Stray,Injured,Transfer,Partner,14.79,0,Spring Peak
+Austin Animal Center,A929602,Cat,Domestic Shorthair,Black,Unknown,Standard,12,2025-05-02T12:22:00.000,2025-05-03T13:19:00,Stray,Normal,Transfer,Partner,1.04,0,Spring Peak
+Austin Animal Center,A929532,Cat,Domestic Shorthair,Calico,Spayed Female,Standard,36,2025-05-01T14:02:00.000,2025-05-03T13:18:00,Owner Surrender,Normal,Transfer,Partner,1.97,0,Spring Peak
+Austin Animal Center,A928241,Dog,Labrador Retriever/German Shepherd,Black/Brown,Intact Male,Standard,1,2025-04-11T11:18:00.000,2025-05-03T12:59:00,Stray,Normal,Adoption,,22.07,0,Spring Peak
+Austin Animal Center,A891961,Cat,Domestic Shorthair,Black/White,Intact Female,Standard,1,2023-10-30T14:55:00.000,2025-05-03T12:52:00,Stray,Normal,Adoption,,550.91,1,Fall Moderate
+Austin Animal Center,A929103,Cat,Domestic Shorthair,Blue Tabby,Intact Female,Standard,12,2025-04-24T23:26:00.000,2025-05-03T12:20:00,Stray,Normal,Adoption,,8.54,0,Spring Peak
+Austin Animal Center,A929372,Dog,Chihuahua Shorthair,Gray/Tan,Intact Female,Standard,96,2025-04-29T13:05:00.000,2025-05-03T11:52:00,Stray,Normal,Transfer,Partner,3.95,0,Spring Peak
+Austin Animal Center,A929631,Dog,Chihuahua Shorthair/Dachshund,Tan,Spayed Female,Standard,192,2025-05-02T20:27:00.000,2025-05-03T11:27:00,Stray,Injured,Euthanasia,At Vet,0.62,0,Spring Peak
+Austin Animal Center,A929376,Dog,French Bulldog,Black Brindle/Brown,Intact Male,Standard,36,2025-04-29T13:33:00.000,2025-05-03T11:12:00,Stray,Normal,Transfer,Partner,3.9,0,Spring Peak
+Austin Animal Center,A929242,Dog,Australian Kelpie Mix,Black/Brown,Intact Female,Standard,24,2025-04-27T10:06:00.000,2025-05-03T07:38:00,Stray,Injured,Transfer,Partner,5.9,0,Spring Peak
+Austin Animal Center,A914734,Dog,Pit Bull,Tan/White,Intact Female,Standard,6,2024-10-05T21:03:00.000,2025-05-03T07:37:00,Stray,Injured,Transfer,Partner,209.44,1,Fall Moderate
+Austin Animal Center,A929599,Cat,Domestic Shorthair,Brown Tabby,Unknown,Standard,1,2025-05-02T12:22:00.000,2025-05-02T18:44:00,Stray,Neonatal,Transfer,Partner,0.27,0,Spring Peak
+Austin Animal Center,A929598,Cat,Domestic Shorthair,Brown Tabby,Unknown,Standard,1,2025-05-02T12:22:00.000,2025-05-02T18:43:00,Stray,Neonatal,Transfer,Partner,0.26,0,Spring Peak
+Austin Animal Center,A929600,Cat,Domestic Shorthair,Brown Tabby,Unknown,Standard,1,2025-05-02T12:22:00.000,2025-05-02T18:43:00,Stray,Neonatal,Transfer,Partner,0.26,0,Spring Peak
+Austin Animal Center,A929597,Cat,Domestic Shorthair,Brown Tabby,Intact Female,Standard,12,2025-05-02T12:22:00.000,2025-05-02T18:42:00,Stray,Normal,Transfer,Partner,0.26,0,Spring Peak
+Austin Animal Center,A901944,Dog,Great Pyrenees Mix,Tan/White,Intact Male,Standard,1,2024-04-10T15:58:00.000,2025-05-02T18:04:00,Stray,Normal,Adoption,,387.09,1,Spring Peak
+Austin Animal Center,A929204,Dog,Australian Cattle Dog,White/Brown,Intact Male,Standard,4,2025-04-26T12:37:00.000,2025-05-02T17:56:00,Abandoned,Normal,Adoption,,6.22,0,Spring Peak
+Austin Animal Center,A927632,Dog,Bull Terrier,White/Black,Spayed Female,Standard,3,2025-03-31T11:46:00.000,2025-05-02T17:35:00,Stray,Normal,Adoption,,32.24,1,Spring Peak
+Austin Animal Center,A929596,Cat,Domestic Shorthair,Black,Intact Male,Standard,1,2025-05-02T12:21:00.000,2025-05-02T17:00:00,Stray,Neonatal,Transfer,Partner,0.19,0,Spring Peak
+Austin Animal Center,A926588,Dog,Great Pyrenees,White/Tan,Intact Male,Standard,4,2025-03-13T10:57:00.000,2025-05-02T16:56:00,Owner Surrender,Normal,Adoption,,50.25,1,Spring Peak
+Austin Animal Center,A929443,Cat,Domestic Shorthair,Blue Tabby,Intact Female,Standard,24,2025-04-30T11:18:00.000,2025-05-02T16:12:00,Owner Surrender,Normal,Adoption,,2.2,0,Spring Peak
+Austin Animal Center,A927918,Dog,Anatol Shepherd/Labrador Retriever,Brown/Tricolor,Intact Male,Standard,7,2025-04-03T17:50:00.000,2025-05-02T16:05:00,Owner Surrender,Normal,Adoption,,28.93,0,Spring Peak
+Austin Animal Center,A928130,Cat,Domestic Shorthair,Brown Tabby/White,Intact Female,Standard,24,2025-04-08T13:34:00.000,2025-05-02T15:45:00,Stray,Normal,Adoption,,24.09,0,Spring Peak
+Austin Animal Center,A929290,Rabbit,Rabbit Sh,White/Brown,Intact Male,Standard,12,2025-04-28T12:13:00.000,2025-05-02T15:26:00,Stray,Normal,Adoption,,4.13,0,Spring Peak
+Austin Animal Center,A927992,Dog,Dogo Argentino,White,Intact Male,Standard,24,2025-04-05T12:49:00.000,2025-05-02T14:34:00,Stray,Normal,Adoption,,27.07,0,Spring Peak
+Austin Animal Center,A920570,Cat,Domestic Shorthair,Black/White,Spayed Female,Standard,84,2024-12-31T12:07:00.000,2025-05-02T13:58:00,Stray,Med Urgent,Euthanasia,Suffering,122.08,1,Winter Standard
+Austin Animal Center,A895580,Dog,Pit Bull,Brown Brindle/White,Intact Male,Standard,24,2024-01-01T10:24:00.000,2025-05-02T12:53:00,Stray,Injured,Adoption,Foster,487.1,1,Winter Standard
+Austin Animal Center,A865000,Cat,Domestic Shorthair,Black,Intact Male,Standard,24,2022-09-03T14:11:00.000,2025-05-02T12:38:00,Stray,Injured,Adoption,,971.94,1,Fall Moderate
+Austin Animal Center,A929563,Dog,Chihuahua Shorthair Mix,White/Brown,Intact Female,Standard,36,2025-05-02T05:38:00.000,2025-05-02T12:26:00,Public Assist,Normal,Return to Owner,,0.28,0,Spring Peak
+Austin Animal Center,A893294,Dog,Pit Bull Mix,Red/White,Intact Female,Standard,36,2023-11-18T17:02:00.000,2025-05-02T12:11:00,Stray,Injured,Adoption,Foster,530.8,1,Fall Moderate
+Austin Animal Center,A929063,Cat,Domestic Shorthair,White/Orange Tabby,Neutered Male,Standard,24,2025-04-24T13:11:00.000,2025-05-02T12:08:00,Stray,Normal,Adoption,,7.96,0,Spring Peak
+Austin Animal Center,A929371,Cat,Domestic Shorthair,Brown Tabby,Unknown,Standard,24,2025-04-29T13:06:00.000,2025-05-02T11:59:00,Stray,Normal,Died,In Kennel,2.95,0,Spring Peak
+Austin Animal Center,A929571,Dog,Staffordshire,White/Tan,Intact Male,Standard,24,2025-05-02T08:20:00.000,2025-05-02T11:22:00,Stray,Normal,Return to Owner,,0.13,0,Spring Peak
+Austin Animal Center,A929570,Dog,Staffordshire,Blue/White,Intact Female,Standard,24,2025-05-02T08:20:00.000,2025-05-02T11:21:00,Stray,Normal,Return to Owner,,0.13,0,Spring Peak
+Austin Animal Center,A925167,Dog,Chihuahua Shorthair Mix,Brown/White,Neutered Male,Standard,4,2025-05-01T07:26:00.000,2025-05-01T19:06:00,Stray,Injured,Euthanasia,Suffering,0.49,0,Spring Peak
+Austin Animal Center,A928272,Dog,Pit Bull Mix,Brown,Intact Male,Standard,24,2025-04-10T17:36:00.000,2025-05-01T19:02:00,Stray,Normal,Adoption,,21.06,0,Spring Peak
+Austin Animal Center,A929431,Cat,Domestic Shorthair,White,Intact Male,Standard,96,2025-04-29T19:20:00.000,2025-05-01T17:59:00,Stray,Normal,Return to Owner,,1.94,0,Spring Peak
+Austin Animal Center,A923555,Dog,Labrador Retriever,Yellow,Intact Male,Standard,36,2025-02-05T12:23:00.000,2025-05-01T17:55:00,Abandoned,Normal,Adoption,,85.23,1,Winter Standard
+Austin Animal Center,A929524,Cat,Domestic Shorthair,Black/White,Unknown,Standard,1,2025-05-01T13:35:00.000,2025-05-01T17:53:45,Stray,Sick,Euthanasia,Suffering,0.18,0,Spring Peak
+Austin Animal Center,A928463,Dog,Siberian Husky,Black/White,Neutered Male,Standard,24,2025-04-14T11:50:00.000,2025-05-01T17:39:00,Stray,Normal,Adoption,,17.24,0,Spring Peak
+Austin Animal Center,A926862,Dog,German Shepherd Mix,Black/Brown,Intact Female,Standard,1,2025-04-09T13:01:00.000,2025-05-01T16:54:00,Stray,Normal,Adoption,,22.16,0,Spring Peak
+Austin Animal Center,A924489,Cat,Domestic Shorthair,White/Brown Tabby,Neutered Male,Standard,24,2025-02-11T12:43:00.000,2025-05-01T16:42:00,Owner Surrender,Normal,Adoption,,79.17,1,Winter Standard
+Austin Animal Center,A929148,Cat,Domestic Shorthair,White/Orange Tabby,Intact Female,Standard,12,2025-04-25T13:19:00.000,2025-05-01T16:41:00,Stray,Normal,Transfer,Partner,6.14,0,Spring Peak
+Austin Animal Center,A929219,Dog,Cairn Terrier Mix,White/Black,Intact Female,Standard,12,2025-04-26T13:26:00.000,2025-05-01T16:26:00,Stray,Normal,Adoption,,5.12,0,Spring Peak
+Austin Animal Center,A928985,Cat,Domestic Shorthair,Orange Tabby/White,Neutered Male,Standard,48,2025-04-23T07:17:00.000,2025-05-01T14:56:00,Owner Surrender,Injured,Transfer,Partner,8.32,0,Spring Peak
+Austin Animal Center,A925555,Cat,Domestic Shorthair,Brown Tabby,Intact Female,Standard,1,2025-02-26T09:10:00.000,2025-05-01T14:21:00,Stray,Normal,Adoption,Foster,64.22,1,Winter Standard
+Austin Animal Center,A920204,Dog,Blue Lacy,Blue,Intact Male,Standard,48,2025-01-22T13:58:00.000,2025-05-01T14:17:00,Stray,Normal,Adoption,,99.01,1,Winter Standard
+Austin Animal Center,A929513,Wildlife,Bat,Brown,Unknown,Standard,12,2025-05-01T12:55:00.000,2025-05-01T14:07:13,Wildlife,Unknown,Euthanasia,Rabies Risk,0.1,0,Spring Peak
+Austin Animal Center,A927936,Cat,Domestic Shorthair,White/Blue,Neutered Male,Standard,24,2025-04-04T09:58:00.000,2025-05-01T14:00:00,Stray,Normal,Adoption,,27.17,0,Spring Peak
+Austin Animal Center,A929303,Cat,Domestic Shorthair,Brown Tabby,Unknown,Standard,24,2025-04-28T12:35:00.000,2025-05-01T12:51:00,Stray,Normal,Return to Owner,,3.01,0,Spring Peak
+Austin Animal Center,A929409,Cat,Domestic Shorthair,Black/White,Intact Female,Standard,1,2025-04-29T15:37:00.000,2025-05-01T12:41:00,Owner Surrender,Normal,Transfer,Partner,1.88,0,Spring Peak
+Austin Animal Center,A929410,Cat,Domestic Shorthair,Orange Tabby/White,Intact Male,Standard,1,2025-04-29T15:37:00.000,2025-05-01T12:41:00,Owner Surrender,Normal,Transfer,Partner,1.88,0,Spring Peak
+Austin Animal Center,A929411,Cat,Domestic Shorthair,Calico,Intact Female,Standard,1,2025-04-29T15:37:00.000,2025-05-01T12:41:00,Owner Surrender,Normal,Transfer,Partner,1.88,0,Spring Peak
+Austin Animal Center,A929406,Cat,Domestic Shorthair,Tortie,Intact Female,Standard,1,2025-04-29T15:37:00.000,2025-05-01T12:40:00,Owner Surrender,Normal,Transfer,Partner,1.88,0,Spring Peak
+Austin Animal Center,A929407,Cat,Domestic Shorthair,Black,Intact Male,Standard,1,2025-04-29T15:37:00.000,2025-05-01T12:40:00,Owner Surrender,Normal,Transfer,Partner,1.88,0,Spring Peak
+Sonoma County Shelter,A422697,Dog,Siberian Husky,Black/White,Male,Medium,24,2023-12-04T00:00:00.000,2024-01-08T00:00:00.000,Stray,Unknown,Euthanize,Aggressive,35.0,1,Winter Standard
+Sonoma County Shelter,A422443,Dog,Pit Bull,Gray,Female,Medium,24,2023-11-28T00:00:00.000,2024-01-08T00:00:00.000,Stray,Unknown,Euthanize,Beh Severe,41.0,1,Fall Moderate
+Sonoma County Shelter,A422038,Dog,Germ Shepherd,Tan/Black,Female,Medium,24,2023-11-11T00:00:00.000,2024-01-08T00:00:00.000,Stray,Unknown,Euthanize,Aggressive,58.0,1,Fall Moderate
+Sonoma County Shelter,A423685,Dog,Germ Shepherd,Fawn,Spayed,Medium,24,2024-01-05T00:00:00.000,2024-01-08T00:00:00.000,Stray,Unknown,Return To Owner,,3.0,0,Winter Standard
+Sonoma County Shelter,A425655,Dog,Shih Tzu,White,Female,Medium,24,2024-04-04T00:00:00.000,2024-04-05T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Call,1.0,0,Spring Peak
+Sonoma County Shelter,A299415,Dog,Dachshund Lh,Red,Neutered,Medium,24,2024-03-24T00:00:00.000,2024-04-05T00:00:00.000,Confiscate,Unknown,Return To Owner,Medical,12.0,0,Spring Peak
+Sonoma County Shelter,A299416,Dog,Dachshund Lh,Brown/Red,Spayed,Medium,24,2024-03-24T00:00:00.000,2024-04-05T00:00:00.000,Confiscate,Unknown,Return To Owner,Medical,12.0,0,Spring Peak
+Sonoma County Shelter,A423033,Dog,Parson Russ Ter/Chihuahua Sh,Cream,Spayed,Medium,24,2023-12-12T00:00:00.000,2024-01-06T00:00:00.000,Owner Surrender,Unknown,Adoption,Scas Web,25.0,0,Winter Standard
+Sonoma County Shelter,A421310,Cat,Domestic Sh,Brn Tabby,Neutered,Small,24,2023-12-30T00:00:00.000,2024-01-09T00:00:00.000,Owner Surrender,Healthy,Adoption,Walkin,10.0,0,Winter Standard
+Sonoma County Shelter,A324184,Dog,Schnauzer Min,Black/Gray,Spayed,Medium,24,2024-01-07T00:00:00.000,2024-01-09T00:00:00.000,Confiscate,Unknown,Return To Owner,Over The Counter_Notice,2.0,0,Winter Standard
+Sonoma County Shelter,A419574,Dog,Pit Bull,Fawn/White,Neutered,Medium,24,2023-08-17T00:00:00.000,2023-12-08T00:00:00.000,Stray,Treatable/Manageable,Adoption,Volunteer,113.0,1,Summer High
+Sonoma County Shelter,A424987,Dog,Doberman Pinsch,Black/Tan,Female,Medium,24,2024-03-06T00:00:00.000,2024-03-19T00:00:00.000,Confiscate,Unknown,Return To Owner,Over The Counter_Arrest,13.0,0,Spring Peak
+Sonoma County Shelter,A423448,Cat,Domestic Sh,Brn Tabby,Spayed,Medium,24,2023-12-19T00:00:00.000,2024-01-09T00:00:00.000,Stray,Healthy,Adoption,Finder,21.0,0,Winter Standard
+Sonoma County Shelter,A423717,Dog,Siberian Husky,Black/White,Male,Medium,24,2024-01-08T00:00:00.000,2024-01-09T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Web,1.0,0,Winter Standard
+Sonoma County Shelter,A423699,Dog,Schnauzer Min/Welsh Terrier,Black/Gray,Spayed,Medium,24,2024-01-06T00:00:00.000,2024-01-09T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Mchip,3.0,0,Winter Standard
+Sonoma County Shelter,A424284,Rabbit,Rabbit Sh,Black/Brown,Female,Medium,24,2024-02-07T00:00:00.000,2024-04-06T00:00:00.000,Stray,Unknown,Transfer,Rp Shelter,59.0,1,Winter Standard
+Sonoma County Shelter,A422004,Dog,Germ Shepherd/Mix,White/Black,Spayed,Medium,24,2023-11-09T00:00:00.000,2024-01-09T00:00:00.000,Stray,Healthy,Adoption,Scas Web,61.0,1,Fall Moderate
+Sonoma County Shelter,A422186,Cat,Domestic Sh,Black,Male,Medium,24,2023-11-16T00:00:00.000,2023-12-20T00:00:00.000,Stray,Unknown,Transfer,Hssc,34.0,1,Fall Moderate
+Sonoma County Shelter,A410926,Dog,Aust Cattle Dog,Gray/Brown,Neutered,Medium,24,2022-04-11T00:00:00.000,2022-08-09T00:00:00.000,Quarantine,Unknown,Return To Owner,Over The Counter_Prvs,120.0,1,Spring Peak
+Sonoma County Shelter,A419923,Dog,Siberian Husky,White,Male,Medium,24,2024-03-27T00:00:00.000,2024-04-06T00:00:00.000,Quarantine,Unknown,Return To Owner,Over The Counter_Notice,10.0,0,Spring Peak
+Sonoma County Shelter,A419441,Cat,Domestic Sh,Gray Tabby,Spayed,Medium,24,2023-08-03T00:00:00.000,2023-08-08T00:00:00.000,Quarantine,Untreatable,Disposal,Fra,5.0,0,Summer High
+Sonoma County Shelter,A398996,Cat,Domestic Sh,Black,Male,Medium,24,2020-07-18T00:00:00.000,2020-07-18T00:00:00.000,Stray,Unknown,Transfer,Hssc,0.1,0,Summer High
+Sonoma County Shelter,A310777,Dog,Doberman Pinsch/Mix,Black/Brown,Neutered,Medium,24,2014-08-28T00:00:00.000,2014-09-25T00:00:00.000,Stray,Healthy,Transfer,Hssc,28.0,0,Summer High
+Sonoma County Shelter,A391968,Cat,Domestic Sh,Brn Tabby/White,Neutered,Medium,24,2019-10-02T00:00:00.000,2019-10-26T00:00:00.000,Quarantine,Healthy,Transfer,Hssc,24.0,0,Fall Moderate
+Sonoma County Shelter,A423714,Dog,Chihuahua Sh,Brown/Black,Female,Medium,24,2024-01-08T00:00:00.000,2024-01-09T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Web,1.0,0,Winter Standard
+Sonoma County Shelter,A420760,Dog,French Bulldog,Blue Merle/White,Male,Medium,24,2023-10-06T00:00:00.000,2023-10-06T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Prvs,0.1,0,Fall Moderate
+Sonoma County Shelter,A405084,Dog,Patterdale Terr/Bull Terr Min,Black/Tan,Neutered,Medium,24,2021-05-30T00:00:00.000,2021-05-31T00:00:00.000,Stray,Unknown,Return To Owner,Fld_Mchip,1.0,0,Spring Peak
+Sonoma County Shelter,A416031,Dog,Shetld Sheepdog/Mix,Gray/White,Neutered,Medium,24,2023-03-07T00:00:00.000,2023-03-23T00:00:00.000,Stray,Healthy,Adoption,Scas Web,16.0,0,Spring Peak
+Sonoma County Shelter,A427728,Dog,Germ Shepherd/Mix,Tan,Male,Medium,24,2024-07-12T00:00:00.000,2024-07-12T00:00:00.000,Stray,Unknown,Return To Owner,,0.1,0,Summer High
+Sonoma County Shelter,A423722,Dog,Pit Bull/Bullmastiff,Black/Blue Merle,Male,Medium,24,2024-01-09T00:00:00.000,2024-01-09T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Call,0.1,0,Winter Standard
+Sonoma County Shelter,A424619,Dog,Fox Terr Smooth/Mix,White/Black,Spayed,Medium,24,2024-02-18T00:00:00.000,2024-04-06T00:00:00.000,Stray,Unknown,Adoption,Walkin,48.0,1,Winter Standard
+Sonoma County Shelter,A337894,Cat,Domestic Lh,Calico,Spayed,Medium,24,2016-06-02T00:00:00.000,2016-07-23T00:00:00.000,Stray,Treatable/Rehab,Adoption,Walkin,51.0,1,Summer High
+Sonoma County Shelter,A426615,Cat,Domestic Sh,Gray/White,Neutered,Small,24,2024-05-22T00:00:00.000,2024-07-12T00:00:00.000,Stray,Healthy,Adoption,Walkin,51.0,1,Spring Peak
+Sonoma County Shelter,A427369,Cat,Domestic Sh,Brn Tabby,Female,Medium,24,2024-06-26T00:00:00.000,2024-07-12T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Call,16.0,0,Summer High
+Sonoma County Shelter,A431538,Dog,Belg Malinois,Black,Male,Medium,24,2025-02-22T00:00:00.000,2025-02-22T00:00:00.000,Stray,Unknown,Return To Owner,Fld_Mchip,0.1,0,Winter Standard
+Sonoma County Shelter,A415147,Dog,Germ Shepherd/Mix,Black/White,Male,Medium,24,2023-01-25T00:00:00.000,2023-02-04T00:00:00.000,Confiscate,Unknown,Return To Owner,Over The Counter_Arrest,10.0,0,Winter Standard
+Sonoma County Shelter,A426838,Cat,Domestic Sh,Brn Tabby,Neutered,Medium,24,2024-05-30T00:00:00.000,2024-07-12T00:00:00.000,Stray,Healthy,Adoption,Walkin,43.0,1,Spring Peak
+Sonoma County Shelter,A427691,Dog,Germ Shepherd/Mix,Brown/White,Female,Medium,24,2024-07-11T00:00:00.000,2024-07-12T00:00:00.000,Stray,Unknown,Return To Owner,Fld_Mchip,1.0,0,Summer High
+Sonoma County Shelter,A427704,Cat,Domestic Sh,Black,Neutered,Medium,24,2024-07-12T00:00:00.000,2024-07-12T00:00:00.000,Stray,Untreatable,Euthanize,Ill Severe,0.1,0,Summer High
+Sonoma County Shelter,A339430,Cat,Domestic Sh,Black,Neutered,Small,24,2016-07-09T00:00:00.000,2016-07-23T00:00:00.000,Owner Surrender,Healthy,Adoption,Walkin,14.0,0,Summer High
+Sonoma County Shelter,A416471,Dog,Siberian Husky,Black/White,Neutered,Medium,24,2023-04-01T00:00:00.000,2024-01-10T00:00:00.000,Stray,Healthy,Adoption,Scas Web,284.0,1,Spring Peak
+Sonoma County Shelter,A378799,Dog,Maltese,White,Neutered,Medium,24,2023-08-04T00:00:00.000,2023-08-04T00:00:00.000,Stray,Healthy,Return To Owner,Over The Counter_Notice,0.1,0,Summer High
+Sonoma County Shelter,A422102,Cat,Domestic Sh,Flame Pt,Spayed,Medium,24,2023-11-13T00:00:00.000,2024-01-10T00:00:00.000,Stray,Unknown,Adoption,Walkin,58.0,1,Fall Moderate
+Sonoma County Shelter,A428476,Bird,Chicken,Black,Unknown,Medium,24,2024-08-16T00:00:00.000,2024-09-23T00:00:00.000,Stray,Unknown,Transfer,Westfarm,38.0,1,Summer High
+Sonoma County Shelter,A360813,Dog,Catahoula/Mix,Brn Merle/Black,Spayed,Medium,24,2024-01-04T00:00:00.000,2024-01-10T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Notice,6.0,0,Winter Standard
+Sonoma County Shelter,A423732,Wildlife,Bat,Brown,Unknown,Medium,24,2024-01-10T00:00:00.000,2024-01-10T00:00:00.000,Quarantine,Unknown,Euthanize,Fra,0.1,0,Winter Standard
+Sonoma County Shelter,A422994,Dog,Pomeranian,Black,Neutered,Medium,24,2023-12-09T00:00:00.000,2024-01-03T00:00:00.000,Stray,Unknown,Adoption,Walkin,25.0,0,Winter Standard
+Sonoma County Shelter,A429021,Dog,Labrador Retr/Mix,White,Male,Medium,24,2024-09-14T00:00:00.000,2024-11-01T00:00:00.000,Stray,Unknown,Transfer,Gg Lab Res,48.0,1,Fall Moderate
+Sonoma County Shelter,A428262,Cat,Domestic Sh,Black/White,Neutered,Medium,24,2024-08-08T00:00:00.000,2024-11-01T00:00:00.000,Stray,Healthy,Adoption,Walkin,85.0,1,Summer High
+Sonoma County Shelter,A429433,Dog,Great Pyrenees,White,Male,Medium,24,2024-10-19T00:00:00.000,2024-11-01T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Notice,13.0,0,Fall Moderate
+Sonoma County Shelter,A421128,Bird,Pigeon,White/Brown,Unknown,Medium,24,2023-10-11T00:00:00.000,2024-01-10T00:00:00.000,Confiscate,Unknown,Adoption,Walkin,91.0,1,Fall Moderate
+Sonoma County Shelter,A425116,Cat,Domestic Mh,Black/White,Neutered,Medium,24,2024-03-11T00:00:00.000,2024-04-08T00:00:00.000,Stray,Unknown,Euthanize,Con Severe,28.0,0,Spring Peak
+Sonoma County Shelter,A382673,Dog,Siberian Husky/Mix,Black/Tan,Spayed,Medium,24,2024-01-09T00:00:00.000,2024-01-10T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Mchip,1.0,0,Winter Standard
+Sonoma County Shelter,A423720,Dog,French Bulldog,Black/Tan,Female,Medium,24,2024-01-09T00:00:00.000,,Stray,Unknown,Unknown,,0.1,0,Winter Standard
+Sonoma County Shelter,A425413,Dog,Beagle/Eng Cocker Span,Black/White,Female,Medium,24,2024-03-21T00:00:00.000,2024-04-08T00:00:00.000,Stray,Healthy,Euthanize,Aggressive,18.0,0,Spring Peak
+Sonoma County Shelter,A425187,Dog,Pit Bull/Mix,Bl Brindle,Female,Medium,24,2024-03-13T00:00:00.000,2024-04-08T00:00:00.000,Stray,Unknown,Euthanize,Aggressive,26.0,0,Spring Peak
+Sonoma County Shelter,A425508,Dog,Labrador Retr/Mix,Tan/White,Female,Medium,24,2024-03-26T00:00:00.000,2024-04-08T00:00:00.000,Stray,Unknown,Euthanize,Ill Severe,13.0,0,Spring Peak
+Sonoma County Shelter,A425192,Dog,Germ Shepherd,Tricolor,Spayed,Medium,24,2024-03-13T00:00:00.000,2024-04-08T00:00:00.000,Stray,Unknown,Euthanize,Con Severe,26.0,0,Spring Peak
+Sonoma County Shelter,A411263,Cat,Domestic Sh,Black,Unknown,Medium,24,2022-04-27T00:00:00.000,2022-04-27T00:00:00.000,Stray,Unknown,Disposal,Doa,0.1,0,Spring Peak
+Sonoma County Shelter,A428305,Bird,Chicken,Brown,Female,Medium,24,2024-08-09T00:00:00.000,2024-09-23T00:00:00.000,Confiscate,Unknown,Transfer,Westfarm,45.0,1,Summer High
+Sonoma County Shelter,A428808,Bird,Chicken,White/Black,Male,Medium,24,2024-09-04T00:00:00.000,2024-09-23T00:00:00.000,Stray,Unknown,Transfer,Westfarm,19.0,0,Fall Moderate
+Sonoma County Shelter,A426372,Cat,Domestic Sh,Brn Tabby/White,Neutered,Small,24,2024-05-11T00:00:00.000,2024-07-13T00:00:00.000,Stray,Healthy,Adoption,Walkin,63.0,1,Spring Peak
+Sonoma County Shelter,A428803,Bird,Chicken,Red/Black,Male,Medium,24,2024-09-04T00:00:00.000,2024-09-23T00:00:00.000,Stray,Unknown,Transfer,Westfarm,19.0,0,Fall Moderate
+Sonoma County Shelter,A428307,Bird,Chicken,Black,Female,Medium,24,2024-08-09T00:00:00.000,2024-09-23T00:00:00.000,Confiscate,Unknown,Transfer,Westfarm,45.0,1,Summer High
+Sonoma County Shelter,A428477,Bird,Chicken,Red/Black,Unknown,Medium,24,2024-08-16T00:00:00.000,2024-09-23T00:00:00.000,Stray,Unknown,Transfer,Westfarm,38.0,1,Summer High
+Sonoma County Shelter,A428783,Dog,Dachshund/Mix,Br Brindle,Male,Medium,24,2024-09-03T00:00:00.000,2024-09-23T00:00:00.000,Stray,Unknown,Transfer,Petslifeln,20.0,0,Fall Moderate
+Sonoma County Shelter,A428320,Bird,Chicken,White,Female,Medium,24,2024-08-09T00:00:00.000,2024-09-23T00:00:00.000,Confiscate,Unknown,Transfer,Westfarm,45.0,1,Summer High
+Sonoma County Shelter,A422237,Other,Angora-English/Mix,White,Neutered,Medium,24,2023-11-17T00:00:00.000,2024-04-09T00:00:00.000,Stray,Healthy,Adoption,Walkin,144.0,1,Fall Moderate
+Sonoma County Shelter,A372094,Dog,Cocker Span,White/Gold,Neutered,Medium,24,2020-12-15T00:00:00.000,2020-12-15T00:00:00.000,Stray,Unknown,Return To Owner,Fld_Mchip,0.1,0,Winter Standard
+Sonoma County Shelter,A425692,Dog,Shiba Inu/Basenji,Tan/White,Male,Medium,24,2024-04-06T00:00:00.000,2024-04-09T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Call,3.0,0,Spring Peak
+Sonoma County Shelter,A372094,Dog,Cocker Span,White/Gold,Neutered,Medium,24,2022-06-10T00:00:00.000,2022-06-10T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Mchip,0.1,0,Summer High
+Sonoma County Shelter,A425680,Cat,Domestic Sh,Brown,Male,Medium,24,2024-04-05T00:00:00.000,2024-04-06T00:00:00.000,Confiscate,Unknown,Return To Owner,Over The Counter_Arrest,1.0,0,Spring Peak
+Sonoma County Shelter,A426679,Dog,Pit Bull,Tan/White,Male,Medium,24,2024-05-24T00:00:00.000,2024-05-24T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Call,0.1,0,Spring Peak
+Sonoma County Shelter,A425684,Dog,Pit Bull,Brown/White,Female,Medium,24,2024-04-05T00:00:00.000,2024-04-09T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Walkin,4.0,0,Spring Peak
+Sonoma County Shelter,A428804,Bird,Chicken,Red/Black,Male,Medium,24,2024-09-04T00:00:00.000,2024-09-23T00:00:00.000,Stray,Unknown,Transfer,Westfarm,19.0,0,Fall Moderate
+Sonoma County Shelter,A428312,Bird,Chicken,Gray,Female,Medium,24,2024-08-09T00:00:00.000,2024-09-23T00:00:00.000,Confiscate,Unknown,Transfer,Westfarm,45.0,1,Summer High
+Sonoma County Shelter,A425739,Dog,Catahoula/Pit Bull,Br Brindle/White,Neutered,Medium,24,2024-04-09T00:00:00.000,2024-07-13T00:00:00.000,Stray,Unknown,Adoption,Walkin,95.0,1,Spring Peak
+Sonoma County Shelter,A428308,Bird,Chicken,Black,Female,Medium,24,2024-08-09T00:00:00.000,2024-09-23T00:00:00.000,Confiscate,Unknown,Transfer,Westfarm,45.0,1,Summer High
+Sonoma County Shelter,A429779,Dog,Pointer,White/Black,Female,Medium,24,2024-10-24T00:00:00.000,2024-11-01T00:00:00.000,Owner Surrender,Unknown,Euthanize,Aggressive,8.0,0,Fall Moderate
+Sonoma County Shelter,A276404,Dog,Chihuahua Sh,Tan/White,Neutered,Medium,24,2023-12-12T00:00:00.000,2023-12-22T00:00:00.000,Confiscate,Unknown,Return To Owner,Over The Counter_Prvs,10.0,0,Winter Standard
+Sonoma County Shelter,A422327,Cat,Domestic Mh,Black/White,Female,Medium,24,2023-11-21T00:00:00.000,2024-04-09T00:00:00.000,Confiscate,Unknown,Return To Owner,Over The Counter_Prvs,140.0,1,Fall Moderate
+Sonoma County Shelter,A422321,Dog,Border Collie,Black/White,Male,Medium,24,2023-11-21T00:00:00.000,2024-04-09T00:00:00.000,Confiscate,Unknown,Return To Owner,Over The Counter_Prvs,140.0,1,Fall Moderate
+Sonoma County Shelter,A425716,Dog,Pit Bull,Black,Male,Medium,24,2024-04-08T00:00:00.000,2024-04-09T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Call,1.0,0,Spring Peak
+Sonoma County Shelter,A422306,Dog,Border Collie,Tricolor,Male,Medium,24,2023-11-21T00:00:00.000,2024-04-09T00:00:00.000,Confiscate,Unknown,Return To Owner,Over The Counter_Prvs,140.0,1,Fall Moderate
+Sonoma County Shelter,A401655,Dog,Border Collie,Black/White,Male,Medium,24,2024-04-02T00:00:00.000,2024-04-08T00:00:00.000,Quarantine,Unknown,Transfer,,6.0,0,Spring Peak
+Sonoma County Shelter,A425651,Cat,Domestic Sh,Slvr Tabby,Female,Medium,24,2024-04-03T00:00:00.000,2024-04-09T00:00:00.000,Stray,Treatable/Manageable,Transfer,Forgotten,6.0,0,Spring Peak
+Sonoma County Shelter,A427038,Dog,Cane Corso,Gray,Male,Medium,24,2024-06-11T00:00:00.000,2024-07-14T00:00:00.000,Stray,Unknown,Euthanize,Aggressive,33.0,1,Summer High
+Sonoma County Shelter,A427648,Wildlife,Bat,Brown,Unknown,Medium,24,2024-07-10T00:00:00.000,2024-07-14T00:00:00.000,Quarantine,Unknown,Transfer,Lab Fra,4.0,0,Summer High
+Sonoma County Shelter,A422297,Dog,Border Collie,Black/White,Male,Medium,24,2023-11-21T00:00:00.000,2024-04-09T00:00:00.000,Confiscate,Unknown,Return To Owner,Over The Counter_Prvs,140.0,1,Fall Moderate
+Sonoma County Shelter,A426715,Dog,Pit Bull/Mix,Black/White,Female,Medium,24,2024-06-04T00:00:00.000,2024-07-14T00:00:00.000,Stray,Unknown,Euthanize,Beh Severe,40.0,1,Summer High
+Sonoma County Shelter,A422947,Dog,Pit Bull/Mix,Red/White,Spayed,Medium,24,2024-02-22T00:00:00.000,2024-04-09T00:00:00.000,Adoption Return,Unknown,Adoption,Referral-O,47.0,1,Winter Standard
+Sonoma County Shelter,A427206,Dog,Siberian Husky,White,Male,Medium,24,2024-06-18T00:00:00.000,2024-07-14T00:00:00.000,Stray,Unknown,Euthanize,Beh Severe,26.0,0,Summer High
+Sonoma County Shelter,A338178,Cat,Domestic Sh,Brn Tabby,Spayed,Small,24,2017-07-05T00:00:00.000,2017-07-29T00:00:00.000,Stray,Untreatable,Euthanize,Inj Severe,24.0,0,Summer High
+Sonoma County Shelter,A427650,Wildlife,Bat,Brown,Unknown,Medium,24,2024-07-10T00:00:00.000,2024-07-14T00:00:00.000,Quarantine,Unknown,Transfer,Lab Fra,4.0,0,Summer High
+Sonoma County Shelter,A423771,Dog,Chihuahua Sh,Tan,Female,Medium,24,2024-01-11T00:00:00.000,2024-01-11T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Web,0.1,0,Winter Standard
+Sonoma County Shelter,A420084,Dog,Germ Shepherd,Brown/Black,Spayed,Medium,24,2023-08-31T00:00:00.000,2023-10-02T00:00:00.000,Stray,Unknown,Euthanize,Beh Severe,32.0,1,Summer High
+Sonoma County Shelter,A338178,Cat,Domestic Sh,Brn Tabby,Spayed,Small,24,2016-06-10T00:00:00.000,2016-08-02T00:00:00.000,Stray,Healthy,Adoption,Walkin,53.0,1,Summer High
+Sonoma County Shelter,A425723,Dog,Chihuahua Sh/Mix,White/Apricot,Male,Medium,24,2024-04-08T00:00:00.000,2024-04-09T00:00:00.000,Stray,Unknown,Return To Owner,Over The Counter_Web,1.0,0,Spring Peak
+Sonoma County Shelter,A422320,Dog,Border Collie,Black/White,Male,Medium,24,2023-11-21T00:00:00.000,2024-04-09T00:00:00.000,Confiscate,Unknown,Return To Owner,Over The Counter_Prvs,140.0,1,Fall Moderate
+Sonoma County Shelter,A421839,Dog,Parson Russ Ter,Tan,Spayed,Medium,24,2023-11-07T00:00:00.000,2023-11-16T00:00:00.000,Confiscate,Unknown,Return To Owner,Over The Counter_Call,9.0,0,Fall Moderate
+Long Beach Animal Care,A721918,Wildlife,Mixed/Domestic,Gray,Unknown,Standard,24,2024-05-30,2024-05-30,Wildlife,Injured  Moderate,Transfer,Lbah,0.1,0,Spring Peak
+Long Beach Animal Care,A693708,Dog,Mixed/Domestic,White,Female,Standard,24,2023-02-20,2023-02-26,Stray,Ill Mild,Euthanasia,Ill Severe,6.0,0,Winter Standard
+Long Beach Animal Care,A705745,Dog,Mixed/Domestic,Gray,Neutered,Standard,24,2023-08-30,2023-09-03,Stray,Normal,Adoption,Null,4.0,0,Summer High
+Long Beach Animal Care,A700840,Cat,Mixed/Domestic,Black,Male,Standard,24,2023-06-14,2023-06-15,Stray,Under Age/Weight,Rescue,Littlepaws,1.0,0,Summer High
+Long Beach Animal Care,A646450,Bird,Mixed/Domestic,White,Unknown,Standard,24,2020-07-31,2020-07-31,Wildlife,Injured  Moderate,Rescue,Ibr,0.1,0,Summer High
+Long Beach Animal Care,A639310,Bird,Mixed/Domestic,White,Unknown,Standard,24,2020-02-02,2020-02-02,Wildlife,Ill Severe,Transfer,Lbah,0.1,0,Winter Standard
+Long Beach Animal Care,A618968,Cat,Mixed/Domestic,Black,Female,Standard,24,2018-12-18,2019-01-13,Stray,Injured  Severe,Rescue,Littlelion,26.0,0,Winter Standard
+Long Beach Animal Care,A697238,Cat,Mixed/Domestic,Brn Tabby,Spayed,Standard,24,2023-04-21,2023-04-22,Stray,Under Age/Weight,Adoption,Web,1.0,0,Spring Peak
+Long Beach Animal Care,A717404,Bird,Mixed/Domestic,White,Female,Standard,24,2024-03-21,2024-03-27,Stray,Normal,Rescue,Other Resc,6.0,0,Spring Peak
+Long Beach Animal Care,A738927,Cat,Mixed/Domestic,Gray,Female,Standard,24,2025-04-03,2025-04-06,Stray,Normal,Rescue,Outrchpaws,3.0,0,Spring Peak
+Long Beach Animal Care,A738922,Cat,Mixed/Domestic,Tortie Dil,Female,Standard,24,2025-04-03,2025-04-06,Stray,Normal,Rescue,Outrchpaws,3.0,0,Spring Peak
+Long Beach Animal Care,A673343,Dog,Mixed/Domestic,Black,Male,Standard,24,2023-03-01,2023-04-15,Stray,Normal,Rescue,Gisselles,45.0,1,Spring Peak
+Long Beach Animal Care,A619226,Dog,Mixed/Domestic,Brown,Male,Standard,24,2018-12-24,2018-12-30,Stray,Injured  Mild,Transfer,Spcala,6.0,0,Winter Standard
+Long Beach Animal Care,A737259,Cat,Mixed/Domestic,Org Tabby,Neutered,Standard,24,2025-02-23,2025-03-01,Stray,Normal,Adoption,Web,6.0,0,Winter Standard
+Long Beach Animal Care,A656107,Bird,Mixed/Domestic,White,Unknown,Standard,24,2021-04-10,2021-04-16,Stray,Normal,Transfer,Other Resc,6.0,0,Spring Peak
+Long Beach Animal Care,A756043,Dog,Mixed/Domestic,White,Neutered,Standard,24,2026-03-07,2026-03-29,Return,Normal,Adoption,Web,22.0,0,Spring Peak
+Long Beach Animal Care,A622691,Dog,Mixed/Domestic,Cream,Male,Standard,24,2019-03-03,2019-03-04,Owner Surrender,Normal,Transfer,Spcala,1.0,0,Spring Peak
+Long Beach Animal Care,A623574,Cat,Mixed/Domestic,Gray,Spayed,Standard,24,2019-03-21,2019-04-19,Stray,Normal,Rescue,Catpaws,29.0,0,Spring Peak
+Long Beach Animal Care,A604840,Dog,Mixed/Domestic,Tan,Neutered,Standard,24,2019-08-04,2019-08-11,Stray,Normal,Return To Owner,Fre Rid Hm,7.0,0,Summer High
+Long Beach Animal Care,A597463,Cat,Mixed/Domestic,Gray,Unknown,Standard,24,2017-09-21,2017-09-23,Stray,Under Age/Weight,Rescue,Littlelion,2.0,0,Fall Moderate
+Long Beach Animal Care,A597464,Cat,Mixed/Domestic,Black,Unknown,Standard,24,2017-09-21,2017-09-23,Stray,Under Age/Weight,Rescue,Littlelion,2.0,0,Fall Moderate
+Long Beach Animal Care,A597468,Cat,Mixed/Domestic,Gray Tabby,Unknown,Standard,24,2017-09-21,2017-09-23,Stray,Under Age/Weight,Rescue,Littlelion,2.0,0,Fall Moderate
+Long Beach Animal Care,A742623,Cat,Mixed/Domestic,White,Male,Standard,24,2025-06-12,2025-07-03,Stray,Under Age/Weight,Rescue,Spcala,21.0,0,Summer High
+Long Beach Animal Care,A589439,Cat,Mixed/Domestic,Orange,Neutered,Standard,24,2017-07-12,2017-07-13,Stray,Feral,Return To Rescue,Straycatal,1.0,0,Summer High
+Long Beach Animal Care,A740074,Cat,Mixed/Domestic,Seal Pt,Spayed,Standard,24,2025-04-29,2025-06-15,Stray,Injured  Moderate,Community Cat,Friendly,47.0,1,Spring Peak
+Long Beach Animal Care,A734321,Dog,Mixed/Domestic,Cream,Spayed,Standard,24,2024-12-15,2024-12-21,Owner Surrender,Aged,Rescue,Presentmmt,6.0,0,Winter Standard
+Long Beach Animal Care,A647075,Cat,Mixed/Domestic,Tortie,Unknown,Standard,24,2020-08-12,2020-08-13,Stray,Under Age/Weight,Rescue,Littlepaws,1.0,0,Summer High
+Long Beach Animal Care,A614537,Cat,Mixed/Domestic,Brn Tabby,Unknown,Standard,24,2018-09-12,2018-09-12,Stray,Under Age/Weight,Euthanasia,Undrage/Wt,0.1,0,Fall Moderate
+Long Beach Animal Care,A614539,Cat,Mixed/Domestic,Brn Tabby,Unknown,Standard,24,2018-09-12,2018-09-12,Stray,Under Age/Weight,Euthanasia,Undrage/Wt,0.1,0,Fall Moderate
+Long Beach Animal Care,A765983,Dog,Mixed/Domestic,White,Spayed,Standard,24,2026-08-19,2026-09-06,Stray,Normal,Adoption,Walkin,18.0,0,Summer High
+Long Beach Animal Care,A619621,Bird,Mixed/Domestic,Brown,Male,Standard,24,2019-01-01,2019-01-02,Wildlife,Normal,Rescue,Wardsmtn,1.0,0,Winter Standard
+Long Beach Animal Care,A738981,Cat,Mixed/Domestic,Gray Tabby,Male,Standard,24,2025-04-04,2025-04-06,Stray,Under Age/Weight,Rescue,Outrchpaws,2.0,0,Spring Peak
+Long Beach Animal Care,A748966,Cat,Mixed/Domestic,Calico Dil,Spayed,Standard,24,2025-09-12,2025-10-23,Stray,Normal,Adoption,Web,41.0,1,Fall Moderate
+Long Beach Animal Care,A738335,Cat,Mixed/Domestic,Black,Neutered,Standard,24,2025-04-06,2025-04-18,Owner Surrender,Normal,Adoption,Web,12.0,0,Spring Peak
+Long Beach Animal Care,A739790,Other,Mixed/Domestic,Pink,Unknown,Standard,24,2025-04-23,2025-04-23,Wildlife,Ill Mild,Euthanasia,Undrage/Wt,0.1,0,Spring Peak
+Long Beach Animal Care,A739787,Other,Mixed/Domestic,Black,Female,Standard,24,2025-04-23,2025-04-23,Wildlife,Ill Mild,Euthanasia,Inj Severe,0.1,0,Spring Peak
+Long Beach Animal Care,A697044,Dog,Mixed/Domestic,Brown,Spayed,Standard,24,2024-01-03,2024-01-06,Owner Surrender,Normal,Rescue,Null,3.0,0,Winter Standard
+Long Beach Animal Care,A739340,Cat,Mixed/Domestic,Org Tabby,Unknown,Standard,24,2025-04-12,2025-04-12,Stray,Under Age/Weight,Rescue,Littlelion,0.1,0,Spring Peak
+Long Beach Animal Care,A706435,Cat,Mixed/Domestic,Brn Tabby,Spayed,Standard,24,2023-09-07,2023-12-10,Stray,Ill Mild,Adoption,Null,94.0,1,Fall Moderate
+Long Beach Animal Care,A706438,Cat,Mixed/Domestic,Black,Male,Standard,24,2023-09-07,2023-10-08,Stray,Normal,Adoption,Null,31.0,1,Fall Moderate
+Long Beach Animal Care,A743667,Cat,Mixed/Domestic,Black,Spayed,Standard,24,2025-06-25,2025-07-26,Stray,Normal,Rescue,Littlelion,31.0,1,Summer High
+Long Beach Animal Care,A743673,Cat,Mixed/Domestic,Black,Male,Standard,24,2025-06-25,2025-07-26,Stray,Under Age/Weight,Rescue,Littlelion,31.0,1,Summer High
+Long Beach Animal Care,A746729,Cat,Mixed/Domestic,Black,Spayed,Standard,24,2025-08-06,2025-11-08,Stray,Under Age/Weight,Rescue,Kittybunga,94.0,1,Summer High
+Long Beach Animal Care,A746730,Cat,Mixed/Domestic,Black,Neutered,Standard,24,2025-08-06,2025-11-08,Stray,Normal,Rescue,Kittybunga,94.0,1,Summer High
+Long Beach Animal Care,A608402,Wildlife,Mixed/Domestic,Gray,Female,Standard,24,2018-05-26,2018-05-26,Wildlife,Ill Mild,Transfer,Lbah,0.1,0,Spring Peak
+Long Beach Animal Care,A727456,Small Animal,Mixed/Domestic,White,Female,Standard,24,2024-08-30,2024-09-05,Owner Surrender,Normal,Adoption,Pfe/Pawshp,6.0,0,Summer High
+Long Beach Animal Care,A727457,Small Animal,Mixed/Domestic,Black,Female,Standard,24,2024-08-30,2024-09-05,Owner Surrender,Normal,Adoption,Pfe/Pawshp,6.0,0,Summer High
+Long Beach Animal Care,A718171,Dog,Mixed/Domestic,White,Neutered,Standard,24,2024-04-06,2024-04-12,Stray,Normal,Adoption,Web,6.0,0,Spring Peak
+Long Beach Animal Care,A734824,Dog,Mixed/Domestic,Tan,Male,Standard,24,2024-12-28,2025-01-05,Stray,Injured  Severe,Rescue,Sparkygang,8.0,0,Winter Standard
+Long Beach Animal Care,A750568,Dog,Mixed/Domestic,Black,Spayed,Standard,24,2025-10-09,2025-10-26,Owner Surrender,Normal,Adoption,Web,17.0,0,Fall Moderate
+Long Beach Animal Care,A697542,Cat,Mixed/Domestic,Gray Tabby,Neutered,Standard,24,2023-04-27,2023-12-06,Stray,Injured  Mild,Adoption,Pfe/Pawshp,223.0,1,Spring Peak
+Long Beach Animal Care,A694729,Dog,Mixed/Domestic,Tan,Female,Standard,24,2023-03-16,2023-03-16,Owner Surrender,Normal,Transfer,Spcala,0.1,0,Spring Peak
+Long Beach Animal Care,A694740,Dog,Mixed/Domestic,Tricolor,Female,Standard,24,2023-03-16,2023-03-16,Owner Surrender,Normal,Transfer,Spcala,0.1,0,Spring Peak
+Long Beach Animal Care,A694741,Dog,Mixed/Domestic,Black,Male,Standard,24,2023-03-16,2023-03-16,Owner Surrender,Normal,Transfer,Spcala,0.1,0,Spring Peak
+Long Beach Animal Care,A694745,Dog,Mixed/Domestic,Black,Unknown,Standard,24,2023-03-16,2023-03-24,Owner Surrender,Normal,Rescue,Prclsspets,8.0,0,Spring Peak
+Long Beach Animal Care,A694749,Dog,Mixed/Domestic,Black,Unknown,Standard,24,2023-03-16,2023-03-24,Owner Surrender,Normal,Rescue,Prclsspets,8.0,0,Spring Peak
+Long Beach Animal Care,A694726,Dog,Mixed/Domestic,Black,Female,Standard,24,2023-03-16,2023-03-24,Owner Surrender,Normal,Rescue,Prclsspets,8.0,0,Spring Peak
+Long Beach Animal Care,A723857,Dog,Mixed/Domestic,Black,Male,Standard,24,2024-07-17,2024-07-17,Owner Surrender,Ill Severe,Euthanasia,Ill Severe,0.1,0,Summer High
+Long Beach Animal Care,A630655,Dog,Mixed/Domestic,Black,Male,Standard,24,2019-07-26,2019-08-01,Stray,Normal,Transfer,Spcala,6.0,0,Summer High
+Long Beach Animal Care,A755216,Dog,Mixed/Domestic,Tan,Female,Standard,24,2026-01-15,2026-01-16,Owner Surrender,Ill Severe,Rescue,Pepperfdtn,1.0,0,Winter Standard
+Long Beach Animal Care,A644597,Bird,Mixed/Domestic,Brown,Unknown,Standard,24,2020-06-29,2020-06-29,Wildlife,Under Age/Weight,Transfer,Other Sanc,0.1,0,Summer High
+Long Beach Animal Care,A622921,Other,Mixed/Domestic,Gray,Unknown,Standard,24,2019-03-09,2019-03-09,Wildlife,Ill Severe,Rescue,Mmr,0.1,0,Spring Peak
+Long Beach Animal Care,A607259,Wildlife,Mixed/Domestic,Gray,Unknown,Standard,24,2018-05-06,2018-05-06,Wildlife,Under Age/Weight,Euthanasia,Undrage/Wt,0.1,0,Spring Peak
+Long Beach Animal Care,A596337,Cat,Mixed/Domestic,White,Female,Standard,24,2017-09-01,2017-09-07,Stray,Normal,Transfer,Spcala,6.0,0,Fall Moderate
+Long Beach Animal Care,A596338,Cat,Mixed/Domestic,Gray,Male,Standard,24,2017-09-01,2017-09-07,Stray,Normal,Transfer,Spcala,6.0,0,Fall Moderate
+Long Beach Animal Care,A704157,Bird,Mixed/Domestic,Brown,Unknown,Standard,24,2023-08-03,2023-08-03,Wildlife,Injured  Severe,Rescue,Ibr,0.1,0,Summer High
+Long Beach Animal Care,A604330,Cat,Mixed/Domestic,Brown,Unknown,Standard,24,2018-03-01,2018-03-01,Stray,Ill Severe,Euthanasia,Ill Severe,0.1,0,Spring Peak
+Long Beach Animal Care,A607495,Dog,Mixed/Domestic,Brown,Neutered,Standard,24,2019-06-09,2019-06-28,Stray,Normal,Adoption,Walkin,19.0,0,Summer High
+Long Beach Animal Care,A592440,Cat,Mixed/Domestic,Brn Tabby,Unknown,Standard,24,2017-06-25,2017-06-25,Stray,Under Age/Weight,Euthanasia,Ill Severe,0.1,0,Summer High
+Long Beach Animal Care,A752155,Dog,Mixed/Domestic,Gray,Unknown,Standard,24,2025-11-06,2025-11-07,Owner Surrender,Under Age/Weight,Died,In Kennel,1.0,0,Fall Moderate
+Long Beach Animal Care,A752156,Dog,Mixed/Domestic,Gray,Unknown,Standard,24,2025-11-06,2025-11-07,Owner Surrender,Under Age/Weight,Died,In Kennel,1.0,0,Fall Moderate
+Long Beach Animal Care,A752149,Dog,Mixed/Domestic,Gray,Unknown,Standard,24,2025-11-06,2025-11-09,Owner Surrender,Under Age/Weight,Rescue,Dogbonez,3.0,0,Fall Moderate
+Long Beach Animal Care,A752152,Dog,Mixed/Domestic,Gray,Unknown,Standard,24,2025-11-06,2025-11-09,Owner Surrender,Under Age/Weight,Rescue,Dogbonez,3.0,0,Fall Moderate
+Long Beach Animal Care,A752153,Dog,Mixed/Domestic,Gray,Unknown,Standard,24,2025-11-06,2025-11-09,Owner Surrender,Under Age/Weight,Rescue,Dogbonez,3.0,0,Fall Moderate
+Long Beach Animal Care,A752146,Dog,Mixed/Domestic,Gray,Unknown,Standard,24,2025-11-06,2025-11-09,Owner Surrender,Under Age/Weight,Rescue,Dogbonez,3.0,0,Fall Moderate
+Long Beach Animal Care,A660438,Wildlife,Mixed/Domestic,Gray,Unknown,Standard,24,2021-07-14,2021-07-14,Wildlife,Ill Moderatete,Euthanasia,Ill Severe,0.1,0,Summer High
+Long Beach Animal Care,A704807,Dog,Mixed/Domestic,Brown,Female,Standard,24,2023-08-14,2023-08-15,Stray,Injured  Mild,Return To Owner,Fre Rid Hm,1.0,0,Summer High
+Long Beach Animal Care,A621034,Dog,Mixed/Domestic,Blue Brind,Neutered,Standard,24,2019-01-30,2019-01-30,Safe Keep,Normal,Return To Owner,Fre Rid Hm,0.1,0,Winter Standard
+Long Beach Animal Care,A680051,Bird,Mixed/Domestic,Gray,Unknown,Standard,24,2022-07-16,2022-07-17,Wildlife,Injured  Moderate,Rescue,Null,1.0,0,Summer High
+Long Beach Animal Care,A763505,Bird,Mixed/Domestic,White,Unknown,Standard,24,2026-07-05,2026-07-05,Wildlife,Injured  Mild,Rescue,Wetlands,0.1,0,Summer High
+Long Beach Animal Care,A671402,Bird,Mixed/Domestic,White,Unknown,Standard,24,2022-03-06,2022-03-06,Wildlife,Injured  Severe,Died,Enroute,0.1,0,Spring Peak
+Long Beach Animal Care,A727241,Cat,Mixed/Domestic,Brn Tabby,Male,Standard,24,2024-08-21,2024-08-21,Stray,Under Age/Weight,Rescue,Littlelion,0.1,0,Summer High
+Long Beach Animal Care,A661313,Cat,Mixed/Domestic,Brn Tabby,Spayed,Standard,24,2021-08-05,2022-02-09,Stray,Normal,Adoption,Pfe/Pawshp,188.0,1,Summer High
+Long Beach Animal Care,A656288,Other,Mixed/Domestic,Gray,Female,Standard,24,2021-04-14,2021-04-14,Wildlife,Ill Moderatete,Transfer,Lbah,0.1,0,Spring Peak
+Long Beach Animal Care,A656289,Other,Mixed/Domestic,Gray,Unknown,Standard,24,2021-04-14,2021-04-14,Wildlife,Under Age/Weight,Transfer,Lbah,0.1,0,Spring Peak
+Long Beach Animal Care,A664040,Dog,Mixed/Domestic,Gray,Spayed,Standard,24,2021-09-18,2021-10-02,Stray,Normal,Adoption,Web,14.0,0,Fall Moderate
+Long Beach Animal Care,A695577,Dog,Mixed/Domestic,Brown,Male,Standard,24,2023-03-26,2023-03-29,Stray,Normal,Return To Owner,Walkin,3.0,0,Spring Peak
+Long Beach Animal Care,A618315,Cat,Mixed/Domestic,Black,Male,Standard,24,2018-12-02,2018-12-05,Stray,Normal,Transfer,Spcala,3.0,0,Winter Standard
+Long Beach Animal Care,A716293,Dog,Mixed/Domestic,Gold,Male,Standard,24,2024-03-04,2024-03-05,Stray,Injured  Severe,Euthanasia,Inj Severe,1.0,0,Spring Peak
+Long Beach Animal Care,A757325,Other,Mixed/Domestic,Gray,Unknown,Standard,24,2026-03-08,2026-03-09,Wildlife,Under Age/Weight,Rescue,Other Resc,1.0,0,Spring Peak
+Long Beach Animal Care,A641085,Dog,Mixed/Domestic,Brown,Male,Standard,24,2020-03-14,2020-05-13,Stray,Normal,Rescue,Livelove,60.0,1,Spring Peak
+Long Beach Animal Care,A645964,Bird,Mixed/Domestic,Gray,Unknown,Standard,24,2020-07-20,2020-07-22,Stray,Injured  Mild,Return To Owner,Walkin,2.0,0,Summer High
+Long Beach Animal Care,A686896,Cat,Mixed/Domestic,Black,Male,Standard,24,2022-10-14,2022-12-10,Stray,Injured  Moderate,Adoption,Null,57.0,1,Fall Moderate
+Long Beach Animal Care,A666677,Other,Mixed/Domestic,Black,Unknown,Standard,24,2021-11-11,2021-11-11,Wildlife,Ill Severe,Euthanasia,Ill Severe,0.1,0,Fall Moderate
+Long Beach Animal Care,A645458,Other,Mixed/Domestic,Gray,Unknown,Standard,24,2020-07-13,2020-07-13,Wildlife,Injured  Severe,Euthanasia,Inj Severe,0.1,0,Summer High
+Long Beach Animal Care,A766379,Bird,Mixed/Domestic,Black,Unknown,Standard,24,2026-08-27,2026-08-27,Wildlife,Ill Severe,Euthanasia,Ill Severe,0.1,0,Summer High
+Long Beach Animal Care,A633731,Bird,Mixed/Domestic,Black,Unknown,Standard,24,2019-09-16,2019-09-16,Wildlife,Injured  Severe,Died,Enroute,0.1,0,Fall Moderate
+Long Beach Animal Care,A610591,Cat,Mixed/Domestic,Calico Dil,Female,Standard,24,2018-07-03,2018-07-04,Stray,Under Age/Weight,Euthanasia,Undrage/Wt,1.0,0,Summer High
+Long Beach Animal Care,A591429,Cat,Mixed/Domestic,Brn Tabby,Unknown,Standard,24,2017-06-06,2017-06-06,Stray,Under Age/Weight,Euthanasia,Undrage/Wt,0.1,0,Summer High

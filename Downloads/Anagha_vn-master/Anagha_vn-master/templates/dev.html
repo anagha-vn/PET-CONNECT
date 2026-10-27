@@ -1,0 +1,577 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PET CONNECT — Shelter Operations Hub</title>
+    <!-- Phosphor Outline & Filled Icons -->
+    <script src="https://unpkg.com/@phosphor-icons/web"></script>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+
+    <!-- Sanctuary Top Bar & Navigation -->
+    <header class="apple-header">
+        <div class="header-inner">
+            <a href="/dev" class="brand-wrapper">
+                <div class="brand-logo">
+                    <i class="ph-fill ph-clipboard-text"></i>
+                </div>
+                <div class="brand-text">
+                    <h1>PET CONNECT <span class="brand-badge-version">STAFF v3.0</span></h1>
+                    <p>Shelter Operations &amp; Placement Coordinator Console</p>
+                </div>
+            </a>
+
+            <!-- Segmented Navigation Bar with Animated Sliding Highlight -->
+            <nav class="apple-nav-segmented" id="main-nav-segmented">
+                <div class="nav-highlight" id="nav-pill-highlight"></div>
+                <button class="nav-tab-btn active" onclick="switchTab('intake-directory', this)">
+                    <i class="ph ph-identification-card"></i> Animal Directory & Intake
+                </button>
+                <button class="nav-tab-btn" onclick="switchTab('lifestyle-matcher', this)">
+                    <i class="ph ph-compass"></i> Lifestyle Matcher
+                </button>
+                <button class="nav-tab-btn" onclick="switchTab('adoption-requests', this)">
+                    <i class="ph ph-envelope-simple-open"></i> Adoption Requests &amp; Email
+                    <span id="nav-requests-badge" style="background: var(--apple-orange); color: #000; font-size: 0.7rem; font-weight: 800; padding: 0.08rem 0.45rem; border-radius: 999px; margin-left: 0.25rem;">0</span>
+                </button>
+                <button class="nav-tab-btn" onclick="switchTab('foster-queue', this)">
+                    <i class="ph ph-heart-straight"></i> Foster Care Queue
+                </button>
+                <button class="nav-tab-btn" onclick="switchTab('specialized-triage', this)">
+                    <i class="ph ph-shield-checkered"></i> Specialized Triage
+                </button>
+                <button class="nav-tab-btn" onclick="switchTab('census-analytics', this)">
+                    <i class="ph ph-chart-pie-slice"></i> Census &amp; Analytics
+                </button>
+            </nav>
+
+            <div class="header-actions">
+                <!-- Mode Switcher to Public Adoption Portal -->
+                <a href="/customer" class="btn-apple-secondary" style="font-size: 0.82rem; text-decoration: none;">
+                    <i class="ph ph-paw-print"></i> Public Adoption Portal 🐾
+                </a>
+            </div>
+        </div>
+    </header>
+
+    <!-- Toast Notifications Container -->
+    <div class="apple-toast-container" id="toast-container"></div>
+
+    <!-- Main Container -->
+    <main class="main-container">
+
+        <!-- Executive Shelter KPI Dashboard -->
+        <section class="kpi-grid">
+            <div class="kpi-card">
+                <div class="kpi-icon blue">
+                    <i class="ph ph-paw-print"></i>
+                </div>
+                <div>
+                    <div class="kpi-val" id="kpi-total-animals">0</div>
+                    <div class="kpi-lbl">Total Animals in Care</div>
+                </div>
+            </div>
+
+            <div class="kpi-card">
+                <div class="kpi-icon orange">
+                    <i class="ph ph-clock-counter-clockwise"></i>
+                </div>
+                <div>
+                    <div class="kpi-val" id="kpi-high-risk">0%</div>
+                    <div class="kpi-lbl">Long-Stay Foster Alerts (&ge;30d)</div>
+                </div>
+            </div>
+
+            <div class="kpi-card">
+                <div class="kpi-icon green">
+                    <i class="ph ph-shield-star"></i>
+                </div>
+                <div>
+                    <div class="kpi-val" id="kpi-sar-count">0</div>
+                    <div class="kpi-lbl">Specialized Placements</div>
+                </div>
+            </div>
+
+            <div class="kpi-card">
+                <div class="kpi-icon purple">
+                    <i class="ph ph-calendar-check"></i>
+                </div>
+                <div>
+                    <div class="kpi-val" id="kpi-avg-los">0d</div>
+                    <div class="kpi-lbl">Average Shelter Stay</div>
+                </div>
+            </div>
+        </section>
+
+        <!-- TAB 1: Animal Directory & Intake -->
+        <div id="tab-intake-directory" class="tab-pane active">
+            <div class="grid-2">
+                <!-- Select & Actions Card -->
+                <div class="apple-card">
+                    <div class="card-title-bar">
+                        <h3><i class="ph ph-magnifying-glass"></i> Animal Care & Microchip Lookup</h3>
+                        <span class="badge badge-lowrisk" id="rfid-serial-mode">Shelter DB Active</span>
+                    </div>
+
+                    <p style="font-size: 0.88rem; color: var(--text-secondary); margin-bottom: 1.25rem;">
+                        Lookup animal care files, review behavioral assessments, or admit new rescue intakes into shelter care.
+                    </p>
+
+                    <!-- Species Filter for Directory -->
+                    <div style="display: flex; gap: 0.4rem; overflow-x: auto; margin-bottom: 1rem; padding-bottom: 0.25rem;">
+                        <button class="dir-species-chip active" onclick="filterDirectorySpecies('all', this)">All</button>
+                        <button class="dir-species-chip" onclick="filterDirectorySpecies('dog', this)">🐕 Dogs</button>
+                        <button class="dir-species-chip" onclick="filterDirectorySpecies('cat', this)">🐈 Cats</button>
+                        <button class="dir-species-chip" onclick="filterDirectorySpecies('rabbit', this)">🐇 Rabbits</button>
+                        <button class="dir-species-chip" onclick="filterDirectorySpecies('bird', this)">🦜 Birds</button>
+                        <button class="dir-species-chip" onclick="filterDirectorySpecies('pocket pet', this)">🐹 Pocket Pets</button>
+                        <button class="dir-species-chip" onclick="filterDirectorySpecies('reptile', this)">🦎 Reptiles</button>
+                    </div>
+
+                    <div style="background: rgba(0,0,0,0.35); padding: 1.1rem; border-radius: var(--radius-md); margin-bottom: 1.25rem; border: 1px solid var(--border-subtle);">
+                        <label style="font-size: 0.78rem; font-weight: 600; color: var(--text-secondary); display: block; margin-bottom: 0.5rem;">Select Registered Microchip Tag / Animal:</label>
+                        <div style="display: flex; gap: 0.6rem;">
+                            <select id="rfid-tag-select" style="flex: 1;">
+                                <option value="">Loading animal records...</option>
+                            </select>
+                            <button class="btn-apple" onclick="triggerScanFromSelect()">
+                                Inspect Record
+                            </button>
+                        </div>
+                    </div>
+
+                    <div style="display: flex; gap: 0.75rem; margin-bottom: 1.25rem;">
+                        <button class="btn-apple-secondary" style="flex: 1;" onclick="triggerRandomScan()">
+                            <i class="ph ph-shuffle"></i> Random Companion
+                        </button>
+                        <button class="btn-apple" style="flex: 1;" onclick="toggleRegisterForm()">
+                            <i class="ph ph-plus-circle"></i> Admit New Intake
+                        </button>
+                    </div>
+
+                    <!-- Add New Intake Form -->
+                    <div id="register-animal-form" style="display: none; background: rgba(0,0,0,0.45); padding: 1.25rem; border-radius: var(--radius-md); margin-bottom: 1.25rem; border: 1px solid var(--apple-blue);">
+                        <h4 style="font-size: 0.95rem; color: var(--apple-blue); margin-bottom: 0.85rem; font-weight: 600;">
+                            <i class="ph ph-pencil-simple-line"></i> New Rescue Intake Admission
+                        </h4>
+                        
+                        <div style="display: grid; grid-template-columns: 1.2fr 1fr; gap: 0.6rem; margin-bottom: 0.6rem;">
+                            <input type="text" id="reg-name" placeholder="Animal Name (e.g. Barnaby)">
+                            <select id="reg-species">
+                                <option value="Dog">🐕 Dog</option>
+                                <option value="Cat">🐈 Cat</option>
+                                <option value="Rabbit">🐇 Rabbit</option>
+                                <option value="Bird">🦜 Bird</option>
+                                <option value="Pocket Pet">🐹 Pocket Pet</option>
+                                <option value="Reptile">🦎 Reptile</option>
+                            </select>
+                        </div>
+                        
+                        <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 0.6rem; margin-bottom: 0.6rem;">
+                            <input type="text" id="reg-breed" placeholder="Breed / Type (e.g. Holland Lop)">
+                            <input type="number" id="reg-age" placeholder="Age (Months)" value="18">
+                        </div>
+
+                        <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 0.6rem; margin-bottom: 0.6rem;">
+                            <select id="reg-size">
+                                <option value="Small">Small Size</option>
+                                <option value="Medium" selected>Medium Size</option>
+                                <option value="Large">Large Size</option>
+                                <option value="Extra Large">Extra Large Size</option>
+                            </select>
+                            <input type="number" id="reg-fee" placeholder="Adoption Fee ($)" value="65">
+                        </div>
+
+                        <div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 0.6rem; margin-bottom: 0.75rem;">
+                            <div>
+                                <label style="font-size: 0.7rem; color: var(--text-secondary);">Energy (1-10)</label>
+                                <input type="number" id="reg-energy" min="1" max="10" value="5">
+                            </div>
+                            <div>
+                                <label style="font-size: 0.7rem; color: var(--text-secondary);">Trainability (1-10)</label>
+                                <input type="number" id="reg-trainability" min="1" max="10" value="6">
+                            </div>
+                            <div>
+                                <label style="font-size: 0.7rem; color: var(--text-secondary);">Sociability (1-10)</label>
+                                <input type="number" id="reg-drive" min="1" max="10" value="7">
+                            </div>
+                        </div>
+
+                        <div style="margin-bottom: 0.85rem;">
+                            <textarea id="reg-bio" rows="2" placeholder="Heartwarming staff notes / bio (e.g. Loves timothy hay and gentle chin scratches)..." style="width: 100%; background: rgba(0,0,0,0.3); border: 1px solid var(--border-subtle); border-radius: var(--radius-xs); padding: 0.5rem; color: #fff; font-family: var(--font-main); font-size: 0.8rem;"></textarea>
+                        </div>
+
+                        <button class="btn-apple" style="width: 100%;" onclick="submitNewAnimal()">
+                            <i class="ph ph-check"></i> Register Companion Admission
+                        </button>
+                    </div>
+
+                    <div>
+                        <div style="font-size: 0.78rem; font-weight: 600; color: var(--text-secondary); margin-bottom: 0.4rem; display: flex; align-items: center; gap: 0.4rem;">
+                            <i class="ph ph-activity"></i> Recent Care & Intake Activity:
+                        </div>
+                        <pre class="apple-log-box" id="serial-terminal-log">Shelter Care Console ready. Select an animal to inspect care profile...</pre>
+                    </div>
+                </div>
+
+                <!-- Active Animal Care Sheet -->
+                <div class="apple-card" id="scanned-profile-container">
+                    <div class="card-title-bar">
+                        <h3><i class="ph ph-clipboard"></i> Animal Care & Behavioral Sheet</h3>
+                        <span class="badge badge-lowrisk" id="scan-risk-badge">Active Care</span>
+                    </div>
+
+                    <div id="scan-profile-content">
+                        <p style="color: var(--text-secondary); font-size: 0.9rem;">No active animal record loaded. Select a companion profile above.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- TAB 2: Lifestyle & Manageability Matcher -->
+        <div id="tab-lifestyle-matcher" class="tab-pane">
+            <div class="grid-2">
+                <div class="apple-card">
+                    <div class="card-title-bar">
+                        <h3><i class="ph ph-sliders-horizontal"></i> Adopter Manageability &amp; Lifestyle Constraints</h3>
+                        <button class="btn-apple-secondary" onclick="resetMatchingSliders()" style="padding: 0.3rem 0.75rem; font-size: 0.78rem;">Reset</button>
+                    </div>
+
+                    <p style="font-size: 0.85rem; color: var(--text-secondary); margin-bottom: 1.25rem;">
+                        Match prospective adopters with shelter animals based on manageable daily energy, grooming upkeep, indoor space, and monthly care budget.
+                    </p>
+
+                    <!-- Matcher Species Filter -->
+                    <div style="background: rgba(0,0,0,0.3); padding: 0.85rem; border-radius: var(--radius-sm); margin-bottom: 1.25rem; border: 1px solid var(--border-subtle);">
+                        <label style="font-size: 0.75rem; font-weight: 600; color: var(--text-secondary); display: block; margin-bottom: 0.4rem;">Filter Candidates by Species:</label>
+                        <select id="matcher-species-select" onchange="runVectorMatch()" style="width: 100%;">
+                            <option value="all">🐾 All Species (Dogs, Cats, Rabbits, Birds, Pocket Pets, Reptiles)</option>
+                            <option value="dog">🐕 Dogs Only</option>
+                            <option value="cat">🐈 Cats Only</option>
+                            <option value="rabbit">🐇 Rabbits Only</option>
+                            <option value="bird">🦜 Birds Only</option>
+                            <option value="pocket pet">🐹 Pocket Pets Only</option>
+                            <option value="reptile">🦎 Reptiles Only</option>
+                        </select>
+                    </div>
+
+                    <div class="apple-slider-group">
+                        <div class="apple-slider-header">
+                            <span class="apple-slider-label"><i class="ph ph-lightning"></i> Manageable Energy &amp; Exercise</span>
+                            <span class="apple-slider-val" id="val-exercise">1.5 Hours/Day</span>
+                        </div>
+                        <input type="range" id="slider-exercise" min="0.5" max="5" step="0.5" value="1.5" oninput="updateSliderVals(); runVectorMatch();">
+                    </div>
+
+                    <div class="apple-slider-group">
+                        <div class="apple-slider-header">
+                            <span class="apple-slider-label"><i class="ph ph-scissors"></i> Maintenance &amp; Grooming Capacity</span>
+                            <span class="apple-slider-val" id="val-grooming">5 / 10</span>
+                        </div>
+                        <input type="range" id="slider-grooming" min="1" max="10" value="5" oninput="updateSliderVals(); runVectorMatch();">
+                    </div>
+
+                    <div class="apple-slider-group">
+                        <div class="apple-slider-header">
+                            <span class="apple-slider-label"><i class="ph ph-house"></i> Home Living Space</span>
+                            <span class="apple-slider-val" id="val-space">5 / 10</span>
+                        </div>
+                        <input type="range" id="slider-space" min="1" max="10" value="5" oninput="updateSliderVals(); runVectorMatch();">
+                    </div>
+
+                    <div class="apple-slider-group">
+                        <div class="apple-slider-header">
+                            <span class="apple-slider-label"><i class="ph ph-tree"></i> Outdoor Yard Space</span>
+                            <span class="apple-slider-val" id="val-yard">Small Yard</span>
+                        </div>
+                        <input type="range" id="slider-yard" min="0" max="3" value="1" oninput="updateSliderVals(); runVectorMatch();">
+                    </div>
+
+                    <div class="apple-slider-group">
+                        <div class="apple-slider-header">
+                            <span class="apple-slider-label"><i class="ph ph-wallet"></i> Monthly Care Budget</span>
+                            <span class="apple-slider-val" id="val-budget">5 / 10</span>
+                        </div>
+                        <input type="range" id="slider-budget" min="1" max="10" value="5" oninput="updateSliderVals(); runVectorMatch();">
+                    </div>
+
+                    <div class="apple-slider-group">
+                        <div class="apple-slider-header">
+                            <span class="apple-slider-label"><i class="ph ph-baby"></i> Youngest Household Child</span>
+                            <span class="apple-slider-val" id="val-child-age">10 Years Old</span>
+                        </div>
+                        <input type="range" id="slider-child-age" min="0" max="18" value="10" oninput="updateSliderVals(); runVectorMatch();">
+                    </div>
+                </div>
+
+                <!-- Match Results Grid -->
+                <div class="apple-card">
+                    <div class="card-title-bar">
+                        <h3><i class="ph ph-star"></i> Best Compatibility Matches</h3>
+                        <span class="badge badge-sar" id="match-count-text">Evaluating Candidates...</span>
+                    </div>
+
+                    <div class="results-grid" id="matching-results-list">
+                        <!-- Rendered dynamically -->
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- TAB 3: Long-Stay & Foster Care Queue -->
+        <div id="tab-foster-queue" class="tab-pane">
+            <div class="apple-card">
+                <div class="card-title-bar">
+                    <h3><i class="ph ph-heart-straight"></i> Long-Stay & Foster Placement Queue (&ge; 30 Days in Care)</h3>
+                    <div style="display: flex; gap: 0.5rem; align-items: center;">
+                        <a href="/api/export-high-risk" class="btn-apple-secondary" style="font-size: 0.78rem; text-decoration: none; padding: 0.35rem 0.85rem;">
+                            <i class="ph ph-download-simple"></i> Export CSV Report
+                        </a>
+                        <span class="badge badge-highrisk" id="high-risk-header-badge">0 Long-Stay Companions</span>
+                    </div>
+                </div>
+
+                <p style="font-size: 0.9rem; color: var(--text-secondary); margin-bottom: 1.5rem;">
+                    Companions who have been in our care for over 30 days receive personalized foster care outreach, adoption fee sponsorships, and featured social media spotlights to help them find a loving forever family.
+                </p>
+
+                <div class="results-grid" id="high-risk-queue" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(330px, 1fr)); gap: 1.25rem;">
+                    <!-- Rendered dynamically -->
+                </div>
+            </div>
+        </div>
+
+        <!-- TAB 4: Specialized Animal Triage -->
+        <div id="tab-specialized-triage" class="tab-pane">
+            <div class="apple-card">
+                <div class="card-title-bar">
+                    <h3><i class="ph ph-shield-checkered"></i> Specialized Placement & Rescue Triage</h3>
+                    <span class="badge badge-sar" id="sar-header-badge">0 Specialized Candidates</span>
+                </div>
+
+                <p style="font-size: 0.9rem; color: var(--text-secondary); margin-bottom: 1.25rem;">
+                    Targeted placement matching for animals with specialized capabilities or habitat requirements: high-drive working K9s (SAR/Disaster Response), independent barn cats, and specialized exotic rescue habitats.
+                </p>
+
+                <!-- Triage Category Switcher -->
+                <div style="display: flex; gap: 0.5rem; margin-bottom: 1.5rem; border-bottom: 1px solid var(--border-subtle); padding-bottom: 1rem;">
+                    <button class="triage-tab-btn active" onclick="switchTriageFilter('all', this)">
+                        <i class="ph ph-squares-four"></i> All Specialized Placements
+                    </button>
+                    <button class="triage-tab-btn" onclick="switchTriageFilter('working_dogs', this)">
+                        <i class="ph ph-shield-star"></i> Working Dog & SAR Candidates
+                    </button>
+                    <button class="triage-tab-btn" onclick="switchTriageFilter('barn_cats', this)">
+                        <i class="ph ph-house"></i> Barn & Working Cats
+                    </button>
+                    <button class="triage-tab-btn" onclick="switchTriageFilter('exotic_rescues', this)">
+                        <i class="ph ph-leaf"></i> Exotic Specialist Rescues
+                    </button>
+                </div>
+
+                <div class="results-grid" id="sar-candidate-queue" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(330px, 1fr)); gap: 1.25rem;">
+                    <!-- Rendered dynamically -->
+                </div>
+            </div>
+        </div>
+
+        <!-- TAB 5: Shelter Census & Care Analytics -->
+        <div id="tab-census-analytics" class="tab-pane">
+            <div class="apple-card" style="margin-bottom: 1.5rem;">
+                <div class="card-title-bar">
+                    <h3><i class="ph ph-chart-pie-slice"></i> Shelter Census & Care Operations Analytics</h3>
+                    <span class="badge badge-lowrisk" id="analytics-timestamp">Live Shelter Census</span>
+                </div>
+
+                <p style="font-size: 0.9rem; color: var(--text-secondary); margin-bottom: 1.5rem;">
+                    Comprehensive shelter census by species, length of stay distribution, and veterinary medical care status across all sanctuary facilities.
+                </p>
+
+                <!-- Analytics Metrics 3-Col Layout -->
+                <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; margin-bottom: 1.5rem;">
+                    <!-- Species Census Card -->
+                    <div style="background: rgba(0,0,0,0.35); border: 1px solid var(--border-subtle); border-radius: var(--radius-md); padding: 1.25rem;">
+                        <h4 style="font-size: 1rem; color: var(--text-primary); margin-bottom: 1rem; display: flex; align-items: center; gap: 0.5rem;">
+                            <i class="ph ph-paw-print" style="color: var(--apple-blue);"></i> Species Census Distribution
+                        </h4>
+                        <div id="census-species-bars" style="display: flex; flex-direction: column; gap: 0.85rem;">
+                            <!-- Dynamically populated -->
+                        </div>
+                    </div>
+
+                    <!-- Medical & Stay Duration Card -->
+                    <div style="background: rgba(0,0,0,0.35); border: 1px solid var(--border-subtle); border-radius: var(--radius-md); padding: 1.25rem;">
+                        <h4 style="font-size: 1rem; color: var(--text-primary); margin-bottom: 1rem; display: flex; align-items: center; gap: 0.5rem;">
+                            <i class="ph ph-first-aid" style="color: var(--apple-green);"></i> Medical Care Status Distribution
+                        </h4>
+                        <div id="census-medical-bars" style="display: flex; flex-direction: column; gap: 0.85rem;">
+                            <!-- Dynamically populated -->
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Shelter Care Standards & Protocol Highlights -->
+                <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1rem;">
+                    <div style="background: rgba(255,255,255,0.03); border: 1px solid var(--border-subtle); border-radius: var(--radius-sm); padding: 1rem;">
+                        <h5 style="font-size: 0.88rem; color: var(--apple-cyan); margin-bottom: 0.4rem; display: flex; align-items: center; gap: 0.4rem;">
+                            <i class="ph ph-shield-check"></i> Standard Shelter Care Protocols
+                        </h5>
+                        <p style="font-size: 0.8rem; color: var(--text-secondary); line-height: 1.5;">
+                            All dogs, cats, rabbits, and small animals receive comprehensive intake examinations, core vaccinations, microchipping, and behavioral evaluations.
+                        </p>
+                    </div>
+
+                    <div style="background: rgba(255,255,255,0.03); border: 1px solid var(--border-subtle); border-radius: var(--radius-sm); padding: 1rem;">
+                        <h5 style="font-size: 0.88rem; color: var(--apple-orange); margin-bottom: 0.4rem; display: flex; align-items: center; gap: 0.4rem;">
+                            <i class="ph ph-heart-straight"></i> Foster-First Initiative
+                        </h5>
+                        <p style="font-size: 0.8rem; color: var(--text-secondary); line-height: 1.5;">
+                            Companions exceeding 30 days in shelter care are proactively assigned to our network of 120+ approved volunteer foster homes to minimize stress.
+                        </p>
+                    </div>
+
+                    <div style="background: rgba(255,255,255,0.03); border: 1px solid var(--border-subtle); border-radius: var(--radius-sm); padding: 1rem;">
+                        <h5 style="font-size: 0.88rem; color: var(--apple-green); margin-bottom: 0.4rem; display: flex; align-items: center; gap: 0.4rem;">
+                            <i class="ph ph-hand-heart"></i> Post-Adoption Support
+                        </h5>
+                        <p style="font-size: 0.8rem; color: var(--text-secondary); line-height: 1.5;">
+                            Adopters receive instant confirmation emails, personalized species care checklists, and partner veterinary wellness checkups within 30 days of adoption.
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Incoming Customer Adoption Requests & Confirmation Emails Card -->
+            <div class="apple-card">
+                <div class="card-title-bar">
+                    <h3><i class="ph ph-envelope-simple-open"></i> Customer Adoption Inquiries &amp; Dispatched Confirmation Emails</h3>
+                    <button class="btn-apple-secondary" onclick="switchTab('adoption-requests')" style="font-size: 0.78rem; padding: 0.35rem 0.85rem;">
+                        <i class="ph ph-paper-plane-tilt"></i> Open Staff Email Composer
+                    </button>
+                </div>
+                <p style="font-size: 0.88rem; color: var(--text-secondary); margin-bottom: 1.25rem;">
+                    Real-time log of adoption inquiries submitted on the <strong>PET CONNECT</strong> public portal. Click any request to auto-fill the Staff Email Dispatch Composer.
+                </p>
+                <div id="staff-adoption-requests-summary-list" style="display: flex; flex-direction: column; gap: 0.75rem;">
+                    <p style="color: var(--text-secondary); font-size: 0.85rem;">Loading customer adoption inquiries...</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- TAB 6: Customer Adoption Requests & Pre-Filled Staff Email Dispatch Console -->
+        <div id="tab-adoption-requests" class="tab-pane">
+            <div class="grid-2">
+                <!-- Left Column: Incoming Customer Adoption Requests Queue -->
+                <div class="apple-card">
+                    <div class="card-title-bar">
+                        <h3><i class="ph ph-tray"></i> Incoming Customer Adoption Requests</h3>
+                        <span class="badge badge-lowrisk" id="adoption-requests-count-badge">0 Inquiries</span>
+                    </div>
+                    <p style="font-size: 0.86rem; color: var(--text-secondary); margin-bottom: 1.15rem;">
+                        When a customer submits an adoption request on the <strong>PET CONNECT</strong> web portal, all of their details and confirmation email fields are automatically populated in the Staff Email Composer on the right so a shelter employee can review and send it with one click.
+                    </p>
+                    <div id="staff-adoption-requests-list" style="display: flex; flex-direction: column; gap: 0.75rem; max-height: 680px; overflow-y: auto;">
+                        <p style="color: var(--text-secondary); font-size: 0.85rem;">Loading customer adoption requests...</p>
+                    </div>
+                </div>
+
+                <!-- Right Column: Auto-Filled Staff Confirmation Email Composer & Dispatch -->
+                <div class="apple-card" id="staff-email-composer-card">
+                    <div class="card-title-bar">
+                        <h3><i class="ph ph-paper-plane-tilt"></i> Pre-Filled Staff Confirmation Email Dispatch</h3>
+                        <span class="badge badge-sar" id="staff-composer-ref-badge">Auto-Filled Ready</span>
+                    </div>
+
+                    <p style="font-size: 0.84rem; color: var(--text-secondary); margin-bottom: 1rem;">
+                        All customer information, compatibility scores, and confirmation message details are automatically filled in below from the selected customer request. Review or customize and click <strong>Send to Customer</strong>.
+                    </p>
+
+                    <!-- Auto-Filled Companion & Applicant Banner -->
+                    <div id="staff-composer-summary-banner" style="background: rgba(10, 132, 255, 0.1); border: 1px solid rgba(10, 132, 255, 0.3); border-radius: var(--radius-md); padding: 0.9rem 1rem; margin-bottom: 1rem;">
+                        <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 0.5rem;">
+                            <div>
+                                <div style="font-size: 0.74rem; font-weight: 700; color: var(--apple-cyan); text-transform: uppercase;" id="staff-comp-species">🐾 COMPANION APPLICATION</div>
+                                <div style="font-size: 1.08rem; font-weight: 700; color: var(--text-primary);" id="staff-comp-pet">Select or submit a customer request</div>
+                            </div>
+                            <div style="text-align: right;">
+                                <span class="badge badge-lowrisk" id="staff-comp-status">READY TO SEND</span>
+                            </div>
+                        </div>
+                        <div style="font-size: 0.78rem; color: var(--text-secondary); margin-top: 0.45rem;" id="staff-comp-meta">
+                            Applicant details and lifestyle compatibility breakdown will auto-fill here.
+                        </div>
+                    </div>
+
+                    <input type="hidden" id="staff-email-ref" value="">
+
+                    <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 0.75rem; margin-bottom: 0.75rem;">
+                        <div>
+                            <label style="font-size: 0.75rem; font-weight: 600; color: var(--text-secondary); display: block; margin-bottom: 0.3rem;">Customer Email (To:)</label>
+                            <input type="email" id="staff-email-to" placeholder="customer@gmail.com" style="width: 100%;">
+                        </div>
+                        <div>
+                            <label style="font-size: 0.75rem; font-weight: 600; color: var(--text-secondary); display: block; margin-bottom: 0.3rem;">Customer Name</label>
+                            <input type="text" id="staff-email-name" placeholder="Customer Full Name" style="width: 100%;">
+                        </div>
+                    </div>
+
+                    <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 0.75rem; margin-bottom: 0.75rem;">
+                        <div>
+                            <label style="font-size: 0.75rem; font-weight: 600; color: var(--text-secondary); display: block; margin-bottom: 0.3rem;">Customer Phone</label>
+                            <input type="text" id="staff-email-phone" placeholder="Phone Number" style="width: 100%;" readonly>
+                        </div>
+                        <div>
+                            <label style="font-size: 0.75rem; font-weight: 600; color: var(--text-secondary); display: block; margin-bottom: 0.3rem;">Housing &amp; Experience</label>
+                            <input type="text" id="staff-email-housing" placeholder="Housing & Experience" style="width: 100%;" readonly>
+                        </div>
+                    </div>
+
+                    <div style="margin-bottom: 0.75rem;">
+                        <label style="font-size: 0.75rem; font-weight: 600; color: var(--text-secondary); display: block; margin-bottom: 0.3rem;">Confirmation Email Subject</label>
+                        <input type="text" id="staff-email-subject" placeholder="🐾 PET CONNECT Adoption Request Confirmed" style="width: 100%;">
+                    </div>
+
+                    <div style="margin-bottom: 0.75rem;">
+                        <label style="font-size: 0.75rem; font-weight: 600; color: var(--text-secondary); display: block; margin-bottom: 0.3rem;">Personal Note from Shelter Employee (Optional — Appended to Email)</label>
+                        <input type="text" id="staff-email-note" placeholder="e.g. Hi! We have reserved Bailey for your visit this Saturday at 2:00 PM." style="width: 100%;">
+                    </div>
+
+                    <div style="margin-bottom: 1rem;">
+                        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.3rem;">
+                            <label style="font-size: 0.75rem; font-weight: 600; color: var(--text-secondary);">Auto-Filled Confirmation Email Body (Editable by Shelter Staff)</label>
+                            <a id="staff-preview-html-link" href="#" target="_blank" style="font-size: 0.75rem; color: var(--apple-cyan); text-decoration: none;">
+                                <i class="ph ph-arrow-square-out"></i> Preview Rich HTML Email
+                            </a>
+                        </div>
+                        <textarea id="staff-email-body" rows="11" style="width: 100%; background: rgba(0,0,0,0.4); border: 1px solid var(--border-subtle); border-radius: var(--radius-sm); padding: 0.75rem; color: #f8fafc; font-family: var(--font-mono); font-size: 0.78rem; line-height: 1.5;"></textarea>
+                    </div>
+
+                    <!-- Primary Shelter Employee Send Buttons -->
+                    <div style="display: flex; flex-direction: column; gap: 0.6rem;">
+                        <button type="button" class="btn-apple" style="width: 100%; justify-content: center; padding: 0.75rem 1rem; font-size: 0.9rem; background: linear-gradient(135deg, #30d158, #0a84ff);" onclick="staffSendViaGmailWeb()">
+                            <i class="ph-fill ph-google-logo"></i> Send via Shelter Employee Gmail (Opens Pre-Filled Gmail to Customer)
+                        </button>
+
+                        <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 0.6rem;">
+                            <button type="button" class="btn-apple-secondary" style="justify-content: center;" onclick="staffSendViaMailto()">
+                                <i class="ph ph-envelope-open"></i> Send via Desktop Mail App
+                            </button>
+                            <button type="button" class="btn-apple" style="justify-content: center;" onclick="staffApproveAndDispatchBackend()">
+                                <i class="ph ph-check-circle"></i> Approve &amp; Mark Sent in Console
+                            </button>
+                        </div>
+                    </div>
+
+                    <div id="staff-dispatch-feedback" style="display: none; margin-top: 0.85rem; padding: 0.75rem; border-radius: var(--radius-sm); font-size: 0.82rem;"></div>
+                </div>
+            </div>
+        </div>
+
+    </main>
+
+    <!-- Scripts -->
+    <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+</body>
+</html>

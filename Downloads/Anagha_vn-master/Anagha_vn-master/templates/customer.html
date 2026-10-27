@@ -1,0 +1,599 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PET CONNECT — Find Your Forever Companion by Manageable Lifestyle</title>
+    <!-- Phosphor Outline Icons -->
+    <script src="https://unpkg.com/@phosphor-icons/web"></script>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/customer.css') }}">
+</head>
+<body>
+
+    <!-- Customer Navigation Header -->
+    <header class="customer-header">
+        <div class="header-container">
+            <a href="/customer" class="brand-wrapper">
+                <div class="brand-icon">
+                    <i class="ph-fill ph-paw-print"></i>
+                </div>
+                <div class="brand-title">
+                    <h1>PET CONNECT</h1>
+                    <p>Companion Adoption &amp; Rescue Sanctuary</p>
+                </div>
+            </a>
+
+            <div class="header-nav-actions">
+                <!-- Pre-Registered Customer Email Pill -->
+                <button type="button" class="adopter-email-pill" id="header-email-status-btn" onclick="openEmailOnboardingModal()" title="Set or update your email for instant adoption confirmations">
+                    <i class="ph-fill ph-envelope-simple-open"></i>
+                    <span id="header-email-label">Set Email for Instant Confirmation</span>
+                </button>
+
+                <div class="sanctuary-status-pill">
+                    <span class="status-indicator-dot"></span>
+                    <span>Adoptions Open Today</span>
+                </div>
+                <!-- Mode Switcher to Shelter Operations Hub -->
+                <a href="/dev" class="portal-switch-btn" title="Switch to PET CONNECT Shelter Operations & Care Management">
+                    <i class="ph ph-clipboard-text"></i>
+                    <span>Shelter Operations Console</span>
+                </a>
+            </div>
+        </div>
+    </header>
+
+    <!-- Upfront Customer Email Capture Banner (Ask for Email Beforehand) -->
+    <section class="upfront-email-banner" id="upfront-email-banner">
+        <div class="upfront-email-container">
+            <div class="upfront-email-info">
+                <span class="upfront-email-icon"><i class="ph-fill ph-envelope-open"></i></span>
+                <div>
+                    <h4>Step 1: Connect Your Email Before Requesting a Companion</h4>
+                    <p id="upfront-email-subtext">Enter your email address beforehand so PET CONNECT can pre-fill your applications and send instant adoption confirmation emails.</p>
+                </div>
+            </div>
+
+            <form class="upfront-email-form" id="upfront-email-inline-form" onsubmit="handleInlineEmailRegistration(event)">
+                <input type="text" id="inline-adopter-name" placeholder="Your Name (optional)" aria-label="Your Name">
+                <input type="email" id="inline-adopter-email" required placeholder="Enter your email address (e.g. alex@example.com)" aria-label="Your Email Address">
+                <button type="submit" class="btn-primary-warm btn-compact">
+                    <i class="ph-fill ph-check-circle"></i> <span id="inline-email-btn-text">Connect Email</span>
+                </button>
+            </form>
+        </div>
+    </section>
+
+    <!-- Hero Banner Section -->
+    <section class="customer-hero">
+        <div class="hero-content">
+            <div class="hero-badge-pill">
+                <i class="ph-fill ph-heart"></i> PET CONNECT • Non-Profit Rescue, Rehabilitation &amp; Lifelong Care
+            </div>
+            <h2>Every companion deserves a loving forever home.</h2>
+            <p class="hero-description">
+                Welcome to <strong>PET CONNECT</strong>. Meet our wonderful rescue dogs, cats, rabbits, birds, pocket pets, and reptiles.
+                Every animal in our care is lovingly rehabilitated, veterinary-checked, and matched to the exact daily routine you can comfortably manage.
+            </p>
+
+            <div class="hero-highlights">
+                <div class="highlight-pill"><i class="ph-fill ph-check-circle"></i> Spayed / Neutered &amp; Vaccinated</div>
+                <div class="highlight-pill"><i class="ph-fill ph-check-circle"></i> Instant Email Confirmation</div>
+                <div class="highlight-pill"><i class="ph-fill ph-check-circle"></i> Post-Adoption Support</div>
+            </div>
+
+            <div class="hero-search-wrapper">
+                <div class="hero-search-box">
+                    <i class="ph ph-magnifying-glass search-icon"></i>
+                    <input type="text" id="pet-search-input" placeholder="Search PET CONNECT by pet name, breed, or temperament..." oninput="handlePetSearch(this.value)">
+                    <button class="clear-search-btn" id="clear-search-btn" onclick="clearPetSearch()" style="display: none;">
+                        <i class="ph ph-x"></i>
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <div class="hero-card-preview">
+            <div class="sanctuary-quote-box">
+                <div class="quote-header">
+                    <div class="staff-avatar">
+                        <i class="ph-fill ph-hand-heart"></i>
+                    </div>
+                    <div>
+                        <h4>PET CONNECT Care Promise</h4>
+                        <p>PET CONNECT Adoption Team</p>
+                    </div>
+                </div>
+                <blockquote class="sanctuary-quote">
+                    "We believe adoption is a conversation, not a test. Connect your email, explore pets tailored to your manageable daily energy and budget, and receive an instant confirmation email when you apply."
+                </blockquote>
+                <div class="sanctuary-stats-row">
+                    <div class="mini-stat">
+                        <strong id="stat-total-companions">2,500+</strong>
+                        <span>Animals in Care</span>
+                    </div>
+                    <div class="mini-stat">
+                        <strong>6 Species</strong>
+                        <span>Welcomed &amp; Protected</span>
+                    </div>
+                    <div class="mini-stat">
+                        <strong>100%</strong>
+                        <span>Rescue Love</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Interactive Manageability Matcher Widget (Core PET CONNECT Specialty) -->
+    <section class="manageability-hero-widget" id="manageability-section">
+        <div class="widget-container">
+            <div class="widget-header-card">
+                <div class="widget-badge-row">
+                    <span class="widget-badge"><i class="ph-fill ph-sparkle"></i> PET CONNECT Core Innovation</span>
+                    <span class="widget-badge-secondary"><i class="ph-fill ph-check-circle"></i> Vector AI Compatibility</span>
+                </div>
+                <h2>Find Pets Matching My Manageable Energy, Maintenance &amp; Budget</h2>
+                <p class="widget-subtitle">
+                    The secret to a happy lifelong adoption is matching a pet to what you can comfortably manage every day.
+                    Adjust your manageable energy, maintenance time, space, and care budget below to see rescue companions scored and ranked in real time!
+                </p>
+            </div>
+
+            <!-- Quick 1-Click Lifestyle Presets -->
+            <div class="preset-chips-wrapper">
+                <span class="preset-label"><i class="ph-fill ph-lightning"></i> 1-Click Lifestyle Presets:</span>
+                <div class="preset-buttons">
+                    <button type="button" class="preset-btn" id="preset-chill" onclick="applyManageabilityPreset('chill', this)">
+                        <span class="preset-emoji">🧘</span>
+                        <span class="preset-text">Low Maintenance &amp; Chill</span>
+                    </button>
+                    <button type="button" class="preset-btn" id="preset-active" onclick="applyManageabilityPreset('active', this)">
+                        <span class="preset-emoji">🏃</span>
+                        <span class="preset-text">Active Adventure Partner</span>
+                    </button>
+                    <button type="button" class="preset-btn" id="preset-apartment" onclick="applyManageabilityPreset('apartment', this)">
+                        <span class="preset-emoji">🏢</span>
+                        <span class="preset-text">Apartment Friendly</span>
+                    </button>
+                    <button type="button" class="preset-btn" id="preset-family" onclick="applyManageabilityPreset('family', this)">
+                        <span class="preset-emoji">👨‍👩‍👧</span>
+                        <span class="preset-text">Family with Kids</span>
+                    </button>
+                    <button type="button" class="preset-btn" id="preset-budget" onclick="applyManageabilityPreset('budget', this)">
+                        <span class="preset-emoji">💵</span>
+                        <span class="preset-text">Budget-Friendly Pet</span>
+                    </button>
+                    <button type="button" class="preset-btn preset-reset-btn" onclick="resetManageabilityControls()">
+                        <i class="ph ph-arrows-clockwise"></i>
+                        <span>Reset Defaults</span>
+                    </button>
+                </div>
+            </div>
+
+            <!-- Interactive Manageability Sliders Grid -->
+            <div class="manageability-controls-grid">
+                <!-- 1. Manageable Energy Level -->
+                <div class="control-card">
+                    <div class="control-card-header">
+                        <div class="control-title-box">
+                            <span class="control-icon energy-icon"><i class="ph-fill ph-lightning"></i></span>
+                            <div>
+                                <h4 class="control-label">Energy Level I Can Manage</h4>
+                                <span class="control-subtext">Daily exercise capacity &amp; activity routine</span>
+                            </div>
+                        </div>
+                        <span class="control-pill" id="display-cust-energy">Moderate (~1h/day)</span>
+                    </div>
+                    <div class="slider-wrapper">
+                        <input type="range" id="slider-cust-energy" min="1" max="10" value="5" step="1" oninput="handleManageabilityChange()">
+                        <div class="slider-markers">
+                            <span>Calm/Couch (~30m)</span>
+                            <span>Moderate (~1h)</span>
+                            <span>High / Athlete (2h+)</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 2. Manageable Maintenance -->
+                <div class="control-card">
+                    <div class="control-card-header">
+                        <div class="control-title-box">
+                            <span class="control-icon maint-icon"><i class="ph-fill ph-scissors"></i></span>
+                            <div>
+                                <h4 class="control-label">Maintenance I Can Handle</h4>
+                                <span class="control-subtext">Grooming, brushing &amp; upkeep routine</span>
+                            </div>
+                        </div>
+                        <span class="control-pill" id="display-cust-maintenance">Moderate Grooming</span>
+                    </div>
+                    <div class="slider-wrapper">
+                        <input type="range" id="slider-cust-maintenance" min="1" max="10" value="5" step="1" oninput="handleManageabilityChange()">
+                        <div class="slider-markers">
+                            <span>Low / Quick Brush</span>
+                            <span>Moderate Upkeep</span>
+                            <span>High / Daily Pamper</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 3. Living Space & Yard -->
+                <div class="control-card">
+                    <div class="control-card-header">
+                        <div class="control-title-box">
+                            <span class="control-icon space-icon"><i class="ph-fill ph-house-line"></i></span>
+                            <div>
+                                <h4 class="control-label">Living Space &amp; Yard Access</h4>
+                                <span class="control-subtext">Indoor home size and outdoor enclosure</span>
+                            </div>
+                        </div>
+                        <span class="control-pill" id="display-cust-yard">Townhouse / Small Yard</span>
+                    </div>
+                    <div class="slider-wrapper">
+                        <input type="range" id="slider-cust-yard" min="0" max="3" value="1" step="1" oninput="handleManageabilityChange()">
+                        <div class="slider-markers">
+                            <span>Apartment (No Yard)</span>
+                            <span>Small Yard</span>
+                            <span>Medium Yard</span>
+                            <span>Spacious Yard</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 4. Monthly Care Budget -->
+                <div class="control-card">
+                    <div class="control-card-header">
+                        <div class="control-title-box">
+                            <span class="control-icon budget-icon"><i class="ph-fill ph-wallet"></i></span>
+                            <div>
+                                <h4 class="control-label">Monthly Care Budget</h4>
+                                <span class="control-subtext">Affordable food, vet wellness &amp; care</span>
+                            </div>
+                        </div>
+                        <span class="control-pill" id="display-cust-budget">Moderate (~$65/mo)</span>
+                    </div>
+                    <div class="slider-wrapper">
+                        <input type="range" id="slider-cust-budget" min="1" max="10" value="5" step="1" oninput="handleManageabilityChange()">
+                        <div class="slider-markers">
+                            <span>Budget (&lt;$35/mo)</span>
+                            <span>Moderate ($50-$80)</span>
+                            <span>Flexible ($100+/mo)</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 5. Youngest Household Child -->
+                <div class="control-card">
+                    <div class="control-card-header">
+                        <div class="control-title-box">
+                            <span class="control-icon child-icon"><i class="ph-fill ph-baby"></i></span>
+                            <div>
+                                <h4 class="control-label">Youngest Household Child</h4>
+                                <span class="control-subtext">Safety compatibility &amp; gentle sociability</span>
+                            </div>
+                        </div>
+                        <span class="control-pill" id="display-cust-child">Children Age 10+</span>
+                    </div>
+                    <div class="slider-wrapper">
+                        <input type="range" id="slider-cust-child" min="0" max="18" value="10" step="1" oninput="handleManageabilityChange()">
+                        <div class="slider-markers">
+                            <span>Toddler (&lt;5y)</span>
+                            <span>Kids (5-10y)</span>
+                            <span>Teens / Adults (11y+)</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 6. Real-time Live Matching Stats Card -->
+                <div class="control-card live-status-card">
+                    <div class="live-status-inner">
+                        <div class="live-status-header">
+                            <span class="live-status-dot"></span>
+                            <span class="live-status-tag">Real-Time Manageability Scoring</span>
+                        </div>
+                        <div class="live-metric-row">
+                            <div class="live-metric-stat">
+                                <span class="live-metric-val" id="stat-peak-match">98%</span>
+                                <span class="live-metric-label">Peak Match Synergy</span>
+                            </div>
+                            <div class="live-metric-sep"></div>
+                            <div class="live-metric-stat">
+                                <span class="live-metric-val" id="stat-evaluated-count">1,996</span>
+                                <span class="live-metric-label">Animals Evaluated</span>
+                            </div>
+                        </div>
+                        <div class="live-status-summary" id="live-status-summary-text">
+                            <i class="ph-fill ph-sparkle"></i> Ranked by your personal energy, grooming, space &amp; care constraints.
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Species & Lifestyle Filter Chips -->
+    <section class="filter-section" id="pets-section">
+        <div class="filter-container">
+            <div class="filter-heading-row">
+                <h3>Browse PET CONNECT Rescue Companions</h3>
+                <span class="active-count-label" id="results-count-label">Showing all companions</span>
+            </div>
+
+            <div class="filter-chips-row">
+                <button class="filter-chip active" data-filter="all" onclick="setFilter('all', this)">
+                    <span class="chip-emoji">🐾</span> All Animals
+                </button>
+                <button class="filter-chip" data-filter="dog" onclick="setFilter('dog', this)">
+                    <span class="chip-emoji">🐕</span> Dogs
+                </button>
+                <button class="filter-chip" data-filter="cat" onclick="setFilter('cat', this)">
+                    <span class="chip-emoji">🐈</span> Cats
+                </button>
+                <button class="filter-chip" data-filter="rabbit" onclick="setFilter('rabbit', this)">
+                    <span class="chip-emoji">🐇</span> Rabbits
+                </button>
+                <button class="filter-chip" data-filter="bird" onclick="setFilter('bird', this)">
+                    <span class="chip-emoji">🦜</span> Birds
+                </button>
+                <button class="filter-chip" data-filter="pocket pet" onclick="setFilter('pocket pet', this)">
+                    <span class="chip-emoji">🐹</span> Pocket Pets
+                </button>
+                <button class="filter-chip" data-filter="reptile" onclick="setFilter('reptile', this)">
+                    <span class="chip-emoji">🦎</span> Reptiles
+                </button>
+                <button class="filter-chip filter-chip-secondary" data-filter="favorites" onclick="setFilter('favorites', this)">
+                    <span class="chip-emoji">🧡</span> My Saved (<span id="saved-count">0</span>)
+                </button>
+            </div>
+        </div>
+    </section>
+
+    <!-- Companions Grid -->
+    <main class="pets-container">
+        <div class="pets-grid" id="customer-pets-grid">
+            <!-- Dynamically populated via customer.js -->
+        </div>
+
+        <!-- Empty State (hidden by default) -->
+        <div class="empty-state-box" id="empty-state" style="display: none;">
+            <div class="empty-state-icon">
+                <i class="ph ph-paw-print"></i>
+            </div>
+            <h3>No Companions Found</h3>
+            <p id="empty-state-desc">We couldn't find any animals matching your current filter. Try selecting "All Animals" or clearing your search.</p>
+            <button class="btn-primary-warm" onclick="resetFilters()">
+                <i class="ph ph-arrows-clockwise"></i> Reset Filters
+            </button>
+        </div>
+    </main>
+
+    <!-- Upfront Customer Email Onboarding Modal (Asks for Email Beforehand) -->
+    <div class="modal-overlay" id="email-onboarding-modal" onclick="handleEmailModalBackdropClick(event)">
+        <div class="modal-card email-onboarding-card">
+            <div class="modal-header">
+                <div class="modal-pet-preview-header">
+                    <div class="modal-pet-avatar-wrapper email-avatar-badge">
+                        <i class="ph-fill ph-envelope-heart"></i>
+                    </div>
+                    <div>
+                        <span class="modal-species-pill">Welcome to PET CONNECT</span>
+                        <h3 class="modal-title">Enter Your Email to Get Started</h3>
+                        <p class="modal-subtitle">We ask for your email beforehand to save your matches &amp; send instant adoption confirmations.</p>
+                    </div>
+                </div>
+                <button class="modal-close-btn" onclick="closeEmailOnboardingModal()" aria-label="Close email prompt">
+                    <i class="ph ph-x"></i>
+                </button>
+            </div>
+
+            <form onsubmit="submitPreRegistrationEmail(event)" class="adoption-form">
+                <div class="modal-notice-banner">
+                    <i class="ph-fill ph-sparkle"></i>
+                    <span>Your email is automatically pre-filled when you request a companion, and you will receive an instant <strong>PET CONNECT Confirmation Email</strong> with your Reference ID and Care Checklist.</span>
+                </div>
+
+                <div class="form-group">
+                    <label for="pre-adopter-email">Your Email Address <span class="req">*</span></label>
+                    <input type="email" id="pre-adopter-email" required placeholder="e.g. alex.morgan@example.com">
+                </div>
+
+                <div class="form-row-2">
+                    <div class="form-group">
+                        <label for="pre-adopter-name">Your Full Name</label>
+                        <input type="text" id="pre-adopter-name" placeholder="e.g. Alex Morgan">
+                    </div>
+                    <div class="form-group">
+                        <label for="pre-adopter-phone">Phone Number (Optional)</label>
+                        <input type="tel" id="pre-adopter-phone" placeholder="e.g. (555) 234-5678">
+                    </div>
+                </div>
+
+                <div id="pre-email-error-msg" class="form-error-banner" style="display: none;"></div>
+
+                <div class="modal-actions">
+                    <button type="button" class="btn-secondary-warm" onclick="closeEmailOnboardingModal()">Browse First</button>
+                    <button type="submit" class="btn-primary-warm" id="pre-email-submit-btn">
+                        <i class="ph-fill ph-envelope-simple-check"></i> Save Email &amp; Continue to PET CONNECT
+                    </button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <!-- Warm Realistic Adoption Inquiry & Confirmation Email Modal -->
+    <div class="modal-overlay" id="adoption-modal" onclick="handleModalBackdropClick(event)">
+        <div class="modal-card" id="modal-card-content">
+            <!-- Modal Header -->
+            <div class="modal-header">
+                <div class="modal-pet-preview-header">
+                    <div class="modal-pet-avatar-wrapper" id="modal-pet-avatar">
+                        <!-- Pet mini visual injected here -->
+                    </div>
+                    <div>
+                        <span class="modal-species-pill" id="modal-pet-species">Dog</span>
+                        <h3 class="modal-title">Adopt <span id="modal-pet-name">Companion</span></h3>
+                        <p class="modal-subtitle" id="modal-pet-info">Breed • Age • Microchip Reference</p>
+                    </div>
+                </div>
+                <button class="modal-close-btn" onclick="closeAdoptionModal()" aria-label="Close modal">
+                    <i class="ph ph-x"></i>
+                </button>
+            </div>
+
+            <!-- Form State -->
+            <div id="adoption-form-container">
+                <div class="modal-notice-banner">
+                    <i class="ph-fill ph-heart"></i>
+                    <span>Adoption Fee: <strong id="modal-pet-fee">$150</strong> (covers spay/neuter, vaccinations, microchip &amp; health check). An official <strong>Confirmation Email</strong> will be sent immediately upon submission.</span>
+                </div>
+
+                <form onsubmit="submitAdoptionRequest(event)" class="adoption-form">
+                    <div class="form-row-2">
+                        <div class="form-group">
+                            <label for="adopter-name">Your Full Name <span class="req">*</span></label>
+                            <input type="text" id="adopter-name" required placeholder="e.g. Jane Doe">
+                        </div>
+                        <div class="form-group">
+                            <label for="adopter-email">Confirmation Email Address <span class="req">*</span></label>
+                            <input type="email" id="adopter-email" required placeholder="e.g. jane@example.com">
+                        </div>
+                    </div>
+
+                    <div class="form-row-2">
+                        <div class="form-group">
+                            <label for="adopter-phone">Phone Number <span class="req">*</span></label>
+                            <input type="tel" id="adopter-phone" required placeholder="e.g. (555) 234-5678">
+                        </div>
+                        <div class="form-group">
+                            <label for="adopter-housing">Housing Type <span class="req">*</span></label>
+                            <select id="adopter-housing" required>
+                                <option value="house_yard">Single Family House with Fenced Yard</option>
+                                <option value="house_noyard">House without Fenced Yard</option>
+                                <option value="apartment">Apartment / Condominium</option>
+                                <option value="rural">Rural Property / Acreage</option>
+                            </select>
+                        </div>
+                    </div>
+
+                    <div class="form-row-2">
+                        <div class="form-group">
+                            <label for="adopter-other-pets">Other Pets in Home</label>
+                            <select id="adopter-other-pets">
+                                <option value="none">No other pets</option>
+                                <option value="dogs">Have Dog(s)</option>
+                                <option value="cats">Have Cat(s)</option>
+                                <option value="both">Have Dogs &amp; Cats</option>
+                                <option value="small_pets">Have Small / Exotic Pets</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label for="adopter-experience">Experience with this Species</label>
+                            <select id="adopter-experience">
+                                <option value="experienced">Experienced caregiver</option>
+                                <option value="first_time">First-time caregiver (excited to learn!)</option>
+                                <option value="lifelong">Lifelong companion caregiver</option>
+                            </select>
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="adopter-note">A Friendly Note to Our PET CONNECT Team</label>
+                        <textarea id="adopter-note" rows="3" placeholder="Tell us a little about your home environment, daily routine, and what drew you to this rescue companion..."></textarea>
+                    </div>
+
+                    <div id="adoption-submit-error" class="form-error-banner" style="display: none;"></div>
+
+                    <div class="modal-actions">
+                        <button type="button" class="btn-secondary-warm" onclick="closeAdoptionModal()">Cancel</button>
+                        <button type="submit" class="btn-primary-warm" id="submit-adoption-btn">
+                            <i class="ph-fill ph-paper-plane-tilt"></i> Send Request &amp; Get Confirmation Email
+                        </button>
+                    </div>
+                </form>
+            </div>
+
+            <!-- Confirmation Email State (shown after submission) -->
+            <div id="adoption-confirmation-container" style="display: none;" class="adoption-success-view">
+                <div class="success-icon-circle">
+                    <i class="ph-fill ph-envelope-check"></i>
+                </div>
+                <span class="confirmation-ref-pill" id="confirm-ref-badge">Reference #PC-2026</span>
+                <h3>Confirmation Email Sent!</h3>
+                <p class="success-intro">
+                    Your PET CONNECT adoption request for <strong id="confirm-pet-name">this companion</strong> has been registered and a confirmation email has been dispatched to <strong id="confirm-email-display">you</strong>.
+                </p>
+
+                <div class="success-details-card">
+                    <p>
+                        <i class="ph-fill ph-check-circle"></i>
+                        <span>Confirmation email dispatched from <strong id="confirm-email-from">PET CONNECT Adoption Team &lt;adoptions@petconnect.org&gt;</strong> with your Reference ID and preparation checklist.</span>
+                    </p>
+                    <p>
+                        <i class="ph-fill ph-calendar-check"></i>
+                        <span>A member of our PET CONNECT care team will follow up within <strong>24 to 48 hours</strong> to schedule your meet-and-greet!</span>
+                    </p>
+                </div>
+
+                <!-- Live Confirmation Email Receipt Preview -->
+                <div class="confirmation-email-preview-box">
+                    <div class="email-preview-header">
+                        <div>
+                            <div class="email-preview-meta"><strong>Subject:</strong> <span id="confirm-email-subject">PET CONNECT Confirmation</span></div>
+                            <div class="email-preview-meta"><strong>To:</strong> <span id="confirm-email-to">adopter@example.com</span> • <span class="email-delivery-tag" id="confirm-delivery-status">Sent &amp; Archived</span></div>
+                        </div>
+                        <div class="email-preview-actions">
+                            <a id="confirm-view-html-link" href="#" target="_blank" class="btn-email-action" title="Open formatted HTML confirmation email in new tab">
+                                <i class="ph ph-arrow-square-out"></i> View Email
+                            </a>
+                            <a id="confirm-gmail-compose-link" href="#" target="_blank" class="btn-email-action" title="Open directly in Gmail Web to send to your inbox">
+                                <i class="ph ph-envelope-simple"></i> Open in Gmail
+                            </a>
+                            <a id="confirm-download-html-link" href="#" class="btn-email-action" title="Download HTML confirmation email receipt">
+                                <i class="ph ph-download-simple"></i> Download
+                            </a>
+                            <button type="button" class="btn-email-action" id="btn-resend-email" onclick="resendConfirmationEmail()">
+                                <i class="ph ph-paper-plane-right"></i> Resend
+                            </button>
+                        </div>
+                    </div>
+
+                    <div class="email-checklist-box">
+                        <h5><i class="ph-fill ph-list-checks"></i> Personalized Preparation Checklist Included in Your Email:</h5>
+                        <ul id="confirm-care-checklist">
+                            <!-- Populated dynamically -->
+                        </ul>
+                    </div>
+                </div>
+
+                <button class="btn-primary-warm" onclick="closeAdoptionModal()">
+                    <i class="ph ph-paw-print"></i> Browse More PET CONNECT Companions
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Sanctuary Footer -->
+    <footer class="sanctuary-footer">
+        <div class="footer-container">
+            <div class="footer-brand">
+                <div class="brand-wrapper">
+                    <div class="brand-icon small">
+                        <i class="ph-fill ph-paw-print"></i>
+                    </div>
+                    <div>
+                        <h4>PET CONNECT Animal Sanctuary</h4>
+                        <p>Compassionate Non-Profit Companion Adoption &amp; Manageability Matching</p>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-info">
+                <p>Open for Adoptions: Tuesday – Sunday • 11:00 AM – 5:00 PM</p>
+                <p>Every companion is spayed/neutered, vaccinated, microchipped, and cherished.</p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Scripts -->
+    <script src="{{ url_for('static', filename='js/customer.js') }}"></script>
+</body>
+</html>
